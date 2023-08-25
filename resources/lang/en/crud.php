@@ -1,0 +1,166 @@
+<?php
+
+return [
+    'common' => [
+        'actions' => 'Actions',
+         'create' => 'Créer',
+         'edit' => 'Modifier',
+         'update' => 'Mettre à jour',
+         'nouveau' => 'Nouveau',
+         'annuler' => 'Annuler',
+         'attach' => 'Attacher',
+         'detach' => 'Détacher',
+         'sauvegarder' => 'Enregistrer',
+         'delete' => 'Supprimer',
+         'delete_selected' => 'Supprimer la sélection',
+         'search' => 'Rechercher...',
+         'back' => 'Retour à l\'index',
+         'are_you_sure' => 'Êtes-vous sûr ?',
+         'no_items_found' => 'Aucun élément trouvé',
+         'created' => 'Créé avec succès',
+         'saved' => 'Enregistré avec succès',
+         'removed' => 'Supprimé avec succès',
+    ],
+
+    'utilisateurs' => [
+        'name' => 'Utilisateurs',
+         'index_title' => 'Liste des utilisateurs',
+         'new_title' => 'Nouvel utilisateur',
+         'create_title' => 'Créer un utilisateur',
+         'edit_title' => 'Modifier l\'utilisateur',
+         'show_title' => 'Afficher l\'utilisateur',
+         'inputs' => [
+             'name' => 'Nom',
+             'email' => 'E-mail',
+             'password' => 'Mot de passe',
+             'is_admin' => 'Administrateur',
+         ],
+    ],
+
+    'challengers_pro' => [
+        'name' => 'Challengers Pro',
+        'index_title' => 'Liste des challengers pros',
+        'new_title' => 'Nouveau Challenger pro',
+        'create_title' => 'Créer Challengerpro',
+        'edit_title' => 'Modifier Challengerpro',
+        'show_title' => 'Afficher Challenger pro',
+        'inputs' => [
+            'nomentr' => 'Nom de l\'entreprise',
+            'telephone' => 'Téléphone',
+            'creation' => 'Date de création',
+            'nompredirig' => 'Nom prenom du dirigeant',
+            'typeprog' => 'Type du programme',
+            'objectif' => 'Objectif',
+            'messagacquis' => 'Acquisition',
+            'rdventre' => 'Rdventre',
+        ],
+    ],
+
+    'contacts' => [
+        'name' => 'Contacts',
+        'index_title' => 'Liste de contacts',
+        'new_title' => 'Nouveau contact',
+        'create_title' => 'Créer un contact',
+        'edit_title' => 'Modifier le contact',
+        'show_title' => 'Afficher les contacts',
+        'inputs' => [
+            'nom_prenom' => 'Nom et prénom',
+            'email' => 'E-mail',
+            'objet' => 'Objet',
+            'telephone' => 'Téléphone',
+            'message' => 'message',
+        ],
+    ],
+
+    'parrain_es' => [
+        'name' => 'Parrainées',
+        'index_title' => 'Parraines List',
+        'new_title' => 'New Parraine',
+        'create_title' => 'Create Parraine',
+        'edit_title' => 'Edit Parraine',
+        'show_title' => 'Show Parraine',
+        'inputs' => [
+            'nomprep' => 'Nom et prénom du parrain',
+            'eamilp' => 'Email',
+            'telephonp' => 'Telephone du parrain',
+            'nomprepp' => 'Nom et prénom du parrainé',
+            'emailpp' => 'Email',
+            'telephonpp' => 'Telephone du parrainé',
+        ],
+    ],
+
+    'acqu_reurs' => [
+        'name' => 'Acquéreurs',
+        'index_title' => 'Acquereurs List',
+        'new_title' => 'New Acquereur',
+        'create_title' => 'Create Acquereur',
+        'edit_title' => 'Edit Acquereur',
+        'show_title' => 'Show Acquereur',
+        'inputs' => [
+            'nompre' => 'Nom et prénom',
+            'telephone' => 'Telephone',
+            'email' => 'Email',
+            'typlog' => 'Type du logement',
+            'emplacement' => 'Emplacement',
+            'nbrpiece' => 'Nombre de pièce',
+            'budget' => 'Budget',
+            'apporinit' => 'Apport initial',
+            'engagannee' => 'Engagement annuelle',
+            'peopletype' => 'Type de personne',
+            'nbrannee' => 'Nombre année',
+            'result1' => 'Result1',
+            'result2' => 'Result2',
+            'result3' => 'Result3',
+        ],
+    ],
+    
+    'project_constucts' => [
+        'name' => 'Projet enrégistré',
+        'index_title' => 'Liste des projets',
+        'new_title' => 'Nouveau',
+        'create_title' => 'Crée un projet',
+        'edit_title' => 'Edité un projet',
+        'show_title' => 'Affiché un projet',
+        'inputs' => [
+            'libel' => 'Libellé',
+            'date_fin' => 'Date de fin',
+            'descript' => 'Description',
+        ],
+    ],
+
+    'posters' => [
+        'name' => 'Gallerie',
+        'index_title' => 'Liste d image',
+        'new_title' => 'Nouveau',
+        'create_title' => 'Crée',
+        'edit_title' => 'Edité',
+        'show_title' => 'Affiché',
+        'inputs' => [
+            'libel' => 'Libellé',
+            'photo' => 'Image',
+            'project_constuct_id' => 'Projet enrégistré',
+        ],
+    ],
+
+    'roles' => [
+        'name' => 'Roles',
+        'index_title' => 'Roles List',
+        'create_title' => 'Create Role',
+        'edit_title' => 'Edit Role',
+        'show_title' => 'Show Role',
+        'inputs' => [
+            'name' => 'Name',
+        ],
+    ],
+
+    'permissions' => [
+        'name' => 'Permissions',
+        'index_title' => 'Permissions List',
+        'create_title' => 'Create Permission',
+        'edit_title' => 'Edit Permission',
+        'show_title' => 'Show Permission',
+        'inputs' => [
+            'name' => 'Name',
+        ],
+    ],
+];
