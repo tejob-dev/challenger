@@ -2276,10 +2276,13 @@
                                 <a href="/" class="menu-link main-menu-link">Accueil</a>
                             </li>
                             <li id="mobile-nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
-                                <a href="/service.html" class="menu-link main-menu-link">Solutions Acquereurs</a>
+                                <a href="/inscription.html" class="menu-link main-menu-link">Inscription</a>
                             </li>
                             <li id="mobile-nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
                                 <a href="/about.html" class="menu-link main-menu-link">Challenge Pro</a>
+                            </li>
+                            <li id="mobile-nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
+                                <a href="/bon-plan" class="menu-link main-menu-link">Bon Plans</a>
                             </li>
                             <li id="mobile-nav-menu-item-3972" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom current-page-ancestor current-menu-ancestor menu-item-has-children custom-3972">
                                 <a href="/parrain.html" class="menu-link main-menu-link">Parrainage</a>
@@ -2296,10 +2299,13 @@
                                     <a href="/" class="menu-link main-menu-link">Accueil</a>
                                 </li>
                                 <li id="nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
-                                    <a href="/service.html" class="menu-link main-menu-link">Solutions Acquereurs</a>
+                                    <a href="/inscription.html" class="menu-link main-menu-link">Inscription</a>
                                 </li>
                                 <li id="nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
                                     <a href="/about.html" class="menu-link main-menu-link">Challenge Pro</a>
+                                </li>
+                                <li id="nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
+                                    <a href="/bon-plan" class="menu-link main-menu-link">Bon Plans</a>
                                 </li>
                                 <li id="nav-menu-item-3972" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom current-page-ancestor current-menu-ancestor menu-item-has-children custom-3972">
                                     <a href="/parrain.html" class="menu-link main-menu-link">Parrainage</a>

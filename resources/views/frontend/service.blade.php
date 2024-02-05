@@ -4,46 +4,24 @@
 <head>
     <meta charset="UTF-8" />
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1" name="viewport">
-    <title>Solutions Acquereurs</title>
+    <title>Challenge-toit, une propriété sûr et garantie</title>
     <meta name='robots' content='max-image-preview:large' />
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-    <link rel="alternate" type="application/rss+xml" title="CHALLENGE-TOIT Feed"
-        href="https://preview.treethemes.com/nyssa/demo1/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="CHALLENGE-TOIT Comments Feed"
-        href="https://preview.treethemes.com/nyssa/demo1/comments/feed/" />
-    <link rel='stylesheet' id='lizr-vc-style-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/lizr/assets/css/admin/vc-style.css?ver=3.0.0'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='nrel=yssa-blog-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/blog.css?ver=6.1.1' type='text/css'
-        media='all' />
-    <link rel='stylesheet' id='nyssa-foundations-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/nyssa-foundations.css?ver=6.1.1'
-        type='text/css' media='all' />
+    <link rel="alternate" type="application/rss+xml" title="CHALLENGE-TOIT Feed" href="https://preview.treethemes.com/nyssa/demo1/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="CHALLENGE-TOIT Comments Feed" href="https://preview.treethemes.com/nyssa/demo1/comments/feed/" />
+    <link rel='stylesheet' id='lizr-vc-style-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/lizr/assets/css/admin/vc-style.css?ver=3.0.0' type='text/css' media='all' />
+    <link rel='stylesheet' id='nrel=yssa-blog-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/blog.css?ver=6.1.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='nyssa-foundations-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/nyssa-foundations.css?ver=6.1.1' type='text/css' media='all' />
     <link rel='stylesheet' id='nyssa-icons-font-css' href='/css/icons-font.css?ver=6.1.1' type='text/css' media='all' />
     <link rel='stylesheet' id='fontawesome4-css' href='/css/fontawesome4.css?ver=6.1.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='nyssa-component-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/component.css?ver=6.1.1'
-        type='text/css' media='all' />
+    <link rel='stylesheet' id='nyssa-component-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/component.css?ver=6.1.1' type='text/css' media='all' />
     <!--<link rel='stylesheet' id='nyssa-selectwoo-css' href='/css/selectWoo.min.css?ver=6.1.1' type='text/css' media='all' />-->
-    <link rel='stylesheet' id='nyssa-shortcodes-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/functions/css/shortcodes.css?ver=6.1.1'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='nyssa-woo-layout-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/nyssa-woo-layout.css?ver=6.1.1'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='nyssa-woocommerce-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/nyssa-woocommerce.css?ver=6.1.1'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='nyssa-mb-ytplayer-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/mb.YTPlayer.css?ver=6.1.1'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='nyssa-retina-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/retina.css?ver=6.1.1'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='nyssa-style-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/style.css?ver=1.1.1' type='text/css'
-        media='all' />
+    <link rel='stylesheet' id='nyssa-shortcodes-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/functions/css/shortcodes.css?ver=6.1.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='nyssa-woo-layout-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/nyssa-woo-layout.css?ver=6.1.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='nyssa-woocommerce-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/nyssa-woocommerce.css?ver=6.1.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='nyssa-mb-ytplayer-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/mb.YTPlayer.css?ver=6.1.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='nyssa-retina-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/retina.css?ver=6.1.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='nyssa-style-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/style.css?ver=1.1.1' type='text/css' media='all' />
     <link rel='stylesheet' href='/styleb.css' type='text/css' />
     <link rel='stylesheet' href='/checkcss.css' type='text/css' />
     <link rel='stylesheet' href='/modalcss.css' type='text/css' />
@@ -63,131 +41,131 @@
     <link href="https://cdn.jsdelivr.net/gh/StephanWagner/jBox@v1.3.2/dist/jBox.all.min.css" rel="stylesheet">
 
     <style id='nyssa-style-inline-css' type='text/css'>
+        #section-1494>div>section>div:nth-child(5)>div.upb_row_bg.vcpb-default {
+            cursor: pointer;
+        }
 
-        #section-1494 > div > section > div:nth-child(5) > div.upb_row_bg.vcpb-default{
-            cursor:pointer;
-        }
-        
-        @media (max-width:1024px){
-            #creatCont > div.upb_row_bg.vcpb-default{
-                background-image: url("/img/import/CS-Bande.png")!important;
-            }
-        }
-        
-        @media (max-width:600px){
-            #creatCont > div.upb_row_bg.vcpb-default{
-                background-image: url("/img/import/CS-Bande.png")!important;
-            }
-            
-            #creatCont > div.box-paddingr.wpb_animate_when_almost_visible.wpb_fadeIn.fadeIn.wpb_column.vc_column_container.vc_col-sm-12.wpb_start_animation.animated
-        }
-        
-        @media (max-width:470px){
-            #creatCont > div.upb_row_bg.vcpb-default{
-                background-image: url("/img/import/CS-Bande.png")!important;
+        @media (max-width:1024px) {
+            #creatCont>div.upb_row_bg.vcpb-default {
+                background-image: url("/img/import/CS-Bande.png") !important;
             }
         }
 
-        .wpcf7 input[type=number], select.wpcf7{
-                -webkit-text-size-adjust: 100%;
-                -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-                --wp--preset--font-size--normal: 16px;
-                --wp--preset--font-size--huge: 42px;
-                -webkit-font-smoothing: antialiased;
-                --wp--preset--color--black: #000000;
-                --wp--preset--color--cyan-bluish-gray: #abb8c3;
-                --wp--preset--color--white: #ffffff;
-                --wp--preset--color--pale-pink: #f78da7;
-                --wp--preset--color--vivid-red: #cf2e2e;
-                --wp--preset--color--luminous-vivid-orange: #ff6900;
-                --wp--preset--color--luminous-vivid-amber: #fcb900;
-                --wp--preset--color--light-green-cyan: #7bdcb5;
-                --wp--preset--color--vivid-green-cyan: #00d084;
-                --wp--preset--color--pale-cyan-blue: #8ed1fc;
-                --wp--preset--color--vivid-cyan-blue: #0693e3;
-                --wp--preset--color--vivid-purple: #9b51e0;
-                --wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);
-                --wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);
-                --wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);
-                --wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);
-                --wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);
-                --wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);
-                --wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);
-                --wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);
-                --wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);
-                --wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);
-                --wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);
-                --wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);
-                --wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');
-                --wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');
-                --wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');
-                --wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');
-                --wp--preset--duotone--midnight: url('#wp-duotone-midnight');
-                --wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');
-                --wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');
-                --wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');
-                --wp--preset--font-size--small: 13px;
-                --wp--preset--font-size--medium: 20px;
-                --wp--preset--font-size--large: 36px;
-                --wp--preset--font-size--x-large: 42px;
-                --wp--preset--spacing--20: 0.44rem;
-                --wp--preset--spacing--30: 0.67rem;
-                --wp--preset--spacing--40: 1rem;
-                --wp--preset--spacing--50: 1.5rem;
-                --wp--preset--spacing--60: 2.25rem;
-                --wp--preset--spacing--70: 3.38rem;
-                --wp--preset--spacing--80: 5.06rem;
-                visibility: visible;
-                font: inherit;
-                color: inherit;
-                font-family: inherit;
-                line-height: inherit;
-                border-radius: 0;
-                box-sizing: border-box;
-                font-size: 15px !important;
-                font-weight: 500;
-                position: relative;
-                float: left;
-                width: 100%;
-                padding: 15px;
-                outline: none;
-                background: #fff;
+        @media (max-width:600px) {
+            #creatCont>div.upb_row_bg.vcpb-default {
+                background-image: url("/img/import/CS-Bande.png") !important;
+            }
+
+            #creatCont>div.box-paddingr.wpb_animate_when_almost_visible.wpb_fadeIn.fadeIn.wpb_column.vc_column_container.vc_col-sm-12.wpb_start_animation.animated
+        }
+
+        @media (max-width:470px) {
+            #creatCont>div.upb_row_bg.vcpb-default {
+                background-image: url("/img/import/CS-Bande.png") !important;
+            }
+        }
+
+        .wpcf7 input[type=number],
+        select.wpcf7 {
+            -webkit-text-size-adjust: 100%;
+            -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+            --wp--preset--font-size--normal: 16px;
+            --wp--preset--font-size--huge: 42px;
+            -webkit-font-smoothing: antialiased;
+            --wp--preset--color--black: #000000;
+            --wp--preset--color--cyan-bluish-gray: #abb8c3;
+            --wp--preset--color--white: #ffffff;
+            --wp--preset--color--pale-pink: #f78da7;
+            --wp--preset--color--vivid-red: #cf2e2e;
+            --wp--preset--color--luminous-vivid-orange: #ff6900;
+            --wp--preset--color--luminous-vivid-amber: #fcb900;
+            --wp--preset--color--light-green-cyan: #7bdcb5;
+            --wp--preset--color--vivid-green-cyan: #00d084;
+            --wp--preset--color--pale-cyan-blue: #8ed1fc;
+            --wp--preset--color--vivid-cyan-blue: #0693e3;
+            --wp--preset--color--vivid-purple: #9b51e0;
+            --wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg, rgba(6, 147, 227, 1) 0%, rgb(155, 81, 224) 100%);
+            --wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg, rgb(122, 220, 180) 0%, rgb(0, 208, 130) 100%);
+            --wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg, rgba(252, 185, 0, 1) 0%, rgba(255, 105, 0, 1) 100%);
+            --wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg, rgba(255, 105, 0, 1) 0%, rgb(207, 46, 46) 100%);
+            --wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg, rgb(238, 238, 238) 0%, rgb(169, 184, 195) 100%);
+            --wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg, rgb(74, 234, 220) 0%, rgb(151, 120, 209) 20%, rgb(207, 42, 186) 40%, rgb(238, 44, 130) 60%, rgb(251, 105, 98) 80%, rgb(254, 248, 76) 100%);
+            --wp--preset--gradient--blush-light-purple: linear-gradient(135deg, rgb(255, 206, 236) 0%, rgb(152, 150, 240) 100%);
+            --wp--preset--gradient--blush-bordeaux: linear-gradient(135deg, rgb(254, 205, 165) 0%, rgb(254, 45, 45) 50%, rgb(107, 0, 62) 100%);
+            --wp--preset--gradient--luminous-dusk: linear-gradient(135deg, rgb(255, 203, 112) 0%, rgb(199, 81, 192) 50%, rgb(65, 88, 208) 100%);
+            --wp--preset--gradient--pale-ocean: linear-gradient(135deg, rgb(255, 245, 203) 0%, rgb(182, 227, 212) 50%, rgb(51, 167, 181) 100%);
+            --wp--preset--gradient--electric-grass: linear-gradient(135deg, rgb(202, 248, 128) 0%, rgb(113, 206, 126) 100%);
+            --wp--preset--gradient--midnight: linear-gradient(135deg, rgb(2, 3, 129) 0%, rgb(40, 116, 252) 100%);
+            --wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');
+            --wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');
+            --wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');
+            --wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');
+            --wp--preset--duotone--midnight: url('#wp-duotone-midnight');
+            --wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');
+            --wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');
+            --wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');
+            --wp--preset--font-size--small: 13px;
+            --wp--preset--font-size--medium: 20px;
+            --wp--preset--font-size--large: 36px;
+            --wp--preset--font-size--x-large: 42px;
+            --wp--preset--spacing--20: 0.44rem;
+            --wp--preset--spacing--30: 0.67rem;
+            --wp--preset--spacing--40: 1rem;
+            --wp--preset--spacing--50: 1.5rem;
+            --wp--preset--spacing--60: 2.25rem;
+            --wp--preset--spacing--70: 3.38rem;
+            --wp--preset--spacing--80: 5.06rem;
+            visibility: visible;
+            font: inherit;
+            color: inherit;
+            font-family: inherit;
+            line-height: inherit;
+            border-radius: 0;
+            box-sizing: border-box;
+            font-size: 15px !important;
+            font-weight: 500;
+            position: relative;
+            float: left;
+            width: 100%;
+            padding: 15px;
+            outline: none;
+            background: #fff;
+            margin: 0 !important;
+            max-width: 100%;
+            border: 1px solid #d6d5d9 !important;
+        }
+
+
+
+        @media (max-width:1024px) {
+            #content-simulate>div>div>div.vc_row.wpb_row.vc_inner.vc_row-fluid>div:nth-child(1)>div>div>div.ult-content-box-container>div * {
+                font-size: medium !important;
+            }
+
+            #content-simulate>div>div>div.vc_row.wpb_row.vc_inner.vc_row-fluid>div:nth-child(1)>div>div>div.ult-content-box-container>div {
                 margin: 0 !important;
-                max-width: 100%;
-                border: 1px solid #d6d5d9 !important;
-        }
-        
-        
-        
-        @media (max-width:1024px){
-            #content-simulate > div > div > div.vc_row.wpb_row.vc_inner.vc_row-fluid > div:nth-child(1) > div > div > div.ult-content-box-container > div * {
-                font-size: medium!important;
             }
-            
-            #content-simulate > div > div > div.vc_row.wpb_row.vc_inner.vc_row-fluid > div:nth-child(1) > div > div > div.ult-content-box-container > div {
-                margin: 0!important;
+
+            #content-simulate>div>div>div.vc_row.wpb_row.vc_inner.vc_row-fluid>div:nth-child(1)>div {
+                padding: 0 !important;
             }
-            
-            #content-simulate > div > div > div.vc_row.wpb_row.vc_inner.vc_row-fluid > div:nth-child(1) > div {
-                padding: 0!important;
-            }
-            
-            #content-simulate > div > div > div.vc_row.wpb_row.vc_inner.vc_row-fluid > div:nth-child(2) > div * {
-                font-size: medium!important;
+
+            #content-simulate>div>div>div.vc_row.wpb_row.vc_inner.vc_row-fluid>div:nth-child(2)>div * {
+                font-size: medium !important;
             }
         }
-        
-        @media (max-width:540px){
-            #section-1494 > div > section > div.vc_row.wpb_row.vc_row-fluid.wpb_animate_when_almost_visible.wpb_fadeIn.fadeIn.vc_custom_1671642353737.ult-vc-hide-row.vc_row-has-fill.wpb_start_animation.animated > div.wpb_column.vc_column_container.vc_col-sm-8 > div > div > div > div > p {
+
+        @media (max-width:540px) {
+            #section-1494>div>section>div.vc_row.wpb_row.vc_row-fluid.wpb_animate_when_almost_visible.wpb_fadeIn.fadeIn.vc_custom_1671642353737.ult-vc-hide-row.vc_row-has-fill.wpb_start_animation.animated>div.wpb_column.vc_column_container.vc_col-sm-8>div>div>div>div>p {
                 /* margin-top: 21px!important; */
-                margin-bottom: 76px!important;
+                margin-bottom: 76px !important;
             }
         }
-        
-        #wpcf7-f831-o1 > div.nyssa-form-simple-wide > div.f-service > p:nth-child(2) > span > span{
-            display:none;
+
+        #wpcf7-f831-o1>div.nyssa-form-simple-wide>div.f-service>p:nth-child(2)>span>span {
+            display: none;
         }
-    
+
         .widget li a:after,
         .widget_nav_menu li a:after,
         .custom-widget.widget_recent_entries li a:after {
@@ -2551,23 +2529,15 @@
             background-color: rgba(255, 255, 255, 1) !important;
         }
     </style>
-    <link rel='stylesheet' id='wp-block-library-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1'
-        type='text/css' media='all' />
+    <link rel='stylesheet' id='wp-block-library-css' href='https://preview.treethemes.com/nyssa/demo1/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all' />
     <style id='lizr-gutenberg-style-inline-css' type='text/css'>
         .wp-block-lizr-gutenberg {
             color: #010101
         }
     </style>
-    <link rel='stylesheet' id='wc-blocks-vendors-style-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=9.1.5'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='wc-blocks-style-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=9.1.5'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='classic-theme-styles-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-includes/css/classic-themes.min.css?ver=1' type='text/css'
-        media='all' />
+    <link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=9.1.5' type='text/css' media='all' />
+    <link rel='stylesheet' id='wc-blocks-style-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=9.1.5' type='text/css' media='all' />
+    <link rel='stylesheet' id='classic-theme-styles-css' href='https://preview.treethemes.com/nyssa/demo1/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
     <style id='global-styles-inline-css' type='text/css'>
         body {
             --wp--preset--color--black: #000000;
@@ -2901,48 +2871,26 @@
             line-height: 1.6;
         }
     </style>
-    <link rel='stylesheet' id='contact-form-7-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.4'
-        type='text/css' media='all' />
+    <link rel='stylesheet' id='contact-form-7-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.4' type='text/css' media='all' />
     <style id='woocommerce-inline-inline-css' type='text/css'>
         .woocommerce form .form-row .required {
             visibility: visible;
         }
     </style>
-    <link rel='stylesheet' id='cubeportfolio-jquery-css-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/cubeportfolio/public/css/main.min-1.13.2.css?ver=5.1'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='js_composer_front-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.10.0'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='ultimate-vc-addons-style-min-css' href='/css//ultimate.min.css?ver=3.19.13'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='bsf-Defaults-css'
-        href='https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/smile_fonts/Defaults/Defaults.css?ver=3.19.13'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='bsf-linearicons-css' href='/css/linearicons.css?ver=3.19.13' type='text/css'
-        media='all' />
-    <link rel='stylesheet' id='ultimate-vc-addons-google-fonts-css'
-        href='https://fonts.googleapis.com/css?family=Inter:regular,600,700' type='text/css' media='all' />
-    <link rel='stylesheet' id='ultimate-vc-addons-style-css' href='/css//style.min.css?ver=3.19.13' type='text/css'
-        media='all' />
-    <link rel='stylesheet' id='ultimate-vc-addons-headings-style-css' href='/css/headings.min.css?ver=3.19.13'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='ultimate-vc-addons_content_box_css-css' href='/css/content-box.min.css?ver=3.19.13'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='ultimate-vc-addons-animate-css' href='/css//animate.min.css?ver=3.19.13' type='text/css'
-        media='all' />
-    <link rel='stylesheet' id='ultimate-vc-addons-info-circle-css' href='/css//info-circle.min.css?ver=3.19.13'
-        type='text/css' media='all' />
-    <script type='text/javascript'
-        src='https://preview.treethemes.com/nyssa/demo1/wp-includes/js/jquery/jquery.min.js?ver=3.6.1'
-        id='jquery-core-js'></script>
-    <script type='text/javascript'
-        src='https://preview.treethemes.com/nyssa/demo1/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2'
-        id='jquery-migrate-js'></script>
-    <script type='text/javascript'
-        src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.3.0'
-        id='jquery-blockui-js'></script>
+    <link rel='stylesheet' id='cubeportfolio-jquery-css-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/cubeportfolio/public/css/main.min-1.13.2.css?ver=5.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='js_composer_front-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.10.0' type='text/css' media='all' />
+    <link rel='stylesheet' id='ultimate-vc-addons-style-min-css' href='/css/ultimate.min.css?ver=3.19.13' type='text/css' media='all' />
+    <link rel='stylesheet' id='bsf-Defaults-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/smile_fonts/Defaults/Defaults.css?ver=3.19.13' type='text/css' media='all' />
+    <link rel='stylesheet' id='bsf-linearicons-css' href='/css/linearicons.css?ver=3.19.13' type='text/css' media='all' />
+    <link rel='stylesheet' id='ultimate-vc-addons-google-fonts-css' href='https://fonts.googleapis.com/css?family=Inter:regular,600,700' type='text/css' media='all' />
+    <link rel='stylesheet' id='ultimate-vc-addons-style-css' href='/css//style.min.css?ver=3.19.13' type='text/css' media='all' />
+    <link rel='stylesheet' id='ultimate-vc-addons-headings-style-css' href='/css/headings.min.css?ver=3.19.13' type='text/css' media='all' />
+    <link rel='stylesheet' id='ultimate-vc-addons_content_box_css-css' href='/css/content-box.min.css?ver=3.19.13' type='text/css' media='all' />
+    <link rel='stylesheet' id='ultimate-vc-addons-animate-css' href='/css//animate.min.css?ver=3.19.13' type='text/css' media='all' />
+    <link rel='stylesheet' id='ultimate-vc-addons-info-circle-css' href='/css//info-circle.min.css?ver=3.19.13' type='text/css' media='all' />
+    <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+    <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+    <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.3.0' id='jquery-blockui-js'></script>
     <script type='text/javascript' id='wc-add-to-cart-js-extra'>
         /* <![CDATA[ */
         var wc_add_to_cart_params = {
@@ -2955,38 +2903,23 @@
         };
         /* ]]> */
     </script>
-    <script type='text/javascript'
-        src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.3.0'
-        id='wc-add-to-cart-js'></script>
-    <script type='text/javascript'
-        src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.10.0'
-        id='vc_woocommerce-add-to-cart-js-js'></script>
-    <script type='text/javascript'
-        src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate-params.min.js?ver=3.19.13'
-        id='ultimate-vc-addons-params-js'></script>
-    <script type='text/javascript'
-        src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/custom.min.js?ver=3.19.13'
-        id='ultimate-vc-addons-custom-js'></script>
-    <script type='text/javascript'
-        src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/jquery-appear.min.js?ver=3.19.13'
-        id='ultimate-vc-addons-appear-js'></script>
+    <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.3.0' id='wc-add-to-cart-js'></script>
+    <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.10.0' id='vc_woocommerce-add-to-cart-js-js'></script>
+    <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate-params.min.js?ver=3.19.13' id='ultimate-vc-addons-params-js'></script>
+    <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/custom.min.js?ver=3.19.13' id='ultimate-vc-addons-custom-js'></script>
+    <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/jquery-appear.min.js?ver=3.19.13' id='ultimate-vc-addons-appear-js'></script>
     <link rel="https://api.w.org/" href="https://preview.treethemes.com/nyssa/demo1/wp-json/" />
-    <link rel="alternate" type="application/json"
-        href="https://preview.treethemes.com/nyssa/demo1/wp-json/wp/v2/pages/1494" />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD"
-        href="https://preview.treethemes.com/nyssa/demo1/xmlrpc.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml"
-        href="https://preview.treethemes.com/nyssa/demo1/wp-includes/wlwmanifest.xml" />
+    <link rel="alternate" type="application/json" href="https://preview.treethemes.com/nyssa/demo1/wp-json/wp/v2/pages/1494" />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://preview.treethemes.com/nyssa/demo1/xmlrpc.php?rsd" />
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://preview.treethemes.com/nyssa/demo1/wp-includes/wlwmanifest.xml" />
     <meta name="generator" content="WordPress 6.1.1" />
     <meta name="generator" content="WooCommerce 7.3.0" />
     <link rel="canonical" href="https://preview.treethemes.com/nyssa/demo1/pages/services-version-3/" />
     <link rel='shortlink' href='https://preview.treethemes.com/nyssa/demo1/?p=1494' />
-    <link rel="alternate" type="application/json+oembed"
-        href="https://preview.treethemes.com/nyssa/demo1/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpreview.treethemes.com%2Fnyssa%2Fdemo1%2Fpages%2Fservices-version-3%2F" />
-    <link rel="alternate" type="text/xml+oembed"
-        href="https://preview.treethemes.com/nyssa/demo1/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpreview.treethemes.com%2Fnyssa%2Fdemo1%2Fpages%2Fservices-version-3%2F&#038;format=xml" />
+    <link rel="alternate" type="application/json+oembed" href="https://preview.treethemes.com/nyssa/demo1/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpreview.treethemes.com%2Fnyssa%2Fdemo1%2Fpages%2Fservices-version-3%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="https://preview.treethemes.com/nyssa/demo1/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpreview.treethemes.com%2Fnyssa%2Fdemo1%2Fpages%2Fservices-version-3%2F&#038;format=xml" />
     <script type='text/javascript'>
-        jQuery(document).ready(function ($) {
+        jQuery(document).ready(function($) {
             var ult_smooth_speed = 480;
             var ult_smooth_step = 80;
             $('html').attr('data-ult_smooth_speed', ult_smooth_speed).attr('data-ult_smooth_step', ult_smooth_step);
@@ -3008,14 +2941,10 @@
     <link rel="icon" href="/img/import/Favicon200.png" sizes="192x192" />
     <link rel="apple-touch-icon" href="/img/import/Favicon200.png" />
     <meta name="msapplication-TileImage" content="/img/import/Favicon200.png" />
-    <link rel="icon" href="/img/import/Favicon200.png"
-    sizes="32x32" />
-    <link rel="icon" href="/img/import/Favicon200.png"
-      sizes="192x192" />
-    <link rel="apple-touch-icon"
-      href="/wp-content/uploads/2022/01/cropped-Favicon-180x180.png" />
-    <meta name="msapplication-TileImage"
-      content="/wp-content/uploads/2022/01/cropped-Favicon-270x270.png" />
+    <link rel="icon" href="/img/import/Favicon200.png" sizes="32x32" />
+    <link rel="icon" href="/img/import/Favicon200.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="/wp-content/uploads/2022/01/cropped-Favicon-180x180.png" />
+    <meta name="msapplication-TileImage" content="/wp-content/uploads/2022/01/cropped-Favicon-270x270.png" />
     <script>
         function setREVStartSize(e) {
             //window.requestAnimationFrame(function() {
@@ -3136,19 +3065,28 @@
 
     <style>
         * :not(.fab, .fa, .aio-icon i) {
-            font-family: "Marcellus"!important;
+            font-family: "Marcellus" !important;
         }
-        
-        div.content.\32 .current{
+
+        div.content.\32 .current {
             z-index: 10000;
         }
-        
-        #treethemes-recent-posts-shortcode-2 *{
-            font-family: "Marcellus"!important;
+
+        #treethemes-recent-posts-shortcode-2 * {
+            font-family: "Marcellus" !important;
         }
-        
-        #section-1494 > div > section > div.vc_row.wpb_row.vc_row-fluid.wide-ipad.vc_row-no-padding.vc_row-o-equal-height.vc_row-o-content-middle.vc_row-flex.ult-vc-hide-row.vc_row-has-fill > div:nth-child(2) > div > div > div > div > div > div > div > div > div.vc_empty_space {
-            height: 6px!important;
+
+        #section-1494>div>section>div.vc_row.wpb_row.vc_row-fluid.wide-ipad.vc_row-no-padding.vc_row-o-equal-height.vc_row-o-content-middle.vc_row-flex.ult-vc-hide-row.vc_row-has-fill>div:nth-child(2)>div>div>div>div>div>div>div>div>div.vc_empty_space {
+            height: 6px !important;
+        }
+
+        #form-register-modal > div.nyssa-multiple-fields span.select2.select2-container{
+            display: none!important;
+        }
+
+        #form-register-modal > div.nyssa-multiple-fields select, #form-register-modal2 > div.nyssa-multiple-fields select{
+            height: 56px;
+            margin-top: 0;
         }
     </style>
     <noscript>
@@ -3160,14 +3098,11 @@
     </noscript>
 </head>
 
-<body
-    class="page-template page-template-page page-template-page-php page page-id-1494 page-child parent-pageid-24 theme-nyssa woocommerce-no-js wpb-js-composer js-comp-ver-6.10.0 vc_responsive">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
-        style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+<body class="page-template page-template-page page-template-page-php page page-id-1494 page-child parent-pageid-24 theme-nyssa woocommerce-no-js wpb-js-composer js-comp-ver-6.10.0 vc_responsive">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
         <defs>
             <filter id="wp-duotone-dark-grayscale">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
                 <feComponentTransfer color-interpolation-filters="sRGB">
                     <feFuncR type="table" tableValues="0 0.49803921568627" />
                     <feFuncG type="table" tableValues="0 0.49803921568627" />
@@ -3178,12 +3113,10 @@
             </filter>
         </defs>
     </svg>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
-        style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
         <defs>
             <filter id="wp-duotone-grayscale">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
                 <feComponentTransfer color-interpolation-filters="sRGB">
                     <feFuncR type="table" tableValues="0 1" />
                     <feFuncG type="table" tableValues="0 1" />
@@ -3194,12 +3127,10 @@
             </filter>
         </defs>
     </svg>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
-        style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
         <defs>
             <filter id="wp-duotone-purple-yellow">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
                 <feComponentTransfer color-interpolation-filters="sRGB">
                     <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
                     <feFuncG type="table" tableValues="0 1" />
@@ -3210,12 +3141,10 @@
             </filter>
         </defs>
     </svg>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
-        style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
         <defs>
             <filter id="wp-duotone-blue-red">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
                 <feComponentTransfer color-interpolation-filters="sRGB">
                     <feFuncR type="table" tableValues="0 1" />
                     <feFuncG type="table" tableValues="0 0.27843137254902" />
@@ -3226,12 +3155,10 @@
             </filter>
         </defs>
     </svg>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
-        style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
         <defs>
             <filter id="wp-duotone-midnight">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
                 <feComponentTransfer color-interpolation-filters="sRGB">
                     <feFuncR type="table" tableValues="0 0" />
                     <feFuncG type="table" tableValues="0 0.64705882352941" />
@@ -3242,12 +3169,10 @@
             </filter>
         </defs>
     </svg>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
-        style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
         <defs>
             <filter id="wp-duotone-magenta-yellow">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
                 <feComponentTransfer color-interpolation-filters="sRGB">
                     <feFuncR type="table" tableValues="0.78039215686275 1" />
                     <feFuncG type="table" tableValues="0 0.94901960784314" />
@@ -3258,12 +3183,10 @@
             </filter>
         </defs>
     </svg>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
-        style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
         <defs>
             <filter id="wp-duotone-purple-green">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
                 <feComponentTransfer color-interpolation-filters="sRGB">
                     <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
                     <feFuncG type="table" tableValues="0 1" />
@@ -3274,12 +3197,10 @@
             </filter>
         </defs>
     </svg>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
-        style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
         <defs>
             <filter id="wp-duotone-blue-orange">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
-                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
                 <feComponentTransfer color-interpolation-filters="sRGB">
                     <feFuncR type="table" tableValues="0.098039215686275 1" />
                     <feFuncG type="table" tableValues="0 0.66274509803922" />
@@ -3303,9 +3224,7 @@
         <div class="display-table">
             <div id="nyssa-push-sidebar-content" class="nyssa-push-sidebar-content ajaxable">
                 <div class="sidebar-box widget_media_image" id="media_image-2">
-                    <img width="300" height="115" src="/img/import/Footer.png"
-                        class="image wp-image-448  attachment-medium size-medium" alt="" decoding="async" loading="lazy"
-                        style="max-width: 100%; height: auto;" />
+                    <img width="300" height="115" src="/img/import/Footer.png" class="image wp-image-448  attachment-medium size-medium" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" />
                 </div>
                 <div class="sidebar-box widget_text" id="text-2">
                     <div class="textwidget">
@@ -3356,9 +3275,7 @@
     </div>
     <input type="hidden" id="nyssa-theme-search" name="nyssa-theme-search" value="735a4f0954" />
     <input type="hidden" name="_wp_http_referer" value="/nyssa/demo1/pages/services-version-3/" />
-    <form autocomplete="off" role="search" method="get"
-        class="search_input nyssa_search_input not-ready slide_top style5 full-width-header with-underline with-animations"
-        action="https://preview.treethemes.com/nyssa/demo1/">
+    <form autocomplete="off" role="search" method="get" class="search_input nyssa_search_input not-ready slide_top style5 full-width-header with-underline with-animations" action="https://preview.treethemes.com/nyssa/demo1/">
         <div class="search_close">
             <i class="ion-android-close"></i>
         </div>
@@ -3373,19 +3290,14 @@
         </div>
     </form>
     <div id="main">
-        <header class="header-init navbar navbar-default navbar-fixed-top style5 
-	 header-full-width nyssa-underlining dark" data-rel="dark|light">
+        <header class="header-init navbar navbar-default navbar-fixed-top style5 header-full-width nyssa-underlining dark" data-rel="dark|light">
             <div class="nav-container ">
                 <div class="navbar-header">
                     <a class="navbar-brand nav-to" href="/" tabindex="-1">
-                        <img class="logo_normal notalone" src="/img/import/challenge-fond-noir.png" alt=""
-                            title="CH-Toit">
-                        <img class="logo_retina" style="display:none; position: relative;"
-                            src="/img/import/challenge-fond-noir.png" alt="" title="CH-Toit">
-                        <img class="logo_normal logo_after_scroll notalone" src="/img/import/Acceuil.png" alt=""
-                            title="CH-Toit">
-                        <img class="logo_retina logo_after_scroll" style="display:none; position: relative;"
-                            src="/img/import/Acceuil.png" alt="" title="CH-Toit">
+                        <img class="logo_normal notalone" src="/img/import/challenge-fond-noir.png" alt="" title="CH-Toit">
+                        <img class="logo_retina" style="display:none; position: relative;" src="/img/import/challenge-fond-noir.png" alt="" title="CH-Toit">
+                        <img class="logo_normal logo_after_scroll notalone" src="/img/import/Acceuil.png" alt="" title="CH-Toit">
+                        <img class="logo_retina logo_after_scroll" style="display:none; position: relative;" src="/img/import/Acceuil.png" alt="" title="CH-Toit">
                     </a>
                 </div>
                 <div id="dl-menu" class="dl-menuwrapper">
@@ -3399,24 +3311,22 @@
                         </button>
                     </div>
                     <ul id="menu-primary-navigation" class="dl-menu">
-                        <li id="mobile-nav-menu-item-4474"
-                            class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children page-4445">
+                        <li id="mobile-nav-menu-item-4474" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children page-4445">
                             <a href="/" class="menu-link main-menu-link">Accueil</a>
                         </li>
-                        <li id="mobile-nav-menu-item-3974"
-                            class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-page-parent current_page_ancestor menu-item-has-children page-24">
-                            <a href="/service.html" class="menu-link main-menu-link">Solutions Acquereurs</a>
+                        <li id="mobile-nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-page-parent current_page_ancestor menu-item-has-children page-24">
+                            <a href="/inscription.html" class="menu-link main-menu-link">Inscription</a>
                         </li>
-                        <li id="mobile-nav-menu-item-3971"
-                            class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
+                        <li id="mobile-nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
                             <a href="/about.html" class="menu-link main-menu-link">Challenge Pro</a>
                         </li>
-                        <li id="mobile-nav-menu-item-3971"
-                            class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
+                        <li id="mobile-nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
+                            <a href="/bon-plan" class="menu-link main-menu-link">Bon Plans</a>
+                        </li>
+                        <li id="mobile-nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
                             <a href="/parrain.html" class="menu-link main-menu-link">Parrainage</a>
                         </li>
-                        <li id="mobile-nav-menu-item-3971"
-                            class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
+                        <li id="mobile-nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
                             <a href="/contact.html" class="menu-link main-menu-link">Contact</a>
                         </li>
                     </ul>
@@ -3424,24 +3334,22 @@
                 <div class="navbar-collapse collapse">
                     <div class="menu_style5_bearer">
                         <ul id="menu-primary-navigation-1" class="nav navbar-nav navbar-right">
-                            <li id="nav-menu-item-4474"
-                                class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children page-4445">
+                            <li id="nav-menu-item-4474" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children page-4445">
                                 <a href="/" class="menu-link main-menu-link">Accueil</a>
                             </li>
-                            <li id="nav-menu-item-3974"
-                                class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-page-parent current_page_ancestor menu-item-has-children page-24">
-                                <a href="/service.html" class="menu-link main-menu-link">Solutions Acquereurs</a>
+                            <li id="nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-page-parent current_page_ancestor menu-item-has-children page-24">
+                                <a href="/inscription.html" class="menu-link main-menu-link">Inscription</a>
                             </li>
-                            <li id="nav-menu-item-3971"
-                                class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
+                            <li id="nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
                                 <a href="/about.html" class="menu-link main-menu-link">Challenge Pro</a>
                             </li>
-                            <li id="nav-menu-item-3971"
-                                class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
+                            <li id="nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
+                                <a href="/bon-plan" class="menu-link main-menu-link">Bon Plans</a>
+                            </li>
+                            <li id="nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
                                 <a href="/parrain.html" class="menu-link main-menu-link">Parrainage</a>
                             </li>
-                            <li id="nav-menu-item-3971"
-                                class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
+                            <li id="nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children custom-3971">
                                 <a href="/contact.html" class="menu-link main-menu-link">Contact</a>
                             </li>
                         </ul>
@@ -3471,8 +3379,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <a href="https://preview.treethemes.com/nyssa/demo1/cart/"
-                                    class="nyssa_little_shopping_bag_wrapper_mobiles">
+                                <a href="https://preview.treethemes.com/nyssa/demo1/cart/" class="nyssa_little_shopping_bag_wrapper_mobiles">
                                     <span>0</span>
                                 </a>
                             </div>
@@ -3493,36 +3400,42 @@
             <section class="page_content" id="section-1494">
                 <div class="container">
                     <section class="wpb-content-wrapper">
-                        <div data-vc-full-width="true" data-vc-full-width-init="false"
-                            class="vc_row wpb_row vc_row-fluid wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_custom_1671642353737">
+                        <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_custom_1671642353737">
                             <div class="wpb_column vc_column_container vc_col-sm-8">
                                 <div class="vc_column-inner">
                                     <div class="wpb_wrapper">
                                         <div class="ult-content-box-container ">
-                                            <div class="ult-content-box"
-                                                style="box-shadow: px px px px none;margin:90px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;"
-                                                data-hover_box_shadow="none" data-responsive_margins="margin:20px;"
-                                                data-normal_margins="margin:90px;">
-                                                <h1 style="color: #fbf9ff;text-align: left;font-size: 80px;"
-                                                    class="vc_custom_heading">Challenge toi<br> pour ton toit</h1>
-                                                
-                                                <p style="font-size: 21px;color: #f9f3ff;text-align: left;margin-top:40px;"
-                                                    class="vc_custom_heading">Une expérience unique et innovante qui
-                                                    simplifie ta vie. <span class="break"><br></span> Un challenge pour
+                                            <div class="ult-content-box" style="box-shadow: px px px px none;margin:90px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin:20px;" data-normal_margins="margin:90px;">
+                                                <h1 style="color: #fbf9ff;text-align: left;font-size: 80px;" class="vc_custom_heading">Challenge toi,<br>une propriété sûr et garantie</h1>
+
+                                                <p style="font-size: 21px;color: #f9f3ff;text-align: left;margin-top:40px;" class="vc_custom_heading">Souscrivez aux promotions immobilières certifiées, prenez, toutes les garanties avant votre achat et dormez tranquille.
+                                                    <!-- <span class="break"><br></span> Un challenge pour
                                                     acheter votre maison sur 5 ans ou 7 ans,<span
-                                                        class="break"><br></span> sans crédit et sans superflus, payes à ton rythme.</p>
+                                                        class="break"><br></span> sans crédit et sans superflus, payes à ton rythme. -->
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="wpb_column vc_column_container vc_col-sm-4">
+                            <div class="wpb_column vc_column_container vc_col-sm-4" 
+                                id="modal-trg-txt-wrap-9545"
+                                style="margin: 0 auto;display: flex;justify-content: center;"
+                                class="ult-modal-input-wrapper ult-adjust-bottom-margin"
+                                data-keypress-control="keypress-control-enable"
+                                data-overlay-control="overlay-control-enable" data-modal-type="button">
                                 <div class="vc_column-inner">
                                     <div class="wpb_wrapper">
-                                        
+
                                     </div>
                                 </div>
-                                <a href="/rushs"><img src="/img/import/la_rush.png" style="padding: 20%;width:auto;height:auto;position:absolute;z-index: 9;margin-top: 25%;cursor:pointer;" /></a>
+                                <a href="#" data-ultimate-target='#modal-trg-txt-wrap-9545 .btn-modal'
+                                    data-responsive-json-new='{"font-size":"","line-height":""}'
+                                    data-class-id="content-64f491c87e33b4-400000"
+                                    class="btn-modal ult-responsive vc_general overlay-show ult-align-left btn-id-64f491c87e33b4-51630579"
+                                    data-overlay-class="overlay-zoomin"
+                                    style="width: 250em;">
+                                    <img src="/img/import/la_rush.png" style="padding: 20%;width:auto;height:auto;position:absolute;z-index: 9;margin-top: 25%;cursor:pointer;" /></a>
                             </div>
                         </div>
                         <div class="vc_row-full-width vc_clearfix"></div>
@@ -3531,54 +3444,32 @@
                         <!--    data-ultimate-video-poster="https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/12/dog.jpeg" data-upb-overlay-color="rgba(28,12,61,0.55)" data-upb-bg-animation="" data-fadeout="" data-fadeout-percentage="30"-->
                         <!--    data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support=""-->
                         <!--    data-overlay="true" data-overlay-color="rgba(28,12,61,0.55)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll" data-video_fixer="true"></div>-->
-                        <div class="upb_bg_img" data-ultimate-bg="url('/img/import/I-Solutions.jpg')"
-                            data-image-id="id^1900|url^/img/import/I-Solutions.jpg|caption^null|alt^null|title^s-o-c-i-a-l-c-u-t-1RT4txDDAbM-unsplash|description^null"
-                            data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat"
-                            data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30"
-                            data-bg-override="ex-full" data-bg_img_attach="scroll"
-                            data-upb-overlay-color="rgba(28,12,61,0.5)" data-upb-bg-animation="" data-fadeout=""
-                            data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat"
-                            data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30"
-                            data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true"
-                            data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc=""
-                            data-theme-support="" data-overlay="true" data-overlay-color="rgba(28,12,61,0.5)"
-                            data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size=""
-                            data-overlay-pattern-attachment="scroll" data-seperator="true"
-                            data-seperator-type="curve_up_seperator" data-seperator-shape-size="40"
-                            data-seperator-svg-height="200" data-seperator-full-width="true"
-                            data-seperator-position="bottom_seperator" data-seperator-background-color="#fefcff"
-                            data-icon=""></div>
+                        <div class="upb_bg_img" data-ultimate-bg="url('/img/import/I-Solutions.jpg')" data-image-id="id^1900|url^/img/import/I-Solutions.jpg|caption^null|alt^null|title^s-o-c-i-a-l-c-u-t-1RT4txDDAbM-unsplash|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="ex-full" data-bg_img_attach="scroll" data-upb-overlay-color="rgba(28,12,61,0.5)" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="rgba(28,12,61,0.5)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll" data-seperator="true" data-seperator-type="curve_up_seperator" data-seperator-shape-size="40" data-seperator-svg-height="200" data-seperator-full-width="true" data-seperator-position="bottom_seperator" data-seperator-background-color="#fefcff" data-icon=""></div>
 
                         <div class="vc_row wpb_row vc_row-fluid">
-                            <div
-                                class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-12">
+                            <div class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-12">
                                 <div class="vc_column-inner">
                                     <div class="wpb_wrapper">
-                                        <div class="ult-spacer spacer-64130a7053ef0" data-id="64130a7053ef0"
-                                            data-height="100" data-height-mobile="50" data-height-tab=""
-                                            data-height-tab-portrait="" data-height-mobile-landscape="50"
-                                            style="clear:both;display:block;"></div>
+                                        <div class="ult-spacer spacer-64130a7053ef0" data-id="64130a7053ef0" data-height="100" data-height-mobile="50" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="50" style="clear:both;display:block;"></div>
                                         <section class='special_tabs icontext vertical'>
                                             <div class='tab-selector col-xs-12 col-sm-3'></div>
                                             <div class='tab-container col-xs-12 col-sm-9' style='margin-left:0px;'>
                                             </div>
                                             <div class='label 1'>
                                                 <div class='nyssa_icon_special_tabs'>
-                                                    <img src="/img/import/I-HAUT-1.png" width="40px" height="40px"
-                                                        alt="icone" style="margin-top:4px;" />
+                                                    <img src="/img/import/I-HAUT-1.png" width="40px" height="40px" alt="icone" style="margin-top:4px;" />
                                                 </div>
                                                 <div class='title'>
-                                                    <a class='special_tabs_linkage'
-                                                        style="text-transform:initial;">Conditions d’acquisition</a>
+                                                    <a class='special_tabs_linkage' style="text-transform:initial;">Certifications administratives</a>
                                                 </div>
                                                 <div class='divider-vertical-tabs'></div>
                                             </div>
                                             <div class='content 1'>
                                                 <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                                    <div class="wpb_column vc_column_container vc_col-sm-6">
+                                                    <div class="wpb_column vc_column_container vc_col-sm-12">
                                                         <div class="vc_column-inner">
                                                             <div class="wpb_wrapper">
-                                                                <div
+                                                                <!-- <div
                                                                     class="wpb_single_image wpb_content_element vc_align_left">
                                                                     <figure class="wpb_wrapper vc_figure">
                                                                         <div
@@ -3590,29 +3481,29 @@
                                                                                 title="goodvibes" />
                                                                         </div>
                                                                     </figure>
-                                                                </div>
+                                                                </div> -->
                                                                 <div class="vc_empty_space" style="height: 20px">
                                                                     <span class="vc_empty_space_inner"></span>
                                                                 </div>
-                                                                <h5 style="text-align: left" class="vc_custom_heading">
-                                                                    Salarié</h5>
+                                                                <!-- <h5 style="text-align: left" class="vc_custom_heading">
+                                                                    Salarié</h5> -->
                                                                 <div class="wpb_text_column wpb_content_element ">
                                                                     <div class="wpb_wrapper">
-                                                                        <p>S’inscrire sur notre plateforme ou venir directement dans nos locaux
+                                                                        <p>
+                                                                            <!-- S’inscrire sur notre plateforme ou venir directement dans nos locaux
                                                                             <br>
-                                                                            <br><u>Documents à fournir</u>
-                                                                            <br>• Contrat de travail
-                                                                            <br> • 2 photos d’identités
-                                                                            <br> • CNI ou pièces d’identités en cours de
-                                                                            validité
+                                                                            <br><u>Documents à fournir</u> -->
+                                                                            <br>• Terrain avec titre de propriété sans servitude
+                                                                            <br> • Promoteur & Programmes agrées par le ministère
+                                                                            <br> • Permis de construire
                                                                         </p>
-                                                                        <p style="margin-top:15px;">Frais de dossier 150 000 FCFA</p>
+                                                                        <!-- <p style="margin-top:15px;">Frais de dossier 150 000 FCFA</p> -->
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="wpb_column vc_column_container vc_col-sm-6">
+                                                    <!-- <div class="wpb_column vc_column_container vc_col-sm-6">
                                                         <div class="vc_column-inner vc_custom_1474056192226">
                                                             <div class="wpb_wrapper">
                                                                 <div class="ult-spacer spacer-64130a705518d"
@@ -3653,89 +3544,53 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
                                             <div class='label 2'>
                                                 <div class='nyssa_icon_special_tabs'>
-                                                    <img src="/img/import/I-HAUT-2.png" width="40px" height="40px"
-                                                        alt="icone" style="margin-top:4px;" />
+                                                    <img src="/img/import/I-HAUT-2.png" width="40px" height="40px" alt="icone" style="margin-top:4px;" />
                                                 </div>
                                                 <div class='title'>
-                                                    <a class='special_tabs_linkage'
-                                                        style="text-transform:initial;">Réussir son challenge</a>
+                                                    <a class='special_tabs_linkage' style="text-transform:initial;">Certifications Techniques</a>
                                                 </div>
                                                 <div class='divider-vertical-tabs'></div>
                                             </div>
                                             <div class='content 2' style="display: none;">
                                                 <div class="vc_row wpb_row vc_inner vc_row-fluid">
                                                     <div class="wpb_column vc_column_container vc_col-sm-12">
-                                                        <div class="vc_column-inner vc_custom_1474056192226">
-                                                            <div class="wpb_wrapper" style="width:80%;">
-                                                                <h4 style="text-align: left" class="vc_custom_heading">
-                                                                    Vous voulez acheter une maison</h4>
-                                                                <div class="wpb_text_column wpb_content_element ">
-                                                                    <div class="wpb_wrapper">
-                                                                        <p >
-                                                                            Commencer par voir la maison que 
-                                                                            vous pouvez vous permettre d’acheter 
-                                                                            et non celle que vous voulez acquérir…
-                                                                            <br> Cela commence par le budget ou encore vos possibilités financières : 
-                                                                            allez sur du concret et non sur des hypothèses.
-                                                                            <br> Prendre en compte vos revenus réels, car d’eux dépend la suite.
-                                                                            <br> Celui-ci déterminé nous donnent le type de maison, le quartier correspondant…
-                                                                            <br>
-                                                                            <br>
-                                                                            Challenge-toit peut-être assez facile si vous êtes très
-                                                                            déterminé sans vous laisser distraire par
-                                                                            d'autres dépenses inutiles.
-                                                                            <br>Quel que soit votre budget, vous pouvez
-                                                                            toujours obtenir la belle maison de vos rêves en
-                                                                            vous préparant simplement à économiser plus et à
-                                                                            dépenser moins.
-                                                                            <br>Cependant, épargner pour une maison n'est sûrement pas aussi simple que vous l'espérez, mais cela dépend de ce que vous voulez et à quel point vous le voulez. Une maison est un investissement pour la vie et elle ne se déprécie pas, mais au contraire prend de la valeur avec le temps.
-
-                                                                            <!--<br>Pourquoi devriez-vous vous challenger pour-->
-                                                                            <!--une maison ?-->
-                                                                            <!--<br>Diverses choses dans la vie nous font-->
-                                                                            <!--économiser de l'argent pour les jours de pluie,-->
-                                                                            <!--et économiser pour acheter une nouvelle maison-->
-                                                                            <!--est l'une de ces différentes choses.-->
-                                                                            <!--<br>Vous n'êtes pas à l'aise avec l'endroit où-->
-                                                                            <!--vous vivez-->
-                                                                            <!--<br>Lorsque vous n'êtes pas à l'aise avec votre-->
-                                                                            <!--lieu de résidence pour diverses raisons, vous-->
-                                                                            <!--pouvez économiser pour une nouvelle maison où-->
-                                                                            <!--vous vous sentirez à nouveau en sécurité.-->
-                                                                            <!--<br>Tu as besoin d'un Investissement pour-->
-                                                                            <!--l'avenir.-->
-                                                                            <!--<br>L'achat d'une maison est un investissement à-->
-                                                                            <!--long terme qui ne sera pas seulement pour vous,-->
-                                                                            <!--mais aussi pour votre famille ou vos proches.-->
-                                                                            <br><br>
-                                                                            <h4>Challenge toi <br>Pour ton toit… <br>Ta
-                                                                                maison sans compromis</h4>
-                                                                        </p>
-
-                                                                    </div>
-                                                                </div>
-                                                                <div class="vc_empty_space" style="height: 30px">
+                                                        <div class="vc_column-inner">
+                                                            <div class="wpb_wrapper">
+                                                                <!-- <div
+                                                                        class="wpb_single_image wpb_content_element vc_align_left">
+                                                                        <figure class="wpb_wrapper vc_figure">
+                                                                            <div
+                                                                                class="vc_single_image-wrapper   vc_box_border_grey">
+                                                                                <img width="1920" height="1920"
+                                                                                    src="/img/import/I-SALARIE.jpg"
+                                                                                    class="vc_single_image-img attachment-full"
+                                                                                    alt="" decoding="async" loading="lazy"
+                                                                                    title="goodvibes" />
+                                                                            </div>
+                                                                        </figure>
+                                                                    </div> -->
+                                                                <div class="vc_empty_space" style="height: 20px">
                                                                     <span class="vc_empty_space_inner"></span>
                                                                 </div>
-                                                                <div class="vc_btn3-container vc_btn3-inline">
-                                                                    <a style="background-color:#4beee9; color:#ffffff;"
-                                                                        class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom"
-                                                                        href="/#enregistre-acquereurs" title="">Inscris-toi</a>
-                                                                    C’est totalement gratuit
-                                                                </div>
-                                                                <div
-                                                                    class="vc_grid-container-wrapper vc_clearfix vc_grid-animation-fadeIn">
-                                                                    <div class="vc_grid-container vc_clearfix wpb_content_element vc_media_grid"
-                                                                        data-initial-loading-animation="fadeIn"
-                                                                        data-vc-grid-settings="{&quot;page_id&quot;:1494,&quot;style&quot;:&quot;all&quot;,&quot;action&quot;:&quot;vc_get_vc_grid_data&quot;,&quot;shortcode_id&quot;:&quot;1675877499502-5a9e7da3-752f-3&quot;,&quot;tag&quot;:&quot;vc_media_grid&quot;}"
-                                                                        data-vc-request="https://preview.treethemes.com/nyssa/demo1/wp-admin/admin-ajax.php"
-                                                                        data-vc-post-id="1494"
-                                                                        data-vc-public-nonce="852685dc02"></div>
+                                                                <!-- <h5 style="text-align: left" class="vc_custom_heading">
+                                                                        Salarié</h5> -->
+                                                                <div class="wpb_text_column wpb_content_element ">
+                                                                    <div class="wpb_wrapper">
+                                                                        <p>
+                                                                            <!-- S’inscrire sur notre plateforme ou venir directement dans nos locaux
+                                                                                <br>
+                                                                                <br><u>Documents à fournir</u> -->
+                                                                            <br>• Certificat d’études de sol
+                                                                            <br> • Qualité de matériaux (normes CODOM)
+                                                                            <br> • Contrôle de conformité (bonne exécution des travaux)
+                                                                        </p>
+                                                                        <!-- <p style="margin-top:15px;">Frais de dossier 150 000 FCFA</p> -->
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3744,71 +3599,65 @@
                                             </div>
                                             <div class='label 3'>
                                                 <div class='nyssa_icon_special_tabs'>
-                                                    <img src="/img/import/I-HAUT-3.png" width="40px" height="40px"
-                                                        alt="icone" style="margin-top:4px;" />
+                                                    <img src="/img/import/I-HAUT-3.png" width="40px" height="40px" alt="icone" style="margin-top:4px;" />
                                                 </div>
                                                 <div class='title'>
-                                                    <a class='special_tabs_linkage'
-                                                        style="text-transform:initial;">Moyens de paiement</a>
+                                                    <a class='special_tabs_linkage' style="text-transform:initial;">Certification Juridiques</a>
                                                 </div>
                                                 <div class='divider-vertical-tabs'></div>
                                             </div>
                                             <div class='content 3' style="display: none;">
                                                 <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                                    <div class="wpb_column vc_column_container vc_col-sm-6">
-                                                        <div class="vc_column-inner vc_custom_1474056192226">
+                                                    <div class="wpb_column vc_column_container vc_col-sm-12">
+                                                        <div class="vc_column-inner">
                                                             <div class="wpb_wrapper">
-                                                                <h3 style="text-align: left" class="vc_custom_heading">
-                                                                    Moyens de paiement</h3>
+                                                                <!-- <div
+                                                                        class="wpb_single_image wpb_content_element vc_align_left">
+                                                                        <figure class="wpb_wrapper vc_figure">
+                                                                            <div
+                                                                                class="vc_single_image-wrapper   vc_box_border_grey">
+                                                                                <img width="1920" height="1920"
+                                                                                    src="/img/import/I-SALARIE.jpg"
+                                                                                    class="vc_single_image-img attachment-full"
+                                                                                    alt="" decoding="async" loading="lazy"
+                                                                                    title="goodvibes" />
+                                                                            </div>
+                                                                        </figure>
+                                                                    </div> -->
                                                                 <div class="vc_empty_space" style="height: 20px">
                                                                     <span class="vc_empty_space_inner"></span>
                                                                 </div>
+                                                                <!-- <h5 style="text-align: left" class="vc_custom_heading">
+                                                                        Salarié</h5> -->
                                                                 <div class="wpb_text_column wpb_content_element ">
                                                                     <div class="wpb_wrapper">
-                                                                        <p>Tout paiement mis à part les frais de
-                                                                            dossiers se fait sur le compte projet prévu
-                                                                            à cet effet et dont les coordonnés vous
-                                                                            seront partagés lors de votre inscription
-                                                                            effective au programme.</p>
-                                                                        <blockquote>
-                                                                            <p>Paiements sécurisés uniquement</p>
-                                                                        </blockquote>
-                                                                        <!--<p>Pour permettre une traçabilité effective des fonds, et permettre une mise à jour de nos fichiers nous n’acceptons aucun paiement en espèce. Tout se fait par virement Dépôt ou bancaire.</p>-->
-                                                                        <p style="display:inline-block;"><img src="/img/import/operators_om.png" width="40%" height="40%"/><img src="/img/import/operators_wv.png" width="40%" height="40%"/></p>
+                                                                        <p>
+                                                                            <!-- S’inscrire sur notre plateforme ou venir directement dans nos locaux
+                                                                                <br>
+                                                                                <br><u>Documents à fournir</u> -->
+                                                                            <br>• Contrat tripartite et notarié
+                                                                            <br> • Transfert de propriété à la livraison (CPF)
+                                                                            <br> • Règlement de copropriété
+                                                                        </p>
+                                                                        <!-- <p style="margin-top:15px;">Frais de dossier 150 000 FCFA</p> -->
                                                                     </div>
                                                                 </div>
-                                                                <div class="vc_empty_space" style="height: 20px">
-                                                                    <span class="vc_empty_space_inner"></span>
-                                                                </div>
-                                                                <!--<div class="vc_btn3-container vc_btn3-left">-->
-                                                                <!--    <button onmouseleave="this.style.borderColor='#4beee9'; this.style.backgroundColor='transparent'; this.style.color='#4beee9'" onmouseenter="this.style.borderColor='#4beee9'; this.style.backgroundColor='#4beee9'; this.style.color='#ffffff';" style="border-color:#4beee9; color:#4beee9;"-->
-                                                                <!--        class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-round vc_btn3-style-outline-custom">Buy Nyssa</button>-->
-                                                                <!--</div>-->
-                                                                <!--<div class="vc_empty_space" style="height: 40px">-->
-                                                                <!--    <span class="vc_empty_space_inner"></span>-->
-                                                                <!--</div>-->
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="wpb_column vc_column_container vc_col-sm-6">
+                                                    <!-- <div class="wpb_column vc_column_container vc_col-sm-6">
                                                         <div class="vc_column-inner">
                                                             <div class="wpb_wrapper">
-                                                                <div
-                                                                    class="wpb_single_image wpb_content_element vc_align_left">
+                                                                <div class="wpb_single_image wpb_content_element vc_align_left">
                                                                     <figure class="wpb_wrapper vc_figure">
-                                                                        <div
-                                                                            class="vc_single_image-wrapper   vc_box_border_grey">
-                                                                            <img width="1600" height="1999"
-                                                                                src="/img/import/C-MOYEN DE PAIEMENT.jpg"
-                                                                                class="vc_single_image-img attachment-full"
-                                                                                alt="" decoding="async" loading="lazy"
-                                                                                title="app-services" />
+                                                                        <div class="vc_single_image-wrapper   vc_box_border_grey">
+                                                                            <img width="1600" height="1999" src="/img/import/C-MOYEN DE PAIEMENT.jpg" class="vc_single_image-img attachment-full" alt="" decoding="async" loading="lazy" title="app-services" />
                                                                         </div>
                                                                     </figure>
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
                                             <!--<div class='label 4'>-->
@@ -3832,7 +3681,7 @@
                                             <!--                    <div class="wpb_text_column wpb_content_element ">-->
                                             <!--                        <div class="wpb_wrapper">-->
                                             <!--                            <p>-->
-                                                                            <!-- Completely -->
+                                            <!-- Completely -->
                                             <!--                            </p>-->
                                             <!--                        </div>-->
                                             <!--                    </div>-->
@@ -3843,12 +3692,12 @@
                                             <!--                        class="wpb_video_widget wpb_content_element vc_clearfix   vc_video-aspect-ratio-169 vc_video-el-width-100 vc_video-align-left">-->
                                             <!--                        <div class="wpb_wrapper">-->
                                             <!--                            <div class="wpb_video_wrapper" style="padding: 0;">-->
-                                                                            <!--<iframe title="Motion - Design Reel"-->
-                                                                            <!--    width="500" height="281"-->
-                                                                            <!--    src="https://www.youtube.com/embed/Yt6wQwbtKrI?feature=oembed"-->
-                                                                            <!--    frameborder="0"-->
-                                                                            <!--    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"-->
-                                                                            <!--    allowfullscreen></iframe>-->
+                                            <!--<iframe title="Motion - Design Reel"-->
+                                            <!--    width="500" height="281"-->
+                                            <!--    src="https://www.youtube.com/embed/Yt6wQwbtKrI?feature=oembed"-->
+                                            <!--    frameborder="0"-->
+                                            <!--    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"-->
+                                            <!--    allowfullscreen></iframe>-->
                                             <!--                                <img width="500" height="281" src="/img/import/I-BAS.png"/>-->
                                             <!--                            </div>-->
                                             <!--                        </div>-->
@@ -3859,10 +3708,7 @@
                                             <!--    </div>-->
                                             <!--</div>-->
                                         </section>
-                                        <div class="ult-spacer spacer-64130a705917f" data-id="64130a705917f"
-                                            data-height="50" data-height-mobile="50" data-height-tab=""
-                                            data-height-tab-portrait="" data-height-mobile-landscape="50"
-                                            style="clear:both;display:block;">
+                                        <div class="ult-spacer spacer-64130a705917f" data-id="64130a705917f" data-height="50" data-height-mobile="50" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="50" style="clear:both;display:block;">
                                             <!--<div class="master_container master_container_bgwhite">-->
                                             <!--	<div class="ult-content-box-container medium-padding-mobile">-->
                                             <!--		<div class="ult-content-box"-->
@@ -3907,12 +3753,11 @@
                             </div>
                         </div> -->
 
-                        <div id="creatCont" class="vc_row wpb_row vc_row-fluid">
-                            <div
-                                class="box-paddingr wpb_animate_when_almost_visible wpb_fadeIn fadeIn wpb_column vc_column_container vc_col-sm-12" style="margin-bottom:20px;height: 57vh;">
+                        <!-- <div id="creatCont" class="vc_row wpb_row vc_row-fluid">
+                            <div class="box-paddingr wpb_animate_when_almost_visible wpb_fadeIn fadeIn wpb_column vc_column_container vc_col-sm-12" style="margin-bottom:20px;height: 57vh;">
                                 <div class="vc_column-inner">
-                                    <div class="wpb_wrapper" style="margin: 4% 2% 0px 10%;padding: 0% 14% 0% 14%;">
-                                        
+                                    <div class="wpb_wrapper" style="margin: 4% 2% 0px 10%;padding: 0% 14% 0% 14%;"> -->
+
                                         <!--<div class="vc_row wpb_row vc_inner vc_row-fluid">-->
                                         <!--    <div class="wpb_column vc_column_container vc_col-sm-12">-->
                                         <!--        <div class="vc_column-inner">-->
@@ -3922,23 +3767,23 @@
                                         <!--        </div>-->
                                         <!--    </div>-->
                                         <!--</div>-->
-                                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                                        <!-- <div class="vc_row wpb_row vc_inner vc_row-fluid"> -->
                                             <!--<div class="wpb_column vc_column_container vc_col-sm-1">-->
                                             <!--    <div class="vc_column-inner">-->
                                             <!--    </div>-->
                                             <!--</div>-->
-                                            <div class="wpb_column vc_column_container vc_col-sm-12">
+                                            <!-- <div class="wpb_column vc_column_container vc_col-sm-12">
                                                 <div class="vc_column-inner">
                                                     <div class="wpb_wrapper">
-                                                        <img src="/img/import/perso.png" width="100%" height="100%" decoding="async" loading="lazy"  srcset="/img/import/perso.png 1920w, /img/import/perso_mobile.png 500w" sizes="(max-width: 100%) 100vw, 100%" />
+                                                        <img src="/img/import/perso.png" width="100%" height="100%" decoding="async" loading="lazy" srcset="/img/import/perso.png 1920w, /img/import/perso_mobile.png 500w" sizes="(max-width: 100%) 100vw, 100%" />
                                                     </div>
                                                 </div>
-                                            </div>
+                                            </div> -->
                                             <!--<div class="wpb_column vc_column_container vc_col-sm-1">-->
                                             <!--    <div class="vc_column-inner">-->
                                             <!--    </div>-->
                                             <!--</div>-->
-                                            
+
                                             <!--<div class="wpb_column vc_column_container vc_col-sm-6">-->
                                             <!--    <div class="vc_column-inner">-->
                                             <!--    <div class="wpb_wrapper">-->
@@ -3957,7 +3802,7 @@
                                             <!--                                class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-round vc_btn3-style-custom">En un clic</button></a>-->
                                             <!--                    </h4>-->
                                             <!--                    <div class="vc_btn3-container">-->
-                                                                    
+
                                             <!--                    </div>-->
                                             <!--                    <div class="ult-spacer spacer-6426a12957d75" data-id="6426a12957d75"-->
                                             <!--                        data-height="0" data-height-mobile="70" data-height-tab=""-->
@@ -3968,27 +3813,14 @@
                                             <!--        </div>-->
                                             <!--    </div>-->
                                             <!--</div>-->
-                                        </div>
+                                       <!--  </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        
-                        <div class="upb_bg_img" style="height: 58vh;"
-                            data-ultimate-bg="url('/img/import/CS-Bande.png')"
-                            data-image-id="id^2159|url^/img/import/I-BANDE-PC.png|caption^null|alt^null|title^bgcolors|description^null"
-                            data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat"
-                            data-bg-img-size="100% 100%" data-bg-img-position="center 0px" data-parallx_sense="30"
-                            data-bg-override="ex-full" data-bg_img_attach="scroll"
-                            data-upb-bg-animation="" data-fadeout=""
-                            data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat"
-                            data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30"
-                            data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true"
-                            data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc=""
-                            data-theme-support="" data-overlay="true"
-                            data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size=""
-                            data-overlay-pattern-attachment="scroll"></div>
-                        
+                        </div> -->
+
+                        <!-- <div class="upb_bg_img" style="height: 58vh;" data-ultimate-bg="url('/img/import/CS-Bande.png')" data-image-id="id^2159|url^/img/import/I-BANDE-PC.png|caption^null|alt^null|title^bgcolors|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="100% 100%" data-bg-img-position="center 0px" data-parallx_sense="30" data-bg-override="ex-full" data-bg_img_attach="scroll" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll"></div>
+ -->
                         <!-- <div class="vc_row wpb_row vc_row-fluid">
                             <div
                                 class="box-paddingr wpb_animate_when_almost_visible wpb_fadeIn fadeIn wpb_column vc_column_container vc_col-sm-12" style="margin-bottom:20px;">
@@ -4003,12 +3835,11 @@
                                 </div>
                             </div>
                         </div> -->
-                        
-                        <div class="vc_row wpb_row vc_row-fluid">
-                            <div
-                                class="box-paddingr wpb_animate_when_almost_visible wpb_fadeIn fadeIn wpb_column vc_column_container vc_col-sm-12" style="margin-bottom:20px; display:none;" id="content-simulate">
+
+                        <!-- <div class="vc_row wpb_row vc_row-fluid">
+                            <div class="box-paddingr wpb_animate_when_almost_visible wpb_fadeIn fadeIn wpb_column vc_column_container vc_col-sm-12" style="margin-bottom:20px; display:none;" id="content-simulate">
                                 <div class="vc_column-inner">
-                                    <div class="wpb_wrapper" style="margin: 0% 7% 14% 7%;">
+                                    <div class="wpb_wrapper" style="margin: 0% 7% 14% 7%;"> -->
                                         <!--<div class="ult-spacer spacer-6426a12956377" data-id="6426a12956377" data-height="100"-->
                                         <!--    data-height-mobile="50" data-height-tab="" data-height-tab-portrait="80"-->
                                         <!--    data-height-mobile-landscape="50" style="clear:both;display:block;"></div>-->
@@ -4024,46 +3855,45 @@
                                         <!--<div class="ult-spacer spacer-6426a12956d03" data-id="6426a12956d03" data-height="50"-->
                                         <!--    data-height-mobile="25" data-height-tab="" data-height-tab-portrait="25"-->
                                         <!--    data-height-mobile-landscape="25" style="clear:both;display:block;"></div>-->
-                                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                                        <!-- <div class="vc_row wpb_row vc_inner vc_row-fluid">
                                             <div class="wpb_column vc_column_container vc_col-sm-6">
                                                 <div class="vc_column-inner" id="zone-simulateur">
                                                     <div class="wpb_wrapper">
-                                                        <div class="ult-spacer spacer-6426a129575e7" data-id="6426a129575e7" data-height=""
-                                                            data-height-mobile="40" data-height-tab="" data-height-tab-portrait=""
-                                                            data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
+                                                        <div class="ult-spacer spacer-6426a129575e7" data-id="6426a129575e7" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
                                                         <div class="ult-content-box-container ">
-                                                            <div class="ult-content-box"
-                                                                style="box-shadow: px px px px none;margin:40% 50px 30px 50px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;"
-                                                                data-hover_box_shadow="none" data-responsive_margins="margin:8% 10px 30px 10px;"
-                                                                data-normal_margins="margin-top:8%;margin-right:10px;margin-bottom:30px;margin-left:10px;">
+                                                            <div class="ult-content-box" style="box-shadow: px px px px none;margin:40% 50px 30px 50px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin:8% 10px 30px 10px;" data-normal_margins="margin-top:8%;margin-right:10px;margin-bottom:30px;margin-left:10px;">
                                                                 <h4 style="text-align: left; font-size:18px;" class="vc_custom_heading no-letter-spacing">Découvrez une nouvelle manière d’acheter</h4>
                                                                 <h4 style="text-align: left; font-size:18px;" class="vc_custom_heading no-letter-spacing">Grace au simulateur de paiement, définissez le mode de paiement adapté à vos réalités</h4>
                                                                 <div class="vc_empty_space" style="height: 20px">
                                                                     <span class="vc_empty_space_inner"></span>
                                                                 </div>
-                                                                <span style="text-align: left; display:inline-block;" class="vc_custom_heading no-letter-spacing"><h4 style="text-align: left; font-size:18px; display:initial;" class="vc_custom_heading no-letter-spacing">Apport initial :</h4><br> Il correspond à 20 % du coût de la maison et peut être payé jusqu'en 6 mensualités…</span>
+                                                                <span style="text-align: left; display:inline-block;" class="vc_custom_heading no-letter-spacing">
+                                                                    <h4 style="text-align: left; font-size:18px; display:initial;" class="vc_custom_heading no-letter-spacing">Apport initial :</h4><br> Il correspond à 20 % du coût de la maison et peut être payé jusqu'en 6 mensualités…
+                                                                </span>
                                                                 <div class="vc_empty_space" style="height: 25px">
                                                                     <span class="vc_empty_space_inner"></span>
                                                                 </div>
-                                                                <span style="text-align: left; display:inline-block;" class="vc_custom_heading no-letter-spacing"><h4 style="text-align: left; font-size:18px; display:initial;" class="vc_custom_heading no-letter-spacing">Engagement annuel (Il est laissé à votre appréciation):</h4><br> Montant à verser une fois par an pour alléger les cotisations mensuelles….</span>
+                                                                <span style="text-align: left; display:inline-block;" class="vc_custom_heading no-letter-spacing">
+                                                                    <h4 style="text-align: left; font-size:18px; display:initial;" class="vc_custom_heading no-letter-spacing">Engagement annuel (Il est laissé à votre appréciation):</h4><br> Montant à verser une fois par an pour alléger les cotisations mensuelles….
+                                                                </span>
                                                                 <div class="vc_empty_space" style="height: 25px">
                                                                     <span class="vc_empty_space_inner"></span>
                                                                 </div>
-                                                                <span style="text-align: left; display:inline-block;" class="vc_custom_heading no-letter-spacing"><h4 style="text-align: left; font-size:18px; display:initial;" class="vc_custom_heading no-letter-spacing">Cotisation mensuelle :</h4><br> Montant à payer chaque mois pour réaliser son challenge</span>
+                                                                <span style="text-align: left; display:inline-block;" class="vc_custom_heading no-letter-spacing">
+                                                                    <h4 style="text-align: left; font-size:18px; display:initial;" class="vc_custom_heading no-letter-spacing">Cotisation mensuelle :</h4><br> Montant à payer chaque mois pour réaliser son challenge
+                                                                </span>
                                                                 <div class="vc_empty_space" style="height: 25px">
                                                                     <span class="vc_empty_space_inner"></span>
                                                                 </div>
-                                                                <span style="text-align: left; display:inline-block; color:#003279;" class="vc_custom_heading no-letter-spacing"><h4 style="text-align: left; font-size:18px; display:initial;" class="vc_custom_heading no-letter-spacing">NB :</h4><br> Peu importe l’option de cotisation et le nombre d’années que vous choisirez, à la livraison des clés, vous payez le reste de l'engagement annuel dû.</span>
-                                                                <div id="treethemes-social-networks-shortcode-1"
-                                                                    class="widget nyssa_socials_widget">
+                                                                <span style="text-align: left; display:inline-block; color:#003279;" class="vc_custom_heading no-letter-spacing">
+                                                                    <h4 style="text-align: left; font-size:18px; display:initial;" class="vc_custom_heading no-letter-spacing">NB :</h4><br> Peu importe l’option de cotisation et le nombre d’années que vous choisirez, à la livraison des clés, vous payez le reste de l'engagement annuel dû.
+                                                                </span>
+                                                                <div id="treethemes-social-networks-shortcode-1" class="widget nyssa_socials_widget">
                                                                     <div class="social-icons-fa align-left">
-                                                                        
+
                                                                     </div>
                                                                 </div>
-                                                                <div class="ult-spacer spacer-6426a12957d75" data-id="6426a12957d75"
-                                                                    data-height="0" data-height-mobile="70" data-height-tab=""
-                                                                    data-height-tab-portrait="" data-height-mobile-landscape="70"
-                                                                    style="clear:both;display:block;"></div>
+                                                                <div class="ult-spacer spacer-6426a12957d75" data-id="6426a12957d75" data-height="0" data-height-mobile="70" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="70" style="clear:both;display:block;"></div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -4078,8 +3908,8 @@
                                                                 <ul></ul>
                                                             </div>
                                                             <div class="nyssa-form-simple-wide">
-                                                                
-                                                                <div class="f-email"  style="display:none;">
+
+                                                                <div class="f-email" style="display:none;">
                                                                     <p style="margin:5px 0px 0px 0px!important;">Vous êtes : </p>
                                                                     <p id="radioContent">
                                                                         <input type="radio" name="peopletype" value="Individuel" checked class="checkbox"> Individuel
@@ -4091,19 +3921,15 @@
                                                                     <p style="margin:5px 0px 0px 0px!important;">Quel est votre budget pour votre maison*</p>
                                                                     <p>
                                                                         <span class="wpcf7-form-control-wrap" data-name="your-name">
-                                                                            <input data-type='currency' class="wpcf7-form-control wpcf7-text"
-                                                                                placeholder="Ex: 20000000" value="" type="text"
-                                                                                id="sim-budget" name="budget" min="10000000" step="1000000" />
+                                                                            <input data-type='currency' class="wpcf7-form-control wpcf7-text" placeholder="Ex: 20000000" value="" type="text" id="sim-budget" name="budget" min="10000000" step="1000000" />
                                                                         </span>
                                                                     </p>
                                                                 </div>
                                                                 <div class="f-email">
                                                                     <p style="margin:5px 0px 0px 0px!important;">Apport initial*</p>
                                                                     <p>
-                                                                        <span  class="wpcf7-form-control-wrap" data-name="your-name">
-                                                                            <input data-type='currency1' class="wpcf7-form-control wpcf7-text"
-                                                                                placeholder="Ex: 2500000" value="" type="text"
-                                                                                id="sim-fond-fixe" name="apporinit" min="1500000" step="100000" />
+                                                                        <span class="wpcf7-form-control-wrap" data-name="your-name">
+                                                                            <input data-type='currency1' class="wpcf7-form-control wpcf7-text" placeholder="Ex: 2500000" value="" type="text" id="sim-fond-fixe" name="apporinit" min="1500000" step="100000" />
                                                                         </span>
                                                                     </p>
                                                                 </div>
@@ -4111,13 +3937,11 @@
                                                                     <p id="type-eng" style="margin:5px 0px 0px 0px!important;">Engagement annuel (Il est laissé à votre appréciation)</p>
                                                                     <p>
                                                                         <span class="wpcf7-form-control-wrap" data-name="your-name">
-                                                                            <input data-type='currency2' class="wpcf7-form-control wpcf7-text"
-                                                                                placeholder="Ex: 1000000" value="" type="text"
-                                                                                id="sim-engage-annu" name="engagannee" min="500000" step="100000" />
+                                                                            <input data-type='currency2' class="wpcf7-form-control wpcf7-text" placeholder="Ex: 1000000" value="" type="text" id="sim-engage-annu" name="engagannee" min="500000" step="100000" />
                                                                         </span>
                                                                     </p>
-                                                                </div>
-                                                                
+                                                                </div> -->
+
                                                                 <!--<div class="f-service" id="year-content2" >-->
                                                                 <!--    <p style="margin:5px 0px 0px 0px!important;">Alors je rentre en :</p>-->
                                                                 <!--    <p><span class="wpcf7-form-control-wrap" data-name="menu-781">-->
@@ -4134,11 +3958,10 @@
                                                                 <!--        </span>-->
                                                                 <!--    </p>-->
                                                                 <!--</div>-->
-                                                                <div class="f-service" id="year-content" >
+                                                                <!-- <div class="f-service" id="year-content">
                                                                     <p style="margin:5px 0px 0px 0px!important;">Nombre d'année du challenge*</p>
                                                                     <p><span class="wpcf7-form-control-wrap" data-name="menu-781">
-                                                                        <select class="wpcf7-form-control wpcf7-select" style="border-color: #d5d5d5; margin-top: 0px;"
-                                                                                aria-invalid="false" id="menu-annee" name="nbrannee">
+                                                                            <select class="wpcf7-form-control wpcf7-select" style="border-color: #d5d5d5; margin-top: 0px;" aria-invalid="false" id="menu-annee" name="nbrannee">
                                                                                 <optgroup id="fgrouped" label="Sélectionner…">
                                                                                     <option value="2">2 ans</option>
                                                                                     <option value="3">3 ans</option>
@@ -4154,32 +3977,32 @@
                                                                         </span>
                                                                     </p>
                                                                 </div>
-                                                                
+
                                                                 <div class="f-email" style="display:none;">
                                                                     <p style="margin:5px 0px 0px 0px!important;">Choisissez : </p>
                                                                     <p id="avisContent">
-                                                                        <input type="radio" name="decidepos" value="1" checked class="checkbox"> Option 1: Payer une fois par an  l’engagement annuel avant la remise des clés
+                                                                        <input type="radio" name="decidepos" value="1" checked class="checkbox"> Option 1: Payer une fois par an l’engagement annuel avant la remise des clés
                                                                         <br>
                                                                         <input type="radio" name="decidepos" value="2" class="checkbox"> Option 2: fragmenter l’engagement annuel sur les mensualités avant la remise des clés
                                                                     </p>
                                                                 </div>
-                                                                
+
                                                                 <div id="result-place" style="display:none;">
                                                                     <div style="border:1px solid #d0cdcd;margin-top:5px;margin-bottom:5px;text-align: center;background-color: #00ff9740;">
                                                                         <h4 id="result3-text" style="text-align: center;font-size:15px;display:block;" class="vc_custom_heading no-letter-spacing"></h4>
                                                                         <span id="result-cont-mens3" name="result3" style="color:red!important;"></span>
                                                                     </div>
                                                                     <div style="border:1px solid #d0cdcd;margin-top:5px;margin-bottom:5px;text-align: center;background-color: #00ff9740;">
-                                                                        
+
                                                                         <h4 id="result1-text" style="text-align: center;font-size:15px;display:block;" class="vc_custom_heading no-letter-spacing"></h4>
                                                                         <span id="result-cont-mens" name="result1" style="color:red; text-align:center;"></span>
-                                                                        
+
                                                                     </div>
                                                                     <div style="border:1px solid #d0cdcd;margin-top:5px;margin-bottom:5px;text-align: center;background-color: #00ff9740;">
-                                                                        
+
                                                                         <h4 id="result2-text" style="text-align: center;font-size:15px;display:block;" class="vc_custom_heading no-letter-spacing"></h4>
                                                                         <span id="result-cont-mens2" name="result2" style="color:red; text-align:center;"></span>
-                                                                        
+
                                                                     </div>
                                                                     <p style="margin:5px 0px 0px 0px!important;text-align:center;">**RDV dans nos locaux ou appelez-nous, car plusieurs possibilités sont disponibles !</p>
                                                                     <br>
@@ -4191,51 +4014,37 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            
+
                                         </div>
-                                        
-                                            <div class="ult-spacer spacer-6426a12957d75" data-id="6426a12957d75"
-                                            data-height="0" data-height-mobile="50" data-height-tab=""
-                                            data-height-tab-portrait="" data-height-mobile-landscape="180"
-                                            style="clear:both;display:block;"></div>
+
+                                        <div class="ult-spacer spacer-6426a12957d75" data-id="6426a12957d75" data-height="0" data-height-mobile="50" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="180" style="clear:both;display:block;"></div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        
-                        
+                        </div> -->
+
+
                         <!-- Row Backgrounds -->
-                        
+
 
                         <div class="vc_row wpb_row vc_row-fluid wide-ipad">
 
-                            <div
-                                class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-12">
+                            <div class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-12">
                                 <div class="vc_column-inner">
                                     <div class="wpb_wrapper">
                                         <!-- <div class="ult-spacer spacer-64130a70595ef" data-id="64130a70595ef"
                                             data-height="120" data-height-mobile="60" data-height-tab=""
                                             data-height-tab-portrait="" data-height-mobile-landscape="60"
                                             style="clear:both;display:block;"></div> -->
-                                        <div id="ultv-9772"
-                                            class="ult-dual-color ult-adjust-bottom-margin ult-dual-color-responsive-none ultv-9772  ">
-                                            <div class="ult-module-content ult-dual-color-heading"
-                                                style="text-align:center;">
+                                        <div id="ultv-9772" class="ult-dual-color ult-adjust-bottom-margin ult-dual-color-responsive-none ultv-9772  ">
+                                            <div class="ult-module-content ult-dual-color-heading" style="text-align:center;">
                                                 <h2>
                                                     <span class="ult-before-heading">
-                                                        <span
-                                                            class="ult-dual-heading-text ult-first-text ult-responsive"
-                                                            data-ultimate-target='.ult-dual-color.ultv-9772 .ult-dual-heading-text'
-                                                            data-responsive-json-new='{"font-size":"","line-height":""}'
-                                                            style="color:#ffffff;     border:none; font-family:&#039;Inter&#039;;font-weight:700;">Nos
+                                                        <span class="ult-dual-heading-text ult-first-text ult-responsive" data-ultimate-target='.ult-dual-color.ultv-9772 .ult-dual-heading-text' data-responsive-json-new='{"font-size":"","line-height":""}' style="color:#ffffff;     border:none; font-family:&#039;Inter&#039;;font-weight:700;">Nos
                                                             garanties</span>
                                                     </span>
                                                     <span class="ult-adv-heading" style="">
-                                                        <span
-                                                            class="ult-dual-adv-heading-text ult-highlight-text ult-responsive"
-                                                            data-ultimate-target='.ult-dual-color.ultv-9772 .ult-highlight-text'
-                                                            data-responsive-json-new='{"font-size":"","line-height":""}'
-                                                            style="color:#4beee9;   letter-spacing:0px;  border:none; font-family:&#039;Inter&#039;;font-weight:800;">.</span>
+                                                        <!-- <span class="ult-dual-adv-heading-text ult-highlight-text ult-responsive" data-ultimate-target='.ult-dual-color.ultv-9772 .ult-highlight-text' data-responsive-json-new='{"font-size":"","line-height":""}' style="color:#4beee9;   letter-spacing:0px;  border:none; font-family:&#039;Inter&#039;;font-weight:800;">.</span> -->
                                                     </span>
                                                 </h2>
                                             </div>
@@ -4254,7 +4063,7 @@
                                                                 <p style="text-align: center;">
                                                                     <span style="color: #003279;">Nos garanties
                                                                         permettent de sécuriser les travaux et dans les
-                                                                        cas les plus extrêmes la somme investi.</span>
+                                                                        cas les plus extrêmes la somme investie.</span>
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -4275,56 +4084,30 @@
                                                 <div class="vc_column-inner">
                                                     <div class="wpb_wrapper">
                                                         <div class="flip-box-wrap" style="">
-                                                            <div class="flip-box ifb-jq-height  horizontal_flip_left flip-ifb-jq-height"
-                                                                style="">
+                                                            <div class="flip-box ifb-jq-height  horizontal_flip_left flip-ifb-jq-height" style="">
                                                                 <div class="ifb-flip-box" id="flip-box-wrap-9323">
-                                                                    <div class="ifb-face ifb-front "
-                                                                        style="color:#ffffff;color:#ffffff;background:rgb(23 176 136 / 75%); border-width: 1px;border-style: solid; border-color:rgb(23 176 136 / 75%); border-radius: px;">
-                                                                        <div
-                                                                            class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
+                                                                    <div class="ifb-face ifb-front " style="color:#ffffff;color:#ffffff;background:rgb(23 176 136 / 75%); border-width: 1px;border-style: solid; border-color:rgb(23 176 136 / 75%); border-radius: px;">
+                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
                                                                             <div class="flip-box-icon">
                                                                                 <div class="ult-just-icon-wrapper  ">
-                                                                                    <div class="align-icon"
-                                                                                        style="text-align:center;">
-                                                                                        <div class="aio-icon none "
-                                                                                            style="color:#ffffff;font-size:40px;display:inline-block;">
-                                                                                            <img src="/img/import/I-G-1-1.png"
-                                                                                                width="60px"
-                                                                                                height="60px"
-                                                                                                alt="icone"
-                                                                                                style="margin-top:4px;" />
+                                                                                    <div class="align-icon" style="text-align:center;">
+                                                                                        <div class="aio-icon none " style="color:#ffffff;font-size:40px;display:inline-block;">
+                                                                                            <img src="/img/import/I-G-1-1.png" width="60px" height="60px" alt="icone" style="margin-top:4px;" />
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <h3 class="ult-responsive flipbox_heading"
-                                                                                data-ultimate-target='#flip-box-wrap-9323 .ult-responsive.flipbox_heading'
-                                                                                data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}'
-                                                                                style="color:#ffffff; font-family:&#039;Inter&#039;;font-weight:700;">
-                                                                                Garantie de remboursement de l’acompte
-                                                                                perçu</h3>
+                                                                            <h3 class="ult-responsive flipbox_heading" data-ultimate-target='#flip-box-wrap-9323 .ult-responsive.flipbox_heading' data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}' style="color:#ffffff; font-family:&#039;Inter&#039;;font-weight:700;">
+                                                                                Compte séquestre dédié au remboursement</h3>
                                                                         </div>
                                                                     </div>
                                                                     <!-- END .front -->
-                                                                    <div class="ifb-face ifb-back"
-                                                                        style="color:#ffffff;color:#ffffff;background:rgb(23 176 136 / 75%); border-width: 1px;border-style: solid; border-color:rgb(23 176 136 / 75%); border-radius: px;">
-                                                                        <div
-                                                                            class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
-                                                                            <h3 class="ult-responsive flipbox_heading"
-                                                                                data-ultimate-target='#flip-box-wrap-9323 .ult-responsive.flipbox_heading'
-                                                                                data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}'
-                                                                                style="color:#ffffff; font-family:&#039;Inter&#039;;font-weight:700;">
-                                                                                Garantie de remboursement de l’acompte
-                                                                                perçu</h3>
-                                                                            <div class="ifb-flip-box-section-content ult-responsive"
-                                                                                data-ultimate-target='#flip-box-wrap-9323 .ifb-flip-box-section-content.ult-responsive'
-                                                                                data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:20px;"}'
-                                                                                style="font-family:&#039;Mulish&#039;;font-weight:500;color:#333333;color:#ffffff;color:#ffffff;">
-                                                                                <p>Elle s’applique en cas de
-                                                                                    non-réalisation des clauses
-                                                                                    suspensives (paiement des échéances)
-                                                                                    ou en cas de non-ouverture du
-                                                                                    chantier à la date convenue.</p>
+                                                                    <div class="ifb-face ifb-back" style="color:#ffffff;color:#ffffff;background:rgb(23 176 136 / 75%); border-width: 1px;border-style: solid; border-color:rgb(23 176 136 / 75%); border-radius: px;">
+                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
+                                                                            <h3 class="ult-responsive flipbox_heading" data-ultimate-target='#flip-box-wrap-9323 .ult-responsive.flipbox_heading' data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}' style="color:#ffffff; font-family:&#039;Inter&#039;;font-weight:700;">
+                                                                                Compte séquestre dédié au remboursement</h3>
+                                                                            <div class="ifb-flip-box-section-content ult-responsive" data-ultimate-target='#flip-box-wrap-9323 .ifb-flip-box-section-content.ult-responsive' data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:20px;"}' style="font-family:&#039;Mulish&#039;;font-weight:500;color:#333333;color:#ffffff;color:#ffffff;">
+                                                                                <p>Vos paiements sont gérés de manière sécurisée et transparente pendant toute la durée de l’opération sur un compte séquestré à la banque. Le promoteur ne dispose de ces fonds que lorsque vous êtes livrés. Cela permet d’annuler les risques liés à l’achat.</p>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -4341,66 +4124,32 @@
                                             <div class="wpb_column vc_column_container vc_col-sm-3">
                                                 <div class="vc_column-inner">
                                                     <div class="wpb_wrapper">
-                                                        <div class="ult-spacer spacer-64130a7059e34"
-                                                            data-id="64130a7059e34" data-height=""
-                                                            data-height-mobile="20" data-height-tab=""
-                                                            data-height-tab-portrait=""
-                                                            data-height-mobile-landscape="20"
-                                                            style="clear:both;display:block;"></div>
+                                                        <div class="ult-spacer spacer-64130a7059e34" data-id="64130a7059e34" data-height="" data-height-mobile="20" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="20" style="clear:both;display:block;"></div>
                                                         <div class="flip-box-wrap" style="">
-                                                            <div class="flip-box ifb-jq-height  horizontal_flip_left flip-ifb-jq-height"
-                                                                style="">
+                                                            <div class="flip-box ifb-jq-height  horizontal_flip_left flip-ifb-jq-height" style="">
                                                                 <div class="ifb-flip-box" id="flip-box-wrap-6987">
-                                                                    <div class="ifb-face ifb-front "
-                                                                        style="color:#ffffff;color:#a59eb8;background:#003279; border-width: 1px;border-style: solid; border-color:#003279; border-radius: px;">
-                                                                        <div
-                                                                            class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
+                                                                    <div class="ifb-face ifb-front " style="color:#ffffff;color:#a59eb8;background:#003279; border-width: 1px;border-style: solid; border-color:#003279; border-radius: px;">
+                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
                                                                             <div class="flip-box-icon">
                                                                                 <div class="ult-just-icon-wrapper  ">
-                                                                                    <div class="align-icon"
-                                                                                        style="text-align:center;">
-                                                                                        <div class="aio-icon none "
-                                                                                            style="color:#4beee9;font-size:40px;display:inline-block;">
-                                                                                            <img src="/img/import/I-G-2.png"
-                                                                                                width="60px"
-                                                                                                height="60px"
-                                                                                                alt="icone"
-                                                                                                style="margin-top:4px;" />
+                                                                                    <div class="align-icon" style="text-align:center;">
+                                                                                        <div class="aio-icon none " style="color:#4beee9;font-size:40px;display:inline-block;">
+                                                                                            <img src="/img/import/I-G-2.png" width="60px" height="60px" alt="icone" style="margin-top:4px;" />
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <h3 class="ult-responsive flipbox_heading"
-                                                                                data-ultimate-target='#flip-box-wrap-6987 .ult-responsive.flipbox_heading'
-                                                                                data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}'
-                                                                                style="color:#ffffff; font-family:&#039;Inter&#039;;font-weight:700;">
-                                                                                Garantie de livraison à prix et délai
-                                                                                convenus</h3>
+                                                                            <h3 class="ult-responsive flipbox_heading" data-ultimate-target='#flip-box-wrap-6987 .ult-responsive.flipbox_heading' data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}' style="color:#ffffff; font-family:&#039;Inter&#039;;font-weight:700;">
+                                                                                Garantie prix et délai convenu</h3>
                                                                         </div>
                                                                     </div>
                                                                     <!-- END .front -->
-                                                                    <div class="ifb-face ifb-back"
-                                                                        style="color:#ffffff;color:#a59eb8;background:#003279; border-width: 1px;border-style: solid; border-color:#003279; border-radius: px;">
-                                                                        <div
-                                                                            class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
-                                                                            <h3 class="ult-responsive flipbox_heading"
-                                                                                data-ultimate-target='#flip-box-wrap-6987 .ult-responsive.flipbox_heading'
-                                                                                data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}'
-                                                                                style="color:#ffffff; font-family:&#039;Inter&#039;;font-weight:700;">
-                                                                                Garantie de livraison à prix et délai
-                                                                                convenus</h3>
-                                                                            <div class="ifb-flip-box-section-content ult-responsive"
-                                                                                data-ultimate-target='#flip-box-wrap-6987 .ifb-flip-box-section-content.ult-responsive'
-                                                                                data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:20px;"}'
-                                                                                style="font-family:&#039;Open Sans&#039;;font-weight:500;color:#333333;color:#ffffff;color:#a59eb8;">
-                                                                                <p>La garantie de livraison couvre le
-                                                                                    bénéficiaire, après délivrance d’une
-                                                                                    attestation d’assurance annexée au
-                                                                                    contrat de prévente, à compter de la
-                                                                                    date d’ouverture du chantier,
-                                                                                    contre le risque d’inexécution et/ou
-                                                                                    de mauvaise exécution des travaux
-                                                                                    prévus.</p>
+                                                                    <div class="ifb-face ifb-back" style="color:#ffffff;color:#a59eb8;background:#003279; border-width: 1px;border-style: solid; border-color:#003279; border-radius: px;">
+                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
+                                                                            <h3 class="ult-responsive flipbox_heading" data-ultimate-target='#flip-box-wrap-6987 .ult-responsive.flipbox_heading' data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}' style="color:#ffffff; font-family:&#039;Inter&#039;;font-weight:700;">
+                                                                                Garantie prix et délai convenu</h3>
+                                                                            <div class="ifb-flip-box-section-content ult-responsive" data-ultimate-target='#flip-box-wrap-6987 .ifb-flip-box-section-content.ult-responsive' data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:20px;"}' style="font-family:&#039;Open Sans&#039;;font-weight:500;color:#333333;color:#ffffff;color:#a59eb8;">
+                                                                                <p>Elle vous offre une protection et une certitude que le prix ne changera pas et que le délai de livraison sera respecté pour l'acquisition du bien immobilier.</p>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -4417,63 +4166,32 @@
                                             <div class="wpb_column vc_column_container vc_col-sm-3">
                                                 <div class="vc_column-inner">
                                                     <div class="wpb_wrapper">
-                                                        <div class="ult-spacer spacer-64130a7059fee"
-                                                            data-id="64130a7059fee" data-height=""
-                                                            data-height-mobile="20" data-height-tab=""
-                                                            data-height-tab-portrait=""
-                                                            data-height-mobile-landscape="20"
-                                                            style="clear:both;display:block;"></div>
+                                                        <div class="ult-spacer spacer-64130a7059fee" data-id="64130a7059fee" data-height="" data-height-mobile="20" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="20" style="clear:both;display:block;"></div>
                                                         <div class="flip-box-wrap" style="">
-                                                            <div class="flip-box ifb-jq-height  horizontal_flip_left flip-ifb-jq-height"
-                                                                style="">
+                                                            <div class="flip-box ifb-jq-height  horizontal_flip_left flip-ifb-jq-height" style="">
                                                                 <div class="ifb-flip-box" id="flip-box-wrap-8440">
-                                                                    <div class="ifb-face ifb-front "
-                                                                        style="color:#ffffff;color:#a59eb8;background:#003279; border-width: 1px;border-style: solid; border-color:#003279; border-radius: px;">
-                                                                        <div
-                                                                            class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
+                                                                    <div class="ifb-face ifb-front " style="color:#ffffff;color:#a59eb8;background:#003279; border-width: 1px;border-style: solid; border-color:#003279; border-radius: px;">
+                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
                                                                             <div class="flip-box-icon">
                                                                                 <div class="ult-just-icon-wrapper  ">
-                                                                                    <div class="align-icon"
-                                                                                        style="text-align:center;">
-                                                                                        <div class="aio-icon none "
-                                                                                            style="color:#4beee9;font-size:40px;display:inline-block;">
-                                                                                            <img src="/img/import/I-G-3.png"
-                                                                                                width="60px"
-                                                                                                height="60px"
-                                                                                                alt="icone"
-                                                                                                style="margin-top:4px;" />
+                                                                                    <div class="align-icon" style="text-align:center;">
+                                                                                        <div class="aio-icon none " style="color:#4beee9;font-size:40px;display:inline-block;">
+                                                                                            <img src="/img/import/I-G-3.png" width="60px" height="60px" alt="icone" style="margin-top:4px;" />
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <h3 class="ult-responsive flipbox_heading"
-                                                                                data-ultimate-target='#flip-box-wrap-8440 .ult-responsive.flipbox_heading'
-                                                                                data-responsive-json-new='{"font-size":"desktop:18px;","line-height":"desktop:12px;"}'
-                                                                                style="color:#ffffff; font-family:&#039;Inter&#039;;font-weight:700;">
-                                                                                Maisons clés en main</h3>
+                                                                            <h3 class="ult-responsive flipbox_heading" data-ultimate-target='#flip-box-wrap-8440 .ult-responsive.flipbox_heading' data-responsive-json-new='{"font-size":"desktop:18px;","line-height":"desktop:12px;"}' style="color:#ffffff; font-family:&#039;Inter&#039;;font-weight:700;">
+                                                                                Assurance chantier</h3>
                                                                         </div>
                                                                     </div>
                                                                     <!-- END .front -->
-                                                                    <div class="ifb-face ifb-back"
-                                                                        style="color:#ffffff;color:#a59eb8;background:#003279; border-width: 1px;border-style: solid; border-color:#003279; border-radius: px;">
-                                                                        <div
-                                                                            class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
-                                                                            <h3 class="ult-responsive flipbox_heading"
-                                                                                data-ultimate-target='#flip-box-wrap-8440 .ult-responsive.flipbox_heading'
-                                                                                data-responsive-json-new='{"font-size":"desktop:18px;","line-height":"desktop:12px;"}'
-                                                                                style="color:#ffffff; font-family:&#039;Inter&#039;;font-weight:700;">
-                                                                                Maisons clés en main</h3>
-                                                                            <div class="ifb-flip-box-section-content ult-responsive"
-                                                                                data-ultimate-target='#flip-box-wrap-8440 .ifb-flip-box-section-content.ult-responsive'
-                                                                                data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:20px;"}'
-                                                                                style="font-family:&#039;Mulish&#039;;font-weight:500;color:#333333;color:#ffffff;color:#a59eb8;">
-                                                                                <p>Après avoir défini ensemble vos
-                                                                                    besoins, et après avoir signé un
-                                                                                    contrat, il vous suffira d’attendre
-                                                                                    le délai prévu avant de pouvoir
-                                                                                    récupérer les clés et emménager dans
-                                                                                    votre
-                                                                                    habitation neuve.</p>
+                                                                    <div class="ifb-face ifb-back" style="color:#ffffff;color:#a59eb8;background:#003279; border-width: 1px;border-style: solid; border-color:#003279; border-radius: px;">
+                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
+                                                                            <h3 class="ult-responsive flipbox_heading" data-ultimate-target='#flip-box-wrap-8440 .ult-responsive.flipbox_heading' data-responsive-json-new='{"font-size":"desktop:18px;","line-height":"desktop:12px;"}' style="color:#ffffff; font-family:&#039;Inter&#039;;font-weight:700;">
+                                                                                Assurance chantier</h3>
+                                                                            <div class="ifb-flip-box-section-content ult-responsive" data-ultimate-target='#flip-box-wrap-8440 .ifb-flip-box-section-content.ult-responsive' data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:20px;"}' style="font-family:&#039;Mulish&#039;;font-weight:500;color:#333333;color:#ffffff;color:#a59eb8;">
+                                                                                <p>Cette assurance sécurise l’opération et vos biens. Elle prendra le relais en cas de problèmes inattendus sur le chantier tel que l’inondation, les incendies etc…</p>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -4490,61 +4208,30 @@
                                             <div class="wpb_column vc_column_container vc_col-sm-3">
                                                 <div class="vc_column-inner">
                                                     <div class="wpb_wrapper">
-                                                        <div class="ult-spacer spacer-64130a705a19e"
-                                                            data-id="64130a705a19e" data-height=""
-                                                            data-height-mobile="20" data-height-tab=""
-                                                            data-height-tab-portrait=""
-                                                            data-height-mobile-landscape="20"
-                                                            style="clear:both;display:block;"></div>
+                                                        <div class="ult-spacer spacer-64130a705a19e" data-id="64130a705a19e" data-height="" data-height-mobile="20" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="20" style="clear:both;display:block;"></div>
                                                         <div class="flip-box-wrap" style="">
-                                                            <div class="flip-box ifb-jq-height  horizontal_flip_left flip-ifb-jq-height"
-                                                                style="">
+                                                            <div class="flip-box ifb-jq-height  horizontal_flip_left flip-ifb-jq-height" style="">
                                                                 <div class="ifb-flip-box" id="flip-box-wrap-2943">
-                                                                    <div class="ifb-face ifb-front "
-                                                                        style="color:#ffffff;color:#a59eb8;background:#003279; border-width: 1px;border-style: solid; border-color:#003279; border-radius: px;">
-                                                                        <div
-                                                                            class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
+                                                                    <div class="ifb-face ifb-front " style="color:#ffffff;color:#a59eb8;background:#003279; border-width: 1px;border-style: solid; border-color:#003279; border-radius: px;">
+                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
                                                                             <div class="flip-box-icon">
                                                                                 <div class="ult-just-icon-wrapper  ">
-                                                                                    <div class="align-icon"
-                                                                                        style="text-align:center;">
-                                                                                        <div class="aio-icon none "
-                                                                                            style="color:#4beee9;font-size:40px;display:inline-block;">
-                                                                                            <img src="/img/import/I-G-4.png"
-                                                                                                width="60px"
-                                                                                                height="60px"
-                                                                                                alt="icone"
-                                                                                                style="margin-top:4px;" />
+                                                                                    <div class="align-icon" style="text-align:center;">
+                                                                                        <div class="aio-icon none " style="color:#4beee9;font-size:40px;display:inline-block;">
+                                                                                            <img src="/img/import/I-G-4.png" width="60px" height="60px" alt="icone" style="margin-top:4px;" />
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <h3 class="ult-responsive flipbox_heading"
-                                                                                data-ultimate-target='#flip-box-wrap-2943 .ult-responsive.flipbox_heading'
-                                                                                data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}'
-                                                                                style="color:#ffffff; font-family:&#039;Inter&#039;;font-weight:700;">
-                                                                                Nous préfinançons vos logements</h3>
+                                                                            <h3 class="ult-responsive flipbox_heading" data-ultimate-target='#flip-box-wrap-2943 .ult-responsive.flipbox_heading' data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}' style="color:#ffffff; font-family:&#039;Inter&#039;;font-weight:700;">Nous préfinançons votre logement</h3>
                                                                         </div>
                                                                     </div>
                                                                     <!-- END .front -->
-                                                                    <div class="ifb-face ifb-back"
-                                                                        style="color:#ffffff;color:#a59eb8;background:#003279; border-width: 1px;border-style: solid; border-color:#003279; border-radius: px;">
-                                                                        <div
-                                                                            class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
-                                                                            <h3 class="ult-responsive flipbox_heading"
-                                                                                data-ultimate-target='#flip-box-wrap-2943 .ult-responsive.flipbox_heading'
-                                                                                data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}'
-                                                                                style="color:#ffffff; font-family:&#039;Inter&#039;;font-weight:700;">
-                                                                                Nous préfinançons vos logements</h3>
-                                                                            <div class="ifb-flip-box-section-content ult-responsive"
-                                                                                data-ultimate-target='#flip-box-wrap-2943 .ifb-flip-box-section-content.ult-responsive'
-                                                                                data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:20px;"}'
-                                                                                style="font-family:&#039;Mulish&#039;;font-weight:500;color:#333333;color:#ffffff;color:#a59eb8;">
-                                                                                <p>Avec nos partenaires, nous
-                                                                                    construisons votre logement
-                                                                                    entièrement et nous vous la livrons
-                                                                                    avant la fin de vos échéances de
-                                                                                    paiement.</p>
+                                                                    <div class="ifb-face ifb-back" style="color:#ffffff;color:#a59eb8;background:#003279; border-width: 1px;border-style: solid; border-color:#003279; border-radius: px;">
+                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
+                                                                            <h3 class="ult-responsive flipbox_heading" data-ultimate-target='#flip-box-wrap-2943 .ult-responsive.flipbox_heading' data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}' style="color:#ffffff; font-family:&#039;Inter&#039;;font-weight:700;">Nous préfinançons votre logement</h3>
+                                                                            <div class="ifb-flip-box-section-content ult-responsive" data-ultimate-target='#flip-box-wrap-2943 .ifb-flip-box-section-content.ult-responsive' data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:20px;"}' style="font-family:&#039;Mulish&#039;;font-weight:500;color:#333333;color:#ffffff;color:#a59eb8;">
+                                                                                <p>Avec nos partenaires, nous construisons votre logement entièrement et nous vous le livrons avant la fin de vos échéances de paiement.</p>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -4562,70 +4249,34 @@
                                         <div class="vc_empty_space" style="height: 20px">
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
-                                        <div class="vc_btn3-container vc_btn3-center">
-                                            <a href="/#enregistre-acquereurs"><button
-                                                    style="background-color:#4beee9; color:#003279;"
-                                                    class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-round vc_btn3-style-custom">Inscrivez-vous</button></a>
-                                        </div>
-                                        <div class="ult-spacer spacer-64130a705a45a" data-id="64130a705a45a"
-                                            data-height="100" data-height-mobile="60" data-height-tab=""
-                                            data-height-tab-portrait="80" data-height-mobile-landscape="60"
-                                            style="clear:both;display:block;"></div>
+                                        <!-- <div class="vc_btn3-container vc_btn3-center">
+                                            <a href="/#enregistre-acquereurs"><button style="background-color:#4beee9; color:#003279;" class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-round vc_btn3-style-custom">Inscrivez-vous</button></a>
+                                        </div> -->
+                                        <div class="ult-spacer spacer-64130a705a45a" data-id="64130a705a45a" data-height="100" data-height-mobile="60" data-height-tab="" data-height-tab-portrait="80" data-height-mobile-landscape="60" style="clear:both;display:block;"></div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <!-- Row Backgrounds -->
-                        <div class="upb_bg_img"
-                            data-ultimate-bg="url('/img/import/CS-Back.jpg')"
-                            data-image-id="id^2159|url^/img/import/I-BACK 2.jpg|caption^null|alt^null|title^bgcolors|description^null"
-                            data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat"
-                            data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30"
-                            data-bg-override="ex-full" data-bg_img_attach="scroll"
-                            data-upb-overlay-color="transparent" data-upb-bg-animation="" data-fadeout=""
-                            data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat"
-                            data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30"
-                            data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true"
-                            data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc=""
-                            data-theme-support="" data-overlay="true" data-overlay-color="transparent"
-                            data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size=""
-                            data-overlay-pattern-attachment="scroll"></div>
-                        <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"
-                            class="vc_row wpb_row vc_row-fluid wide-ipad vc_row-no-padding vc_row-o-equal-height vc_row-o-content-middle vc_row-flex" style="height: 100vh;">
-                            <div class="wpb_column vc_column_container vc_col-sm-6" >
+                        <div class="upb_bg_img" data-ultimate-bg="url('/img/import/CS-Back.jpg')" data-image-id="id^2159|url^/img/import/I-BACK 2.jpg|caption^null|alt^null|title^bgcolors|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="ex-full" data-bg_img_attach="scroll" data-upb-overlay-color="transparent" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="transparent" data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll"></div>
+                        <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid wide-ipad vc_row-no-padding vc_row-o-equal-height vc_row-o-content-middle vc_row-flex" style="height: 100vh;">
+                            <div class="wpb_column vc_column_container vc_col-sm-6">
                                 <div class="vc_column-inner">
                                     <div class="wpb_wrapper">
                                         <div class="ult-content-box-container ">
-                                            <div class="ult-content-box"0px 50px 150px
-                                                style="box-shadow: px px px px none;margin-top:0px;margin-right:50px;margin-bottom:50px;margin-left:50px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;"
-                                                data-hover_box_shadow="none" data-responsive_margins="margin:0px;"
-                                                data-normal_margins="margin-top:0px;margin-right:50px;margin-bottom:50px;margin-left:50px;">
-                                                <div
-                                                    class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1671640053393">
-                                                    <div class="wpb_column vc_column_container vc_col-sm-12" >
+                                            <div class="ult-content-box" 0px 50px 150px style="box-shadow: px px px px none;margin-top:0px;margin-right:50px;margin-bottom:50px;margin-left:50px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin:0px;" data-normal_margins="margin-top:0px;margin-right:50px;margin-bottom:50px;margin-left:50px;">
+                                                <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1671640053393">
+                                                    <div class="wpb_column vc_column_container vc_col-sm-12">
                                                         <div class="vc_column-inner">
                                                             <div class="wpb_wrapper">
-                                                                <div class="ult-spacer spacer-64130a705aff2"
-                                                                    data-id="64130a705aff2" data-height="10"
-                                                                    data-height-mobile="60" data-height-tab=""
-                                                                    data-height-tab-portrait=""
-                                                                    data-height-mobile-landscape="60"
-                                                                    style="clear:both;display:block;"></div>
-                                                                <p style="color: #4beee9;text-align: left"
-                                                                    class="vc_custom_heading heading_border">
+                                                                <div class="ult-spacer spacer-64130a705aff2" data-id="64130a705aff2" data-height="60" data-height-mobile="60" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="60" style="clear:both;display:block;"></div>
+                                                                <p style="color: #4beee9;text-align: left" class="vc_custom_heading heading_border">
                                                                     Fonctionnement</p>
-                                                                <div id="ultv-2287"
-                                                                    class="ult-dual-color ult-adjust-bottom-margin ult-dual-color-responsive-none ultv-2287  ">
-                                                                    <div class="ult-module-content ult-dual-color-heading"
-                                                                        style="text-align:left;">
+                                                                <div id="ultv-2287" class="ult-dual-color ult-adjust-bottom-margin ult-dual-color-responsive-none ultv-2287  ">
+                                                                    <div class="ult-module-content ult-dual-color-heading" style="text-align:left;">
                                                                         <h2>
                                                                             <span class="ult-before-heading">
-                                                                                <span
-                                                                                    class="ult-dual-heading-text ult-first-text ult-responsive"
-                                                                                    data-ultimate-target='.ult-dual-color.ultv-2287 .ult-dual-heading-text'
-                                                                                    data-responsive-json-new='{"font-size":"","line-height":""}'
-                                                                                    style="     border:none; font-family:&#039;Inter&#039;;font-weight:700;">Un
-                                                                                    challenge qui fonctionne</span>
+                                                                                <span class="ult-dual-heading-text ult-first-text ult-responsive" data-ultimate-target='.ult-dual-color.ultv-2287 .ult-dual-heading-text' data-responsive-json-new='{"font-size":"","line-height":""}' style="     border:none; font-family:&#039;Inter&#039;;font-weight:700;">Challenge-toit, <br> une solution qui marche</span>
                                                                             </span>
                                                                             <!--<span class="ult-adv-heading" style="">-->
                                                                             <!--        <span class="ult-dual-adv-heading-text ult-highlight-text ult-responsive" data-ultimate-target='.ult-dual-color.ultv-2287 .ult-highlight-text' data-responsive-json-new='{"font-size":"","line-height":""}' style="color:#4beee9;   letter-spacing:0px;  border:none; font-family:&#039;Inter&#039;;font-weight:800;">.</span>-->
@@ -4637,38 +4288,24 @@
                                                                     <span class="vc_empty_space_inner"></span>
                                                                 </div>
                                                                 <div class="aio-icon-component    style_1">
-                                                                    <div id="Info-box-wrap-2860"
-                                                                        class="aio-icon-box left-icon" style="">
+                                                                    <div id="Info-box-wrap-2860" class="aio-icon-box left-icon" style="">
                                                                         <div class="aio-icon-left">
                                                                             <div class="ult-just-icon-wrapper  ">
-                                                                                <div class="align-icon"
-                                                                                    style="text-align:center;">
-                                                                                    <div class="aio-icon circle "
-                                                                                        style="color:#ffffff;background:#4beee9;font-size:35px;display:inline-block;">
-                                                                                        <img src="/img/import/I-F-1.png"
-                                                                                            width="50px" height="50px"
-                                                                                            alt="icone"
-                                                                                            style="margin-top: 8px;">
+                                                                                <div class="align-icon" style="text-align:center;">
+                                                                                    <div class="aio-icon circle " style="color:#ffffff;background:#4beee9;font-size:35px;display:inline-block;">
+                                                                                        <img src="/img/import/I-F-1.png" width="50px" height="50px" alt="icone" style="margin-top: 8px;">
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                         <div class="aio-ibd-block">
                                                                             <div class="aio-icon-header">
-                                                                                <h3 class="aio-icon-title ult-responsive"
-                                                                                    data-ultimate-target='#Info-box-wrap-2860 .aio-icon-title'
-                                                                                    data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}'
-                                                                                    style="font-family:&#039;Inter&#039;;font-weight:700;">
+                                                                                <h3 class="aio-icon-title ult-responsive" data-ultimate-target='#Info-box-wrap-2860 .aio-icon-title' data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}' style="font-family:&#039;Inter&#039;;font-weight:700;">
                                                                                 </h3>
                                                                             </div>
                                                                             <!-- header -->
-                                                                            <div class="aio-icon-description ult-responsive"
-                                                                                data-ultimate-target='#Info-box-wrap-2860 .aio-icon-description'
-                                                                                data-responsive-json-new='{"font-size":"","line-height":""}'
-                                                                                style="font-family:&#039;Inter&#039;;">
-                                                                                Tu remplis le formulaire en ligne ou
-                                                                                tu viens directement dans nos locaux.
-                                                                                C’est gratuit et sans engagement.</div>
+                                                                            <div class="aio-icon-description ult-responsive" data-ultimate-target='#Info-box-wrap-2860 .aio-icon-description' data-responsive-json-new='{"font-size":"","line-height":""}' style="font-family:&#039;Inter&#039;;">
+                                                                                Inscrivez-vous</div>
                                                                             <!-- description -->
                                                                         </div>
                                                                         <!-- aio-ibd-block -->
@@ -4680,39 +4317,25 @@
                                                                     <span class="vc_empty_space_inner"></span>
                                                                 </div>
                                                                 <div class="aio-icon-component    style_1">
-                                                                    <div id="Info-box-wrap-7245"
-                                                                        class="aio-icon-box left-icon" style="">
+                                                                    <div id="Info-box-wrap-7245" class="aio-icon-box left-icon" style="">
                                                                         <div class="aio-icon-left">
                                                                             <div class="ult-just-icon-wrapper  ">
-                                                                                <div class="align-icon"
-                                                                                    style="text-align:center;">
-                                                                                    <div class="aio-icon circle "
-                                                                                        style="color:#ffffff;background:#03347b;font-size:35px;display:inline-block;">
-                                                                                        <img src="/img/import/I-F-2.png"
-                                                                                            width="50px" height="50px"
-                                                                                            alt="icone"
-                                                                                            style="margin-top: 8px;">
+                                                                                <div class="align-icon" style="text-align:center;">
+                                                                                    <div class="aio-icon circle " style="color:#ffffff;background:#03347b;font-size:35px;display:inline-block;">
+                                                                                        <img src="/img/import/I-F-2.png" width="50px" height="50px" alt="icone" style="margin-top: 8px;">
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                         <div class="aio-ibd-block">
                                                                             <div class="aio-icon-header">
-                                                                                <h3 class="aio-icon-title ult-responsive"
-                                                                                    data-ultimate-target='#Info-box-wrap-7245 .aio-icon-title'
-                                                                                    data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}'
-                                                                                    style="font-family:&#039;Inter&#039;;font-weight:700;">
+                                                                                <h3 class="aio-icon-title ult-responsive" data-ultimate-target='#Info-box-wrap-7245 .aio-icon-title' data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}' style="font-family:&#039;Inter&#039;;font-weight:700;">
                                                                                     <!-- Premium Resources -->
                                                                                 </h3>
                                                                             </div>
                                                                             <!-- header -->
-                                                                            <div class="aio-icon-description ult-responsive"
-                                                                                data-ultimate-target='#Info-box-wrap-7245 .aio-icon-description'
-                                                                                data-responsive-json-new='{"font-size":"","line-height":""}'
-                                                                                style="font-family:&#039;Inter&#039;;">
-                                                                                Présentation des sites disponibles et
-                                                                                des calculs d’échéances en fonction de tes
-                                                                                capacités financières et de tes choix.
+                                                                            <div class="aio-icon-description ult-responsive" data-ultimate-target='#Info-box-wrap-7245 .aio-icon-description' data-responsive-json-new='{"font-size":"","line-height":""}' style="font-family:&#039;Inter&#039;;">
+                                                                                Nous vous proposons un programme certifié qui correspond à votre demande (plan, prix, emplacement, visite du site, mode de paiement).
                                                                             </div>
                                                                             <!-- description -->
                                                                         </div>
@@ -4725,39 +4348,24 @@
                                                                     <span class="vc_empty_space_inner"></span>
                                                                 </div>
                                                                 <div class="aio-icon-component    style_1">
-                                                                    <div id="Info-box-wrap-4981"
-                                                                        class="aio-icon-box left-icon" style="">
+                                                                    <div id="Info-box-wrap-4981" class="aio-icon-box left-icon" style="">
                                                                         <div class="aio-icon-left">
                                                                             <div class="ult-just-icon-wrapper  ">
-                                                                                <div class="align-icon"
-                                                                                    style="text-align:center;">
-                                                                                    <div class="aio-icon circle "
-                                                                                        style="color:#ffffff;background:#4beee9;font-size:35px;display:inline-block;">
-                                                                                        <img src="/img/import/I-F-3.png"
-                                                                                            width="50px" height="50px"
-                                                                                            alt="icone"
-                                                                                            style="margin-top: 8px;">
+                                                                                <div class="align-icon" style="text-align:center;">
+                                                                                    <div class="aio-icon circle " style="color:#ffffff;background:#4beee9;font-size:35px;display:inline-block;">
+                                                                                        <img src="/img/import/I-F-3.png" width="50px" height="50px" alt="icone" style="margin-top: 8px;">
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                         <div class="aio-ibd-block">
                                                                             <div class="aio-icon-header">
-                                                                                <h3 class="aio-icon-title ult-responsive"
-                                                                                    data-ultimate-target='#Info-box-wrap-4981 .aio-icon-title'
-                                                                                    data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}'
-                                                                                    style="font-family:&#039;Inter&#039;;font-weight:700;">
+                                                                                <h3 class="aio-icon-title ult-responsive" data-ultimate-target='#Info-box-wrap-4981 .aio-icon-title' data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}' style="font-family:&#039;Inter&#039;;font-weight:700;">
                                                                                 </h3>
                                                                             </div>
                                                                             <!-- header -->
-                                                                            <div class="aio-icon-description ult-responsive"
-                                                                                data-ultimate-target='#Info-box-wrap-4981 .aio-icon-description'
-                                                                                data-responsive-json-new='{"font-size":"","line-height":""}'
-                                                                                style="font-family:&#039;Inter&#039;;">
-                                                                                Tu adhères au challenge par le paiement
-                                                                                de la somme de 150 000 FCFA (frais de
-                                                                                dossier) et tu reçois ton défi
-                                                                                personnalisé et adapté.</div>
+                                                                            <div class="aio-icon-description ult-responsive" data-ultimate-target='#Info-box-wrap-4981 .aio-icon-description' data-responsive-json-new='{"font-size":"","line-height":""}' style="font-family:&#039;Inter&#039;;">
+                                                                                Intégration du programme par le paiement du droit d’adhésion et la signature du contrat de prévente.</div>
                                                                             <!-- description -->
                                                                         </div>
                                                                         <!-- aio-ibd-block -->
@@ -4769,35 +4377,23 @@
                                                                     <span class="vc_empty_space_inner"></span>
                                                                 </div>
                                                                 <div class="aio-icon-component    style_1">
-                                                                    <div id="Info-box-wrap-4564"
-                                                                        class="aio-icon-box left-icon" style="">
+                                                                    <div id="Info-box-wrap-4564" class="aio-icon-box left-icon" style="">
                                                                         <div class="aio-icon-left">
                                                                             <div class="ult-just-icon-wrapper  ">
-                                                                                <div class="align-icon"
-                                                                                    style="text-align:center;">
-                                                                                    <div class="aio-icon circle "
-                                                                                        style="color:#ffffff;background:#03347b;font-size:35px;display:inline-block;">
-                                                                                        <img src="/img/import/I-F-4.png"
-                                                                                            width="50px" height="50px"
-                                                                                            alt="icone"
-                                                                                            style="margin-top: 8px;">
+                                                                                <div class="align-icon" style="text-align:center;">
+                                                                                    <div class="aio-icon circle " style="color:#ffffff;background:#03347b;font-size:35px;display:inline-block;">
+                                                                                        <img src="/img/import/I-F-4.png" width="50px" height="50px" alt="icone" style="margin-top: 8px;">
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                         <div class="aio-ibd-block">
                                                                             <div class="aio-icon-header">
-                                                                                <h3 class="aio-icon-title ult-responsive"
-                                                                                    data-ultimate-target='#Info-box-wrap-4564 .aio-icon-title'
-                                                                                    data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}'
-                                                                                    style="font-family:&#039;Inter&#039;;font-weight:700;">
+                                                                                <h3 class="aio-icon-title ult-responsive" data-ultimate-target='#Info-box-wrap-4564 .aio-icon-title' data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}' style="font-family:&#039;Inter&#039;;font-weight:700;">
                                                                                 </h3>
                                                                             </div>
                                                                             <!-- header -->
-                                                                            <div class="aio-icon-description ult-responsive"
-                                                                                data-ultimate-target='#Info-box-wrap-4564 .aio-icon-description'
-                                                                                data-responsive-json-new='{"font-size":"","line-height":""}'
-                                                                                style="font-family:&#039;Inter&#039;;">
+                                                                            <div class="aio-icon-description ult-responsive" data-ultimate-target='#Info-box-wrap-4564 .aio-icon-description' data-responsive-json-new='{"font-size":"","line-height":""}' style="font-family:&#039;Inter&#039;;">
                                                                                 Tu débutes ton challenge par le paiement
                                                                                 de ton fonds de garantie et tu reçois ton
                                                                                 contrat de réservation (possibilité de
@@ -4814,38 +4410,24 @@
                                                                     <span class="vc_empty_space_inner"></span>
                                                                 </div>
                                                                 <div class="aio-icon-component    style_1">
-                                                                    <div id="Info-box-wrap-4564"
-                                                                        class="aio-icon-box left-icon" style="">
+                                                                    <div id="Info-box-wrap-4564" class="aio-icon-box left-icon" style="">
                                                                         <div class="aio-icon-left">
                                                                             <div class="ult-just-icon-wrapper  ">
-                                                                                <div class="align-icon"
-                                                                                    style="text-align:center;">
-                                                                                    <div class="aio-icon circle "
-                                                                                        style="color:#ffffff;background:#4beee9;font-size:35px;display:inline-block;">
-                                                                                        <img src="/img/import/I-F-5.png"
-                                                                                            width="50px" height="50px"
-                                                                                            alt="icone"
-                                                                                            style="margin-top: 8px;">
+                                                                                <div class="align-icon" style="text-align:center;">
+                                                                                    <div class="aio-icon circle " style="color:#ffffff;background:#4beee9;font-size:35px;display:inline-block;">
+                                                                                        <img src="/img/import/I-F-5.png" width="50px" height="50px" alt="icone" style="margin-top: 8px;">
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                         <div class="aio-ibd-block">
                                                                             <div class="aio-icon-header">
-                                                                                <h3 class="aio-icon-title ult-responsive"
-                                                                                    data-ultimate-target='#Info-box-wrap-4564 .aio-icon-title'
-                                                                                    data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}'
-                                                                                    style="font-family:&#039;Inter&#039;;font-weight:700;">
+                                                                                <h3 class="aio-icon-title ult-responsive" data-ultimate-target='#Info-box-wrap-4564 .aio-icon-title' data-responsive-json-new='{"font-size":"desktop:18px;","line-height":""}' style="font-family:&#039;Inter&#039;;font-weight:700;">
                                                                                 </h3>
                                                                             </div>
                                                                             <!-- header -->
-                                                                            <div class="aio-icon-description ult-responsive"
-                                                                                data-ultimate-target='#Info-box-wrap-4564 .aio-icon-description'
-                                                                                data-responsive-json-new='{"font-size":"","line-height":""}'
-                                                                                style="font-family:&#039;Inter&#039;;">
-                                                                                Tu es livré en 3 ou 4 ans, tu dors dans ta
-                                                                                maison et tu as 2 ou 3 ans pour terminer tes
-                                                                                échéances.
+                                                                            <div class="aio-icon-description ult-responsive" data-ultimate-target='#Info-box-wrap-4564 .aio-icon-description' data-responsive-json-new='{"font-size":"","line-height":""}' style="font-family:&#039;Inter&#039;;">
+                                                                                Vous êtes livré dans le temps imparti et vous recevez un titre de propriété individuelle faisant de vous un propriétaire de plein droit.
                                                                             </div>
                                                                             <!-- description -->
                                                                         </div>
@@ -4875,7 +4457,7 @@
                                                                 <!--            </div>-->
                                                                 <!--        </div>-->
                                                                 <!--        <div class="aio-ibd-block">-->
-                                                                            <!-- header -->
+                                                                <!-- header -->
                                                                 <!--            <div class="aio-icon-description ult-responsive"-->
                                                                 <!--                data-ultimate-target='#Info-box-wrap-4564 .aio-icon-description'-->
                                                                 <!--                data-responsive-json-new='{"font-size":"","line-height":""}'-->
@@ -4888,19 +4470,14 @@
                                                                 <!--                Associations…), possibilité d’étaler vos-->
                                                                 <!--                paiements sur 7 ans.-->
                                                                 <!--            </div>-->
-                                                                            <!-- description -->
+                                                                <!-- description -->
                                                                 <!--        </div>-->
-                                                                        <!-- aio-ibd-block -->
+                                                                <!-- aio-ibd-block -->
                                                                 <!--    </div>-->
-                                                                    <!-- aio-icon-box -->
+                                                                <!-- aio-icon-box -->
                                                                 <!--</div>-->
                                                                 <!-- aio-icon-component -->
-                                                                <div class="ult-spacer spacer-64130a705b56d"
-                                                                    data-id="64130a705b56d" data-height="10"
-                                                                    data-height-mobile="60" data-height-tab=""
-                                                                    data-height-tab-portrait=""
-                                                                    data-height-mobile-landscape="60"
-                                                                    style="clear:both;display:block;"></div>
+                                                                <div class="ult-spacer spacer-64130a705b56d" data-id="64130a705b56d" data-height="10" data-height-mobile="60" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="60" style="clear:both;display:block;"></div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -4913,22 +4490,14 @@
                             <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill">
                                 <div class="vc_column-inner vc_custom_1675698850028">
                                     <div class="wpb_wrapper">
-                                        <div class="ult-spacer spacer-64130a705b91b" data-id="64130a705b91b"
-                                            data-height="" data-height-mobile="400" data-height-tab=""
-                                            data-height-tab-portrait="500" data-height-mobile-landscape="400"
-                                            style="clear:both;display:block;"></div>
+                                        <div class="ult-spacer spacer-64130a705b91b" data-id="64130a705b91b" data-height="" data-height-mobile="400" data-height-tab="" data-height-tab-portrait="500" data-height-mobile-landscape="400" style="clear:both;display:block;"></div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="vc_row-full-width vc_clearfix"></div>
                         <!-- Row Backgrounds -->
-                        <div class="upb_color" data-bg-override="ex-full" data-bg-color="#ffffff" data-fadeout=""
-                            data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30"
-                            data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true"
-                            data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc=""
-                            data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern=""
-                            data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div>
+                        <div class="upb_color" data-bg-override="ex-full" data-bg-color="#ffffff" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div>
                         <div class="vc_row wpb_row vc_row-fluid wide-ipad-main-row">
                             <div class="wpb_column vc_column_container vc_col-sm-2">
                                 <div class="vc_column-inner">
@@ -4937,13 +4506,9 @@
                             </div>
                             <div class="wpb_column vc_column_container vc_col-sm-8">
                                 <div class="vc_column-inner vc_custom_1675697974058">
-                                    <div class="wpb_wrapper" >
-                                        <div class="ult-spacer spacer-64130a705be97" data-id="64130a705be97"
-                                            data-height="100" data-height-mobile="80" data-height-tab=""
-                                            data-height-tab-portrait="" data-height-mobile-landscape="80"
-                                            style="clear:both;display:block;"></div>
-                                        <h3 style="text-align: center" class="vc_custom_heading align-center" id="whychallenge">Pourquoi
-                                            Challenge-toit ?</h3>
+                                    <div class="wpb_wrapper">
+                                        <div class="ult-spacer spacer-64130a705be97" data-id="64130a705be97" data-height="100" data-height-mobile="80" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="80" style="clear:both;display:block;"></div>
+                                        <h3 style="text-align: center" class="vc_custom_heading align-center" id="whychallenge">Pourquoi challenge-toit ?</h3>
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
                                                 <p style="text-align: center;">Parce que nous avons forcément une maison
@@ -4954,14 +4519,11 @@
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
                                         <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                            <div id="treethemes-recent-posts-shortcode-2"
-                                                class="widget des_recent_posts_widget nyssa_recent_posts nyssa-recent-posts without-scroller">
-                                                <div class="recent-posts-post image "
-                                                    data-animation="animated no-animation">
+                                            <div id="treethemes-recent-posts-shortcode-2" class="widget des_recent_posts_widget nyssa_recent_posts nyssa-recent-posts without-scroller">
+                                                <div class="recent-posts-post image " data-animation="animated no-animation">
                                                     <div class="featured-image">
-                                                        <a href="#" title="Choix du plan">
-                                                            <img alt="Choix du plan" src="/img/import/I-Plan.jpg"
-                                                                title="Choix du plan" />
+                                                        <a href="#" title="Choix du type de logement">
+                                                            <img alt="Choix du type de logement" src="/img/import/I-Plan.jpg" title="Choix du type de logement" />
                                                             <span class="post_overlay">
                                                                 <i class="fa fa-plus" aria-hidden="true"></i>
                                                             </span>
@@ -4972,19 +4534,16 @@
                                                         <!--    <a href="#">-->
                                                         <!--    </a>-->
                                                         <!--</div>-->
-                                                        <h4 style="font-size: 16px !important;">Choix du plan</h4>
+                                                        <h4 style="font-size: 16px !important;">Choix du type de logement</h4>
                                                         <h5 style="font-size:14px; font-weight:500;">
-                                                            RDV dans nos locaux, nous avons plusieurs plan pour pour vous!
+                                                        Vous décidez du type d’habitation qui vous conviendrait (villa basse, duplex, appartement…)
                                                         </h5>
                                                     </div>
                                                 </div>
-                                                <div class="recent-posts-post image "
-                                                    data-animation="animated no-animation">
+                                                <div class="recent-posts-post image " data-animation="animated no-animation">
                                                     <div class="featured-image">
-                                                        <a href="#" title="Choix des échéances">
-                                                            <img alt="Choix des échéances"
-                                                                src="/img/import/I-Echeances.jpg"
-                                                                title="Choix des échéances" />
+                                                        <a href="#" title="Choix du nombre d’année">
+                                                            <img alt="Choix du nombre d’année" src="/img/import/I-Echeances.jpg" title="Choix du nombre d’année" />
                                                             <span class="post_overlay">
                                                                 <i class="fa fa-plus" aria-hidden="true"></i>
                                                             </span>
@@ -4995,19 +4554,16 @@
                                                         <!--    <a href="#">-->
                                                         <!--    </a>-->
                                                         <!--</div>-->
-                                                        <h4 style="font-size: 16px !important;">Choix des échéances</h4>
+                                                        <h4 style="font-size: 16px !important;">Choix du nombre d’année</h4>
                                                         <h5 style="font-size:14px; font-weight:500;">
-                                                            En fonction de vos capacités financières
+                                                        Vous choisissez le nombre d’année en fonction de vos capacités financières et vos besoins.
                                                         </h5>
                                                     </div>
                                                 </div>
-                                                <div class="recent-posts-post image "
-                                                    data-animation="animated no-animation">
+                                                <div class="recent-posts-post image " data-animation="animated no-animation">
                                                     <div class="featured-image">
                                                         <a href="#" title="C’est toi qui décides">
-                                                            <img style="/*height: 34vh;*/" alt="C’est toi qui décides"
-                                                                src="/img/import/I-Cest toi.jpg"
-                                                                title="C’est toi qui décides" />
+                                                            <img style="/*height: 34vh;*/" alt="C’est toi qui décides" src="/img/import/I-Cest toi.jpg" title="C’est toi qui décides" />
                                                             <span class="post_overlay">
                                                                 <i class="fa fa-plus" aria-hidden="true"></i>
                                                             </span>
@@ -5026,10 +4582,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="ult-spacer spacer-64130a705d053" data-id="64130a705d053"
-                                            data-height="" data-height-mobile="40" data-height-tab=""
-                                            data-height-tab-portrait="60" data-height-mobile-landscape="40"
-                                            style="clear:both;display:block;"></div>
+                                        <div class="ult-spacer spacer-64130a705d053" data-id="64130a705d053" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="60" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
                                     </div>
                                 </div>
                             </div>
@@ -5040,15 +4593,7 @@
                             </div>
                         </div>
                         <!-- Row Backgrounds -->
-                        <div class="upb_grad"
-                            data-grad="background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #F9F3FF), color-stop(99%, #FFFFFF));background: -moz-linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);background: -webkit-linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);background: -o-linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);background: -ms-linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);background: linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);"
-                            data-bg-override="ex-full" data-upb-overlay-color="" data-upb-bg-animation=""
-                            data-fadeout="" data-fadeout-percentage="30" data-parallax-content=""
-                            data-parallax-content-sense="30" data-row-effect-mobile-disable="true"
-                            data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row=""
-                            data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false"
-                            data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity=""
-                            data-overlay-pattern-size="" data-hide-row=" uvc_hidden-sm "></div>
+                        <div class="upb_grad" data-grad="background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #F9F3FF), color-stop(99%, #FFFFFF));background: -moz-linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);background: -webkit-linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);background: -o-linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);background: -ms-linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);background: linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);" data-bg-override="ex-full" data-upb-overlay-color="" data-upb-bg-animation="" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size="" data-hide-row=" uvc_hidden-sm "></div>
                         <div id="hide_only_on_ipad" class="vc_row wpb_row vc_row-fluid wide-ipad-main-row">
                             <div class="wpb_column vc_column_container vc_col-sm-2">
                                 <div class="vc_column-inner">
@@ -5058,11 +4603,8 @@
                             <div class="wpb_column vc_column_container vc_col-sm-8">
                                 <div class="vc_column-inner vc_custom_1675697974058">
                                     <div class="wpb_wrapper">
-                                        <div class="ult-spacer spacer-64130a705d47c" data-id="64130a705d47c"
-                                            data-height="100" data-height-mobile="80" data-height-tab=""
-                                            data-height-tab-portrait="" data-height-mobile-landscape="80"
-                                            style="clear:both;display:block;"></div>
-                                        <h3 style="text-align: center" class="vc_custom_heading align-center">Pourquoi Challenge-toit ?</h3>
+                                        <div class="ult-spacer spacer-64130a705d47c" data-id="64130a705d47c" data-height="100" data-height-mobile="80" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="80" style="clear:both;display:block;"></div>
+                                        <h3 style="text-align: center" class="vc_custom_heading align-center">Pourquoi challenge-toit ?</h3>
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
                                                 <p style="text-align: center;">Nous avons forcément une maison pour toi
@@ -5073,12 +4615,10 @@
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
                                         <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                            <div class="recent-posts-post image "
-                                                data-animation="animated no-animation">
+                                            <div class="recent-posts-post image " data-animation="animated no-animation">
                                                 <div class="featured-image">
-                                                    <a href="#" title="Choix du plan">
-                                                        <img alt="Choix du plan" src="/img/import/I-Plan.jpg"
-                                                            title="Choix du plan" />
+                                                    <a href="#" title="Choix du type de logement">
+                                                        <img alt="Choix du type de logement" src="/img/import/I-Plan.jpg" title="Choix du type de logement" />
                                                         <span class="post_overlay">
                                                             <i class="fa fa-plus" aria-hidden="true"></i>
                                                         </span>
@@ -5087,17 +4627,15 @@
                                                 <div class="recentpostsvc">
                                                     <div class="title">
                                                         <a href="#">
-                                                            <h4>Choix du plan</h4>
+                                                            <h4>Choix du type de logement</h4>
                                                         </a>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="recent-posts-post image "
-                                                data-animation="animated no-animation">
+                                            <div class="recent-posts-post image " data-animation="animated no-animation">
                                                 <div class="featured-image">
-                                                    <a href="#" title="Choix des échéances">
-                                                        <img alt="Choix des échéances" src="/img/import/I-Echeances.jpg"
-                                                            title="Choix des échéances" />
+                                                    <a href="#" title="Choix du nombre d’année">
+                                                        <img alt="Choix du nombre d’année" src="/img/import/I-Echeances.jpg" title="Choix du nombre d’année" />
                                                         <span class="post_overlay">
                                                             <i class="fa fa-plus" aria-hidden="true"></i>
                                                         </span>
@@ -5106,18 +4644,15 @@
                                                 <div class="recentpostsvc">
                                                     <div class="title">
                                                         <a href="#">
-                                                            <h4>Choix des échéances</h4>
+                                                            <h4>Choix du nombre d’année</h4>
                                                         </a>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="recent-posts-post image "
-                                                data-animation="animated no-animation">
+                                            <div class="recent-posts-post image " data-animation="animated no-animation">
                                                 <div class="featured-image">
                                                     <a href="#" title="C’est toi qui décides">
-                                                        <img alt="C’est toi qui décides"
-                                                            src="/img/import/I-Cest toi.jpg"
-                                                            title="C’est toi qui décides" />
+                                                        <img alt="C’est toi qui décides" src="/img/import/I-Cest toi.jpg" title="C’est toi qui décides" />
                                                         <span class="post_overlay">
                                                             <i class="fa fa-plus" aria-hidden="true"></i>
                                                         </span>
@@ -5132,10 +4667,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="ult-spacer spacer-64130a705dd39" data-id="64130a705dd39"
-                                            data-height="" data-height-mobile="40" data-height-tab=""
-                                            data-height-tab-portrait="60" data-height-mobile-landscape="40"
-                                            style="clear:both;display:block;"></div>
+                                        <div class="ult-spacer spacer-64130a705dd39" data-id="64130a705dd39" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="60" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
                                     </div>
                                 </div>
                             </div>
@@ -5146,28 +4678,16 @@
                             </div>
                         </div>
                         <!-- Row Backgrounds -->
-                        <div class="upb_grad"
-                            data-grad="background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #F9F3FF), color-stop(99%, #FFFFFF));background: -moz-linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);background: -webkit-linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);background: -o-linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);background: -ms-linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);background: linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);"
-                            data-bg-override="ex-full" data-upb-overlay-color="" data-upb-bg-animation=""
-                            data-fadeout="" data-fadeout-percentage="30" data-parallax-content=""
-                            data-parallax-content-sense="30" data-row-effect-mobile-disable="true"
-                            data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row=""
-                            data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false"
-                            data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity=""
-                            data-overlay-pattern-size=""
-                            data-hide-row=" uvc_hidden-lg  uvc_hidden-ml  uvc_hidden-md  uvc_hidden-xs  uvc_hidden-xsl ">
+                        <div class="upb_grad" data-grad="background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #F9F3FF), color-stop(99%, #FFFFFF));background: -moz-linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);background: -webkit-linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);background: -o-linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);background: -ms-linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);background: linear-gradient(top,#F9F3FF 0%,#FFFFFF 99%);" data-bg-override="ex-full" data-upb-overlay-color="" data-upb-bg-animation="" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size="" data-hide-row=" uvc_hidden-lg  uvc_hidden-ml  uvc_hidden-md  uvc_hidden-xs  uvc_hidden-xsl ">
                         </div>
                         <div class="vc_row wpb_row vc_row-fluid">
                             <div class="wpb_column vc_column_container vc_col-sm-12">
                                 <div class="vc_column-inner">
                                     <div class="wpb_wrapper">
-                                        <div class="wpb_single_image wpb_content_element vc_align_left"
-                                            style="display: flex;justify-content: center;">
+                                        <div class="wpb_single_image wpb_content_element vc_align_left" style="display: flex;justify-content: center;">
                                             <figure class="wpb_wrapper vc_figure">
                                                 <div class="vc_single_image-wrapper   vc_box_border_grey">
-                                                    <img width="1483" height="475" src="/img/import/I-BAS.png"
-                                                        class="vc_single_image-img attachment-full" alt=""
-                                                        decoding="async" loading="lazy" title="bgmockups" />
+                                                    <img width="1483" height="475" src="/img/import/I-BAS.png" class="vc_single_image-img attachment-full" alt="" decoding="async" loading="lazy" title="bgmockups" />
                                                 </div>
                                             </figure>
                                         </div>
@@ -5176,15 +4696,7 @@
                             </div>
                         </div>
                         <!-- Row Backgrounds -->
-                        <div class="upb_grad"
-                            data-grad="background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #F9F3FF));background: -moz-linear-gradient(top,#FFFFFF 0%,#F9F3FF 100%);background: -webkit-linear-gradient(top,#FFFFFF 0%,#F9F3FF 100%);background: -o-linear-gradient(top,#FFFFFF 0%,#F9F3FF 100%);background: -ms-linear-gradient(top,#FFFFFF 0%,#F9F3FF 100%);background: linear-gradient(top,#FFFFFF 0%,#F9F3FF 100%);"
-                            data-bg-override="ex-full" data-upb-overlay-color="" data-upb-bg-animation=""
-                            data-fadeout="" data-fadeout-percentage="30" data-parallax-content=""
-                            data-parallax-content-sense="30" data-row-effect-mobile-disable="true"
-                            data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row=""
-                            data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false"
-                            data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity=""
-                            data-overlay-pattern-size=""></div>
+                        <div class="upb_grad" data-grad="background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #F9F3FF));background: -moz-linear-gradient(top,#FFFFFF 0%,#F9F3FF 100%);background: -webkit-linear-gradient(top,#FFFFFF 0%,#F9F3FF 100%);background: -o-linear-gradient(top,#FFFFFF 0%,#F9F3FF 100%);background: -ms-linear-gradient(top,#FFFFFF 0%,#F9F3FF 100%);background: linear-gradient(top,#FFFFFF 0%,#F9F3FF 100%);" data-bg-override="ex-full" data-upb-overlay-color="" data-upb-bg-animation="" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div>
                     </section>
                 </div>
             </section>
@@ -5213,8 +4725,8 @@
                                             </div>
                                             <div class="mc-field-group">
                                                 <label for="mce-EMAIL">
-                                                        L'email <span class="asterisk">*</span>
-                                                    </label>
+                                                    L'email <span class="asterisk">*</span>
+                                                </label>
                                                 <input type="email" value="" name="email" class="required email" id="mce-EMAIL" required>
                                                 <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
                                             </div>
@@ -5258,8 +4770,7 @@
                                                     <lord-icon src="https://cdn.treethemes.com/animations/icons/53-location-pin-on-round-map-outline-edited.json" trigger="hover" lalign="center" style="height: 90px; width: 90px" class="lizr_icon lizr_vc_d7n1iprG6t" colors="primary:#f9f3ff,secondary:#4beee9,"></lord-icon>
                                                 </div>
                                                 <div class="ult-content-box-container ">
-                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;"
-                                                        data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
+                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">Abidjan, Cocody riviera, Carrefour Tonton Bouba face au collège Akanji</p>
@@ -5285,13 +4796,12 @@
                                                     <lord-icon src="https://cdn.treethemes.com/animations/icons/145-envelope-mail-notification-open-morph-outline-edited.json" trigger="hover" lalign="center" style="height: 90px; width: 90px" class="lizr_icon lizr_vc_Mh1OTyBieF" colors="primary:#f9f3ff,secondary:#4beee9,"></lord-icon>
                                                 </div>
                                                 <div class="ult-content-box-container ">
-                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;"
-                                                        data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
+                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">
                                                                     <a href="mailto:challenge-toit@heyz.ci">challenge-toit@heyz.ci</a>
-                                                                    <br/>
+                                                                    <br />
                                                                     <a href="mailto:challenge-toit@heyz.ci">info-challenge-toit@heyz.ci</a>
                                                                 </p>
                                                             </div>
@@ -5316,12 +4826,11 @@
                                                     <lord-icon src="https://cdn.treethemes.com/animations/icons/140-earphone-telephone-outline-edited.json" trigger="hover" lalign="center" style="height: 90px; width: 90px" class="lizr_icon lizr_vc_I41aJwYo30" colors="primary:#f9f3ff,secondary:#4beee9,"></lord-icon>
                                                 </div>
                                                 <div class="ult-content-box-container ">
-                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;"
-                                                        data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
+                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">
-                                                                    (+225) 0779796440<br/>&nbsp;
+                                                                    (+225) 0779796440<br />&nbsp;
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -5383,8 +4892,7 @@
                     <div class="input-row">
                         <div>
                             <label for="montantmod">Entrez le coût souhaité de votre maison.</label>
-                            <input id="montantmod" name="montantmod" type="number" step="1000000"
-                                placeholder="Votre prix" value="15000000" min="15000000" />
+                            <input id="montantmod" name="montantmod" type="number" step="1000000" placeholder="Votre prix" value="15000000" min="15000000" />
                         </div>
                     </div>
                     <div class="input-row">
@@ -5400,8 +4908,7 @@
                         </div>
                         <div>
                             <label for="anmod">Nombre d'année</label>
-                            <input id="anmod" name="anmod" type="number" step="1" placeholder="Définissez l'année"
-                                value="5" min="5" max="7" />
+                            <input id="anmod" name="anmod" type="number" step="1" placeholder="Définissez l'année" value="5" min="5" max="7" />
                         </div>
                     </div>
                     <table style="width: 97%;">
@@ -5414,6 +4921,76 @@
                         </tr>
                     </table>
                 </div>
+            </div>
+        </div>
+
+        <div class="ult-overlay content-64f491c87e33b4-400000" data-class="content-64f491c87e33b4-400000" id="button-click-overlay" style="background:rgba(23,22,29,0.98); display:none;">
+            <div class="ult_modal ult-fade ult-medium">
+                <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
+                    <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
+                        BON PLAN POUR VOTRE MAISON
+                        <p></p>
+                        <div class="wpcf7 js" id="wpcf7-f831-o1" lang="en-US" dir="ltr">
+                            <div class="screen-reader-response">
+                                <p role="status" aria-live="polite" aria-atomic="true"></p>
+                                <ul></ul>
+                            </div>
+                            <form action="{{route('font.acquereurs.store')}}" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" id="form-register-modal">
+
+                                @csrf
+                                <div class="nyssa-multiple-fields">
+                                    <div class="f-subject">
+                                        <p>Vous êtes une</p>
+                                        <p>
+                                            <span class="wpcf7-form-control-wrap" data-name="menu-781">
+                                                <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="typperso">
+                                                    <option value="association">association</option>
+                                                    <option value="mutuelle">mutuelle</option>
+                                                    <option value="coopérative">coopérative</option>
+                                                    <option value="syndicats">syndicats</option>
+                                                    <option value="fondation">fondation</option>
+                                                    <option value="autres">autres</option>
+                                                </select>
+                                            </span>
+                                        </p>
+                                    </div>
+                                    <div class="f-email">
+                                        <p>Nom du groupement<span class="cforms-required">*</span></p>
+                                        <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="nomgroup"></span>
+                                        </p>
+                                    </div>
+                                    <div class="f-name">
+                                        <p>Personne ressource<span class="cforms-required"></span>
+                                        </p>
+                                        <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="nompre"></span>
+                                        </p>
+                                    </div>
+                                    <div class="f-email">
+                                        <p>Contacts<span class="cforms-required">*</span>
+                                        </p>
+                                        <p><span class="wpcf7-form-control-wrap" data-name="your-email"><input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="email"></span>
+                                        </p>
+                                    </div>
+                                    <div class="f-name" style="left: 0;right: 0;width: 100%;">
+                                        <p>Que souhaitez-vous<span class="cforms-required"></span>
+                                        </p>
+                                        <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="souhait"></span>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="bt-contact center">
+                                    <p id="btnsender">
+                                        <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Envoyez ma demande"><span class="wpcf7-spinner"></span></a>
+                                    </p>
+                                </div>
+                                <div class="wpcf7-response-output" aria-hidden="true"></div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="ult-overlay-close top-right" style="width:80px;height:80px; ">
+                <div class="ult-overlay-close-inside"></div>
             </div>
         </div>
 
@@ -5438,15 +5015,13 @@
             window.RS_MODULES.type = 'compiled';
         </script>
         <script type="text/javascript">
-            (function () {
+            (function() {
                 var c = document.body.className;
                 c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
                 document.body.className = c;
             })();
         </script>
-        <link rel='stylesheet' id='nyssa-cpt-css'
-            href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/nyssa_custom_post_types/lib/css/treethemes-cpt-frontend.css?ver=6.1.1'
-            type='text/css' media='all' />
+        <link rel='stylesheet' id='nyssa-cpt-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/nyssa_custom_post_types/lib/css/treethemes-cpt-frontend.css?ver=6.1.1' type='text/css' media='all' />
         <style id='nyssa-cpt-inline-css' type='text/css'>
             #nyssa_socials_widget-2 i:before {
                 font-size: 26px !important;
@@ -5457,24 +5032,12 @@
                 color: #4beee9 !important;
             }
         </style>
-        <link rel='stylesheet' id='ultimate-vc-addons-style-min-css'
-            href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/ultimate.min.css?ver=3.19.13'
-            type='text/css' media='all' />
-        <link rel='stylesheet' id='vc_animate-css-css'
-            href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=6.10.0'
-            type='text/css' media='all' />
-        <link rel='stylesheet' id='ultimate-vc-addons-background-style-css'
-            href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/background-style.min.css?ver=3.19.13'
-            type='text/css' media='all' />
-        <link rel='stylesheet' id='lightbox2-css'
-            href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/lightbox2/dist/css/lightbox.min.css?ver=6.10.0'
-            type='text/css' media='all' />
-        <link rel='stylesheet' id='vc_pageable_owl-carousel-css-css'
-            href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/owl-carousel2-dist/assets/owl.min.css?ver=6.10.0'
-            type='text/css' media='all' />
-        <link rel='stylesheet' id='nyssa-custom-style-css'
-            href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/nyssa-custom.css?ver=6.1.1'
-            type='text/css' media='all' />
+        <link rel='stylesheet' id='ultimate-vc-addons-style-min-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/ultimate.min.css?ver=3.19.13' type='text/css' media='all' />
+        <link rel='stylesheet' id='vc_animate-css-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=6.10.0' type='text/css' media='all' />
+        <link rel='stylesheet' id='ultimate-vc-addons-background-style-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/background-style.min.css?ver=3.19.13' type='text/css' media='all' />
+        <link rel='stylesheet' id='lightbox2-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/lightbox2/dist/css/lightbox.min.css?ver=6.10.0' type='text/css' media='all' />
+        <link rel='stylesheet' id='vc_pageable_owl-carousel-css-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/owl-carousel2-dist/assets/owl.min.css?ver=6.10.0' type='text/css' media='all' />
+        <link rel='stylesheet' id='nyssa-custom-style-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/nyssa-custom.css?ver=6.1.1' type='text/css' media='all' />
         <style id='nyssa-custom-style-inline-css' type='text/css'>
             .vc_custom_1671642353737 {
                 padding-top: 150px !important;
@@ -5522,37 +5085,26 @@
                 visibility: visible;
             }
         </style>
-        
+
         <script>
-            function openSimulator(){
+            function openSimulator() {
                 document.querySelector("#content-simulate").style.display = "block";
             }
-            
-            $("#creatCont").click(function(){
-              openSimulator();
-              location.href = "#zone-simulateur";
+
+            $("#creatCont").click(function() {
+                openSimulator();
+                location.href = "#zone-simulateur";
             });
-            
         </script>
-        
-        <link rel='stylesheet' id='rs-plugin-settings-css'
-            href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.10'
-            type='text/css' media='all' />
+
+        <link rel='stylesheet' id='rs-plugin-settings-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.10' type='text/css' media='all' />
         <style id='rs-plugin-settings-inline-css' type='text/css'>
             #rs-demo-id {}
         </style>
-        <link rel='stylesheet' id='nyssa-google-fonts-css'
-            href='https://fonts.googleapis.com/css?family=Inter%3Anormal%7CInter%3A600%7CInter%3A700%7CInter%3A500%7CInter%3A800&#038;ver=6.1.1'
-            type='text/css' media='all' />
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/lizr/assets/js/vc-scripts.js?ver=3.0.0'
-            id='lizr-vc-script-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/lizr/assets/js/lizr_lordicon.js?ver=3.0.0'
-            id='widget-lizr-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.4'
-            id='swv-js'></script>
+        <link rel='stylesheet' id='nyssa-google-fonts-css' href='https://fonts.googleapis.com/css?family=Inter%3Anormal%7CInter%3A600%7CInter%3A700%7CInter%3A500%7CInter%3A800&#038;ver=6.1.1' type='text/css' media='all' />
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/lizr/assets/js/vc-scripts.js?ver=3.0.0' id='lizr-vc-script-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/lizr/assets/js/lizr_lordicon.js?ver=3.0.0' id='widget-lizr-js'></script>
+        <!-- <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.4' id='swv-js'></script>
         <script type='text/javascript' id='contact-form-7-js-extra'>
             /* <![CDATA[ */
             var wpcf7 = {
@@ -5563,18 +5115,10 @@
             };
             /* ]]> */
         </script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.4'
-            id='contact-form-7-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.10'
-            defer async id='tp-tools-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.10'
-            defer async id='revmin-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.3.0'
-            id='js-cookie-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.4' id='contact-form-7-js'></script> -->
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.10' defer async id='tp-tools-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.10' defer async id='revmin-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.3.0' id='js-cookie-js'></script>
         <script type='text/javascript' id='woocommerce-js-extra'>
             /* <![CDATA[ */
             var woocommerce_params = {
@@ -5583,9 +5127,7 @@
             };
             /* ]]> */
         </script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.3.0'
-            id='woocommerce-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.3.0' id='woocommerce-js'></script>
         <script type='text/javascript' id='wc-cart-fragments-js-extra'>
             /* <![CDATA[ */
             var wc_cart_fragments_params = {
@@ -5597,42 +5139,18 @@
             };
             /* ]]> */
         </script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.3.0'
-            id='wc-cart-fragments-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-includes/js/comment-reply.min.js?ver=6.1.1'
-            id='comment-reply-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/treethemes-modernizr.js?ver=1.0'
-            id='nyssa-treethemes-modernizr-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/waypoint.js?ver=1.0'
-            id='waypoint-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/jquery.stellar.min.js?ver=1.0'
-            id='jquery-stellar-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/jquery.flexslider-min.js?ver=1.0'
-            id='jquery-flexslider-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/treethemes-isotope.js?ver=1.0'
-            id='nyssa-treethemes-isotope-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/queryLoader.js?ver=1.0'
-            id='queryLoader2-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/bootstrap.min.js?ver=1.0'
-            id='bootstrap-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/jquery.dlmenu.js?ver=1.0'
-            id='jquery-dlmenu-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/jquery.select2.js?ver=1.0'
-            id='jquery-select2-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.2'
-            id='jquery-effects-core-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.3.0' id='wc-cart-fragments-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-includes/js/comment-reply.min.js?ver=6.1.1' id='comment-reply-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/treethemes-modernizr.js?ver=1.0' id='nyssa-treethemes-modernizr-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/waypoint.js?ver=1.0' id='waypoint-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/jquery.stellar.min.js?ver=1.0' id='jquery-stellar-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/jquery.flexslider-min.js?ver=1.0' id='jquery-flexslider-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/treethemes-isotope.js?ver=1.0' id='nyssa-treethemes-isotope-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/queryLoader.js?ver=1.0' id='queryLoader2-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/bootstrap.min.js?ver=1.0' id='bootstrap-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/jquery.dlmenu.js?ver=1.0' id='jquery-dlmenu-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/utils/jquery.select2.js?ver=1.0' id='jquery-select2-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.2' id='jquery-effects-core-js'></script>
         <script type='text/javascript' id='nyssa-global-js-extra'>
             /* <![CDATA[ */
             var nyssaOptions = {
@@ -5660,14 +5178,12 @@
             };
             /* ]]> */
         </script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/global.js?ver=1'
-            id='nyssa-global-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/global.js?ver=1' id='nyssa-global-js'></script>
         <script type='text/javascript' id='nyssa-global-js-after'>
-            jQuery(document).ready(function () {
+            jQuery(document).ready(function() {
                 "use strict";
                 if (jQuery(".wp-audio-shortcode").length) {
-                    jQuery(".wp-audio-shortcode").each(function () {
+                    jQuery(".wp-audio-shortcode").each(function() {
                         jQuery(this).removeClass("wp-audio-shortcode").addClass("wp-audio-shortcode-ready").attr("preload", "meta");
                         if (typeof jQuery(this).get(0).player != "undefined")
                             jQuery(this).get(0).player.remove();
@@ -5676,63 +5192,29 @@
                 }
             });
         </script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/cubeportfolio/public/js/main.min-1.13.2.js?ver=5.1' id='cubeportfolio-jquery-js-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/content-box.min.js?ver=3.19.13' id='ultimate-vc-addons_content_box_js-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/info-box.min.js?ver=3.19.13' id='ultimate-vc-addons-info_box_js-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/flip-box.min.js?ver=3.19.13' id='ultimate-vc-addons-flip_box_js-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/SmoothScroll.min.js?ver=3.19.13' id='ultimate-vc-addons-smooth-scroll-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate_bg.min.js?ver=6.1.1' id='ultimate-vc-addons-row-bg-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.10.0' id='wpb_composer_front_js-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=6.10.0' id='vc_waypoints-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/mb-YTPlayer.min.js?ver=3.19.13' id='ultimate-vc-addons-jquery.ytplayer-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/lightbox2/dist/js/lightbox.min.js?ver=6.10.0' id='lightbox2-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/owl-carousel2-dist/owl.carousel.min.js?ver=6.10.0' id='vc_pageable_owl-carousel-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/bower/imagesloaded/imagesloaded.pkgd.min.js?ver=6.10.0' id='vc_grid-js-imagesloaded-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
+        <script type='text/javascript' re src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/js/dist/vc_grid.min.js?ver=6.10.0' id='vc_grid-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/bower/progress-circle/ProgressCircle.min.js?ver=6.10.0' id='progressCircle-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/vc_chart/jquery.vc_chart.min.js?ver=6.10.0' id='vc_pie-js'></script>
+        <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/lizr/assets/js/lizr_lordicon.js?ver=3.0.0' id='lizr-animate-js-js'></script>
+
         <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/cubeportfolio/public/js/main.min-1.13.2.js?ver=5.1'
-            id='cubeportfolio-jquery-js-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/content-box.min.js?ver=3.19.13'
-            id='ultimate-vc-addons_content_box_js-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/info-box.min.js?ver=3.19.13'
-            id='ultimate-vc-addons-info_box_js-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/flip-box.min.js?ver=3.19.13'
-            id='ultimate-vc-addons-flip_box_js-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/SmoothScroll.min.js?ver=3.19.13'
-            id='ultimate-vc-addons-smooth-scroll-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-includes/js/imagesloaded.min.js?ver=4.1.4'
-            id='imagesloaded-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-includes/js/masonry.min.js?ver=4.2.2'
-            id='masonry-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate_bg.min.js?ver=6.1.1'
-            id='ultimate-vc-addons-row-bg-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.10.0'
-            id='wpb_composer_front_js-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=6.10.0'
-            id='vc_waypoints-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/mb-YTPlayer.min.js?ver=3.19.13'
-            id='ultimate-vc-addons-jquery.ytplayer-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/lightbox2/dist/js/lightbox.min.js?ver=6.10.0'
-            id='lightbox2-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/owl-carousel2-dist/owl.carousel.min.js?ver=6.10.0'
-            id='vc_pageable_owl-carousel-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/bower/imagesloaded/imagesloaded.pkgd.min.js?ver=6.10.0'
-            id='vc_grid-js-imagesloaded-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-includes/js/underscore.min.js?ver=1.13.4'
-            id='underscore-js'></script>
-        <script type='text/javascript're
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/js/dist/vc_grid.min.js?ver=6.10.0'
-            id='vc_grid-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/bower/progress-circle/ProgressCircle.min.js?ver=6.10.0'
-            id='progressCircle-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/lib/vc_chart/jquery.vc_chart.min.js?ver=6.10.0'
-            id='vc_pie-js'></script>
-        <script type='text/javascript'
-            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/lizr/assets/js/lizr_lordicon.js?ver=3.0.0'
-            id='lizr-animate-js-js'></script>
+            src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/modal-all.min.js?ver=3.19.13'
+            id='ultimate-vc-addons-modal-all-js'></script>
 
 </body>
 

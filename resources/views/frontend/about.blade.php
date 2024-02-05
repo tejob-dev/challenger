@@ -3181,16 +3181,19 @@
                         <li id="mobile-nav-menu-item-4474" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children page-4445">
                             <a href="/" class="menu-link main-menu-link">Accueil</a>
                         </li>
-                        <li id="mobile-nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page  menu-item-has-children page-24">
-                            <a href="/service.html" class="menu-link main-menu-link">Solutions Acquereurs</a>
+                        <li id="mobile-nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page  menu-item-has-children page-24 current-page-ancestor current-menu-ancestor menu-item-has-children current-page-parent  custom-3971">
+                            <a href="/inscription.html" class="menu-link main-menu-link">Inscription</a>
                         </li>
-                        <li id="mobile-nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom current-page-ancestor current-menu-ancestor menu-item-has-children current-page-parent  custom-3971">
+                        <!-- <li id="mobile-nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom ">
                             <a href="/about.html" class="menu-link main-menu-link">Challenge Pro</a>
+                        </li>
+                        <li id="mobile-nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children page-24">
+                            <a href="/bon-plan" class="menu-link main-menu-link">Bon Plans</a>
                         </li>
                         <li id="mobile-nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page  menu-item-has-children page-24">
                             <a href="/parrain.html" class="menu-link main-menu-link">Parrainage</a>
-                        </li>
-                        <li id="mobile-nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom current-page-ancestor current-menu-ancestor menu-item-has-children current-page-parent  custom-3971">
+                        </li> -->
+                        <li id="mobile-nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom ">
                             <a href="/contact.html" class="menu-link main-menu-link">Contact</a>
                         </li>
                     </ul>
@@ -3201,15 +3204,18 @@
                             <li id="nav-menu-item-4474" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children page-4445">
                                 <a href="/" class="menu-link main-menu-link">Accueil</a>
                             </li>
-                            <li id="nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
-                                <a href="/service.html" class="menu-link main-menu-link">Solutions Acquereurs</a>
+                            <li id="nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24 current-page-ancestor current-menu-ancestor menu-item-has-children current-page-parent custom-3971">
+                                <a href="/inscription.html" class="menu-link main-menu-link">Inscription</a>
                             </li>
-                            <li id="nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom current-page-ancestor current-menu-ancestor menu-item-has-children current-page-parent custom-3971">
+                            <!-- <li id="nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom ">
                                 <a href="/about.html" class="menu-link main-menu-link">Challenge Pro</a>
+                            </li>
+                            <li id="nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom current-page-ancestor menu-item-has-children page-24"">
+                                <a href="/bon-plan" class="menu-link main-menu-link">Bon Plans</a>
                             </li>
                             <li id="nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
                                 <a href="/parrain.html" class="menu-link main-menu-link">Parrainage</a>
-                            </li>
+                            </li> -->
                             <li id="nav-menu-item-3971" class="main-menu-item  menu-item-even menu-item-depth-0 nyssa_mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children current-page-parent custom-3971">
                                 <a href="/contact.html" class="menu-link main-menu-link">Contact</a>
                             </li>
@@ -3379,40 +3385,6 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class='label 3'>
-                                                <div class='nyssa_icon_special_tabs'>
-                                                    <img src="/img/import/I-C-3.png" width="60px" height="60px" alt="icone" style="margin-top:4px;"/>
-                                                </div>
-                                                <div class='title'>
-                                                    <a class='special_tabs_linkage'>Engagé</a>
-                                                </div>
-                                                <div class='divider-vertical-tabs'></div>
-                                            </div>
-                                            <div class='content 3'>
-                                                <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                                    <div class="wpb_column vc_column_container vc_col-sm-12">
-                                                        <div class="vc_column-inner vc_custom_1474056192226">
-                                                            <div class="wpb_wrapper" style="width:100%;">
-                                                                <h3 style="text-align: left" class="vc_custom_heading">Marketing et publicité</h3>
-                                                                <div class="vc_empty_space" style="height: 20px">
-                                                                    <span class="vc_empty_space_inner"></span>
-                                                                </div>
-                                                                <div class="wpb_text_column wpb_content_element ">
-                                                                    <div class="wpb_wrapper">
-                                                                        <p>A vos côtés, nous réalisons des campagnes publicitaires et des opérations de marketing en 
-                                                                            vue de toujours vous permettre de vous faire connaitre et faire connaitre vos offres.
-                                                                            Tout est pris en charge par nos équipes de professionnels et d’experts.
-                                                                            Nous ne travaillons qu’avec les meilleurs…</p>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="vc_empty_space" style="height: 20px">
-                                                                    <span class="vc_empty_space_inner"></span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
                                         </section>
                                         <div class="ult-spacer spacer-64131a284d495" data-id="64131a284d495" data-height="100" data-height-mobile="60" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="60" style="clear:both;display:block;"></div>
                                     </div>
@@ -3420,12 +3392,21 @@
                             </div>
                         </div>
                         <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid team-boxes-style wide-ipad wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_row-o-equal-height vc_row-flex">
-                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill">
+                            <div class="wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill">
+                                <div class="vc_column-inner vc_custom_1674469181075">
+                                    <div class="wpb_wrapper">
+                                        <div class="vc_empty_space" style="height: 250px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>    
+                            <div class="wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill">
                                 <div class="vc_column-inner vc_custom_1671107601524">
                                     <div class="wpb_wrapper">
                                         <div class="vc_icon_element vc_icon_element-outer icon-absolute-boxes vc_icon_element-align-right">
                                             <div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-size-lg vc_icon_element-style- vc_icon_element-background-color-grey">
-                                                <!--<span class="vc_icon_element-icon fas fa-caret-left" style="color:#5a24b1 !important"></span>-->
+                                                <span class="vc_icon_element-icon fas fa-caret-left" style="color:#5a24b1 !important"></span>
                                             </div>
                                         </div>
                                         <div class="ult-content-box-container ">
@@ -3796,7 +3777,7 @@
                                                                 <p>Il ne reste plus que vous !</p>
                                                             </div>
                                                         </div>
-                                                        <div class="vc_toggle vc_toggle_square vc_toggle_color_default  vc_toggle_size_lg">
+                                                        <!-- <div class="vc_toggle vc_toggle_square vc_toggle_color_default  vc_toggle_size_lg">
                                                             <div class="vc_toggle_title">
                                                                 <h4>Incroyable</h4>
                                                                 <i class="vc_toggle_icon"></i>
@@ -3808,7 +3789,7 @@
                                                                 <p>Agent immobilier : Vous avez avec nous la possibilité d’avoir des revenus supplémentaires conséquents</p>
 
                                                             </div>
-                                                        </div>
+                                                        </div> -->
                                                     </div>
                                                 </div>
                                             </div>

@@ -30,6 +30,7 @@ use App\Http\Controllers\ProjectConstuctController;
 }); */
 
 Route::redirect('/connect', 'login', 302);
+Route::redirect('/inscription', '/inscription.html', 302);
 Route::redirect('/service.html', 'solution-acquereur', 302);
 Route::redirect('/about.html', 'challenge-pro', 302);
 Route::redirect('/parrain.html', 'parrainage', 302);
@@ -41,15 +42,24 @@ Route::get('/notavailable', function(){
 Route::get('/', function(){
     return view("frontend.index");
 });
+Route::get('/index2.html', function(){
+    return view("frontend.index2");
+});
 Route::get('/index.html', function(){
     return view("frontend.index");
+});
+Route::get('/inscription.html', function(){
+    return view("frontend.about");
 });
 Route::get('/solution-acquereur', function(){
     return view("frontend.service");
 });
-Route::get('/challenge-pro', function(){
-    return view("frontend.about");
+Route::get('/bon-plan', function(){
+    return view("frontend.bon-plan");
 });
+// Route::get('/challenge-pro', function(){
+//     return view("frontend.about");
+// });
 Route::get('/parrainage', function(){
     return view("frontend.parrain");
 });
