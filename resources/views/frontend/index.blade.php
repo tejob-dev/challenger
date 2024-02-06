@@ -3349,20 +3349,34 @@
                             --></rs-column><!--
                         --></rs-row><!--
 
-                        --><rs-row id="slider-18-slide-52-layer-12" data-type="row" data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-margin="t:100,50,50,450;r:30,30,30,20;b:75,75,50,50;l:30,30,30,20;" data-frame_0="x:left;o:1;" data-frame_1="e:power4.out;st:300;sp:2000;sR:300;" data-frame_999="x:0px;y:bottom;o:1;st:w;sp:1000;sR:6700;sA:9000;" style="z-index:6;"><!--
-                            --><rs-column id="slider-18-slide-52-layer-13" data-type="column" data-bsh="c:rgba(0,0,0,0.15);v:20px;b:40px;" data-xy="xo:50px;yo:50px;" data-text="a:right,right,right,center;" data-actions='o:mouseenter;a:pauseslider;||o:mouseleave;a:playslider;' data-rsp_bd="off" data-column="w:100%;" data-padding="t:30,30,20,20;r:30,30,20,20;b:30,30,20,30;l:30,30,20,20;" data-border="bor:10px,10px,10px,10px;" data-frame_0="o:1;bB:10px;" data-frame_1="bB:10px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;bB:10px;sA:9000;" style="z-index:7;background-color:rgba(74,81,101,0.5);width:100%;"><!--
-                                --><rs-layer id="slider-18-slide-52-layer-21" data-type="shape" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:20,15,11,6;f:left;l:0,19,14,8;" data-flcr="f:left;" data-dim="w:10px,10px,10px,6px;h:10px,10px,10px,6px;" data-disp="inline-block" data-border="bor:5px,5px,5px,5px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" data-loop_999="sX:2;sY:2;sp:2000;st:0;e:sine.inOut;yys:t;yyf:t;" style="z-index:8;background-color:#f94a82;display:inline-block;">
-                                                                </rs-layer><!--
+                        --><rs-row id="slider-18-slide-52-layer-12" data-type="row" data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-margin="t:100,50,50,450;r:30,30,30,20;b:75,75,50,50;l:30,30,30,20;" data-frame_0="x:left;o:1;" data-frame_1="e:power4.out;st:300;sp:2000;sR:300;" data-frame_999="x:0px;y:bottom;o:1;st:w;sp:1000;sR:6700;sA:9000;" style="z-index:6;">
+                                                                <!--
+									-->
+                                    <rs-column id="slider-18-slide-52-layer-13" data-type="column" data-bsh="c:rgba(0,0,0,0.15);v:20px;b:40px;" data-xy="xo:50px;yo:50px;" data-text="a:right,right,right,center;" data-actions='o:mouseenter;a:pauseslider;||o:mouseleave;a:playslider;' data-rsp_bd="off" data-column="w:75%;" data-padding="t:30,30,20,20;r:30,30,20,20;b:30,30,20,30;l:30,30,20,20;" data-border="bor:10px,10px,10px,10px;" data-frame_0="o:1;bB:10px;" data-frame_1="bB:10px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;bB:10px;sA:9000;" style="z-index:7;background-color:rgba(74,81,101,0.5);width:100%;">
+                                                                    <!--
+										-->
+                                                                    <rs-layer id="slider-18-slide-52-layer-21" data-type="shape" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:20,15,11,6;f:left;l:0,19,14,8;" data-flcr="f:left;" data-dim="w:10px,10px,10px,6px;h:10px,10px,10px,6px;" data-disp="inline-block" data-border="bor:5px,5px,5px,5px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" data-loop_999="sX:2;sY:2;sp:2000;st:0;e:sine.inOut;yys:t;yyf:t;" style="z-index:8;background-color:#f94a82;display:inline-block;"></rs-layer>
+                                                                    <!--
 
-                                --><rs-layer id="slider-18-slide-52-layer-17" data-type="text" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:20,18,18,20;l:60,50,50,28;fw:600;a:left,left,left,center;" data-dim="w:70%,65%,70%,302px;" data-disp="inline-block" data-frame_999="o:1;st:w;sp:1000;sR:8700;" style="z-index:7;font-family:'Montserrat';display:inline-block;">Maintenant si vous avez un projet immobilier,
-                                                                </rs-layer><!--
+										-->
+                                                                    <rs-layer id="slider-18-slide-52-layer-17" data-type="text" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:20,18,18,20;l:60,50,50,28;fw:600;a:left,left,left,center;" data-dim="w:70%,65%,70%,302px;" data-disp="inline-block" data-frame_999="o:1;st:w;sp:1000;sR:8700;" style="z-index:7;font-family:'Montserrat';display:inline-block;">Maintenant si vous avez un projet immobilier</rs-layer>
+                                                                    <!--
 
-                                --><a id="slider-18-slide-52-layer-16" class="rs-layer rev-btn" href="/contact" target="_blank" rel="noopener" data-type="button" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:18,16,16,16;l:60,50,50,50;fw:600;" data-dim="minh:0px,none,none,none;" data-disp="inline-block" data-margin="t:0,0,0,10;" data-padding="r:50,40,30,30;l:50,40,30,30;" data-border="bor:5px,5px,5px,5px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" data-frame_hover="c:#fff;bgc:rgba(0,0,0,0.35);bor:5px,5px,5px,5px;" style="z-index:6;background-color:#f94a82;font-family:'Montserrat';display:inline-block;">parlons-en
-                                                                </a><!--
-                            --></rs-column><!--
+										-->
+                                                                    <a id="slider-18-slide-52-layer-16" class="rs-layer rev-btn" href="/contact" target="_blank" rel="noopener" data-type="button" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:18,16,16,16;l:60,50,50,50;fw:600;" data-dim="minh:0px,none,none,none;" data-disp="inline-block" data-margin="t:0,0,0,10;" data-padding="r:50,40,30,30;l:50,40,30,30;" data-border="bor:5px,5px,5px,5px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" data-frame_hover="c:#fff;bgc:rgba(0,0,0,0.35);bor:5px,5px,5px,5px;" style="z-index:6;background-color:#f94a82;font-family:'Montserrat';display:inline-block;">Parlons-en 
+										</a>
+                                                                    <!--
+									-->
+                                                                </rs-column>
+                                                                <!--
 
-                            --><!--									--></rs-column><!--
-                        --></rs-row><!--
+									-->
+                                                                <rs-column id="slider-18-slide-52-layer-14" data-type="column" data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-column="w:25%;" data-frame_0="o:1;" data-frame_999="o:1;st:w;sp:1000;sR:8700;sA:9000;" style="z-index:6;width:100%;">
+                                                                <!--									-->
+                                                                </rs-column>
+                                                                <!--
+								-->
+                                                            </rs-row><!--
                     --><!--
 
                     --><!--
