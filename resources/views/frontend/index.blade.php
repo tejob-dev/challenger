@@ -3620,7 +3620,8 @@
                                             </div>
                                             <form action="http://challenger.test/acquereurs/font/store" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
 
-                                                <input type="hidden" name="_token" value="COpu6AITTwonzI9vJU8RkLxbAllclegbxvntwXlx">                                                                <div class="nyssa-multiple-fields">
+                                                <input type="hidden" name="_token" value="COpu6AITTwonzI9vJU8RkLxbAllclegbxvntwXlx">
+                                                <div class="nyssa-multiple-fields">
                                                     <div class="f-name">
                                                         <p>Votre nom et prénoms<span class="cforms-required">*</span>
                                                         </p>
@@ -3784,6 +3785,471 @@
                     </div>
                     <!-- Row Backgrounds -->
                     <div class="upb_bg_img" data-ultimate-bg="url(https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/12/swati-b-Vf2-ZiIu8xY-unsplash.jpg)" data-image-id="id^2100|url^https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/12/swati-b-Vf2-ZiIu8xY-unsplash.jpg|caption^null|alt^null|title^swati-b-Vf2-ZiIu8xY-unsplash|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="0 0" data-parallx_sense="30" data-bg-override="ex-full" data-bg_img_attach="scroll" data-upb-overlay-color="rgba(67,25,147,0.5)" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="rgba(67,25,147,0.5)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll"></div>
+                    <div class="vc_row wpb_row vc_row-fluid">
+                        <div class="wide-box-mobile wpb_column vc_column_container vc_col-sm-12">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper">
+                                    <div class="ult-spacer spacer-65c1ff920bb75" data-id="65c1ff920bb75" data-height="80" data-height-mobile="50" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="50" style="clear:both;display:block;"></div>
+                                    <style type='text/css'>
+                                        #cbpw-wrap130 {
+                                            margin: 0px 0px 0px 0px;
+                                        }
+
+                                        #cbpw-grid130 .cbp-l-caption-title {
+                                            color: #1c0c3d;
+                                            background-color: transparent;
+                                            font-size: 16px;
+                                            font-family: Inter;
+                                            font-weight: 700;
+                                            font-style: normal;
+                                            line-height: 25px;
+                                            text-align: center;
+                                            padding: 0px 0px 0px 0px;
+                                            margin: 5px 0px 0px 0px;
+                                            text-transform: capitalize;
+                                        }
+
+                                        #cbpw-grid130 .cbp-l-caption-desc {
+                                            color: #ededed;
+                                            background-color: transparent;
+                                            font-size: 14px;
+                                            font-family: Inter;
+                                            font-weight: 500;
+                                            font-style: normal;
+                                            line-height: 16px;
+                                            text-align: center;
+                                            padding: 0px 0px 0px 0px;
+                                            margin: 5px 0px 0px 0px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-grid130 .cbp-caption-activeWrap {
+                                            background-color: #ffffff;
+                                        }
+
+                                        #cbpw-filters130 .cbp-filter-item {
+                                            background-color: transparent;
+                                            border-width: 0px;
+                                            border-style: none;
+                                            border-color: transparent;
+                                            border-radius: 0;
+                                            color: #1c0c3d;
+                                            font-size: 15px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 21px;
+                                            margin: 0px 0px 10px 0px;
+                                            padding: 0px 12px 0px 12px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-filters130 .cbp-filter-item:hover {
+                                            background-color: transparent;
+                                            border-width: 0px;
+                                            border-style: none;
+                                            border-color: transparent;
+                                            border-radius: 0;
+                                            color: #5a24b1;
+                                            font-size: 15px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 21px;
+                                            margin: 0px 0px 10px 0px;
+                                            padding: 0px 12px 0px 12px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-filters130 .cbp-filter-item.cbp-filter-item-active {
+                                            background-color: transparent;
+                                            border-width: 0px;
+                                            border-style: none;
+                                            border-color: transparent;
+                                            border-radius: 0;
+                                            color: #5a24b1;
+                                            font-size: 15px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 21px;
+                                            margin: 0px 0px 10px 0px;
+                                            padding: 0px 12px 0px 12px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-filters130 .cbp-filter-item.cbp-filter-item-active:hover {
+                                            background-color: transparent;
+                                            border-width: 0px;
+                                            border-style: none;
+                                            border-color: transparent;
+                                            border-radius: 0;
+                                            color: #5a24b1;
+                                            font-size: 15px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 21px;
+                                            margin: 0px 0px 10px 0px;
+                                            padding: 0px 12px 0px 12px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-filters130 .cbp-filter-counter {
+                                            background-color: #626161;
+                                            color: #fff;
+                                            font-size: 11px;
+                                            font-family: Open Sans, sans-serif;
+                                            font-weight: 400;
+                                            font-style: normal;
+                                            line-height: 18px;
+                                            padding: 4px 0px 4px 0px;
+                                        }
+
+                                        #cbpw-filters130 .cbp-filter-counter:after {
+                                            border-color: #626161 transparent;
+                                        }
+
+                                        #cbpw-loadMore130 .cbp-l-loadMore-link {
+                                            color: #5a24b1;
+                                            background-color: transparent;
+                                            border-width: 2px 2px 2px 2px;
+                                            border-style: solid;
+                                            border-color: #5a24b1;
+                                            font-size: 14px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 34px;
+                                            text-align: center;
+                                            padding: 2px 30px 2px 30px;
+                                            margin: 40px 0px 0px 0px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-loadMore130 .cbp-l-loadMore-link:hover {
+                                            color: #ffffff;
+                                            background-color: #5a24b1;
+                                            border-width: 2px 2px 2px 2px;
+                                            border-style: solid;
+                                            border-color: #5a24b1;
+                                            font-size: 14px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 34px;
+                                            text-align: center;
+                                            padding: 2px 30px 2px 30px;
+                                            margin: 40px 0px 0px 0px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-loadMore130 .cbp-l-loadMore-loading {
+                                            color: #5a24b1;
+                                            background-color: transparent;
+                                            border-width: 2px 2px 2px 2px;
+                                            border-style: solid;
+                                            border-color: #5a24b1;
+                                            font-size: 14px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 34px;
+                                            text-align: center;
+                                            padding: 2px 30px 2px 30px;
+                                            margin: 40px 0px 0px 0px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-loadMore130 .cbp-l-loadMore-loading:hover {
+                                            color: #ffffff;
+                                            background-color: #5a24b1;
+                                            border-width: 2px 2px 2px 2px;
+                                            border-style: solid;
+                                            border-color: #5a24b1;
+                                            font-size: 14px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 34px;
+                                            text-align: center;
+                                            padding: 2px 30px 2px 30px;
+                                            margin: 40px 0px 0px 0px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-loadMore130 .cbp-l-loadMore-stop {
+                                            color: #B0B0B0;
+                                            background-color: transparent;
+                                            border-width: 1px 1px 1px 1px;
+                                            border-style: solid;
+                                            border-color: #DEDEDE;
+                                            font-size: 14px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 34px;
+                                            text-align: center;
+                                            padding: 2px 30px 2px 30px;
+                                            margin: 40px 0px 0px 0px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-loadMore130 .cbp-l-loadMore-stop:hover {
+                                            color: #B0B0B0;
+                                            background-color: transparent;
+                                            border-width: 1px 1px 1px 1px;
+                                            border-style: solid;
+                                            border-color: #DEDEDE;
+                                            font-size: 14px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 34px;
+                                            text-align: center;
+                                            padding: 2px 30px 2px 30px;
+                                            margin: 40px 0px 0px 0px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-singlePage130 .cbp-popup-navigation-wrap {
+                                            background-color: #34425C;
+                                        }
+
+                                        #cbpw-singlePage130 .cbp-popup-singlePage-counter {
+                                            color: #bbc0df;
+                                            font-size: 13px;
+                                            font-family: Open Sans;
+                                            font-weight: 400;
+                                            font-style: normal;
+                                        }
+                                    </style>
+                                    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Inter:700normal,500normal,600normal" type="text/css" media="all" property="stylesheet">
+                                    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400normal" type="text/css" media="all" property="stylesheet">
+                                    <div id="cbpw-wrap130">
+                                        <div id="cbpw-filters130" class="cbp-l-filters-alignCenter des-align-center">
+                                            <div data-filter="*" class="cbp-filter-item cbp-filter-item-active">TOUS</div>
+                                            /<div data-filter=".slider" class="cbp-filter-item">Certifications</div>
+                                            /<div data-filter=".gallery" class="cbp-filter-item">Programmes</div>
+                                            /<div data-filter=".mockup" class="cbp-filter-item">Terrains</div>
+                                        </div>
+                                        <div id="cbpw-grid130" class="cbp-l-grid-gallery cbp">
+                                            <div>
+                                                <div class="cbp-item mockup">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/nyssa-mockup/" class="cbp-caption cbp-singlePageInline" data-title="Nyssa Mockup" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project1.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Nyssa Mockup</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item des-project slider">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/boldway-business-card/" class="cbp-caption cbp-singlePageInline" data-title="Boldway Business Card" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project2.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Boldway Card</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item gallery">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/nyssa-lettering/" class="cbp-caption cbp-singlePageInline" data-title="We are Nyssa Lettering" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project3.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">We are Nyssa</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item image">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/art-exhibition/" class="cbp-caption cbp-singlePageInline" data-title="Art exhibition" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project4.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Art exhibition</div>
+                                                                    <div class="cbp-l-caption-desc"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item mockup">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/heart-logo/" class="cbp-caption cbp-singlePageInline" data-title="Heart Logo" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project5.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Heart Logo</div>
+                                                                    <div class="cbp-l-caption-desc"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item mockup">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/my-goals-app/" class="cbp-caption cbp-singlePageInline" data-title="My Goals App" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project6.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">My Goals App</div>
+                                                                    <div class="cbp-l-caption-desc"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item image">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/nyssa-wordpress-theme/" class="cbp-caption cbp-singlePageInline" data-title="Nyssa WordPress Theme" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project7.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Nyssa Theme</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item des-project slider">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/macarons/" class="cbp-caption cbp-singlePageInline" data-title="Colored vanilla macarons" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project8.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Colored macarons</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item image">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/flower-nyssa-lettering/" class="cbp-caption cbp-singlePageInline" data-title="Flower nyssa lettering" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project9.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Flower nyssa</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- <div id="cbpw-loadMore130" class="">
+                                            <div class="cbp-l-loadMore-button">
+                                                <a href="ajax/loadMore.html" class="cbp-l-loadMore-link">
+                                                    <span class="cbp-l-loadMore-defaultText">Load more</span>
+                                                    <span class="cbp-l-loadMore-loadingText">Loading...</span>
+                                                    <span class="cbp-l-loadMore-noMoreLoading">No more works</span>
+                                                </a>
+                                            </div>
+                                        </div> -->
+                                    </div>
+                                    <script type="text/javascript">
+                                        this.initCubePortfolio = this.initCubePortfolio || [];
+                                        this.initCubePortfolio.push({
+                                            id: 130,
+                                            options: {
+                                                "filters": "#cbpw-filters130",
+                                                "loadMore": "#cbpw-loadMore130",
+                                                "loadMoreAction": "click",
+                                                "search": "",
+                                                "layoutMode": "grid",
+                                                "sortToPreventGaps": false,
+                                                "drag": true,
+                                                "auto": false,
+                                                "autoTimeout": 5000,
+                                                "autoPauseOnHover": true,
+                                                "showNavigation": true,
+                                                "showPagination": true,
+                                                "rewindNav": true,
+                                                "scrollByPage": false,
+                                                "defaultFilter": "*",
+                                                "filterDeeplinking": false,
+                                                "animationType": "flipOut",
+                                                "gridAdjustment": "responsive",
+                                                "mediaQueries": [{
+                                                    "width": 1400,
+                                                    "cols": 3
+                                                }, {
+                                                    "width": 1170,
+                                                    "cols": 3
+                                                }, {
+                                                    "width": 1024,
+                                                    "cols": 3
+                                                }, {
+                                                    "width": 960,
+                                                    "cols": 3
+                                                }, {
+                                                    "width": 778,
+                                                    "cols": 3
+                                                }, {
+                                                    "width": 640,
+                                                    "cols": 2
+                                                }, {
+                                                    "width": 480,
+                                                    "cols": 1
+                                                }],
+                                                "gapHorizontal": 25,
+                                                "gapVertical": 25,
+                                                "caption": "overlayBottomPush",
+                                                "displayType": "bottomToTop",
+                                                "displayTypeSpeed": 200,
+                                                "lightboxDelegate": ".cbp-lightbox",
+                                                "lightboxGallery": true,
+                                                "lightboxTitleSrc": "data-title",
+                                                "lightboxCounter": "<div class=\"cbp-popup-lightbox-counter\">\{\{current\}\} of \{\{total\}\}</div>",
+                                                "singlePageDelegate": ".cbp-singlePage",
+                                                "singlePageDeeplinking": true,
+                                                "singlePageStickyNavigation": true,
+                                                "singlePageCounter": "<div class=\"cbp-popup-singlePage-counter\">\{\{current\}\} of \{\{total\}\}</div>",
+                                                "singlePageAnimation": "middle",
+                                                "singlePageInlineDelegate": ".cbp-singlePageInline",
+                                                "singlePageInlineDeeplinking": false,
+                                                "singlePageInlinePosition": "below",
+                                                "singlePageInlineInFocus": true,
+                                                "plugins": {},
+                                                "cols": 3,
+                                                "coverRatio": "",
+                                                "displayItemsLoadMore": 3
+                                            }
+                                        });
+                                    </script>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
                     <!-- Row Backgrounds -->
                     <div class="upb_color" data-bg-override="ex-full" data-bg-color="#fefcff" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size="" data-seperator="true" data-seperator-type="triangle_svg_seperator" data-seperator-shape-size="40" data-seperator-svg-height="25" data-seperator-full-width="true" data-seperator-position="top_seperator" data-seperator-background-color="#8377bf" data-icon=""></div>
