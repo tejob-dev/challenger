@@ -3035,138 +3035,1549 @@
 </head>
 
 <body class="page-template page-template-template-home page-template-template-home-php page page-id-4543 theme-nyssa woocommerce-no-js wpb-js-composer js-comp-ver-6.10.0 vc_responsive">
-<div class="nyssa-push-sidebar nyssa-push-sidebar-right">
-            <div class="menu-controls sliderbar-menu-controller" title="Sidebar Menu Controller">
-                <div class="font-icon custom-font-icon">
-                    <span class="hamburguer-trigger-menu-icon">
-                        <span class="hamburguer-line hamburger-line-1"></span>
-                        <span class="hamburguer-line hamburger-line-2"></span>
-                        <span class="hamburguer-line hamburger-line-3"></span>
-                    </span>
-                </div>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg>
+    <div class="nyssa-push-sidebar nyssa-push-sidebar-right">
+        <div class="menu-controls sliderbar-menu-controller" title="Sidebar Menu Controller">
+            <div class="font-icon custom-font-icon">
+                <span class="hamburguer-trigger-menu-icon">
+                    <span class="hamburguer-line hamburger-line-1"></span>
+                    <span class="hamburguer-line hamburger-line-2"></span>
+                    <span class="hamburguer-line hamburger-line-3"></span>
+                </span>
             </div>
-            <div class="display-table">
-                <div id="nyssa-push-sidebar-content" class="nyssa-push-sidebar-content ajaxable">
-                    <div class="sidebar-box widget_media_image" id="media_image-2">
-                        <img width="300" height="115" src="https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/logofooter-300x115.png" class="image wp-image-448  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" decoding="async" srcset="https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/logofooter-300x115.png 300w, https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/logofooter.png 663w" sizes="(max-width: 300px) 100vw, 300px"/>
+        </div>
+        <div class="display-table">
+            <div id="nyssa-push-sidebar-content" class="nyssa-push-sidebar-content ajaxable">
+                <div class="sidebar-box widget_media_image" id="media_image-2">
+                    <img width="300" height="115" src="/img/import/Footer.png" class="image wp-image-448  attachment-medium size-medium" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" />
+                </div>
+                <div class="sidebar-box widget_text" id="text-2">
+                    <div class="textwidget">
+                        <p>
+                            <span style="text-align: justify; width: 55ch;">
+                                Challenge-toit est une solution alternative pour l'achat d'une maison qui permet de verser des paiements échelonnés sur une période allant de 5 à 7 ans selon vos capacités financières plutôt que de payer le prix total au moment de la clôture de la vente.<!-- <a href="#">Get nyssa today!</a> -->
+                            </span>
+                        </p>
                     </div>
-                    <div class="sidebar-box widget_text" id="text-2">
-                        <div class="textwidget">
-                            <p>
-                                <span style="text-align: center;">
-                                    Powerful theme with a vibrant design touch. It’s time to amaze your clients with a brand new website. <a href="#">Get nyssa today!</a>
-                                </span>
-                            </p>
-                        </div>
-                    </div>
-                    <div id="nyssa_socials_widget-2" class="widget nyssa_socials_widget">
-                        <h4 class='widget_title_span'>Follow us</h4>
-                        <hr>
-                        <div class="social-icons-fa align-center">
-                            <ul>
-                                <li>
-                                    <a href="#" target="_blank" class="social-network twitter" title="Twitter">
-                                        <i class="fab fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" target="_blank" class="social-network instagram" title="Instagram">
-                                        <i class="fab fa-instagram"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" target="_blank" class="social-network youtube" title="Youtube">
-                                        <i class="fab fa-youtube"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" target="_blank" class="social-network twitch" title="Twitch">
-                                        <i class="fab fa-twitch"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" target="_blank" class="social-network weixin" title="Weixin">
-                                        <i class="fab fa-weixin"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
+                </div>
+                <div id="nyssa_socials_widget-2" class="widget nyssa_socials_widget">
+                    <h4 class='widget_title_span'><a href="#enregistre-acquereurs">Inscrivez-vous vite !</a></h4>
+                    <hr>
+                    <div class="social-icons-fa align-center">
+                        <ul>
+                            <li>
+                                <a href="#" target="_blank" class="social-network twitter" title="Twitter">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank" class="social-network instagram" title="Instagram">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank" class="social-network youtube" title="Youtube">
+                                    <i class="fab fa-youtube"></i>
+                                </a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
         </div>
-        <input type="hidden" id="nyssa-theme-search" name="nyssa-theme-search" value="37b27d1aae"/>
-        <input type="hidden" name="_wp_http_referer" value="/nyssa/demo1/pages/special-pages/under-construction/"/>
-        <form autocomplete="off" role="search" method="get" class="search_input nyssa_search_input not-ready slide_top style5 full-width-header with-underline with-animations" action="https://preview.treethemes.com/nyssa/demo1/">
-            <div class="search_close">
-                <i class="ion-android-close"></i>
+    </div>
+    <input type="hidden" id="nyssa-theme-search" name="nyssa-theme-search" value="d5fc963c37" />
+    <input type="hidden" name="_wp_http_referer" value="/nyssa/demo1/home-page-11/" />
+    <form autocomplete="off" role="search" method="get" class="search_input nyssa_search_input not-ready slide_top style5 full-width-header with-underline with-animations" action="https://preview.treethemes.com/nyssa/demo1/">
+        <div class="search_close">
+            <i class="ion-android-close"></i>
+        </div>
+        <div class="form_bearer container">
+            <div class="searchinput ">
+                <input value="" name="s" class="search_input_value" type="text" placeholder="Search..." />
+                <input class="hidden" type="submit" id="searchsubmit" value="Search" />
+                <div class="ajax_search_results">
+                    <ul></ul>
+                </div>
             </div>
-            <div class="form_bearer container">
-                <div class="searchinput ">
-                    <input value="" name="s" class="search_input_value" type="text" placeholder="Search..."/>
-                    <input class="hidden" type="submit" id="searchsubmit" value="Search"/>
-                    <div class="ajax_search_results">
-                        <ul></ul>
+        </div>
+    </form>
+    <div id="main">
+        <header class="header-init navbar navbar-default navbar-fixed-top style5 header-full-width nyssa-underlining light" data-rel="light|light">
+            <div class="nav-container ">
+                <div class="navbar-header">
+                    <a class="navbar-brand nav-to" href="/" tabindex="-1">
+                        <img class="logo_normal notalone" src="/img/import/Acceuil.png" alt="" title="Challenge-toit">
+                        <img class="logo_retina" style="display:none; position: relative;" src="/img/import/Acceuil.png" alt="" title="Challenge-toit">
+                        <img class="logo_normal logo_after_scroll notalone" src="/img/import/Acceuil.png" alt="" title="Challenge-toit">
+                        <img class="logo_retina logo_after_scroll" style="display:none; position: relative;" src="/img/import/Acceuil.png" alt="" title="Challenge-toit">
+                    </a>
+                </div>
+                <div id="dl-menu" class="dl-menuwrapper">
+                    <div class="dl-trigger-wrapper">
+                        <button class="dl-trigger">
+                            <span class="hamburguer-trigger-menu-icon">
+                                <span class="hamburguer-line hamburger-line-1"></span>
+                                <span class="hamburguer-line hamburger-line-2"></span>
+                                <span class="hamburguer-line hamburger-line-3"></span>
+                            </span>
+                        </button>
+                    </div>
+                    <ul id="menu-primary-navigation" class="dl-menu">
+                        <li id="mobile-nav-menu-item-4474" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children page-4445">
+                            <a href="#home" class="menu-link main-menu-link outsider mainhomepage">Accueil</a>
+                        </li>
+                        <li id="mobile-nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
+                            <a href="/inscription.html" class="menu-link main-menu-link outsider">Inscription</a>
+                        </li>
+                        <!-- <li id="mobile-nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
+                            <a href="/about.html" class="menu-link main-menu-link outsider">Challenge Pro</a>
+                        </li>
+                        <li id="mobile-nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
+                            <a href="/bon-plan" class="menu-link main-menu-link outsider">Bon plans</a>
+                        </li>
+                        <li id="mobile-nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
+                            <a href="/parrain.html" class="menu-link main-menu-link outsider">Parrainage</a>
+                        </li> -->
+                        <li id="mobile-nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
+                            <a href="/contact.html" class="menu-link main-menu-link outsider">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <div class="menu_style5_bearer">
+                        <ul id="menu-primary-navigation-1" class="nav navbar-nav navbar-right">
+                            <li id="nav-menu-item-4474" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children page-4445">
+                                <a href="#home" class="menu-link main-menu-link outsider mainhomepage">Accueil</a>
+                            </li>
+                            <li id="nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
+                                <a href="/inscription.html" class="menu-link main-menu-link outsider">Inscription</a>
+                            </li>
+                            <!-- <li id="nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
+                                <a href="/about.html" class="menu-link main-menu-link outsider">Challenge Pro</a>
+                            </li>
+                            <li id="nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
+                                <a href="/bon-plan" class="menu-link main-menu-link outsider">Bon plans</a>
+                            </li>
+                            <li id="nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
+                                <a href="/parrain.html" class="menu-link main-menu-link outsider">Parrainage</a>
+                            </li> -->
+                            <li id="nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
+                                <a href="/contact.html" class="menu-link main-menu-link outsider">Contact</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="nyssa_right_header_icons with-woocommerce-cart" style="visibility: hidden;">
+                    <div class="header_social_icons  disable_nyssa_social_icons_mobile">
+                        <div class="search_trigger disable_nyssa_search_mobile">
+                            <!-- <i class="ion-android-search"></i> -->
+                        </div>
+                        <div class="nyssa_cart_header disable_nyssa_woocommerce_cart_mobile">
+                            <div class="nyssa_dynamic_shopping_bag">
+                                <div class="nyssa_little_shopping_bag_wrapper">
+                                    <div class="nyssa_little_shopping_bag">
+                                        <div class="title">
+                                            <div class="icon dripicons-basket"></div>
+                                        </div>
+                                        <div class="overview">
+                                            <span class="minicart_items">0</span>
+                                        </div>
+                                    </div>
+                                    <div class="nyssa_minicart_wrapper">
+                                        <div class="nyssa_minicart">
+                                            <ul class="cart_list">
+                                                <li class="empty">No products in the cart.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a href="https://preview.treethemes.com/nyssa/demo1/cart/" class="nyssa_little_shopping_bag_wrapper_mobiles">
+                                    <span>0</span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="menu-controls sliderbar-menu-controller disable_nyssa_sliding_panel_mobile">
+                            <div class="font-icon custom-font-icon">
+                                <span class="hamburguer-trigger-menu-icon">
+                                    <span class="hamburguer-line hamburger-line-1"></span>
+                                    <span class="hamburguer-line hamburger-line-2"></span>
+                                    <span class="hamburguer-line hamburger-line-3"></span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </header>
+
+        <section id="home"></section>
+        <section class="page_content section_page-4543 content_from_homepage_template" id="section_page-4543" data-section-title="Home Parallax">
+            <div class="container">
+                <section class="wpb-content-wrapper">
+                    <div class="vc_row wpb_row vc_row-fluid">
+                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper">
+                                    <!-- START Home Hover Parallax REVOLUTION SLIDER 6.6.10 -->
+                                    <p class="rs-p-wp-fix"></p>
+                                    <rs-module-wrap id="rev_slider_18_1_wrapper" data-source="gallery" style="visibility:hidden;background:#ffffff;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+                                        <rs-module id="rev_slider_18_1" style="" data-version="6.6.10">
+                                            <rs-slides style="overflow: hidden; position: absolute;">
+                                                <rs-slide style="position: absolute;" data-key="rs-52" data-title="Slide" data-in="o:0;x:(100%);" data-out="a:false;">
+                                                    <img decoding="async" src="../wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Home Parallax" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//preview.treethemes.com/nyssa/demo1/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-bg="c:#ffffff;" data-parallax="off" data-no-retina>
+                                                    <!--						--><rs-zone id="rrzt_52" class="rev_row_zone_top" style="z-index: 19;"><!--
+
+                        --><rs-row id="slider-18-slide-52-layer-4" data-type="row" data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-margin="t:200,75,50,100;r:30,30,30,20;l:30,30,30,20;" data-frame_0="x:left;o:1;" data-frame_1="e:power4.out;sp:2000;" data-frame_999="x:0px;y:top;o:1;st:w;sp:1000;sR:7000;sA:9000;" style="z-index:7;"><!--
+                            --><rs-column id="slider-18-slide-52-layer-5" data-type="column" data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-column="w:100%;" data-frame_0="o:1;" data-frame_999="o:1;st:w;sp:1000;sR:8700;sA:9000;" style="z-index:6;width:100%;"><!--
+                                --><rs-layer id="slider-18-slide-52-layer-3" data-type="text" data-color="#1c0c3d" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:70,50,40,35;l:75,60,45,40;ls:-1px,0px,0px,0px;fw:700;" data-dim="w:50%,50%,50%,100%;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" style="z-index:7;font-family:'Inter';">Plongez Au Cœur <br />
+                                                                    De l’Intelligence Immobilière,
+                                                                </rs-layer><!--
+
+                                --><rs-layer id="slider-18-slide-52-layer-0" data-type="text" data-color="#383440" data-xy="" data-pos="r" data-text="w:normal;s:19,18,16,16;l:30,25,22,22;" data-dim="w:50%,50%,50%,100%;" data-rsp_bd="off" data-margin="t:30,40,30,19;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" style="z-index:6;font-family:'Inter';">L’immobilier certifié et authentifié, des opportunités adaptées à votre portefeuille et votre style de vie. Bien plus qu’une simple transaction, nous vous garantissons une expérience sécurisée et sereine …
+                                                                </rs-layer><!--
+                            --></rs-column><!--
+                        --></rs-row><!--
+
+                        --><rs-row id="slider-18-slide-52-layer-12" data-type="row" data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-margin="t:100,50,50,450;r:30,30,30,20;b:75,75,50,50;l:30,30,30,20;" data-frame_0="x:left;o:1;" data-frame_1="e:power4.out;st:300;sp:2000;sR:300;" data-frame_999="x:0px;y:bottom;o:1;st:w;sp:1000;sR:6700;sA:9000;" style="z-index:6;">
+                                                                <!--
+									-->
+                                    <rs-column id="slider-18-slide-52-layer-13" data-type="column" data-bsh="c:rgba(0,0,0,0.15);v:20px;b:40px;" data-xy="xo:50px;yo:50px;" data-text="a:right,right,right,center;" data-actions='o:mouseenter;a:pauseslider;||o:mouseleave;a:playslider;' data-rsp_bd="off" data-column="w:75%;" data-padding="t:30,30,20,20;r:30,30,20,20;b:30,30,20,30;l:30,30,20,20;" data-border="bor:10px,10px,10px,10px;" data-frame_0="o:1;bB:10px;" data-frame_1="bB:10px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;bB:10px;sA:9000;" style="z-index:7;background-color:rgba(74,81,101,0.5);width:100%;">
+                                                                    <!--
+										-->
+                                                                    <rs-layer id="slider-18-slide-52-layer-21" data-type="shape" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:20,15,11,6;f:left;l:0,19,14,8;" data-flcr="f:left;" data-dim="w:10px,10px,10px,6px;h:10px,10px,10px,6px;" data-disp="inline-block" data-border="bor:5px,5px,5px,5px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" data-loop_999="sX:2;sY:2;sp:2000;st:0;e:sine.inOut;yys:t;yyf:t;" style="z-index:8;background-color:#f94a82;display:inline-block;"></rs-layer>
+                                                                    <!--
+
+										-->
+                                                                    <rs-layer id="slider-18-slide-52-layer-17" data-type="text" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:20,18,18,20;l:60,50,50,28;fw:600;a:left,left,left,center;" data-dim="w:70%,65%,70%,302px;" data-disp="inline-block" data-frame_999="o:1;st:w;sp:1000;sR:8700;" style="z-index:7;font-family:'Montserrat';display:inline-block;">Maintenant si vous avez un projet immobilier</rs-layer>
+                                                                    <!--
+
+										-->
+                                                                    <a id="slider-18-slide-52-layer-16" class="rs-layer rev-btn" href="/contact" target="_blank" rel="noopener" data-type="button" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:18,16,16,16;l:60,50,50,50;fw:600;" data-dim="minh:0px,none,none,none;" data-disp="inline-block" data-margin="t:0,0,0,10;" data-padding="r:50,40,30,30;l:50,40,30,30;" data-border="bor:5px,5px,5px,5px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" data-frame_hover="c:#fff;bgc:rgba(0,0,0,0.35);bor:5px,5px,5px,5px;" style="z-index:6;background-color:#f94a82;font-family:'Montserrat';display:inline-block;">Parlons-en 
+										</a>
+                                                                    <!--
+									-->
+                                                                </rs-column>
+                                                                <!--
+
+									-->
+                                                                <rs-column id="slider-18-slide-52-layer-14" data-type="column" data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-column="w:25%;" data-frame_0="o:1;" data-frame_999="o:1;st:w;sp:1000;sR:8700;sA:9000;" style="z-index:6;width:100%;">
+                                                                <!--									-->
+                                                                </rs-column>
+                                                                <!--
+								-->
+                                                            </rs-row><!--
+                    --><!--
+
+                    --><!--
+
+                    --><!--
+
+                    --><!--
+
+                    --><!--
+
+                    --><rs-layer id="slider-18-slide-52-layer-10" class="rs-pxl-7" data-type="shape" data-xy="x:c;xo:270px,250px,150px,-95px;yo:150px,30px,30px,400px;" data-text="w:normal;" data-dim="w:450px,450px,450px,480px;h:500px,500px,500px,300px;" data-rsp_o="off" data-rsp_bd="off" data-border="bor:75px,75px,0,0;" data-frame_0="y:top;o:1;" data-frame_1="e:power4.out;sp:2000;" data-frame_999="y:top;o:1;e:power2.inOut;st:w;sp:500;sR:7000;" style="z-index:13;;"><rs-bg-elem style="background: url('/img/br_accueil_transparence.png') no-repeat center center; background-size: 100%;"></rs-bg-elem>
+
+                                                        </rs-layer><!--
+
+                    --><!--
+
+                    --><!--
+
+                    --><!--
+
+                    --><!--
+
+                    --><!--
+
+                    --><!--
+
+                    --><!--
+--> </rs-slide>
+                                            </rs-slides>
+                                        </rs-module>
+                                        <script>
+                                            setREVStartSize({
+                                                c: 'rev_slider_18_1',
+                                                rl: [1240, 1024, 778, 480],
+                                                el: [900, 750, 650, 1015],
+                                                gw: [1300, 1024, 778, 480],
+                                                gh: [900, 750, 650, 950],
+                                                type: 'standard',
+                                                justify: '',
+                                                layout: 'fullwidth',
+                                                mh: "0"
+                                            });
+                                            if (window.RS_MODULES !== undefined && window.RS_MODULES.modules !== undefined && window.RS_MODULES.modules["revslider181"] !== undefined) {
+                                                window.RS_MODULES.modules["revslider181"].once = false;
+                                                window.revapi18 = undefined;
+                                                if (window.RS_MODULES.checkMinimal !== undefined) window.RS_MODULES.checkMinimal()
+                                            }
+                                        </script>
+                                    </rs-module-wrap>
+                                    <!-- END REVOLUTION SLIDER -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_row-no-padding vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
+                        <div class="wpb_column vc_column_container vc_col-sm-6">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper">
+                                    <div class="wpb_single_image wpb_content_element vc_align_left">
+
+                                        <figure class="wpb_wrapper vc_figure">
+                                            <div class="vc_single_image-wrapper   vc_box_border_grey"><img fetchpriority="high" decoding="async" width="1633" height="1750" src="/img/accueil/accueil_bloc1.png" class="vc_single_image-img attachment-full" alt="" title="Site bloc1" srcset="/wp-content/uploads/sites/8/2024/11/Site bloc1.png 1633w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-280x300.png 280w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-956x1024.png 956w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-768x823.png 768w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-1433x1536.png 1433w" sizes="(max-width: 1633px) 100vw, 1633px" /></div>
+                                        </figure>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-6">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper">
+                                    <div class="ult-content-box-container ">
+                                        <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:50px;margin-right:135px;margin-bottom:50px;margin-left:135px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin:0px;" data-normal_margins="margin-top:50px;margin-right:135px;margin-bottom:50px;margin-left:135px;">
+                                            <div class="ult-spacer spacer-65a535b840332" data-id="65a535b840332" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
+                                            <p style="text-align: left" class="vc_custom_heading heading_border">Une maison garantie et certifiée</p>
+                                            <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                                                <div class="wpb_column vc_column_container vc_col-sm-10">
+                                                    <div class="vc_column-inner">
+                                                        <div class="wpb_wrapper">
+                                                            <h2 style="text-align: left" class="vc_custom_heading">Programmes certifiés</h2>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="wpb_column vc_column_container vc_col-sm-2">
+                                                    <div class="vc_column-inner">
+                                                        <div class="wpb_wrapper"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                                                <div class="wpb_column vc_column_container vc_col-sm-10">
+                                                    <div class="vc_column-inner">
+                                                        <div class="wpb_wrapper">
+                                                            <div class="wpb_text_column wpb_content_element ">
+                                                                <div class="wpb_wrapper">
+                                                                    <p style="text-align: left;">Des programmes immobiliers, contrôlés et certifiés, garantis par des assurances en remboursement, des architectes reconnus et des promoteurs agréés, répondant aux normes les plus strictes</p>
+                                                                    <br>
+                                                                    <p style="text-align: left;"></p>
+
+                                                                </div>
+                                                            </div>
+                                                            <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
+                                                            <div class="vc_btn3-container vc_btn3-inline"><a style="background-color:#f3889e; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom" href="/contact" title="">Rejoins-nous</a></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="wpb_column vc_column_container vc_col-sm-2">
+                                                    <div class="vc_column-inner">
+                                                        <div class="wpb_wrapper"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ult-spacer spacer-65a535b841bbe" data-id="65a535b841bbe" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="vc_row-full-width vc_clearfix"></div>
+                    <!-- Row Backgrounds -->
+                    <div class="upb_color" data-bg-override="ex-full" data-bg-color="#fbf7ff" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div>
+                    <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_row-no-padding vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
+                        <div class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-6">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper">
+                                    <div class="ult-content-box-container ">
+                                        <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:50px;margin-right:150px;margin-bottom:50px;margin-left:150px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin:0px;" data-normal_margins="margin-top:50px;margin-right:150px;margin-bottom:50px;margin-left:150px;">
+                                            <div class="ult-spacer spacer-65a535b841f5e" data-id="65a535b841f5e" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
+                                            <p style="text-align: left" class="vc_custom_heading heading_border">Des terrains fiables et sécurisés</p>
+                                            <h2 style="text-align: left" class="vc_custom_heading">Terrains certifiés</h2>
+                                            <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                                                <div class="wpb_column vc_column_container vc_col-sm-10">
+                                                    <div class="vc_column-inner">
+                                                        <div class="wpb_wrapper">
+                                                            <div class="wpb_text_column wpb_content_element ">
+                                                                <div class="wpb_wrapper">
+                                                                    <p style="text-align: left;">Découvrez des terrains certifiés avec ACD (Arrêté de Concession Définitive), prêts pour la construction, en conformité absolue avec les normes et réglementations en vigueur.</p>
+                                                                    <br>
+                                                                    <p style="text-align: left;">Inscrivez-vous sans frais et faites-nous part de vos désirs pour que nous puissions vous aider à les concrétiser.</p>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="wpb_column vc_column_container vc_col-sm-2">
+                                                    <div class="vc_column-inner">
+                                                        <div class="wpb_wrapper"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
+                                            <div class="vc_btn3-container vc_btn3-inline"><a style="background-color:#17b088; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom" href="/inscription" title="">Inscrivez-vous</a></div>
+                                            <div class="ult-spacer spacer-65a535b84272e" data-id="65a535b84272e" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="wpb_column vc_column_container vc_col-sm-6">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper">
+                                    <div class="wpb_single_image wpb_content_element vc_align_left">
+
+                                        <figure class="wpb_wrapper vc_figure">
+                                            <div class="vc_single_image-wrapper   vc_box_border_grey"><img decoding="async" width="1633" height="1750" src="/img/accueil/accueil_bloc2.png" class="vc_single_image-img attachment-full" alt="" title="Site bloc2" /></div>
+                                        </figure>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="vc_row-full-width vc_clearfix"></div>
+                    <!-- Row Backgrounds -->
+                    <div class="upb_color" data-bg-override="ex-full" data-bg-color="#fbf7ff" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size="" data-hide-row=" uvc_hidden-xs  uvc_hidden-xsl "></div>
+                    <div id="for-mobile-only" data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
+                        <div class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-6">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper">
+                                    <div class="wpb_single_image wpb_content_element vc_align_left">
+                                        <figure class="wpb_wrapper vc_figure">
+                                            <div class="vc_single_image-wrapper   vc_box_border_grey">
+                                                <img decoding="async" width="1633" height="1750" src="https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3.jpg" class="vc_single_image-img attachment-full" alt="" title="home2-section3" srcset="https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3.jpg 1633w, https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3-280x300.jpg 280w, https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3-956x1024.jpg 956w, https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3-768x823.jpg 768w, https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3-1433x1536.jpg 1433w" sizes="(max-width: 1633px) 100vw, 1633px" />
+                                            </div>
+                                        </figure>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="wpb_column vc_column_container vc_col-sm-6">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper">
+                                    <div class="ult-content-box-container ">
+                                        <div class="ult-content-box" style="box-shadow: px px px px none;margin:170px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin:0px;" data-normal_margins="margin:170px;">
+                                            <div class="ult-spacer spacer-65c0b3f3647bf" data-id="65c0b3f3647bf" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
+                                            <p style="text-align: left" class="vc_custom_heading heading_border">About Us</p>
+                                            <h2 style="text-align: left" class="vc_custom_heading">Turn ideas into creations</h2>
+                                            <div class="wpb_text_column wpb_content_element ">
+                                                <div class="wpb_wrapper">
+                                                    <p style="text-align: left;">Lorem Ipsum is simply dummy text of the printing and typesetting industry standard dummy text ever.</p>
+                                                </div>
+                                            </div>
+                                            <div class="vc_empty_space" style="height: 20px">
+                                                <span class="vc_empty_space_inner"></span>
+                                            </div>
+                                            <div class="vc_btn3-container vc_btn3-inline">
+                                                <a onmouseleave="this.style.borderColor='#5a24b1'; this.style.backgroundColor='transparent'; this.style.color='#5a24b1'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#5a24b1; color:#5a24b1;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="https://preview.treethemes.com/nyssa/demo1/portfolios/masonry-portfolio/masonry-big-gap-2/" title="">Our work</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="vc_row-full-width vc_clearfix"></div>
+                    <!-- Row Backgrounds -->
+                    <div class="upb_color" data-bg-override="ex-full" data-bg-color="#f2f2f2" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size="" data-hide-row=" uvc_hidden-lg  uvc_hidden-ml  uvc_hidden-md  uvc_hidden-sm "></div>
+                    <div class="vc_row wpb_row vc_row-fluid wide-ipad vc_custom_1674147041760 vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
+                        <div class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-6">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper">
+                                    <div class="ult-content-box-container ">
+                                        <div class="ult-content-box" style="box-shadow: px px px px none;margin:70px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin:0px;" data-normal_margins="margin:70px;">
+                                            <p style="text-align: left" class="vc_custom_heading heading_border">L’union fait la force</p>
+                                            <h2 style="text-align: left" class="vc_custom_heading">Exceptionnellement adapté à vous !</h2>
+                                            <div class="vc_empty_space" style="height: 10px"><span class="vc_empty_space_inner"></span></div>
+                                            <div class="wpb_text_column wpb_content_element ">
+                                                <div class="wpb_wrapper">
+                                                    <p style="text-align: left;">Bénéficiez d’options d'acquisitions certifiées conçues pour vous, profitez des prêts adaptés, des plans de financement flexibles sur 5 ans ou des programmes spéciaux.</p>
+                                                    <br>
+                                                    <p style="text-align: left;">nous avons forcément la solution qui vous correspond en tout point.</p>
+
+                                                </div>
+                                            </div>
+                                            <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
+                                            <!-- <div class="vc_btn3-container vc_btn3-inline"><a onmouseleave="this.style.borderColor='#5a24b1'; this.style.backgroundColor='transparent'; this.style.color='#5a24b1'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#5a24b1; color:#5a24b1;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="/rdv" title="">Prenez rendez-vous</a></div> -->
+                                            <button data-ultimate-target='#modal-trg-txt-wrap-9545 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' style="background-color:#4beee9; color:#ffffff;" data-class-id="content-64f491c87e33b4-400000" class="btn-modal ult-responsive vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom overlay-show ult-align-left btn-id-64f491c87e33b4-51630579" data-overlay-class="overlay-zoomin">Prenez rendez-vous
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="ult-overlay content-64f491c87e33b4-400000 " data-class="content-64f491c87e33b4-400000" id="button-click-overlay" style="background:rgba(23,22,29,0.98); display:none;">
+                            <div class="ult_modal ult-fade ult-medium">
+                                <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
+                                    <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
+                                        PRENEZ UN RENDEZ-VOUS
+                                        <p></p>
+                                        <div class="wpcf7 js" id="wpcf7-f831-o1" lang="en-US" dir="ltr">
+                                            <div class="screen-reader-response">
+                                                <p role="status" aria-live="polite" aria-atomic="true"></p>
+                                                <ul></ul>
+                                            </div>
+                                            <form action="http://challenger.test/acquereurs/font/store" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+
+                                                <input type="hidden" name="_token" value="COpu6AITTwonzI9vJU8RkLxbAllclegbxvntwXlx">
+                                                <div class="nyssa-multiple-fields">
+                                                    <div class="f-name">
+                                                        <p>Votre nom et prénoms<span class="cforms-required">*</span>
+                                                        </p>
+                                                        <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="nompre"></span>
+                                                        </p>
+                                                    </div>
+                                                    <div class="f-email">
+                                                        <p>Votre téléphone<span class="cforms-required">*</span></p>
+                                                        <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="telephone"></span>
+                                                        </p>
+                                                    </div>
+                                                    <div class="f-name">
+                                                        <p>Votre e-mail<span class="cforms-required">*</span>
+                                                        </p>
+                                                        <p><span class="wpcf7-form-control-wrap" data-name="your-email"><input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="email"></span>
+                                                        </p>
+                                                    </div>
+                                                    <div class="f-email">
+                                                        <p>Choix de la date<span class="cforms-required">*</span>
+                                                        </p>
+                                                        <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="datetime-local" name="nompre"></span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <div class="bt-contact center">
+                                                    <p id="btnsender">
+                                                        <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Envoyez"><span class="wpcf7-spinner"></span></a>
+                                                    </p>
+                                                </div>
+                                                <div class="wpcf7-response-output" aria-hidden="true"></div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="ult-overlay-close top-right" style="width:80px;height:80px; ">
+                                <div class="ult-overlay-close-inside"></div>
+                            </div>
+                        </div>
+
+
+
+                        <div class="wpb_column vc_column_container vc_col-sm-6">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper">
+                                    <div class="info-wrapper ult-adjust-bottom-margin">
+                                        <div id="info-circle-wrapper-65a535b844417" data-uniqid="65a535b844417" class="info-circle-wrapper  info-circle-responsive " data-half-percentage="70" data-circle-type="full-circle">
+                                            <div class="info-c-full-br" style='border:1px solid rgba(28,12,61,0.15);width:150%;opacity:0;' data-start-degree="90" data-divert="" data-info-circle-angle="full" data-responsive-circle="on" data-responsive-breakpoint="600" data-launch="linear" data-launch-duration="1" data-launch-delay="0.2" data-slide-true="off" data-slide-duration="3" data-icon-size="30" data-icon-show="not-show" data-icon-show-size="" data-highlight-style="info-circle-highlight-style" data-focus-on="hover">
+                                                <div class="icon-circle-list">
+                                                    <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);">
+                                                        <i class="linearicons-color-sampler info-circle-icon"></i>
+                                                    </div>
+                                                    <div class="info-details" data-icon-class="ult-info-circle-icon">
+                                                        <div class="info-circle-def">
+                                                            <div class="info-circle-sub-def">
+                                                                <i class="linearicons-color-sampler info-circle-icon"></i>
+                                                                <div class="responsive-font-class ult-responsive">
+                                                                    <h3 data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;">Prêt adapté :</h3>
+                                                                    <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Nos partenaires financiers vous font bénéficier de prêts à des taux avantageux.</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);">
+                                                        <i class="linearicons-laptop-phone info-circle-icon"></i>
+                                                    </div>
+                                                    <div class="info-details" data-icon-class="ult-info-circle-icon">
+                                                        <div class="info-circle-def">
+                                                            <div class="info-circle-sub-def">
+                                                                <i class="linearicons-laptop-phone info-circle-icon"></i>
+                                                                <div class="responsive-font-class ult-responsive">
+                                                                    <h3 data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;">Financement flexibles :</h3>
+                                                                    <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Vous pouvez structurer votre investissement selon vos capacités financières.</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);"><i class="linearicons-code info-circle-icon"></i></div>
+                                                    <div class="info-details" data-icon-class="ult-info-circle-icon">
+                                                        <div class="info-circle-def">
+                                                            <div class="info-circle-sub-def"><i class="linearicons-code info-circle-icon"></i>
+                                                                <div class="responsive-font-class ult-responsive">
+                                                                    <h3 data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;">Compte séquestre :</h3>
+                                                                    <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Assure la sécurité des fonds en les gardant séparés jusqu'à l'achèvement des travaux.</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);"><i class="linearicons-cube info-circle-icon"></i></div>
+                                                    <div class="info-details" data-icon-class="ult-info-circle-icon">
+                                                        <div class="info-circle-def">
+                                                            <div class="info-circle-sub-def"><i class="linearicons-cube info-circle-icon"></i>
+                                                                <div class="responsive-font-class ult-responsive">
+                                                                    <h3 data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;">Assurance :</h3>
+                                                                    <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Garantit le remboursement de vos cotisations en cas de non achèvement. </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);"><i class="linearicons-fire info-circle-icon"></i></div>
+                                                    <div class="info-details" data-icon-class="ult-info-circle-icon">
+                                                        <div class="info-circle-def">
+                                                            <div class="info-circle-sub-def"><i class="linearicons-fire info-circle-icon"></i>
+                                                                <div class="responsive-font-class ult-responsive">
+                                                                    <h3 data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;">Délai de livraison :</h3>
+                                                                    <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Contractuel, il reflète notre sérieux et notre volonté de vous offrir une expérience sans tracas.</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div id="info-cirlce-wrap-1403" class="info-c-full" style="background-color:#1c0c3d;color:#ffffff;width:70%;height:70%;margin:15%;">
+                                                    <div class="info-c-full-wrap"></div>
+                                                </div>
+                                            </div>
+                                            <div class="smile_icon_list_wrap " data-content_bg="#1c0c3d" data-content_color="#ffffff">
+                                                <ul id="info-cirlce-wrap-1403" class="smile_icon_list left circle with_bg">
+                                                    <li class="icon_list_item" style="font-size:105px;">
+                                                        <div class="icon_list_icon" style="font-size:35px;width:35px;height:35px;line-height:1;">
+                                                            <i class="smt-pencil"></i>
+                                                        </div>
+                                                        <div class="icon_description" style="font-size:35px;">
+                                                            <div class="responsive-font-class ult-responsive" data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class *' data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}' style="font-family:&#039;Inter&#039;;font-weight:normal;">
+                                                                <h3 data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;"></h3>
+                                                                <p></p>
+                                                            </div>
+                                                        </div>
+                                                        <div class="icon_list_connector" style=" border-style:solid;border-color:rgba(28,12,61,0.15); left:17.5px; top:35px;">
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="vc_row wpb_row vc_row-fluid vc_custom_1674144012146">
+                        <div class="wpb_column vc_column_container vc_col-sm-2">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper"></div>
+                            </div>
+                        </div>
+                        <div class="wpb_column vc_column_container vc_col-sm-8">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper">
+                                    <div id="ultimate-heading-641965a535b844a98" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-641965a535b844a98 uvc-9997 " data-hspacer="no_spacer" data-halign="center" style="text-align:center">
+                                        <div class="uvc-heading-spacer no_spacer" style="top"></div>
+                                        <div class="uvc-sub-heading ult-responsive" data-ultimate-target='.uvc-heading.ultimate-heading-641965a535b844a98 .uvc-sub-heading ' data-responsive-json-new='{"font-size":"desktop:70px;tablet:65px;tablet_portrait:35px;mobile_landscape:35px;mobile:32px;","line-height":"desktop:75px;tablet_portrait:40px;mobile_landscape:40px;mobile:38px;"}' style="font-family:&#039;Inter&#039;;font-weight:800;color:#ffffff;">Une expérience immersive qui vous simplifie la vie.</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="wpb_column vc_column_container vc_col-sm-2">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Row Backgrounds -->
+                    <div class="upb_bg_img" data-ultimate-bg="url(https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/12/swati-b-Vf2-ZiIu8xY-unsplash.jpg)" data-image-id="id^2100|url^https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/12/swati-b-Vf2-ZiIu8xY-unsplash.jpg|caption^null|alt^null|title^swati-b-Vf2-ZiIu8xY-unsplash|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="0 0" data-parallx_sense="30" data-bg-override="ex-full" data-bg_img_attach="scroll" data-upb-overlay-color="rgba(67,25,147,0.5)" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="rgba(67,25,147,0.5)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll"></div>
+                    <div class="vc_row wpb_row vc_row-fluid">
+                        <div class="wide-box-mobile wpb_column vc_column_container vc_col-sm-12">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper">
+                                    <div class="ult-spacer spacer-65c1ff920bb75" data-id="65c1ff920bb75" data-height="80" data-height-mobile="50" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="50" style="clear:both;display:block;"></div>
+                                    <style type='text/css'>
+                                        #cbpw-wrap130 {
+                                            margin: 0px 0px 0px 0px;
+                                        }
+
+                                        #cbpw-grid130 .cbp-l-caption-title {
+                                            color: #1c0c3d;
+                                            background-color: transparent;
+                                            font-size: 16px;
+                                            font-family: Inter;
+                                            font-weight: 700;
+                                            font-style: normal;
+                                            line-height: 25px;
+                                            text-align: center;
+                                            padding: 0px 0px 0px 0px;
+                                            margin: 5px 0px 0px 0px;
+                                            text-transform: capitalize;
+                                        }
+
+                                        #cbpw-grid130 .cbp-l-caption-desc {
+                                            color: #ededed;
+                                            background-color: transparent;
+                                            font-size: 14px;
+                                            font-family: Inter;
+                                            font-weight: 500;
+                                            font-style: normal;
+                                            line-height: 16px;
+                                            text-align: center;
+                                            padding: 0px 0px 0px 0px;
+                                            margin: 5px 0px 0px 0px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-grid130 .cbp-caption-activeWrap {
+                                            background-color: #ffffff;
+                                        }
+
+                                        #cbpw-filters130 .cbp-filter-item {
+                                            background-color: transparent;
+                                            border-width: 0px;
+                                            border-style: none;
+                                            border-color: transparent;
+                                            border-radius: 0;
+                                            color: #1c0c3d;
+                                            font-size: 15px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 21px;
+                                            margin: 0px 0px 10px 0px;
+                                            padding: 0px 12px 0px 12px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-filters130 .cbp-filter-item:hover {
+                                            background-color: transparent;
+                                            border-width: 0px;
+                                            border-style: none;
+                                            border-color: transparent;
+                                            border-radius: 0;
+                                            color: #5a24b1;
+                                            font-size: 15px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 21px;
+                                            margin: 0px 0px 10px 0px;
+                                            padding: 0px 12px 0px 12px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-filters130 .cbp-filter-item.cbp-filter-item-active {
+                                            background-color: transparent;
+                                            border-width: 0px;
+                                            border-style: none;
+                                            border-color: transparent;
+                                            border-radius: 0;
+                                            color: #5a24b1;
+                                            font-size: 15px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 21px;
+                                            margin: 0px 0px 10px 0px;
+                                            padding: 0px 12px 0px 12px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-filters130 .cbp-filter-item.cbp-filter-item-active:hover {
+                                            background-color: transparent;
+                                            border-width: 0px;
+                                            border-style: none;
+                                            border-color: transparent;
+                                            border-radius: 0;
+                                            color: #5a24b1;
+                                            font-size: 15px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 21px;
+                                            margin: 0px 0px 10px 0px;
+                                            padding: 0px 12px 0px 12px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-filters130 .cbp-filter-counter {
+                                            background-color: #626161;
+                                            color: #fff;
+                                            font-size: 11px;
+                                            font-family: Open Sans, sans-serif;
+                                            font-weight: 400;
+                                            font-style: normal;
+                                            line-height: 18px;
+                                            padding: 4px 0px 4px 0px;
+                                        }
+
+                                        #cbpw-filters130 .cbp-filter-counter:after {
+                                            border-color: #626161 transparent;
+                                        }
+
+                                        #cbpw-loadMore130 .cbp-l-loadMore-link {
+                                            color: #5a24b1;
+                                            background-color: transparent;
+                                            border-width: 2px 2px 2px 2px;
+                                            border-style: solid;
+                                            border-color: #5a24b1;
+                                            font-size: 14px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 34px;
+                                            text-align: center;
+                                            padding: 2px 30px 2px 30px;
+                                            margin: 40px 0px 0px 0px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-loadMore130 .cbp-l-loadMore-link:hover {
+                                            color: #ffffff;
+                                            background-color: #5a24b1;
+                                            border-width: 2px 2px 2px 2px;
+                                            border-style: solid;
+                                            border-color: #5a24b1;
+                                            font-size: 14px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 34px;
+                                            text-align: center;
+                                            padding: 2px 30px 2px 30px;
+                                            margin: 40px 0px 0px 0px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-loadMore130 .cbp-l-loadMore-loading {
+                                            color: #5a24b1;
+                                            background-color: transparent;
+                                            border-width: 2px 2px 2px 2px;
+                                            border-style: solid;
+                                            border-color: #5a24b1;
+                                            font-size: 14px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 34px;
+                                            text-align: center;
+                                            padding: 2px 30px 2px 30px;
+                                            margin: 40px 0px 0px 0px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-loadMore130 .cbp-l-loadMore-loading:hover {
+                                            color: #ffffff;
+                                            background-color: #5a24b1;
+                                            border-width: 2px 2px 2px 2px;
+                                            border-style: solid;
+                                            border-color: #5a24b1;
+                                            font-size: 14px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 34px;
+                                            text-align: center;
+                                            padding: 2px 30px 2px 30px;
+                                            margin: 40px 0px 0px 0px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-loadMore130 .cbp-l-loadMore-stop {
+                                            color: #B0B0B0;
+                                            background-color: transparent;
+                                            border-width: 1px 1px 1px 1px;
+                                            border-style: solid;
+                                            border-color: #DEDEDE;
+                                            font-size: 14px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 34px;
+                                            text-align: center;
+                                            padding: 2px 30px 2px 30px;
+                                            margin: 40px 0px 0px 0px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-loadMore130 .cbp-l-loadMore-stop:hover {
+                                            color: #B0B0B0;
+                                            background-color: transparent;
+                                            border-width: 1px 1px 1px 1px;
+                                            border-style: solid;
+                                            border-color: #DEDEDE;
+                                            font-size: 14px;
+                                            font-family: Inter;
+                                            font-weight: 600;
+                                            font-style: normal;
+                                            line-height: 34px;
+                                            text-align: center;
+                                            padding: 2px 30px 2px 30px;
+                                            margin: 40px 0px 0px 0px;
+                                            text-transform: none;
+                                        }
+
+                                        #cbpw-singlePage130 .cbp-popup-navigation-wrap {
+                                            background-color: #34425C;
+                                        }
+
+                                        #cbpw-singlePage130 .cbp-popup-singlePage-counter {
+                                            color: #bbc0df;
+                                            font-size: 13px;
+                                            font-family: Open Sans;
+                                            font-weight: 400;
+                                            font-style: normal;
+                                        }
+                                    </style>
+                                    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Inter:700normal,500normal,600normal" type="text/css" media="all" property="stylesheet">
+                                    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400normal" type="text/css" media="all" property="stylesheet">
+                                    <div id="cbpw-wrap130">
+                                        <div id="cbpw-filters130" class="cbp-l-filters-alignCenter des-align-center">
+                                            <div data-filter="*" class="cbp-filter-item cbp-filter-item-active">TOUS</div>
+                                            /<div data-filter=".slider" class="cbp-filter-item">Certifications</div>
+                                            /<div data-filter=".gallery" class="cbp-filter-item">Programmes</div>
+                                            /<div data-filter=".mockup" class="cbp-filter-item">Terrains</div>
+                                        </div>
+                                        <div id="cbpw-grid130" class="cbp-l-grid-gallery cbp">
+                                            <div>
+                                                <div class="cbp-item mockup">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/nyssa-mockup/" class="cbp-caption cbp-singlePageInline" data-title="Nyssa Mockup" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project1.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Nyssa Mockup</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item des-project slider">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/boldway-business-card/" class="cbp-caption cbp-singlePageInline" data-title="Boldway Business Card" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project2.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Boldway Card</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item gallery">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/nyssa-lettering/" class="cbp-caption cbp-singlePageInline" data-title="We are Nyssa Lettering" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project3.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">We are Nyssa</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item image">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/art-exhibition/" class="cbp-caption cbp-singlePageInline" data-title="Art exhibition" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project4.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Art exhibition</div>
+                                                                    <div class="cbp-l-caption-desc"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item mockup">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/heart-logo/" class="cbp-caption cbp-singlePageInline" data-title="Heart Logo" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project5.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Heart Logo</div>
+                                                                    <div class="cbp-l-caption-desc"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item mockup">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/my-goals-app/" class="cbp-caption cbp-singlePageInline" data-title="My Goals App" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project6.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">My Goals App</div>
+                                                                    <div class="cbp-l-caption-desc"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item image">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/nyssa-wordpress-theme/" class="cbp-caption cbp-singlePageInline" data-title="Nyssa WordPress Theme" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project7.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Nyssa Theme</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item des-project slider">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/macarons/" class="cbp-caption cbp-singlePageInline" data-title="Colored vanilla macarons" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project8.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Colored macarons</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item image">
+                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/flower-nyssa-lettering/" class="cbp-caption cbp-singlePageInline" data-title="Flower nyssa lettering" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project9.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Flower nyssa</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- <div id="cbpw-loadMore130" class="">
+                                            <div class="cbp-l-loadMore-button">
+                                                <a href="ajax/loadMore.html" class="cbp-l-loadMore-link">
+                                                    <span class="cbp-l-loadMore-defaultText">Load more</span>
+                                                    <span class="cbp-l-loadMore-loadingText">Loading...</span>
+                                                    <span class="cbp-l-loadMore-noMoreLoading">No more works</span>
+                                                </a>
+                                            </div>
+                                        </div> -->
+                                    </div>
+                                    <script type="text/javascript">
+                                        this.initCubePortfolio = this.initCubePortfolio || [];
+                                        this.initCubePortfolio.push({
+                                            id: 130,
+                                            options: {
+                                                "filters": "#cbpw-filters130",
+                                                "loadMore": "#cbpw-loadMore130",
+                                                "loadMoreAction": "click",
+                                                "search": "",
+                                                "layoutMode": "grid",
+                                                "sortToPreventGaps": false,
+                                                "drag": true,
+                                                "auto": false,
+                                                "autoTimeout": 5000,
+                                                "autoPauseOnHover": true,
+                                                "showNavigation": true,
+                                                "showPagination": true,
+                                                "rewindNav": true,
+                                                "scrollByPage": false,
+                                                "defaultFilter": "*",
+                                                "filterDeeplinking": false,
+                                                "animationType": "flipOut",
+                                                "gridAdjustment": "responsive",
+                                                "mediaQueries": [{
+                                                    "width": 1400,
+                                                    "cols": 3
+                                                }, {
+                                                    "width": 1170,
+                                                    "cols": 3
+                                                }, {
+                                                    "width": 1024,
+                                                    "cols": 3
+                                                }, {
+                                                    "width": 960,
+                                                    "cols": 3
+                                                }, {
+                                                    "width": 778,
+                                                    "cols": 3
+                                                }, {
+                                                    "width": 640,
+                                                    "cols": 2
+                                                }, {
+                                                    "width": 480,
+                                                    "cols": 1
+                                                }],
+                                                "gapHorizontal": 25,
+                                                "gapVertical": 25,
+                                                "caption": "overlayBottomPush",
+                                                "displayType": "bottomToTop",
+                                                "displayTypeSpeed": 200,
+                                                "lightboxDelegate": ".cbp-lightbox",
+                                                "lightboxGallery": true,
+                                                "lightboxTitleSrc": "data-title",
+                                                "lightboxCounter": "<div class=\"cbp-popup-lightbox-counter\">\{\{current\}\} of \{\{total\}\}</div>",
+                                                "singlePageDelegate": ".cbp-singlePage",
+                                                "singlePageDeeplinking": true,
+                                                "singlePageStickyNavigation": true,
+                                                "singlePageCounter": "<div class=\"cbp-popup-singlePage-counter\">\{\{current\}\} of \{\{total\}\}</div>",
+                                                "singlePageAnimation": "middle",
+                                                "singlePageInlineDelegate": ".cbp-singlePageInline",
+                                                "singlePageInlineDeeplinking": false,
+                                                "singlePageInlinePosition": "below",
+                                                "singlePageInlineInFocus": true,
+                                                "plugins": {},
+                                                "cols": 3,
+                                                "coverRatio": "",
+                                                "displayItemsLoadMore": 3
+                                            }
+                                        });
+                                    </script>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Row Backgrounds -->
+                    <div class="upb_color" data-bg-override="ex-full" data-bg-color="#fefcff" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size="" data-seperator="true" data-seperator-type="triangle_svg_seperator" data-seperator-shape-size="40" data-seperator-svg-height="25" data-seperator-full-width="true" data-seperator-position="top_seperator" data-seperator-background-color="#8377bf" data-icon=""></div>
+                    <div class="vc_row wpb_row vc_row-fluid no-col-padding wideipad">
+                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper">
+                                    <div class="ult-spacer spacer-65a535b84582e" data-id="65a535b84582e" data-height="120" data-height-mobile="50" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="50" style="clear:both;display:block;"></div>
+                                    <h3 style="text-align: center" class="vc_custom_heading">Decouvrez Hallo Challenge</h3>
+                                    <div class="vc_empty_space" style="height: 20px">
+                                        <span class="vc_empty_space_inner"></span>
+                                    </div>
+                                    <div class="vc_row wpb_row vc_inner vc_row-fluid testimonials-box vc_custom_1676046159082">
+                                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                                            <div class="vc_column-inner">
+                                                <div class="wpb_wrapper">
+
+
+                                                    <div class="row g-4">
+                                                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                                                            <div class="team-item">
+                                                                <div class="d-flex">
+
+                                                                    <img fetchpriority="high" decoding="async" width="1633" height="1750" src="/img/accueil/offre1.png" alt="">
+
+                                                                </div>
+
+
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                                                            <div class="team-item">
+                                                                <div class="d-flex">
+                                                                    <img fetchpriority="high" decoding="async" width="1633" height="1750" src="/img/accueil/offre2.png" alt="">
+                                                                    <!--                            <a href="/inscription" title="Choix du nombre d’année">   <img fetchpriority="high" decoding="async" width="1633" height="1750" src="../wp-content/uploads/sites/8/2024/11/Site bloc1.png" class="vc_single_image-img attachment-full" alt="" title="Site bloc1" srcset="/wp-content/uploads/sites/8/2024/11/Site bloc1.png 1633w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-280x300.png 280w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-956x1024.png 956w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-768x823.png 768w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-1433x1536.png 1433w" sizes="(max-width: 1633px) 100vw, 1633px" alt=""> </a>	-->
+                                                                </div>
+
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+                                                            <div class="team-item">
+                                                                <div class="d-flex">
+
+                                                                    <img fetchpriority="high" decoding="async" width="1633" height="1750" src="/img/accueil/offre3.png" alt="">
+                                                                </div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                    <script type="text/javascript">
+                                                        jQuery(document).ready(function() {
+
+                                                            if (window.self === window.top) {
+                                                                if (jQuery('body').is('.wp-admin.compose-mode')) {
+                                                                    return;
+                                                                }
+                                                            }
+
+                                                            var who = jQuery('#testimonials-slider-1 ul.slides');
+
+                                                            var opts = ['slide', 'horizontal', 'no', '3500', '1000', 'no', 'no', 'yes', 'dark', '3', '2', '1', '1'];
+                                                            if (opts[2] == 'yes') opts[2] = true;
+                                                            else opts[2] = false;
+                                                            if (opts[5] == 'yes') {
+                                                                opts[5] = true;
+                                                            } else opts[5] = false;
+                                                            if (opts[6] == 'yes') {
+                                                                opts[6] = true;
+                                                            } else opts[6] = false;
+                                                            if (opts[7] == 'yes') opts[7] = true;
+                                                            else opts[7] = false;
+                                                            if (opts[0] == 'fade') opts[0] = true;
+                                                            else opts[0] = false;
+
+                                                            who.slick({
+                                                                fade: opts[0],
+                                                                dots: opts[6],
+                                                                autoplay: opts[2],
+                                                                autoplaySpeed: opts[3],
+                                                                speed: opts[4],
+                                                                infinite: true,
+                                                                arrows: opts[5],
+                                                                adaptiveHeight: true,
+                                                                nextArrow: '<button type="button" class="slick-next default"><i class="ultsl-arrow-right6"></i></button>',
+                                                                prevArrow: '<button type="button" class="slick-prev default"><i class="ultsl-arrow-left6"></i></button>',
+                                                                swipe: true,
+                                                                draggable: true,
+                                                                touchMove: true,
+                                                                slidesToScroll: parseInt(opts[9], 10),
+                                                                slidesToShow: parseInt(opts[9], 10),
+                                                                responsive: [{
+                                                                    breakpoint: 1024,
+                                                                    settings: {
+                                                                        slidesToShow: parseInt(opts[10], 10),
+                                                                        slidesToScroll: parseInt(opts[10], 10)
+                                                                    }
+                                                                }, {
+                                                                    breakpoint: 768,
+                                                                    settings: {
+                                                                        slidesToShow: parseInt(opts[11], 10),
+                                                                        slidesToScroll: parseInt(opts[11], 10)
+                                                                    }
+                                                                }, {
+                                                                    breakpoint: 480,
+                                                                    settings: {
+                                                                        slidesToShow: parseInt(opts[12], 10),
+                                                                        slidesToScroll: parseInt(opts[12], 10)
+                                                                    }
+                                                                }],
+                                                                pauseOnHover: opts[7],
+                                                                pauseOnDotsHover: opts[7],
+                                                                customPaging: function(slider, i) {
+                                                                    return '<i type="button" class="ultsl-record" data-role="none"></i>';
+                                                                }
+                                                            });
+                                                        });
+                                                    </script>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ult-spacer spacer-65c0b3f367ce7" data-id="65c0b3f367ce7" data-height="0" data-height-mobile="50" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="50" style="clear:both;display:block;"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Row Backgrounds -->
+                </section>
+            </div>
+        </section>
+
+        <div id="big_footer" class="">
+            <div class="footer_newsletter">
+                <div class="mail-box">
+                    <div class="mail-news container">
+                        <div class="news-l">
+                            <div class="opacity-icon">
+                                <i class="fa fa-paper-plane-o"></i>
+                            </div>
+                            <div class="banner">
+                                <h4>Abonnez-vous au newsletter</h4>
+                                <p>Pour suivre nos actualités sur nos produits</p>
+                            </div>
+                            <div class="form">
+                                <!-- Begin Mailchimp Signup Form -->
+                                <div id="mc_embed_signup">
+                                    <form action="\{\{ route('font.contacts.store') \}\}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
+                                        @csrf
+                                        <!-- @method("PUT") -->
+                                        <div id="mc_embed_signup_scroll">
+                                            <div class="indicates-required">
+                                                <span class="asterisk">*</span>
+                                            </div>
+                                            <div class="mc-field-group">
+                                                <label for="mce-EMAIL">
+                                                    L'email <span class="asterisk">*</span>
+                                                </label>
+                                                <input type="email" value="" name="email" class="required email" id="mce-EMAIL" required>
+                                                <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+                                            </div>
+                                            <div id="mce-responses" class="clear foot">
+                                                <div class="response" id="mce-error-response" style="display:none"></div>
+                                                <div class="response" id="mce-success-response" style="display:none"></div>
+                                            </div>
+                                            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                            <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                                                <input type="email" name="email-hidden" tabindex="-1" value="">
+                                            </div>
+                                            <div class="optionalParent">
+                                                <div class="clear foot">
+                                                    <input type="submit" value="Envoyer" name="subscribe" id="mc-embedded-subscribe" class="button">
+                                                    <p class="brandingLogo">
+                                                        <a href="http://eepurl.com/idcJKr" title="Mailchimp - email marketing made easy and fun">
+                                                            <img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg">
+                                                        </a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                                <!--End mc_embed_signup-->
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-        </form>
-        <div id="main">
-            <div class="page-template page-template-template-blank page-template-template-blank-php the-id-is-1510">
-                <div class="fullwindow_content container">
-                    <div class="tb-row">
-                        <div class="tb-cell">
-                            <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding">
-                                <div class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-12">
-                                    <div class="vc_column-inner">
-                                        <div class="wpb_wrapper">
-                                            <div class="ult-content-box-container ">
-                                                <div class="ult-content-box" style="box-shadow: px px px px none;margin:0px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin:0px;" data-normal_margins="margin:0px;">
-                                                    <div id="ultv-8097" class="ult-dual-color ult-adjust-bottom-margin ult-dual-color-responsive-none ultv-8097  ">
-                                                        <div class="ult-module-content ult-dual-color-heading" style="text-align:center;">
-                                                            <h1>
-                                                                <span class="ult-before-heading">
-                                                                    <span class="ult-dual-heading-text ult-first-text ult-responsive" data-ultimate-target='.ult-dual-color.ultv-8097 .ult-dual-heading-text' data-responsive-json-new='{"font-size":"","line-height":""}' style="color:#ffffff;     border:none; font-family:&#039;Inter&#039;;font-weight:800;">Site en construction</span>
-                                                                </span>
-                                                                <span class="ult-adv-heading" style="">
-                                                                    <span class="ult-dual-adv-heading-text ult-highlight-text ult-responsive" data-ultimate-target='.ult-dual-color.ultv-8097 .ult-highlight-text' data-responsive-json-new='{"font-size":"","line-height":""}' style="color:#feb4c3;   letter-spacing:0px;  border:none; font-family:&#039;Inter&#039;;font-weight:800;">.</span>
-                                                                </span>
-                                                            </h1>
+            <div id="primary_footer">
+                <div class="container no-fcontainer">
+                    <div class="footer_sidebar col-xs-12 col-md-4">
+                        <div class="wpbakeryelement_widget widget">
+                            <div class="des_widget_vc_element">
+                                <div class="vc_row wpb_row vc_row-fluid">
+                                    <div class="wpb_column vc_column_container vc_col-sm-12">
+                                        <div class="vc_column-inner">
+                                            <div class="wpb_wrapper">
+                                                <div class="lord-icon center">
+                                                    <lord-icon src="https://cdn.treethemes.com/animations/icons/53-location-pin-on-round-map-outline-edited.json" trigger="hover" lalign="center" style="height: 90px; width: 90px" class="lizr_icon lizr_vc_d7n1iprG6t" colors="primary:#f9f3ff,secondary:#4beee9,"></lord-icon>
+                                                </div>
+                                                <div class="ult-content-box-container ">
+                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
+                                                        <div class="wpb_text_column wpb_content_element ">
+                                                            <div class="wpb_wrapper">
+                                                                <p style="text-align: center;">Abidjan, Cocody riviera, Carrefour Tonton Bouba face au collège Akanji</p>
+                                                            </div>
                                                         </div>
                                                     </div>
-                                                    <p style="font-size: 1.1em;color: #b8b2c7;text-align: center" class="vc_custom_heading">Nous serons bientôt disponible!</p>
-                                                    <!-- <div class="ult-spacer spacer-65c769f8c0d9b" data-id="65c769f8c0d9b" data-height="40" data-height-mobile="10" data-height-tab="" data-height-tab-portrait="20" data-height-mobile-landscape="20" style="clear:both;display:block;"></div>
-                                                    <style>
-                                                        #count-down-wrap-7518 .ult_countdown-amount {
-                                                            font-weight: 800;
-                                                            font-weight: 800;
-                                                            font-family : Heebo;
-                                                            color: #ffffff;
-                                                        }
-
-                                                        #count-down-wrap-7518 .ult_countdown-period {
-                                                            font-weight: normal;
-                                                            color: #a5a5a5;
-                                                            font-family: ;
-                                                        }
-                                                    </style>
-                                                    <div data-ultimate-target='#count-down-wrap-7518 .ult_countdown-period'  data-responsive-json-new='{" font-size":" desktop:15px;"," line-height":""}' class="ult-responsive ult_countdown   ult-cd-no-border ult-cd-s1">
-                                                        <div id="count-down-wrap-7518" class="ult-responsive ult_countdown-div ult_countdown-dateAndTime ult-wptz" data-labels="Année,Mois,Semaines,Jours,Heures,Minutes,Secondes" data-labels2="Année,Mois,Semaines,Jours,Heures,Minutes,Secondes" data-countformat="DHMS" data-time-zone="0" data-time-now="2024/02/10 12:20:08" data-tick-col="#ffffff" data-ultimate-target='#count-down-wrap-7518 .ult_countdown-amount' data-responsive-json-new='{"font-size":"desktop:90px;tablet_portrait:60px;mobile_landscape:30px;mobile:30px;","line-height":""}' data-tick-p-col="#a5a5a5" data-tick-style="font-weight:800;" data-tick-p-style="" data-bg-color="" data-br-radius="" data-padd="30">2023/12/20 20:00:00</div>
-                                                    </div> -->
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="vc_row-full-width vc_clearfix"></div>
-                            <!-- Row Backgrounds -->
-                            <div class="upb_bg_img" data-ultimate-bg="url(/img/accueil/accueil_bloc1.png)" data-image-id="id^2367|url^/img/accueil/accueil_bloc1.png|caption^null|alt^null|title^sung-jin-cho-NBVi9zj2egU-unsplash|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="browser_size" data-bg_img_attach="fixed" data-upb-overlay-color="rgba(28,12,61,0.9)" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="rgba(28,12,61,0.9)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll"></div>
+                        </div>
+                    </div>
+                    <div class="footer_sidebar col-xs-12 col-md-4">
+                        <div class="wpbakeryelement_widget widget">
+                            <div class="des_widget_vc_element">
+                                <div class="vc_row wpb_row vc_row-fluid">
+                                    <div class="wpb_column vc_column_container vc_col-sm-12">
+                                        <div class="vc_column-inner">
+                                            <div class="wpb_wrapper">
+                                                <div class="lord-icon center">
+                                                    <lord-icon src="https://cdn.treethemes.com/animations/icons/145-envelope-mail-notification-open-morph-outline-edited.json" trigger="hover" lalign="center" style="height: 90px; width: 90px" class="lizr_icon lizr_vc_Mh1OTyBieF" colors="primary:#f9f3ff,secondary:#4beee9,"></lord-icon>
+                                                </div>
+                                                <div class="ult-content-box-container ">
+                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
+                                                        <div class="wpb_text_column wpb_content_element ">
+                                                            <div class="wpb_wrapper">
+                                                                <p style="text-align: center;">
+                                                                    <a href="mailto:challenge-toit@heyz.ci">challenge-toit@heyz.ci</a>
+                                                                    <br />
+                                                                    <a href="mailto:challenge-toit@heyz.ci">info-challenge-toit@heyz.ci</a>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer_sidebar col-xs-12 col-md-4">
+                        <div class="wpbakeryelement_widget widget">
+                            <div class="des_widget_vc_element">
+                                <div class="vc_row wpb_row vc_row-fluid">
+                                    <div class="wpb_column vc_column_container vc_col-sm-12">
+                                        <div class="vc_column-inner">
+                                            <div class="wpb_wrapper">
+                                                <div class="lord-icon center">
+                                                    <lord-icon src="https://cdn.treethemes.com/animations/icons/140-earphone-telephone-outline-edited.json" trigger="hover" lalign="center" style="height: 90px; width: 90px" class="lizr_icon lizr_vc_I41aJwYo30" colors="primary:#f9f3ff,secondary:#4beee9,"></lord-icon>
+                                                </div>
+                                                <div class="ult-content-box-container ">
+                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
+                                                        <div class="wpb_text_column wpb_content_element ">
+                                                            <div class="wpb_wrapper">
+                                                                <p style="text-align: center;">
+                                                                    (+225) 0779796440<br />&nbsp;
+                                                                </p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
+            <div id="secondary_footer">
+                <div class="container ">
+                    <a class="footer_logo align-center" href="https://preview.treethemes.com/nyssa/demo1/" tabindex="-1">
+                        <img class="footer_logo_normal notalone" src="/img/import/Footer.png" alt="" title="">
+                        <img class="footer_logo_retina" src="/img/import/Footer.png" alt="" title="">
+                    </a>
+                    <div class="social-icons-fa align-center">
+                        <ul>
+                            <li>
+                                <a href="#" target="_blank" class="instagram" title="Instagram">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank" class="twitter" title="Twitter">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank" class="youtube" title="Youtube">
+                                    <i class="fab fa-youtube"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank" class="twitch" title="Twitch">
+                                    <i class="fab fa-facebook"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footer_custom_text center">
+                        <p style="text-align: center;" data-mce-style="text-align: center;">© Challenge-Toit 2019, tous droits réservés </p>
+                    </div>
+                </div>
+            </div>
         </div>
+        <!-- endof bigfooter -->
+    </div>
 
     <div class="container-chat">
         <div class="chatbox">
