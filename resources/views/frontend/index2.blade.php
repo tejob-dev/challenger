@@ -4794,7 +4794,7 @@
     <script src="/showHideOther.js"></script>
 
     <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/js/global.js?ver=1' id='nyssa-global-js'></script>
-    <script type='text/javascript' src='/wp-content/plugins/cubeportfolio/public/js/main.min-1.13.2.js' id='cubeportfolio-jquery-js-js'></script>
+    <script type='text/javascript' src='/nyssa/demo1//wp-content/plugins/cubeportfolio/public/js/main.min-1.13.2.js' id='cubeportfolio-jquery-js-js'></script>
     <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/content-box.min.js?ver=3.19.13' id='ultimate-vc-addons_content_box_js-js'></script>
     <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.10.0' id='wpb_composer_front_js-js'></script>
     <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/SmoothScroll.min.js?ver=3.19.13' id='ultimate-vc-addons-smooth-scroll-js'></script>
