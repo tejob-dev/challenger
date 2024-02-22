@@ -2501,8 +2501,8 @@
             display: none !important;
         }
 
-        #form-register-modal>div.nyssa-multiple-fields span.select2.select2-container {
-            display: none !important;
+        #form-register-modal > div.nyssa-multiple-fields span.select2.select2-container{
+            display: none!important;
         }
 
         /* #form-register-modal > div.nyssa-multiple-fields select.wpcf7-form-control.wpcf7-select{
@@ -2516,7 +2516,7 @@
         }
     </style>
     <link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=9.1.5' type='text/css' media='all' />
-    <!-- <link rel='stylesheet' href='/stylea.css' type='text/css' /> -->
+    <link rel='stylesheet' href='/stylea.css' type='text/css' />
     <link rel='stylesheet' href='/checkcss.css' type='text/css' />
 
 
@@ -2860,8 +2860,7 @@
             background-color: #4beee9 !important;
         }
 
-        #form-register-modal>div.nyssa-multiple-fields select,
-        #form-register-modal2>div.nyssa-multiple-fields select {
+        #form-register-modal > div.nyssa-multiple-fields select, #form-register-modal2 > div.nyssa-multiple-fields select{
             height: 56px;
             margin-top: 0;
         }
@@ -3241,7 +3240,7 @@
                         <li id="mobile-nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
                             <a href="/inscription.html" class="menu-link main-menu-link outsider">Inscription</a>
                         </li>
-                        <!-- <li id="mobile-nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
+                        <li id="mobile-nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
                             <a href="/about.html" class="menu-link main-menu-link outsider">Challenge Pro</a>
                         </li>
                         <li id="mobile-nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
@@ -3249,7 +3248,7 @@
                         </li>
                         <li id="mobile-nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
                             <a href="/parrain.html" class="menu-link main-menu-link outsider">Parrainage</a>
-                        </li> -->
+                        </li>
                         <li id="mobile-nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
                             <a href="/contact.html" class="menu-link main-menu-link outsider">Contact</a>
                         </li>
@@ -3264,7 +3263,7 @@
                             <li id="nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
                                 <a href="/inscription.html" class="menu-link main-menu-link outsider">Inscription</a>
                             </li>
-                            <!-- <li id="nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
+                            <li id="nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
                                 <a href="/about.html" class="menu-link main-menu-link outsider">Challenge Pro</a>
                             </li>
                             <li id="nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
@@ -3272,7 +3271,7 @@
                             </li>
                             <li id="nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
                                 <a href="/parrain.html" class="menu-link main-menu-link outsider">Parrainage</a>
-                            </li> -->
+                            </li>
                             <li id="nav-menu-item-3974" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page-24">
                                 <a href="/contact.html" class="menu-link main-menu-link outsider">Contact</a>
                             </li>
@@ -3320,7 +3319,6 @@
                     </div>
                 </div>
         </header>
-
         <section id="home"></section>
         <section class="page_content section_page-4543 content_from_homepage_template" id="section_page-4543" data-section-title="Home Parallax">
             <div class="container">
@@ -3335,76 +3333,103 @@
                                         <rs-module id="rev_slider_18_1" style="" data-version="6.6.10">
                                             <rs-slides style="overflow: hidden; position: absolute;">
                                                 <rs-slide style="position: absolute;" data-key="rs-52" data-title="Slide" data-in="o:0;x:(100%);" data-out="a:false;">
-                                                    <img decoding="async" src="../wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Home Parallax" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//preview.treethemes.com/nyssa/demo1/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-bg="c:#ffffff;" data-parallax="off" data-no-retina>
-                                                    <!--						--><rs-zone id="rrzt_52" class="rev_row_zone_top" style="z-index: 19;"><!--
+                                                    <img src="//preview.treethemes.com/nyssa/demo1/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Home Parallax" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//preview.treethemes.com/nyssa/demo1/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-bg="c:#ffffff;" data-parallax="off" data-no-retina>
+                                                    <!--						-->
+                                                    <rs-zone id="rrzt_52" class="rev_row_zone_top" style="z-index: 19;">
+                                                        <!--
 
-                        --><rs-row id="slider-18-slide-52-layer-4" data-type="row" data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-margin="t:200,75,50,100;r:30,30,30,20;l:30,30,30,20;" data-frame_0="x:left;o:1;" data-frame_1="e:power4.out;sp:2000;" data-frame_999="x:0px;y:top;o:1;st:w;sp:1000;sR:7000;sA:9000;" style="z-index:7;"><!--
-                            --><rs-column id="slider-18-slide-52-layer-5" data-type="column" data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-column="w:100%;" data-frame_0="o:1;" data-frame_999="o:1;st:w;sp:1000;sR:8700;sA:9000;" style="z-index:6;width:100%;"><!--
-                                --><rs-layer id="slider-18-slide-52-layer-3" data-type="text" data-color="#1c0c3d" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:70,50,40,35;l:75,60,45,40;ls:-1px,0px,0px,0px;fw:700;" data-dim="w:50%,50%,50%,100%;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" style="z-index:7;font-family:'Inter';">Plongez Au Cœur <br />
-                                                                    De l’Intelligence Immobilière,
-                                                                </rs-layer><!--
-
-                                --><rs-layer id="slider-18-slide-52-layer-0" data-type="text" data-color="#383440" data-xy="" data-pos="r" data-text="w:normal;s:19,18,16,16;l:30,25,22,22;" data-dim="w:50%,50%,50%,100%;" data-rsp_bd="off" data-margin="t:30,40,30,19;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" style="z-index:6;font-family:'Inter';">L’immobilier certifié et authentifié, des opportunités adaptées à votre portefeuille et votre style de vie. Bien plus qu’une simple transaction, nous vous garantissons une expérience sécurisée et sereine …
-                                                                </rs-layer><!--
-                            --></rs-column><!--
-                        --></rs-row><!--
-
-                        --><rs-row id="slider-18-slide-52-layer-12" data-type="row" data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-margin="t:100,50,50,450;r:30,30,30,20;b:75,75,50,50;l:30,30,30,20;" data-frame_0="x:left;o:1;" data-frame_1="e:power4.out;st:300;sp:2000;sR:300;" data-frame_999="x:0px;y:bottom;o:1;st:w;sp:1000;sR:6700;sA:9000;" style="z-index:6;">
-                                                                <!--
-									-->
-                                    <rs-column id="slider-18-slide-52-layer-13" data-type="column" data-bsh="c:rgba(0,0,0,0.15);v:20px;b:40px;" data-xy="xo:50px;yo:50px;" data-text="a:right,right,right,center;" data-actions='o:mouseenter;a:pauseslider;||o:mouseleave;a:playslider;' data-rsp_bd="off" data-column="w:75%;" data-padding="t:30,30,20,20;r:30,30,20,20;b:30,30,20,30;l:30,30,20,20;" data-border="bor:10px,10px,10px,10px;" data-frame_0="o:1;bB:10px;" data-frame_1="bB:10px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;bB:10px;sA:9000;" style="z-index:7;background-color:rgba(74,81,101,0.5);width:100%;">
-                                                                    <!--
-										-->
-                                                                    <rs-layer id="slider-18-slide-52-layer-21" data-type="shape" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:20,15,11,6;f:left;l:0,19,14,8;" data-flcr="f:left;" data-dim="w:10px,10px,10px,6px;h:10px,10px,10px,6px;" data-disp="inline-block" data-border="bor:5px,5px,5px,5px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" data-loop_999="sX:2;sY:2;sp:2000;st:0;e:sine.inOut;yys:t;yyf:t;" style="z-index:8;background-color:#f94a82;display:inline-block;"></rs-layer>
-                                                                    <!--
-
-										-->
-                                                                    <rs-layer id="slider-18-slide-52-layer-17" data-type="text" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:20,18,18,20;l:60,50,50,28;fw:600;a:left,left,left,center;" data-dim="w:70%,65%,70%,302px;" data-disp="inline-block" data-frame_999="o:1;st:w;sp:1000;sR:8700;" style="z-index:7;font-family:'Montserrat';display:inline-block;">Maintenant si vous avez un projet immobilier</rs-layer>
-                                                                    <!--
-
-										-->
-                                                                    <a id="slider-18-slide-52-layer-16" class="rs-layer rev-btn" href="/contact" target="_blank" rel="noopener" data-type="button" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:18,16,16,16;l:60,50,50,50;fw:600;" data-dim="minh:0px,none,none,none;" data-disp="inline-block" data-margin="t:0,0,0,10;" data-padding="r:50,40,30,30;l:50,40,30,30;" data-border="bor:5px,5px,5px,5px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" data-frame_hover="c:#fff;bgc:rgba(0,0,0,0.35);bor:5px,5px,5px,5px;" style="z-index:6;background-color:#f94a82;font-family:'Montserrat';display:inline-block;">Parlons-en 
-										</a>
-                                                                    <!--
-									-->
-                                                                </rs-column>
-                                                                <!--
-
-									-->
-                                                                <rs-column id="slider-18-slide-52-layer-14" data-type="column" data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-column="w:25%;" data-frame_0="o:1;" data-frame_999="o:1;st:w;sp:1000;sR:8700;sA:9000;" style="z-index:6;width:100%;">
-                                                                <!--									-->
-                                                                </rs-column>
-                                                                <!--
 								-->
-                                                            </rs-row><!--
-                    --><!--
+                                                        <rs-row id="slider-18-slide-52-layer-4" data-type="row" data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-margin="t:200,75,50,100;r:30,30,30,20;l:30,30,30,20;" data-frame_0="x:left;o:1;" data-frame_1="e:power4.out;sp:2000;" data-frame_999="x:0px;y:top;o:1;st:w;sp:1000;sR:7000;sA:9000;" style="z-index:7;">
+                                                            <!--
+									-->
+                                                            <rs-column id="slider-18-slide-52-layer-5" data-type="column" data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-column="w:100%;" data-frame_0="o:1;" data-frame_999="o:1;st:w;sp:1000;sR:8700;sA:9000;" style="z-index:6;width:100%;">
+                                                                <!--
+										-->
+                                                                <rs-layer id="slider-18-slide-52-layer-3" data-margin="t:0,0,20,20;" data-type="text" data-color="#003279" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:44,44,40,30;l:56,56,45,40;ls:-1px,0px,0px,0px;fw:700;" data-dim="w:50%,50%,50%,90%;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" style="z-index:7;font-family:'Inter';">
+                                                                    Quand tout devient possible dans l'immobilier…
+                                                                </rs-layer>
+                                                                <!--
 
-                    --><!--
+										-->
+                                                                <rs-layer id="slider-18-slide-52-layer-0" data-type="text" data-color="#383440" data-xy="" data-pos="r" data-text="w:normal;s:19,18,16,16;l:30,25,22,22;ta:justify" data-dim="w:50%,50%,50%,100%;" data-rsp_bd="off" data-margin="t:30,40,30,19;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" style="z-index:6;font-family:'Inter';">
+                                                                    <div style="text-align:justify;">
+                                                                        Challenge-toit est la solution adéquate qui vous permet de d’acheter votre futur logement en toute quiétude sur une période allant jusqu’à cinq ans, selon vos capacités financières.<br><br> Préparez-vous pour votre déménagement, nous garantissons votre logement…
+                                                                    </div>
+                                                                </rs-layer>
+                                                                <!--
+									-->
+                                                                <a id="slider-18-slide-52-layer-16" class="rs-layer rev-btn" href="#enregistre-acquereurs" rel="noopener" data-type="button" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:18,16,16,16;l:60,50,50,50;fw:600;" data-dim="minh:0px,none,none,none;" data-disp="inline-block" data-margin="t:50,50,20,10;" data-padding="r:50,40,30,30;l:50,40,30,30;" data-border="bor:5px,5px,5px,5px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" data-frame_hover="c:#fff;bgc:rgba(0,0,0,0.35);bor:5px,5px,5px,5px;" style="z-index:6;background-color:#4beee9;font-family:'Montserrat';display:inline-block;">Vous avez un projet immobilier, parlons-en
+                                                                </a>
 
-                    --><!--
+                                                            </rs-column>
+                                                            <!--
+								-->
+                                                        </rs-row>
+                                                        -->
+                                                    </rs-zone>
+                                                    <!--
 
-                    --><!--
+							-->
+                                                    <rs-layer id="slider-18-slide-52-layer-1" class="rs-pxl-7" data-type="shape" data-xy="x:c;xo:620px,560px,320px,95px;yo:400px,280px,210px,725px;" data-text="w:normal;" data-dim="w:300px,300px,180px,180px;h:300px,300px,180px,180px;" data-rsp_o="off" data-rsp_bd="off" data-border="bor:0px,0px,75px,75px;" data-frame_0="y:bottom;o:1;" data-frame_1="e:power4.out;sp:2000;" data-frame_999="y:bottom;o:1;e:power2.inOut;st:w;sp:500;sR:7000;" style="z-index:10;background-color:rgba(0,0,0,0.5);">
+                                                        <rs-bg-elem style="background: url('/img/accueil/achat-securise.png') no-repeat center center; background-size: 120%;"></rs-bg-elem>
+                                                    </rs-layer>
+                                                    <!--
 
-                    --><!--
+							-->
+                                                    <rs-layer id="slider-18-slide-52-layer-2" class="rs-pxl-7" data-type="shape" data-xy="x:c;xo:620px,560px,320px,95px;yo:50px,-70px,10px,535px;" data-text="w:normal;" data-dim="w:300px,300px,180px,180px;h:300px,300px,180px,180px;" data-rsp_o="off" data-rsp_bd="off" data-border="bor:75px,75px,0,0;" data-frame_0="y:top;o:1;" data-frame_1="e:power4.out;sp:2000;" data-frame_999="y:top;o:1;e:power2.inOut;st:w;sp:500;sR:7000;" style="z-index:11;background-color:rgba(0,0,0,0.5);">
+                                                        <rs-bg-elem style="background: url('/img/accueil/promotion-agreee.png') no-repeat center center; background-size: 140%;"></rs-bg-elem>
+                                                    </rs-layer>
+                                                    <!--
 
-                    --><rs-layer id="slider-18-slide-52-layer-10" class="rs-pxl-7" data-type="shape" data-xy="x:c;xo:270px,250px,150px,-95px;yo:150px,30px,30px,400px;" data-text="w:normal;" data-dim="w:450px,450px,450px,480px;h:500px,500px,500px,300px;" data-rsp_o="off" data-rsp_bd="off" data-border="bor:75px,75px,0,0;" data-frame_0="y:top;o:1;" data-frame_1="e:power4.out;sp:2000;" data-frame_999="y:top;o:1;e:power2.inOut;st:w;sp:500;sR:7000;" style="z-index:13;;"><rs-bg-elem style="background: url('/img/br_accueil_transparence.png') no-repeat center center; background-size: 100%;"></rs-bg-elem>
+							-->
+                                                    <rs-layer id="slider-18-slide-52-layer-8" class="rs-pxl-4" data-type="shape" data-xy="x:c;xo:220px,160px,0,130px;yo:200px,80px,79px,544px;" data-text="w:normal;" data-dim="w:300px;h:300px;" data-vbility="t,t,f,f" data-rsp_o="off" data-rsp_bd="off" data-border="bos:solid;boc:rgba(255, 255, 255, 0.07);bow:5px,5px,5px,5px;bor:75px,75px,0,0;" data-frame_0="y:top;o:1;" data-frame_1="e:power4.out;st:200;sp:2000;sR:200;" data-frame_999="y:top;o:1;st:w;sp:500;sR:6800;" style="z-index:6;"></rs-layer>
+                                                    <!--
 
-                                                        </rs-layer><!--
+							-->
+                                                    <rs-layer id="slider-18-slide-52-layer-9" class="rs-pxl-7" data-type="shape" data-xy="x:c;xo:270px,210px,120px,-95px;yo:500px,380px,230px,725px;" data-text="w:normal;" data-dim="w:300px,300px,180px,180px;h:300px,300px,180px,180px;" data-rsp_o="off" data-rsp_bd="off" data-border="bor:0px,0px,75px,75px;" data-frame_0="y:bottom;o:1;" data-frame_1="e:power4.out;sp:2000;" data-frame_999="y:bottom;o:1;e:power2.inOut;st:w;sp:500;sR:7000;" style="z-index:12;background-color:rgba(0,0,0,0.5);">
+                                                        <rs-bg-elem style="background: url('/img/accueil/paiement-souple.png') no-repeat center top; background-size: 130%;"></rs-bg-elem>
+                                                    </rs-layer>
+                                                    <!--
 
-                    --><!--
+							-->
+                                                    <rs-layer id="slider-18-slide-52-layer-10" class="rs-pxl-7" data-type="shape" data-xy="x:c;xo:270px,210px,120px,-95px;yo:150px,30px,30px,535px;" data-text="w:normal;" data-dim="w:300px,300px,180px,180px;h:300px,300px,180px,180px;" data-rsp_o="off" data-rsp_bd="off" data-border="bor:75px,75px,0,0;" data-frame_0="y:top;o:1;" data-frame_1="e:power4.out;sp:2000;" data-frame_999="y:top;o:1;e:power2.inOut;st:w;sp:500;sR:7000;" style="z-index:13;background-color:rgba(0,0,0,0.5);">
+                                                        <rs-bg-elem style="background: url('/img/accueil/partenaire-fiables.png') no-repeat center center; background-size: 140%;"></rs-bg-elem>
+                                                    </rs-layer>
+                                                    <!--
 
-                    --><!--
+							-->
+                                                    <rs-layer id="slider-18-slide-52-layer-18" class="rs-pxl-4" data-type="shape" data-xy="x:c;xo:220px,160px,0,130px;yo:550px,430px,430px,895px;" data-text="w:normal;" data-dim="w:300px;h:300px;" data-vbility="t,t,f,f" data-rsp_o="off" data-rsp_bd="off" data-border="bos:solid;boc:rgba(255, 255, 255, 0.07);bow:5px,5px,5px,5px;bor:0px,0px,75px,75px;" data-frame_0="y:bottom;o:1;" data-frame_1="e:power4.out;st:200;sp:2000;sR:200;" data-frame_999="y:bottom;o:1;st:w;sp:500;sR:6800;" style="z-index:7;"></rs-layer>
+                                                    <!--
 
-                    --><!--
+							-->
+                                                    <rs-layer id="slider-18-slide-52-layer-19" class="rs-pxl-4" data-type="shape" data-xy="x:c;xo:570px,510px,-350px,-220px;yo:450px,330px,330px,795px;" data-text="w:normal;" data-dim="w:300px;h:300px;" data-vbility="t,t,f,f" data-rsp_o="off" data-rsp_bd="off" data-border="bos:solid;boc:rgba(255, 255, 255, 0.07);bow:5px,5px,5px,5px;bor:0px,0px,75px,75px;" data-frame_0="y:bottom;o:1;" data-frame_1="e:power4.out;st:200;sp:2000;sR:200;" data-frame_999="y:bottom;o:1;st:w;sp:500;sR:6800;" style="z-index:9;"></rs-layer>
+                                                    <!--
 
-                    --><!--
+							-->
+                                                    <rs-layer id="slider-18-slide-52-layer-20" class="rs-pxl-4" data-type="shape" data-xy="x:c;xo:570px,510px,-350px,-220px;yo:100px,-20px,-20px,446px;" data-text="w:normal;" data-dim="w:300px;h:300px;" data-vbility="t,t,f,f" data-rsp_o="off" data-rsp_bd="off" data-border="bos:solid;boc:rgba(255, 255, 255, 0.07);bow:5px,5px,5px,5px;bor:75px,75px,0,0;" data-frame_0="y:top;o:1;" data-frame_1="e:power4.out;st:200;sp:2000;sR:200;" data-frame_999="y:top;o:1;st:w;sp:500;sR:6800;" style="z-index:8;"></rs-layer>
+                                                    <!--
 
-                    --><!--
+							-->
+                                                    <rs-layer id="slider-18-slide-52-layer-23" class="rs-pxl-8" data-type="text" data-bsh="c:rgba(0,0,0,0.15);v:20px;b:40px;" data-xy="x:c;xo:270px,210px,120px,-95px;yo:383px,263px,169px,675px;" data-text="w:normal;s:17,17,13,13;l:40,40,30,30;fw:600;a:center;" data-rsp_o="off" data-rsp_bd="off" data-padding="r:20,20,10,10;l:20,20,10,10;" data-border="bor:5px,5px,5px,5px;" data-frame_0="y:50;sX:0.5;sY:0.5;bB:10px;" data-frame_1="e:power4.inOut;st:1000;sp:1000;sR:1000;bB:10px;" data-frame_999="y:top;o:1;e:power1.inOut;st:w;sp:500;sR:7000;" style="z-index:17;background-color:rgba(255,255,255,0.25);font-family:'Montserrat';">Partenaires fiables
+                                                    </rs-layer>
+                                                    <!--
 
-                    --><!--
+							-->
+                                                    <rs-layer id="slider-18-slide-52-layer-24" class="rs-pxl-8" data-type="text" data-bsh="c:rgba(0,0,0,0.15);v:20px;b:40px;" data-xy="x:c;xo:620px,560px,320px,95px;yo:284px,165px,150px,675px;" data-text="w:normal;s:17,17,13,13;l:23,23,18,18;fw:600;a:center;" data-rsp_o="off" data-rsp_bd="off" data-padding="r:20,20,10,10;l:20,20,10,10;" data-border="bor:5px,5px,5px,5px;" data-frame_0="y:50;sX:0.5;sY:0.5;bB:10px;" data-frame_1="e:power4.inOut;st:1500;sp:1000;sR:1500;bB:10px;" data-frame_999="y:top;o:1;e:power1.inOut;st:w;sp:500;sR:6500;bB:10px;" style="z-index:16;background-color:rgba(255,255,255,0.25);font-family:'Montserrat';">Promotions immobilières <br style="height:2px;"> agrées
+                                                    </rs-layer>
+                                                    <!--
 
-                    --><!--
---> </rs-slide>
+							-->
+                                                    <rs-layer id="slider-18-slide-52-layer-25" class="rs-pxl-8" data-type="text" data-bsh="c:rgba(0,0,0,0.15);v:20px;b:40px;" data-xy="x:c;xo:620px,555px,320px,95px;yo:425px,305px,220px,735px;" data-text="w:normal;s:17,17,13,13;l:40,40,30,30;fw:600;a:center;" data-rsp_o="off" data-rsp_bd="off" data-padding="r:20,20,10,10;l:20,20,10,10;" data-border="bor:5px,5px,5px,5px;" data-frame_0="y:50;sX:0.5;sY:0.5;bB:10px;" data-frame_1="e:power4.inOut;st:2000;sp:1000;sR:2000;bB:10px;" data-frame_999="y:bottom;o:1;e:power1.inOut;st:w;sp:500;sR:6000;bB:10px;" style="z-index:15;background-color:rgba(255,255,255,0.25);font-family:'Montserrat';">Achat sécurisé à 100%
+                                                    </rs-layer>
+                                                    <!--
+
+							-->
+                                                    <rs-layer id="slider-18-slide-52-layer-26" class="rs-pxl-8" data-type="text" data-bsh="c:rgba(0,0,0,0.15);v:20px;b:40px;" data-xy="x:c;xo:270px,210px,120px,-95px;yo:524px,404px,240px,735px;" data-text="w:normal;s:17,17,13,13;l:40,40,30,30;fw:600;a:center;" data-rsp_o="off" data-rsp_bd="off" data-padding="r:20,20,10,10;l:20,20,10,10;" data-border="bor:5px,5px,5px,5px;" data-frame_0="y:50;sX:0.5;sY:0.5;bB:10px;" data-frame_1="e:power4.inOut;st:2500;sp:1000;sR:2500;bB:10px;" data-frame_999="y:bottom;o:1;e:power1.inOut;st:w;sp:500;sR:5500;bB:10px;" style="z-index:14;background-color:rgba(255,255,255,0.25);font-family:'Montserrat';">Paiement souple
+                                                    </rs-layer>
+                                                    <!--
+-->
+                                                </rs-slide>
                                             </rs-slides>
                                         </rs-module>
                                         <script>
@@ -3422,7 +3447,8 @@
                                             if (window.RS_MODULES !== undefined && window.RS_MODULES.modules !== undefined && window.RS_MODULES.modules["revslider181"] !== undefined) {
                                                 window.RS_MODULES.modules["revslider181"].once = false;
                                                 window.revapi18 = undefined;
-                                                if (window.RS_MODULES.checkMinimal !== undefined) window.RS_MODULES.checkMinimal()
+                                                if (window.RS_MODULES.checkMinimal !== undefined)
+                                                    window.RS_MODULES.checkMinimal()
                                             }
                                         </script>
                                     </rs-module-wrap>
@@ -3436,26 +3462,27 @@
                             <div class="vc_column-inner">
                                 <div class="wpb_wrapper">
                                     <div class="wpb_single_image wpb_content_element vc_align_left">
-
                                         <figure class="wpb_wrapper vc_figure">
-                                            <div class="vc_single_image-wrapper   vc_box_border_grey"><img fetchpriority="high" decoding="async" width="1633" height="1750" src="/img/accueil/accueil_bloc1.png" class="vc_single_image-img attachment-full" alt="" title="Site bloc1" srcset="/wp-content/uploads/sites/8/2024/11/Site bloc1.png 1633w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-280x300.png 280w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-956x1024.png 956w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-768x823.png 768w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-1433x1536.png 1433w" sizes="(max-width: 1633px) 100vw, 1633px" /></div>
+                                            <div class="vc_single_image-wrapper   vc_box_border_grey">
+                                                <img width="1633" height="1750" src="/img/import/PRENEZ LE CONTROLE.jpg" class="vc_single_image-img attachment-full" alt="" decoding="async" loading="lazy" title="home2-section1" />
+                                            </div>
                                         </figure>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-6">
-                            <div class="vc_column-inner">
+                            <div class="vc_column-inner" style="background-color: #4beee9;">
                                 <div class="wpb_wrapper">
                                     <div class="ult-content-box-container ">
                                         <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:50px;margin-right:135px;margin-bottom:50px;margin-left:135px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin:0px;" data-normal_margins="margin-top:50px;margin-right:135px;margin-bottom:50px;margin-left:135px;">
-                                            <div class="ult-spacer spacer-65a535b840332" data-id="65a535b840332" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
-                                            <p style="text-align: left" class="vc_custom_heading heading_border">Une maison garantie et certifiée</p>
+                                            <div class="ult-spacer spacer-6412f7ad3a18f" data-id="6412f7ad3a18f" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
+                                            <p style="text-align: left; color: #003279;" class="vc_custom_heading heading_border">Solutions Acquéreurs</p>
                                             <div class="vc_row wpb_row vc_inner vc_row-fluid">
                                                 <div class="wpb_column vc_column_container vc_col-sm-10">
                                                     <div class="vc_column-inner">
                                                         <div class="wpb_wrapper">
-                                                            <h2 style="text-align: left" class="vc_custom_heading">Programmes certifiés</h2>
+                                                            <h2 style="text-align: left" class="vc_custom_heading">Achetez votre futur chez-vous</h2>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3471,14 +3498,213 @@
                                                         <div class="wpb_wrapper">
                                                             <div class="wpb_text_column wpb_content_element ">
                                                                 <div class="wpb_wrapper">
-                                                                    <p style="text-align: left;">Des programmes immobiliers, contrôlés et certifiés, garantis par des assurances en remboursement, des architectes reconnus et des promoteurs agréés, répondant aux normes les plus strictes</p>
-                                                                    <br>
-                                                                    <p style="text-align: left;"></p>
-
+                                                                    <p style="text-align: left;">Posez-vous les bonnes questions, on s’occupe de vous apporter les réponses les plus pertinentes. Zone géographique, commodités, surface habitable, emplacement, meilleur prix… tout est sur Challenge-toit.</p>
+                                                                    <!-- <p style="text-align: left;">&nbsp;1. Tu cotises sur 5 ou 7 ans</p>
+                                                                    <p style="text-align: left;">2. Tu habites ta maison à partir de la 3ᵉ ou 4ᵉ année</p>
+                                                                    <p style="text-align: left;">3. Tu payes le reste sous forme de loyer mensuel</p> -->
                                                                 </div>
                                                             </div>
-                                                            <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
-                                                            <div class="vc_btn3-container vc_btn3-inline"><a style="background-color:#f3889e; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom" href="/contact" title="">Rejoins-nous</a></div>
+                                                            <div class="vc_empty_space" style="height: 20px">
+                                                                <span class="vc_empty_space_inner"></span>
+                                                            </div>
+                                                            <div class="vc_btn3-container vc_btn3-inline">
+                                                                <!-- <a style="background-color:#003177; color:#4beee9!important;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom" href="/inscription.html" title="">Prenez le contrôle</a> -->
+                                                                <div id="modal-trg-txt-wrap-9535" class="ult-modal-input-wrapper ult-adjust-bottom-margin    " data-keypress-control="keypress-control-enable" data-overlay-control="overlay-control-enable" data-modal-type="button">
+                                                                    <button data-ultimate-target='#modal-trg-txt-wrap-9535 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' style="background-color:#003177; color:#4beee9!important;" data-class-id="content-64f491c87e33b4-51630579" class="btn-modal ult-responsive vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom overlay-show ult-align-left btn-id-64f491c87e33b4-51630579" data-overlay-class="overlay-zoomin">Prenez le contrôle
+                                                                    </button>
+                                                                </div>
+                                                            </div>
+                                                            <div class="ult-overlay content-64f491c87e33b4-51630579 " data-class="content-64f491c87e33b4-51630579" id="button-click-overlay" style="background:rgba(23,22,29,0.98); display:none;">
+                                                                <div class="ult_modal ult-fade ult-medium">
+                                                                    <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
+                                                                        <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
+                                                                            PRENEZ LE CONTROLE
+                                                                            <p>Vos possibilités en un seul clic</p>
+                                                                            <div class="wpcf7 js" id="wpcf7-f831-o1" lang="en-US" dir="ltr">
+                                                                                <div class="screen-reader-response">
+                                                                                    <p role="status" aria-live="polite" aria-atomic="true"></p>
+                                                                                    <ul></ul>
+                                                                                </div>
+                                                                                <form action="{{route('font.acquereurs.store')}}" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" id="form-register-modal">
+
+                                                                                    @csrf
+                                                                                    <div class="nyssa-multiple-fields">
+                                                                                        <div class="f-subject">
+                                                                                            <p>Quel type de logement vous conviendrait ?</p>
+                                                                                            <p>
+                                                                                                <span class="wpcf7-form-control-wrap" data-name="menu-781">
+                                                                                                    <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="one1">
+                                                                                                        <option value="Un appartement">Un appartement</option>
+                                                                                                        <option value="Une villa basse">Une villa basse</option>
+                                                                                                        <option value="Une villa duplex ">Une villa duplex</option>
+                                                                                                        <option value="Une villa triplex">Une villa triplex</option>
+                                                                                                    </select>
+                                                                                                </span>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                        <div class="f-service">
+                                                                                            <p>Pour combien de pièce opteriez-vous ?
+                                                                                            </p>
+                                                                                            <p><span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                                                                                    <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="one2" tabindex="-1" aria-hidden="true">
+                                                                                                        <option value="2 pièces">2 pièces</option>
+                                                                                                        <option value="3 pièces">3 pièces</option>
+                                                                                                        <option value="4 pièces">4 pièces</option>
+                                                                                                        <option value="5 pièces">5 pièces</option>
+                                                                                                        <option value="6 pièces">6 pièces</option>
+                                                                                                        <option value="Autre">Autre</option>
+                                                                                                    </select>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                        <div class="f-name" style="left: 0;right: 0;width: 100%; display:none;">
+                                                                                            <p>Précisez<span class="cforms-required">*</span>
+                                                                                            </p>
+                                                                                            <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="one3"></span>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                        <div class="f-subject">
+                                                                                            <p>Quand voulez-vous devenir propriétaire ?</p>
+                                                                                            <p>
+                                                                                                <span class="wpcf7-form-control-wrap" data-name="menu-781">
+                                                                                                    <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="one4">
+                                                                                                        <option value="Maintenant">Maintenant</option>
+                                                                                                        <option value="6 mois">6 mois</option>
+                                                                                                        <option value="1 ans">1 ans</option>
+                                                                                                        <option value="2 ans">2 ans</option>
+                                                                                                        <option value="3 ans">3 ans</option>
+                                                                                                        <option value="4 ans">4 ans</option>
+                                                                                                        <option value="5 ans">5 ans</option>
+                                                                                                    </select>
+                                                                                                </span>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                        <div class="f-service">
+                                                                                            <p>Le logement idéal serait donc :
+                                                                                            </p>
+                                                                                            <p><span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                                                                                    <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="one5" tabindex="-1" aria-hidden="true">
+                                                                                                        <option value="Dans une promotion immobilière">Dans une promotion immobilière</option>
+                                                                                                        <option value="Une maison individuelle">Une maison individuelle</option>
+                                                                                                        <option value="Autre">Autre</option>
+                                                                                                    </select>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                        <div class="f-name" style="left: 0;right: 0;width: 100%; display:none;">
+                                                                                            <p>Précisez<span class="cforms-required">*</span>
+                                                                                            </p>
+                                                                                            <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="one6"></span>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                        <div class="f-subject">
+                                                                                            <p>Dans quel zone aimeriez-vous habiter ?</p>
+                                                                                            <p>
+                                                                                                <span class="wpcf7-form-control-wrap" data-name="menu-781">
+                                                                                                    <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="one7">
+                                                                                                        <option value="En plein centre-ville">En plein centre-ville</option>
+                                                                                                        <option value="En banlieue">En banlieue (les communes aux alentours des capitales)</option>
+                                                                                                        <option value="A l’intérieur du pays">A l’intérieur du pays</option>
+                                                                                                    </select>
+                                                                                                </span>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                        <div class="f-email">
+                                                                                            <p>Commune ou ville où vous aimeriez habiter<span class="cforms-required">*</span></p>
+                                                                                            <p>
+                                                                                                <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                                                                    <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="one8">
+                                                                                                </span>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                        <div class="f-name">
+                                                                                            <p>Surface habitable pour cette maison ?(m²)<span class="cforms-required"></span></p>
+                                                                                            <p>
+                                                                                                <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                                                                    <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="number" min="5" name="one9">
+                                                                                                </span>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                        <div class="f-service">
+                                                                                            <p>Vous êtes plutôt :
+                                                                                            </p>
+                                                                                            <p><span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                                                                                    <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="one10" tabindex="-1" aria-hidden="true">
+                                                                                                        <option value="Maison à construire">Maison à construire</option>
+                                                                                                        <option value="Maison déjà réalisée et prête à habiter">Maison déjà réalisée et prête à habiter</option>
+                                                                                                        <option value="Autre">Autre</option>
+                                                                                                    </select>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                        <div class="f-name" style="left: 0;right: 0;width: 100%; display:none;">
+                                                                                            <p>Précisez<span class="cforms-required">*</span>
+                                                                                            </p>
+                                                                                            <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="one11"></span>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                        <div class="f-name">
+                                                                                            <p>Quel est votre budget pour ce logement<span class="cforms-required">*</span></p>
+                                                                                            <p>
+                                                                                                <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                                                                    <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" placeholder="0 fcfa" type="number" min="100000" name="one12">
+                                                                                                </span>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                        <div class="f-email">
+                                                                                            <p>Pour une offre alléchante, vous payerez ?<span class="cforms-required">*</span></p>
+                                                                                            <p>
+                                                                                                <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                                                                    <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="0 fcfa" value="" type="number" name="one13">
+                                                                                                </span>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                        <div class="f-name">
+                                                                                            <p>Votre nom et prénoms<span class="cforms-required">*</span>
+                                                                                            </p>
+                                                                                            <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="one14"></span>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                        <div class="f-email">
+                                                                                            <p>Votre téléphone<span class="cforms-required">*</span></p>
+                                                                                            <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="one15"></span>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                        <div class="f-name">
+                                                                                            <p>Votre e-mail<span class="cforms-required">*</span>
+                                                                                            </p>
+                                                                                            <p><span class="wpcf7-form-control-wrap" data-name="your-email"><input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="one16"></span>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                        <div class="f-service">
+                                                                                            <p>Particulier ou groupement ?
+                                                                                            </p>
+                                                                                            <p><span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                                                                                    <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="one17" tabindex="-1" aria-hidden="true">
+                                                                                                        <option value="Particulier">Particulier</option>
+                                                                                                        <option value="Groupement">Groupement</option>
+                                                                                                    </select>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                        <div class="f-name" style="left: 0;right: 0;width: 100%;">
+                                                                                            <p>Votre age<span class="cforms-required">*</span>
+                                                                                            </p>
+                                                                                            <p><span class="wpcf7-form-control-wrap" data-name="your-age"><input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="number" min="18" name="one18"></span>
+                                                                                            </p>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                    <div class="bt-contact center">
+                                                                                        <p id="btnsender">
+                                                                                            <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Envoyez"><span class="wpcf7-spinner"></span></a>
+                                                                                        </p>
+                                                                                    </div>
+                                                                                    <div class="wpcf7-response-output" aria-hidden="true"></div>
+                                                                                </form>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="ult-overlay-close top-right" style="width:80px;height:80px; ">
+                                                                    <div class="ult-overlay-close-inside"></div>
+                                                                </div>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3488,7 +3714,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="ult-spacer spacer-65a535b841bbe" data-id="65a535b841bbe" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
+                                            <div class="ult-spacer spacer-6412f7ad3af8e" data-id="6412f7ad3af8e" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
                                         </div>
                                     </div>
                                 </div>
@@ -3500,23 +3726,21 @@
                     <div class="upb_color" data-bg-override="ex-full" data-bg-color="#fbf7ff" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div>
                     <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_row-no-padding vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
                         <div class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-6">
-                            <div class="vc_column-inner">
+                            <div class="vc_column-inner" style="background-color: #003279;">
                                 <div class="wpb_wrapper">
                                     <div class="ult-content-box-container ">
-                                        <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:50px;margin-right:150px;margin-bottom:50px;margin-left:150px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin:0px;" data-normal_margins="margin-top:50px;margin-right:150px;margin-bottom:50px;margin-left:150px;">
-                                            <div class="ult-spacer spacer-65a535b841f5e" data-id="65a535b841f5e" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
-                                            <p style="text-align: left" class="vc_custom_heading heading_border">Des terrains fiables et sécurisés</p>
-                                            <h2 style="text-align: left" class="vc_custom_heading">Terrains certifiés</h2>
+                                        <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:50px;margin-right:90px;margin-bottom:50px;margin-left:150px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin:0px;" data-normal_margins="margin-top:50px;margin-right:90px;margin-bottom:50px;margin-left:150px;">
+                                            <div class="ult-spacer spacer-6412f7ad3b1ce" data-id="6412f7ad3b1ce" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
+                                            <p style="text-align: left; color:#4beee9!important;" class="vc_custom_heading heading_border">Une propriété garantie et certifiée</p>
+                                            <h2 style="text-align: left;color:#4beee9!important; font-weight: 700; font-size: 44px; line-height: 1.19em;" class="vc_custom_heading">Livré ou remboursé</h2>
+                                            <!-- <h3 style="text-align: left; color:#4beee9!important; font-size:19px; font-weight:normal; " class="vc_custom_heading">Nous avons une maison pour vous.</h3> -->
                                             <div class="vc_row wpb_row vc_inner vc_row-fluid">
                                                 <div class="wpb_column vc_column_container vc_col-sm-10">
                                                     <div class="vc_column-inner">
                                                         <div class="wpb_wrapper">
                                                             <div class="wpb_text_column wpb_content_element ">
                                                                 <div class="wpb_wrapper">
-                                                                    <p style="text-align: left;">Découvrez des terrains certifiés avec ACD (Arrêté de Concession Définitive), prêts pour la construction, en conformité absolue avec les normes et réglementations en vigueur.</p>
-                                                                    <br>
-                                                                    <p style="text-align: left;">Inscrivez-vous sans frais et faites-nous part de vos désirs pour que nous puissions vous aider à les concrétiser.</p>
-
+                                                                    <p style="margin-top: 15px; text-align: left;text-align: justify; color:#4beee9!important;">Découvrez des possibilités de paiement flexibles, de certifications juridiques, techniques et administratives vous permettant l’acquisition de votre future maison en toute quiétude.</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -3528,9 +3752,13 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
-                                            <div class="vc_btn3-container vc_btn3-inline"><a style="background-color:#17b088; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom" href="/inscription" title="">Inscrivez-vous</a></div>
-                                            <div class="ult-spacer spacer-65a535b84272e" data-id="65a535b84272e" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
+                                            <div class="vc_empty_space" style="height: 20px">
+                                                <span class="vc_empty_space_inner"></span>
+                                            </div>
+                                            <div class="vc_btn3-container vc_btn3-inline">
+                                                <a style="background-color:#4beee9; color:#003279!important;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom" href="/inscription.html" title="">En savoir +</a>
+                                            </div>
+                                            <div class="ult-spacer spacer-6412f7ad3b5b6" data-id="6412f7ad3b5b6" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
                                         </div>
                                     </div>
                                 </div>
@@ -3540,9 +3768,10 @@
                             <div class="vc_column-inner">
                                 <div class="wpb_wrapper">
                                     <div class="wpb_single_image wpb_content_element vc_align_left">
-
                                         <figure class="wpb_wrapper vc_figure">
-                                            <div class="vc_single_image-wrapper   vc_box_border_grey"><img decoding="async" width="1633" height="1750" src="/img/accueil/accueil_bloc2.png" class="vc_single_image-img attachment-full" alt="" title="Site bloc2" /></div>
+                                            <div class="vc_single_image-wrapper   vc_box_border_grey">
+                                                <img width="1633" height="1750" src="/img/import/C-UNE SOLUTION UNIQUE.jpg" class="vc_single_image-img attachment-full" alt="" decoding="async" loading="lazy" title="home2-section3" />
+                                            </div>
                                         </figure>
                                     </div>
                                 </div>
@@ -3559,7 +3788,7 @@
                                     <div class="wpb_single_image wpb_content_element vc_align_left">
                                         <figure class="wpb_wrapper vc_figure">
                                             <div class="vc_single_image-wrapper   vc_box_border_grey">
-                                                <img decoding="async" width="1633" height="1750" src="https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3.jpg" class="vc_single_image-img attachment-full" alt="" title="home2-section3" srcset="https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3.jpg 1633w, https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3-280x300.jpg 280w, https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3-956x1024.jpg 956w, https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3-768x823.jpg 768w, https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3-1433x1536.jpg 1433w" sizes="(max-width: 1633px) 100vw, 1633px" />
+                                                <img width="1633" height="1750" src="/img/import/C-UNE SOLUTION UNIQUE.jpg" class="vc_single_image-img attachment-full" alt="" decoding="async" loading="lazy" title="home2-section3" />
                                             </div>
                                         </figure>
                                     </div>
@@ -3571,20 +3800,22 @@
                                 <div class="wpb_wrapper">
                                     <div class="ult-content-box-container ">
                                         <div class="ult-content-box" style="box-shadow: px px px px none;margin:170px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin:0px;" data-normal_margins="margin:170px;">
-                                            <div class="ult-spacer spacer-65c0b3f3647bf" data-id="65c0b3f3647bf" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
-                                            <p style="text-align: left" class="vc_custom_heading heading_border">About Us</p>
-                                            <h2 style="text-align: left" class="vc_custom_heading">Turn ideas into creations</h2>
+                                            <div class="ult-spacer spacer-6412f7ad3be78" data-id="6412f7ad3be78" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
+                                            <p style="text-align: left" class="vc_custom_heading heading_border">Une solution unique</p>
+                                            <h2 style="text-align: left" class="vc_custom_heading">Venez avec ce que vous avez…</h2>
                                             <div class="wpb_text_column wpb_content_element ">
                                                 <div class="wpb_wrapper">
-                                                    <p style="text-align: left;">Lorem Ipsum is simply dummy text of the printing and typesetting industry standard dummy text ever.</p>
+                                                    <h5 style="text-align: left;font-size:9px; margin:10px 0px;">Nous avons une maison pour vous.</h5>
+                                                    <p style="text-align: left;">Inscrivez-vous, (c’est totalement gratuit) et découvrez un monde de possibilités infinies pour l’acquisition de votre future maison. Tout est pensé pour vous faciliter la vie.</p>
                                                 </div>
                                             </div>
                                             <div class="vc_empty_space" style="height: 20px">
                                                 <span class="vc_empty_space_inner"></span>
                                             </div>
-                                            <div class="vc_btn3-container vc_btn3-inline">
-                                                <a onmouseleave="this.style.borderColor='#5a24b1'; this.style.backgroundColor='transparent'; this.style.color='#5a24b1'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#5a24b1; color:#5a24b1;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="https://preview.treethemes.com/nyssa/demo1/portfolios/masonry-portfolio/masonry-big-gap-2/" title="">Our work</a>
-                                            </div>
+                                            <!--<div class="vc_btn3-container vc_btn3-inline">-->
+                                            <!--    <a onmouseleave="this.style.borderColor='#4beee9'; this.style.backgroundColor='transparent'; this.style.color='#4beee9'" onmouseenter="this.style.borderColor='#4beee9'; this.style.backgroundColor='#4beee9'; this.style.color='#ffffff';" style="border-color:#4beee9; color:#4beee9;"-->
+                                            <!--        class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="https://preview.treethemes.com/nyssa/demo1/portfolios/masonry-portfolio/masonry-big-gap-2/" title="">Our work</a>-->
+                                            <!--</div>-->
                                         </div>
                                     </div>
                                 </div>
@@ -3599,177 +3830,153 @@
                             <div class="vc_column-inner">
                                 <div class="wpb_wrapper">
                                     <div class="ult-content-box-container ">
-                                        <div class="ult-content-box" style="box-shadow: px px px px none;margin:70px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin:0px;" data-normal_margins="margin:70px;">
-                                            <p style="text-align: left" class="vc_custom_heading heading_border">L’union fait la force</p>
-                                            <h2 style="text-align: left" class="vc_custom_heading">Exceptionnellement adapté à vous !</h2>
-                                            <div class="vc_empty_space" style="height: 10px"><span class="vc_empty_space_inner"></span></div>
-                                            <div class="wpb_text_column wpb_content_element ">
-                                                <div class="wpb_wrapper">
-                                                    <p style="text-align: left;">Bénéficiez d’options d'acquisitions certifiées conçues pour vous, profitez des prêts adaptés, des plans de financement flexibles sur 5 ans ou des programmes spéciaux.</p>
-                                                    <br>
-                                                    <p style="text-align: left;">nous avons forcément la solution qui vous correspond en tout point.</p>
-
-                                                </div>
+                                        <div class="ult-content-box" style="box-shadow: px px px px none;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin:0px;" data-normal_margins="margin-top:50px;margin-right:150px;margin-bottom:50px;margin-left:52px;">
+                                            <p style="text-align: left" class="vc_custom_heading heading_border">Challenge-toit,</p>
+                                            <h2 style="text-align: left; font-weight: 700; font-size: 44px; line-height: 1.19em;" class="vc_custom_heading">Exceptionnellement adapté à vous !</h2>
+                                            <div class="vc_empty_space" style="height: 10px;width: 92%;">
+                                                <span class="vc_empty_space_inner">Une expérience unique et innovante qui simplifie la vie des acquéreurs et des promoteurs, tout<br>le monde y gagne…</span>
                                             </div>
-                                            <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
-                                            <!-- <div class="vc_btn3-container vc_btn3-inline"><a onmouseleave="this.style.borderColor='#5a24b1'; this.style.backgroundColor='transparent'; this.style.color='#5a24b1'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#5a24b1; color:#5a24b1;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="/rdv" title="">Prenez rendez-vous</a></div> -->
-                                            <button data-ultimate-target='#modal-trg-txt-wrap-9545 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' style="background-color:#4beee9; color:#ffffff;" data-class-id="content-64f491c87e33b4-400000" class="btn-modal ult-responsive vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom overlay-show ult-align-left btn-id-64f491c87e33b4-51630579" data-overlay-class="overlay-zoomin">Prenez rendez-vous
-                                            </button>
+                                            <!--<div class="wpb_text_column wpb_content_element ">-->
+                                            <!--    <div class="wpb_wrapper">-->
+                                            <!--        <p style="text-align: justify;"></p>-->
+                                            <!--        <p style="text-align: justify;">•	Dépenses maitrisées : Aucune fluctuation, aucune de surprise…</p>-->
+                                            <!--        <p style="text-align: justify;">•	Échéances : En fonction de vos possibilités financières du moment</p>-->
+                                            <!--        <p style="text-align: justify;">•	Modalités : Ajustables en cas de coups durs</p>-->
+                                            <!--        <p style="text-align: justify;">•	Possibilités : Changer d’option de paiement sans frais supplémentaires </p>-->
+
+                                            <!--    </div>-->
+                                            <!--</div>-->
+                                            <!--<div class="wpb_text_column wpb_content_element ">-->
+                                            <!--    <div class="wpb_wrapper">-->
+                                            <!--        <p style="text-align: justify;">En outre vous avez une assurance décès ou invalidité obligatoire indexé à votre contrat pour garantir votre bien à vos ayants droits.</p>-->
+                                            <!--    </div>-->
+                                            <!--</div>-->
+                                            <div class="vc_empty_space" style="height: 20px">
+                                                <span class="vc_empty_space_inner"></span>
+                                            </div>
+                                            <div class="vc_btn3-container vc_btn3-inline">
+                                                <!--<a onmouseleave="this.style.borderColor='#4beee9'; this.style.backgroundColor='transparent'; this.style.color='#4beee9'" onmouseenter="this.style.borderColor='#4beee9'; this.style.backgroundColor='#4beee9'; this.style.color='#ffffff';" style="border-color:#4beee9; color:#4beee9;"-->
+                                                <!--    class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="/inscription.html" title="">Savoir +</a>-->
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-
-                        <div class="ult-overlay content-64f491c87e33b4-400000 " data-class="content-64f491c87e33b4-400000" id="button-click-overlay" style="background:rgba(23,22,29,0.98); display:none;">
-                            <div class="ult_modal ult-fade ult-medium">
-                                <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
-                                    <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
-                                        PRENEZ UN RENDEZ-VOUS
-                                        <p></p>
-                                        <div class="wpcf7 js" id="wpcf7-f831-o1" lang="en-US" dir="ltr">
-                                            <div class="screen-reader-response">
-                                                <p role="status" aria-live="polite" aria-atomic="true"></p>
-                                                <ul></ul>
-                                            </div>
-                                            <form action="http://challenger.test/acquereurs/font/store" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
-
-                                                <input type="hidden" name="_token" value="COpu6AITTwonzI9vJU8RkLxbAllclegbxvntwXlx">
-                                                <div class="nyssa-multiple-fields">
-                                                    <div class="f-name">
-                                                        <p>Votre nom et prénoms<span class="cforms-required">*</span>
-                                                        </p>
-                                                        <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="nompre"></span>
-                                                        </p>
-                                                    </div>
-                                                    <div class="f-email">
-                                                        <p>Votre téléphone<span class="cforms-required">*</span></p>
-                                                        <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="telephone"></span>
-                                                        </p>
-                                                    </div>
-                                                    <div class="f-name">
-                                                        <p>Votre e-mail<span class="cforms-required">*</span>
-                                                        </p>
-                                                        <p><span class="wpcf7-form-control-wrap" data-name="your-email"><input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="email"></span>
-                                                        </p>
-                                                    </div>
-                                                    <div class="f-email">
-                                                        <p>Choix de la date<span class="cforms-required">*</span>
-                                                        </p>
-                                                        <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="datetime-local" name="nompre"></span>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="bt-contact center">
-                                                    <p id="btnsender">
-                                                        <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Envoyez"><span class="wpcf7-spinner"></span></a>
-                                                    </p>
-                                                </div>
-                                                <div class="wpcf7-response-output" aria-hidden="true"></div>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="ult-overlay-close top-right" style="width:80px;height:80px; ">
-                                <div class="ult-overlay-close-inside"></div>
-                            </div>
-                        </div>
-
-
-
                         <div class="wpb_column vc_column_container vc_col-sm-6">
                             <div class="vc_column-inner">
                                 <div class="wpb_wrapper">
                                     <div class="info-wrapper ult-adjust-bottom-margin">
-                                        <div id="info-circle-wrapper-65a535b844417" data-uniqid="65a535b844417" class="info-circle-wrapper  info-circle-responsive " data-half-percentage="70" data-circle-type="full-circle">
+                                        <div id="info-circle-wrapper-6412f7ad3c6ef" data-uniqid="6412f7ad3c6ef" class="info-circle-wrapper  info-circle-responsive " data-half-percentage="70" data-circle-type="full-circle">
                                             <div class="info-c-full-br" style='border:1px solid rgba(28,12,61,0.15);width:150%;opacity:0;' data-start-degree="90" data-divert="" data-info-circle-angle="full" data-responsive-circle="on" data-responsive-breakpoint="600" data-launch="linear" data-launch-duration="1" data-launch-delay="0.2" data-slide-true="off" data-slide-duration="3" data-icon-size="30" data-icon-show="not-show" data-icon-show-size="" data-highlight-style="info-circle-highlight-style" data-focus-on="hover">
                                                 <div class="icon-circle-list">
-                                                    <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);">
-                                                        <i class="linearicons-color-sampler info-circle-icon"></i>
+                                                    <div class="info-circle-icons " style="background:#003279;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);">
+                                                        <img src="/img/import/I-CB-2-BLANC.png" width="40px" height="40px" alt="icone" style="margin-top: 9px;" />
                                                     </div>
                                                     <div class="info-details" data-icon-class="ult-info-circle-icon">
                                                         <div class="info-circle-def">
                                                             <div class="info-circle-sub-def">
-                                                                <i class="linearicons-color-sampler info-circle-icon"></i>
+                                                                <img src="/img/import/I-CB-2-BLEU.png" width="60px" height="60px" alt="icone" />
                                                                 <div class="responsive-font-class ult-responsive">
-                                                                    <h3 data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;">Prêt adapté :</h3>
-                                                                    <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Nos partenaires financiers vous font bénéficier de prêts à des taux avantageux.</div>
+                                                                    <!-- <h3 data-ultimate-target='#info-cirlce-wrap-9287 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class"
+                                                                        style="font-family:&#039;Inter&#039;;font-weight:600;">Pas de crédit</h3> -->
+                                                                    <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Des offres inédites</div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);">
-                                                        <i class="linearicons-laptop-phone info-circle-icon"></i>
+                                                    <div class="info-circle-icons " style="background:#003279;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);">
+                                                        <img src="/img/import/I-CB-3-BLANC.png" width="40px" height="40px" alt="icone" style="margin-top: 9px;" />
                                                     </div>
                                                     <div class="info-details" data-icon-class="ult-info-circle-icon">
                                                         <div class="info-circle-def">
                                                             <div class="info-circle-sub-def">
-                                                                <i class="linearicons-laptop-phone info-circle-icon"></i>
+                                                                <img src="/img/import/I-CB-3-BLEU.png" width="60px" height="60px" alt="icone" />
                                                                 <div class="responsive-font-class ult-responsive">
-                                                                    <h3 data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;">Financement flexibles :</h3>
-                                                                    <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Vous pouvez structurer votre investissement selon vos capacités financières.</div>
+                                                                    <!-- <h3 data-ultimate-target='#info-cirlce-wrap-9287 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class"
+                                                                        style="font-family:&#039;Inter&#039;;font-weight:600;">Dépenses maitrisées</h3> -->
+                                                                    <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Des opportunités</div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);"><i class="linearicons-code info-circle-icon"></i></div>
+                                                    <div class="info-circle-icons " style="background:#003279;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);">
+                                                        <img src="/img/import/I-CB-4-BLANC.png" width="40px" height="40px" alt="icone" style="margin-top: 9px;" />
+                                                    </div>
                                                     <div class="info-details" data-icon-class="ult-info-circle-icon">
                                                         <div class="info-circle-def">
-                                                            <div class="info-circle-sub-def"><i class="linearicons-code info-circle-icon"></i>
+                                                            <div class="info-circle-sub-def">
+                                                                <img src="/img/import/I-CB-4-BLEU.png" width="60px" height="60px" alt="icone" />
                                                                 <div class="responsive-font-class ult-responsive">
-                                                                    <h3 data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;">Compte séquestre :</h3>
-                                                                    <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Assure la sécurité des fonds en les gardant séparés jusqu'à l'achèvement des travaux.</div>
+                                                                    <!-- <h3 data-ultimate-target='#info-cirlce-wrap-9287 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class"
+                                                                        style="font-family:&#039;Inter&#039;;font-weight:600;">Échéances</h3> -->
+                                                                    <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Une approche globale incluant chaque acteur du secteur</div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);"><i class="linearicons-cube info-circle-icon"></i></div>
+                                                    <div class="info-circle-icons " style="background:#003279;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);">
+                                                        <img src="/img/import/I-CB-5-BLANC.png" width="40px" height="40px" alt="icone" style="margin-top: 9px;" />
+                                                    </div>
                                                     <div class="info-details" data-icon-class="ult-info-circle-icon">
                                                         <div class="info-circle-def">
-                                                            <div class="info-circle-sub-def"><i class="linearicons-cube info-circle-icon"></i>
+                                                            <div class="info-circle-sub-def">
+                                                                <img src="/img/import/I-CB-5-BLEU.png" width="60px" height="60px" alt="icone" />
                                                                 <div class="responsive-font-class ult-responsive">
-                                                                    <h3 data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;">Assurance :</h3>
-                                                                    <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Garantit le remboursement de vos cotisations en cas de non achèvement. </div>
+                                                                    <!-- <h3 data-ultimate-target='#info-cirlce-wrap-9287 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class"
+                                                                        style="font-family:&#039;Inter&#039;;font-weight:600;">Modalités</h3> -->
+                                                                    <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Des projets éprouvés</div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);"><i class="linearicons-fire info-circle-icon"></i></div>
+                                                    <div class="info-circle-icons " style="background:#003279;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);">
+                                                        <img src="/img/import/I-CB-1-BLANC.png" width="40px" height="40px" alt="icone" style="margin-top: 9px;" />
+                                                    </div>
                                                     <div class="info-details" data-icon-class="ult-info-circle-icon">
                                                         <div class="info-circle-def">
-                                                            <div class="info-circle-sub-def"><i class="linearicons-fire info-circle-icon"></i>
+                                                            <div class="info-circle-sub-def">
+                                                                <img src="/img/import/I-CB-1-BLEU.png" width="60px" height="60px" alt="icone" />
                                                                 <div class="responsive-font-class ult-responsive">
-                                                                    <h3 data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;">Délai de livraison :</h3>
-                                                                    <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Contractuel, il reflète notre sérieux et notre volonté de vous offrir une expérience sans tracas.</div>
+                                                                    <!-- <h3 data-ultimate-target='#info-cirlce-wrap-9287 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class"
+                                                                        style="font-family:&#039;Inter&#039;;font-weight:600;">Possibilités</h3> -->
+                                                                    <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Un écosystème unique</div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div id="info-cirlce-wrap-1403" class="info-c-full" style="background-color:#1c0c3d;color:#ffffff;width:70%;height:70%;margin:15%;">
-                                                    <div class="info-c-full-wrap"></div>
+                                                <div id="info-cirlce-wrap-9287" class="info-c-full" style="background-color:#4beee9;color:#ffffff;width:70%;height:70%;margin:15%;">
+                                                    <div class="info-c-full-wrap" style="opacity: 1; margin-top: 10px;"></div>
                                                 </div>
                                             </div>
-                                            <div class="smile_icon_list_wrap " data-content_bg="#1c0c3d" data-content_color="#ffffff">
-                                                <ul id="info-cirlce-wrap-1403" class="smile_icon_list left circle with_bg">
+                                            <div class="smile_icon_list_wrap " data-content_bg="#003279" data-content_color="#ffffff">
+                                                <ul id="info-cirlce-wrap-9287" class="smile_icon_list left circle with_bg">
                                                     <li class="icon_list_item" style="font-size:105px;">
-                                                        <div class="icon_list_icon" style="font-size:35px;width:35px;height:35px;line-height:1;">
+                                                        <div class="icon_list_icon" style="font-size:35px;width:35px!important;height:35px!important;line-height:1;">
                                                             <i class="smt-pencil"></i>
                                                         </div>
                                                         <div class="icon_description" style="font-size:35px;">
-                                                            <div class="responsive-font-class ult-responsive" data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class *' data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}' style="font-family:&#039;Inter&#039;;font-weight:normal;">
-                                                                <h3 data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;"></h3>
+                                                            <div class="responsive-font-class ult-responsive" data-ultimate-target='#info-cirlce-wrap-9287 .responsive-font-class *' data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}' style="font-family:&#039;Inter&#039;;font-weight:normal;">
+                                                                <h3 data-ultimate-target='#info-cirlce-wrap-9287 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;"></h3>
                                                                 <p></p>
                                                             </div>
                                                         </div>
-                                                        <div class="icon_list_connector" style=" border-style:solid;border-color:rgba(28,12,61,0.15); left:17.5px; top:35px;">
-                                                        </div>
+                                                        <div class="icon_list_connector" style=" border-style:solid;border-color:rgba(28,12,61,0.15);border-width: 0;left:17.5px; top:35px;"></div>
                                                     </li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="vc_row wpb_row vc_row-fluid vc_custom_1674144012146" style="display: none;">
+                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper">
+
                                 </div>
                             </div>
                         </div>
@@ -3783,34 +3990,33 @@
                         <div class="wpb_column vc_column_container vc_col-sm-8">
                             <div class="vc_column-inner">
                                 <div class="wpb_wrapper">
-                                    <div id="ultimate-heading-641965a535b844a98" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-641965a535b844a98 uvc-9997 " data-hspacer="no_spacer" data-halign="center" style="text-align:center">
+                                    <div id="ultimate-heading-48736412f7ad3cacd" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-48736412f7ad3cacd uvc-4027 " data-hspacer="no_spacer" data-halign="center" style="text-align:center">
                                         <div class="uvc-heading-spacer no_spacer" style="top"></div>
-                                        <div class="uvc-sub-heading ult-responsive" data-ultimate-target='.uvc-heading.ultimate-heading-641965a535b844a98 .uvc-sub-heading ' data-responsive-json-new='{"font-size":"desktop:70px;tablet:65px;tablet_portrait:35px;mobile_landscape:35px;mobile:32px;","line-height":"desktop:75px;tablet_portrait:40px;mobile_landscape:40px;mobile:38px;"}' style="font-family:&#039;Inter&#039;;font-weight:800;color:#ffffff;">Une expérience immersive qui vous simplifie la vie.</div>
+                                        <div class="uvc-sub-heading ult-responsive" data-ultimate-target='.uvc-heading.ultimate-heading-48736412f7ad3cacd .uvc-sub-heading ' data-responsive-json-new='{"font-size":"desktop:70px;tablet:65px;tablet_portrait:35px;mobile_landscape:35px;mobile:32px;","line-height":"desktop:75px;tablet_portrait:40px;mobile_landscape:40px;mobile:52px;"}' style="font-family:&#039;Inter&#039;;font-weight:700;font-size:42px;color:#ffffff;">Challenge-toit,<br> une expérience immobilière unique…<br> <span style="font-family:&#039;Inter&#039;;font-weight:700;font-size:28px;color:#ffffff;">Immersive et innovante qui simplifie votre recherche.</span> </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="wpb_column vc_column_container vc_col-sm-2">
                             <div class="vc_column-inner">
-                                <div class="wpb_wrapper">
-                                </div>
+                                <div class="wpb_wrapper"></div>
                             </div>
                         </div>
                     </div>
                     <!-- Row Backgrounds -->
-                    <div class="upb_bg_img" data-ultimate-bg="url(https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/12/swati-b-Vf2-ZiIu8xY-unsplash.jpg)" data-image-id="id^2100|url^https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/12/swati-b-Vf2-ZiIu8xY-unsplash.jpg|caption^null|alt^null|title^swati-b-Vf2-ZiIu8xY-unsplash|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="0 0" data-parallx_sense="30" data-bg-override="ex-full" data-bg_img_attach="scroll" data-upb-overlay-color="rgba(67,25,147,0.5)" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="rgba(67,25,147,0.5)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll"></div>
+                    <div class="upb_bg_img" data-ultimate-bg="url('/img/import/I-BACK 1.jpg')" data-image-id="id^2100|url^/img/import/I-BACK 1.jpg|caption^null|alt^null|title^swati-b-Vf2-ZiIu8xY-unsplash|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="0 0" data-parallx_sense="30" data-bg-override="ex-full" data-bg_img_attach="scroll" data-upb-overlay-color="rgba(67,25,147,0.5)" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="rgba(67,25,147,0.5)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll"></div>
                     <div class="vc_row wpb_row vc_row-fluid">
                         <div class="wide-box-mobile wpb_column vc_column_container vc_col-sm-12">
                             <div class="vc_column-inner">
                                 <div class="wpb_wrapper">
-                                    <div class="ult-spacer spacer-65c1ff920bb75" data-id="65c1ff920bb75" data-height="80" data-height-mobile="50" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="50" style="clear:both;display:block;"></div>
+                                    <div class="ult-spacer spacer-6412f7ad3cf3f" data-id="6412f7ad3cf3f" data-height="80" data-height-mobile="50" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="50" style="clear:both;display:block;"></div>
                                     <style type='text/css'>
                                         #cbpw-wrap130 {
                                             margin: 0px 0px 0px 0px;
                                         }
 
                                         #cbpw-grid130 .cbp-l-caption-title {
-                                            color: #1c0c3d;
+                                            color: #003279;
                                             background-color: transparent;
                                             font-size: 16px;
                                             font-family: Inter;
@@ -3847,7 +4053,7 @@
                                             border-style: none;
                                             border-color: transparent;
                                             border-radius: 0;
-                                            color: #1c0c3d;
+                                            color: #003279;
                                             font-size: 15px;
                                             font-family: Inter;
                                             font-weight: 600;
@@ -3864,7 +4070,7 @@
                                             border-style: none;
                                             border-color: transparent;
                                             border-radius: 0;
-                                            color: #5a24b1;
+                                            color: #4beee9;
                                             font-size: 15px;
                                             font-family: Inter;
                                             font-weight: 600;
@@ -3881,7 +4087,7 @@
                                             border-style: none;
                                             border-color: transparent;
                                             border-radius: 0;
-                                            color: #5a24b1;
+                                            color: #4beee9;
                                             font-size: 15px;
                                             font-family: Inter;
                                             font-weight: 600;
@@ -3898,7 +4104,7 @@
                                             border-style: none;
                                             border-color: transparent;
                                             border-radius: 0;
-                                            color: #5a24b1;
+                                            color: #4beee9;
                                             font-size: 15px;
                                             font-family: Inter;
                                             font-weight: 600;
@@ -3925,11 +4131,11 @@
                                         }
 
                                         #cbpw-loadMore130 .cbp-l-loadMore-link {
-                                            color: #5a24b1;
+                                            color: #4beee9;
                                             background-color: transparent;
                                             border-width: 2px 2px 2px 2px;
                                             border-style: solid;
-                                            border-color: #5a24b1;
+                                            border-color: #4beee9;
                                             font-size: 14px;
                                             font-family: Inter;
                                             font-weight: 600;
@@ -3943,10 +4149,10 @@
 
                                         #cbpw-loadMore130 .cbp-l-loadMore-link:hover {
                                             color: #ffffff;
-                                            background-color: #5a24b1;
+                                            background-color: #4beee9;
                                             border-width: 2px 2px 2px 2px;
                                             border-style: solid;
-                                            border-color: #5a24b1;
+                                            border-color: #4beee9;
                                             font-size: 14px;
                                             font-family: Inter;
                                             font-weight: 600;
@@ -3959,11 +4165,11 @@
                                         }
 
                                         #cbpw-loadMore130 .cbp-l-loadMore-loading {
-                                            color: #5a24b1;
+                                            color: #4beee9;
                                             background-color: transparent;
                                             border-width: 2px 2px 2px 2px;
                                             border-style: solid;
-                                            border-color: #5a24b1;
+                                            border-color: #4beee9;
                                             font-size: 14px;
                                             font-family: Inter;
                                             font-weight: 600;
@@ -3977,10 +4183,10 @@
 
                                         #cbpw-loadMore130 .cbp-l-loadMore-loading:hover {
                                             color: #ffffff;
-                                            background-color: #5a24b1;
+                                            background-color: #4beee9;
                                             border-width: 2px 2px 2px 2px;
                                             border-style: solid;
-                                            border-color: #5a24b1;
+                                            border-color: #4beee9;
                                             font-size: 14px;
                                             font-family: Inter;
                                             font-weight: 600;
@@ -4027,7 +4233,7 @@
                                         }
 
                                         #cbpw-singlePage130 .cbp-popup-navigation-wrap {
-                                            background-color: #34425C;
+                                            background-color: #4beee9;
                                         }
 
                                         #cbpw-singlePage130 .cbp-popup-singlePage-counter {
@@ -4037,142 +4243,112 @@
                                             font-weight: 400;
                                             font-style: normal;
                                         }
+
+                                        .wpcf7 input[type=datetime-local]{
+                                            font: inherit;
+                                            color: inherit;
+                                            line-height: inherit;
+                                            border-radius: 0;
+                                            font-family: "Marcellus" !important;
+                                            box-sizing: border-box;
+                                            outline: none !important;
+                                            text-decoration: none;
+                                            font-size: 15px !important;
+                                            font-weight: 500;
+                                            position: relative;
+                                            float: left;
+                                            width: 100%;
+                                            padding: 15px;
+                                            background: #fff;
+                                            margin: 0 !important;
+                                            max-width: 100%;
+                                            border: 1px solid #d6d5d9 !important;
+                                            direction: ltr;
+                                        }
+
+                                        .wpcf7 input[type=number],
+                                        select.wpcf7 {
+                                            font: inherit;
+                                            color: inherit;
+                                            font-family: inherit;
+                                            line-height: inherit;
+                                            border-radius: 0;
+                                            box-sizing: border-box;
+                                            font-size: 15px !important;
+                                            font-weight: 500;
+                                            position: relative;
+                                            float: left;
+                                            width: 100%;
+                                            padding: 15px;
+                                            outline: none;
+                                            background: #fff;
+                                            margin: 0 !important;
+                                            max-width: 100%;
+                                            border: 1px solid #d6d5d9 !important;
+                                        }
                                     </style>
                                     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Inter:700normal,500normal,600normal" type="text/css" media="all" property="stylesheet">
                                     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400normal" type="text/css" media="all" property="stylesheet">
                                     <div id="cbpw-wrap130">
                                         <div id="cbpw-filters130" class="cbp-l-filters-alignCenter des-align-center">
-                                            <div data-filter="*" class="cbp-filter-item cbp-filter-item-active">TOUS</div>
-                                            /<div data-filter=".slider" class="cbp-filter-item">Certifications</div>
-                                            /<div data-filter=".gallery" class="cbp-filter-item">Programmes</div>
-                                            /<div data-filter=".mockup" class="cbp-filter-item">Terrains</div>
+                                            <div data-filter="*" class="cbp-filter-item cbp-filter-item-active"></div>
+                                            <!--/-->
+                                            <!--<div data-filter=".slider" class="cbp-filter-item">1er Site</div>-->
+                                            <!--/-->
+                                            <!--<div data-filter=".gallery" class="cbp-filter-item">2e Site</div>-->
+                                            <!--/-->
+                                            <!--<div data-filter=".mockup" class="cbp-filter-item">3e Site</div>-->
+                                            <!--/-->
+                                            <!--<div data-filter=".image" class="cbp-filter-item">4e Site</div>-->
                                         </div>
                                         <div id="cbpw-grid130" class="cbp-l-grid-gallery cbp">
                                             <div>
                                                 <div class="cbp-item mockup">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/nyssa-mockup/" class="cbp-caption cbp-singlePageInline" data-title="Nyssa Mockup" data-cbp-selector="automatically">
-                                                        <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project1.jpg" alt="">
+                                                    <a href="#" class="cbp-caption" data-title="Nyssa Mockup" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap" style="background-color:#50b9d6; color:#fff!important;text-align: center; padding: 5em 1em;">
+                                                            <!-- <img src="/img/import/T-Un-droit-de-retractation.jpg" alt=""> -->
+                                                            <p style="text-align: center; font-size:1.2em;color: #fff;">Afin de mieux vous servir, dites-nous de quoi vous avez besoin… remplissez minutieusement ce <span onclick="window.href='/#enregistre-acquereurs';" style="display: initial; width: initial;text-decoration: underline;color: white;">questionnaire</span>, nous vous trouverons votre maison.</p>
                                                         </div>
                                                         <div class="cbp-caption-activeWrap">
                                                             <div class="cbp-l-caption-alignLeft">
                                                                 <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">Nyssa Mockup</div>
+                                                                    <div class="cbp-l-caption-title">S’inscrire (totalement gratuit)</div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </a>
                                                 </div>
                                                 <div class="cbp-item des-project slider">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/boldway-business-card/" class="cbp-caption cbp-singlePageInline" data-title="Boldway Business Card" data-cbp-selector="automatically">
-                                                        <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project2.jpg" alt="">
+                                                    <a href="#" class="cbp-caption" data-title="Boldway Business Card" data-cbp-selector="automatically">
+                                                        <!-- <div class="cbp-caption-defaultWrap">
+                                                            <img src="/img/import/T-Un cadre juridique.jpg" alt="">
+                                                        </div> -->
+                                                        <div class="cbp-caption-defaultWrap" style="background-color:#003279; color:#fff!important;text-align: center; padding: 6em 1em;">
+                                                            <!-- <img src="/img/import/T-Un-droit-de-retractation.jpg" alt=""> -->
+                                                            <p style="text-align: center; font-size:1.2em;color: #fff;">Le programme immobilier qui vous sied le mieux, le plus adapter à vos aspirations, votre budget et votre style de vie.</p>
                                                         </div>
                                                         <div class="cbp-caption-activeWrap">
                                                             <div class="cbp-l-caption-alignLeft">
                                                                 <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">Boldway Card</div>
+                                                                    <div class="cbp-l-caption-title">Découvrir</div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </a>
                                                 </div>
                                                 <div class="cbp-item gallery">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/nyssa-lettering/" class="cbp-caption cbp-singlePageInline" data-title="We are Nyssa Lettering" data-cbp-selector="automatically">
-                                                        <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project3.jpg" alt="">
+                                                    <a href="#" class="cbp-caption" data-title="We are Nyssa Lettering" data-cbp-selector="automatically">
+                                                        <!-- <div class="cbp-caption-defaultWrap">
+                                                            <img src="/img/import/T-Votre maison.jpg" alt="">
+                                                        </div> -->
+                                                        <div class="cbp-caption-defaultWrap" style="background-color:#331c61; color:#fff!important;text-align: center; padding: 6em 1em;">
+                                                            <!-- <img src="/img/import/T-Un-droit-de-retractation.jpg" alt=""> -->
+                                                            <p style="text-align: center; font-size:1.2em;color: #fff;">Un professionnel certifié « Challenge-toit » pour concrétiser votre projet immobilier tel que pensé par vous.</p>
                                                         </div>
                                                         <div class="cbp-caption-activeWrap">
                                                             <div class="cbp-l-caption-alignLeft">
                                                                 <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">We are Nyssa</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="cbp-item image">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/art-exhibition/" class="cbp-caption cbp-singlePageInline" data-title="Art exhibition" data-cbp-selector="automatically">
-                                                        <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project4.jpg" alt="">
-                                                        </div>
-                                                        <div class="cbp-caption-activeWrap">
-                                                            <div class="cbp-l-caption-alignLeft">
-                                                                <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">Art exhibition</div>
-                                                                    <div class="cbp-l-caption-desc"></div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="cbp-item mockup">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/heart-logo/" class="cbp-caption cbp-singlePageInline" data-title="Heart Logo" data-cbp-selector="automatically">
-                                                        <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project5.jpg" alt="">
-                                                        </div>
-                                                        <div class="cbp-caption-activeWrap">
-                                                            <div class="cbp-l-caption-alignLeft">
-                                                                <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">Heart Logo</div>
-                                                                    <div class="cbp-l-caption-desc"></div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="cbp-item mockup">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/my-goals-app/" class="cbp-caption cbp-singlePageInline" data-title="My Goals App" data-cbp-selector="automatically">
-                                                        <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project6.jpg" alt="">
-                                                        </div>
-                                                        <div class="cbp-caption-activeWrap">
-                                                            <div class="cbp-l-caption-alignLeft">
-                                                                <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">My Goals App</div>
-                                                                    <div class="cbp-l-caption-desc"></div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="cbp-item image">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/nyssa-wordpress-theme/" class="cbp-caption cbp-singlePageInline" data-title="Nyssa WordPress Theme" data-cbp-selector="automatically">
-                                                        <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project7.jpg" alt="">
-                                                        </div>
-                                                        <div class="cbp-caption-activeWrap">
-                                                            <div class="cbp-l-caption-alignLeft">
-                                                                <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">Nyssa Theme</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="cbp-item des-project slider">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/macarons/" class="cbp-caption cbp-singlePageInline" data-title="Colored vanilla macarons" data-cbp-selector="automatically">
-                                                        <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project8.jpg" alt="">
-                                                        </div>
-                                                        <div class="cbp-caption-activeWrap">
-                                                            <div class="cbp-l-caption-alignLeft">
-                                                                <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">Colored macarons</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="cbp-item image">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/flower-nyssa-lettering/" class="cbp-caption cbp-singlePageInline" data-title="Flower nyssa lettering" data-cbp-selector="automatically">
-                                                        <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project9.jpg" alt="">
-                                                        </div>
-                                                        <div class="cbp-caption-activeWrap">
-                                                            <div class="cbp-l-caption-alignLeft">
-                                                                <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">Flower nyssa</div>
+                                                                    <div class="cbp-l-caption-title">Rencontrer</div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -4180,15 +4356,78 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <!-- <div id="cbpw-loadMore130" class="">
-                                            <div class="cbp-l-loadMore-button">
-                                                <a href="ajax/loadMore.html" class="cbp-l-loadMore-link">
-                                                    <span class="cbp-l-loadMore-defaultText">Load more</span>
-                                                    <span class="cbp-l-loadMore-loadingText">Loading...</span>
-                                                    <span class="cbp-l-loadMore-noMoreLoading">No more works</span>
-                                                </a>
+                                        <div class="wpb_text_column wpb_content_element" style="width: 51%;margin: 50px auto;">
+                                            <div class="wpb_wrapper">
+                                                <!-- <p style="text-align: center;">En outre vous avez une assurance décès ou invalidité obligatoire indexé à votre contrat pour garantir votre bien à vos ayants droits.</p> -->
                                             </div>
-                                        </div> -->
+                                        </div>
+                                        <div id="cbpw-loadMore130" class="" style="">
+                                            <div class="cbp-l-loadMore-button">
+                                                <p style="display:block; margin:0 auto;">
+                                                    <!-- <a style="background-color:#4beee9; color:#ffffff;"
+                                                        class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom"
+                                                        href="/inscription.html" title="">Je prends rendez-vous</a> -->
+                                                <div id="modal-trg-txt-wrap-9545" style="margin: 0 auto;display: flex;justify-content: center;" class="ult-modal-input-wrapper ult-adjust-bottom-margin    " data-keypress-control="keypress-control-enable" data-overlay-control="overlay-control-enable" data-modal-type="button">
+                                                    <button data-ultimate-target='#modal-trg-txt-wrap-9545 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' style="background-color:#4beee9; color:#ffffff;" data-class-id="content-64f491c87e33b4-400000" class="btn-modal ult-responsive vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom overlay-show ult-align-left btn-id-64f491c87e33b4-51630579" data-overlay-class="overlay-zoomin">Je prends rendez-vous
+                                                    </button>
+                                                </div>
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="ult-overlay content-64f491c87e33b4-400000 " data-class="content-64f491c87e33b4-400000" id="button-click-overlay" style="background:rgba(23,22,29,0.98); display:none;">
+                                            <div class="ult_modal ult-fade ult-medium">
+                                                <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
+                                                    <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
+                                                        PRENEZ UN RENDEZ-VOUS
+                                                        <p></p>
+                                                        <div class="wpcf7 js" id="wpcf7-f831-o1" lang="en-US" dir="ltr">
+                                                            <div class="screen-reader-response">
+                                                                <p role="status" aria-live="polite" aria-atomic="true"></p>
+                                                                <ul></ul>
+                                                            </div>
+                                                            <form action="{{route('font.acquereurs.store')}}" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+
+                                                                @csrf
+                                                                <div class="nyssa-multiple-fields">
+                                                                    <div class="f-name">
+                                                                        <p>Votre nom et prénoms<span class="cforms-required">*</span>
+                                                                        </p>
+                                                                        <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="nompre"></span>
+                                                                        </p>
+                                                                    </div>
+                                                                    <div class="f-email">
+                                                                        <p>Votre téléphone<span class="cforms-required">*</span></p>
+                                                                        <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="telephone"></span>
+                                                                        </p>
+                                                                    </div>
+                                                                    <div class="f-name">
+                                                                        <p>Votre e-mail<span class="cforms-required">*</span>
+                                                                        </p>
+                                                                        <p><span class="wpcf7-form-control-wrap" data-name="your-email"><input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="email"></span>
+                                                                        </p>
+                                                                    </div>
+                                                                    <div class="f-email">
+                                                                        <p>Choix de la date<span class="cforms-required">*</span>
+                                                                        </p>
+                                                                        <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="datetime-local" name="nompre"></span>
+                                                                        </p>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="bt-contact center">
+                                                                    <p id="btnsender">
+                                                                        <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Envoyez"><span class="wpcf7-spinner"></span></a>
+                                                                    </p>
+                                                                </div>
+                                                                <div class="wpcf7-response-output" aria-hidden="true"></div>
+                                                            </form>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ult-overlay-close top-right" style="width:80px;height:80px; ">
+                                                <div class="ult-overlay-close-inside"></div>
+                                            </div>
+                                        </div>
                                     </div>
                                     <script type="text/javascript">
                                         this.initCubePortfolio = this.initCubePortfolio || [];
@@ -4264,138 +4503,392 @@
                             </div>
                         </div>
                     </div>
-
                     <!-- Row Backgrounds -->
                     <div class="upb_color" data-bg-override="ex-full" data-bg-color="#fefcff" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size="" data-seperator="true" data-seperator-type="triangle_svg_seperator" data-seperator-shape-size="40" data-seperator-svg-height="25" data-seperator-full-width="true" data-seperator-position="top_seperator" data-seperator-background-color="#8377bf" data-icon=""></div>
-                    <div class="vc_row wpb_row vc_row-fluid no-col-padding wideipad">
-                        <div class="wpb_column vc_column_container vc_col-sm-12">
+
+                    <!--<div class="vc_row wpb_row vc_row-fluid no-col-padding wideipad">-->
+                    <!--    <div class="wpb_column vc_column_container vc_col-sm-12">-->
+                    <!--        <div class="vc_column-inner">-->
+                    <!--            <div class="wpb_wrapper">-->
+                    <!--                <div class="ult-spacer spacer-6412f7ad3d521" data-id="6412f7ad3d521" data-height="120" data-height-mobile="50" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="50" style="clear:both;display:block;"></div>-->
+                    <!--                <h3 style="text-align: center" class="vc_custom_heading">Projets en cours</h3>-->
+                    <!--                <div class="vc_empty_space" style="height: 20px">-->
+                    <!--                    <span class="vc_empty_space_inner"></span>-->
+                    <!--                </div>-->
+                    <!--                <div class="vc_row wpb_row vc_inner vc_row-fluid testimonials-box vc_custom_1676046159082">-->
+                    <!--                    <div class="wpb_column vc_column_container vc_col-sm-12">-->
+                    <!--                        <div class="vc_column-inner">-->
+                    <!--                            <div class="wpb_wrapper">-->
+                    <!--                                <div id="testimonials-slider-1" class="testimonials-style2 style-dark testimonials-align-center ">-->
+                    <!--                                    <ul class="slides styled-list" style="max-height:550px;">-->
+                    <!--                                        <li class="testimonials-slide">-->
+                    <!--                                            <div class="testimonials-slide-content container">-->
+                    <!--                                                <div class="testimonilas1bg">-->
+                    <!--                                                    <div class="img-container">-->
+                    <!--                                                        <img title="Ema Sky" src="/img/import/I-Projet.jpg" alt="Ema Sky">-->
+                    <!--                                                    </div>-->
+                    <!--                                                    <div class="text-container">-->
+                    <!--                                                        <span class="testimonials_text_content"></span>-->
+                    <!--"Visuale1 3D"-->
+                    <!--                                                    </div>-->
+                    <!--                                                </div>-->
+                    <!--                                            </div>-->
+                    <!--                                        </li>-->
+                    <!--                                        <li class="testimonials-slide">-->
+                    <!--                                            <div class="testimonials-slide-content container">-->
+                    <!--                                                <div class="testimonilas1bg">-->
+                    <!--                                                    <div class="img-container">-->
+                    <!--                                                        <img title="Mary Madeira" src="/img/import/I-Projet.jpg" alt="Mary Madeira">-->
+                    <!--                                                    </div>-->
+                    <!--                                                    <div class="text-container">-->
+                    <!--                                                        <span class="testimonials_text_content"></span>-->
+                    <!--                                                    </div>-->
+                    <!--                                                </div>-->
+                    <!--                                            </div>-->
+                    <!--                                        </li>-->
+                    <!--                                        <li class="testimonials-slide">-->
+                    <!--                                            <div class="testimonials-slide-content container">-->
+                    <!--                                                <div class="testimonilas1bg">-->
+                    <!--                                                    <div class="img-container">-->
+                    <!--                                                        <img title="Lucas Crasy" src="/img/import/I-Projet.jpg" alt="Lucas Crasy">-->
+                    <!--                                                    </div>-->
+                    <!--                                                    <div class="text-container">-->
+                    <!--                                                        <span class="testimonials_text_content"></span>-->
+                    <!--                                                    </div>-->
+                    <!--                                                </div>-->
+                    <!--                                            </div>-->
+                    <!--                                        </li>-->
+                    <!--<li class="testimonials-slide">-->
+                    <!--    <div class="testimonials-slide-content container">-->
+                    <!--        <div class="testimonilas1bg">-->
+                    <!--            <div class="img-container">-->
+                    <!--                <img title="John Doe" src="https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/09/testimonial4-80x80.jpg" alt="John Doe">-->
+                    <!--            </div>-->
+                    <!--            <div class="text-container">-->
+                    <!--                <span class="testimonials_text_content">"Enthusiastically syndicate inexpensive services and 24/7 bandwidth. Phosfluorescently develop cooperative content vis-a-vis best-of-breed alignments."</span>-->
+                    <!--            </div>-->
+                    <!--            <span class="t-author">-->
+                    <!--                    John Doe<a href="#">Bold</a>-->
+                    <!--                </span>-->
+                    <!--        </div>-->
+                    <!--    </div>-->
+                    <!--</li>-->
+                    <!--<li class="testimonials-slide">-->
+                    <!--    <div class="testimonials-slide-content container">-->
+                    <!--        <div class="testimonilas1bg">-->
+                    <!--            <div class="img-container">-->
+                    <!--                <img title="Caty Gomez" src="https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/09/testimonial1-80x80.jpg" alt="Caty Gomez">-->
+                    <!--            </div>-->
+                    <!--            <div class="text-container">-->
+                    <!--                <span class="testimonials_text_content">"Rapidiously integrate multimedia based resources whereas low-risk high-yield technologies. Proactively innovate market positioning products"</span>-->
+                    <!--            </div>-->
+                    <!--            <span class="t-author">-->
+                    <!--                    Caty Gomez<a href="#">Agency</a>-->
+                    <!--                </span>-->
+                    <!--        </div>-->
+                    <!--    </div>-->
+                    <!--</li>-->
+                    <!--                                    </ul>-->
+                    <!--                                </div>-->
+                    <!--                                <script type="text/javascript">-->
+                    <!--                                    jQuery(document).ready(function() {-->
+
+                    <!--                                        if (window.self === window.top) {-->
+                    <!--                                            if (jQuery('body').is('.wp-admin.compose-mode')) {-->
+                    <!--                                                return;-->
+                    <!--                                            }-->
+                    <!--                                        }-->
+
+                    <!--                                        var who = jQuery('#testimonials-slider-1 ul.slides');-->
+
+                    <!--                                        var opts = ['slide', 'horizontal', 'no', '3500', '1000', 'no', 'no', 'yes', 'dark', '3', '2', '1', '1'];-->
+                    <!--                                        if (opts[2] == 'yes')-->
+                    <!--                                            opts[2] = true;-->
+                    <!--                                        else-->
+                    <!--                                            opts[2] = false;-->
+                    <!--                                        if (opts[5] == 'yes') {-->
+                    <!--                                            opts[5] = true;-->
+                    <!--                                        } else-->
+                    <!--                                            opts[5] = false;-->
+                    <!--                                        if (opts[6] == 'yes') {-->
+                    <!--                                            opts[6] = true;-->
+                    <!--                                        } else-->
+                    <!--                                            opts[6] = false;-->
+                    <!--                                        if (opts[7] == 'yes')-->
+                    <!--                                            opts[7] = true;-->
+                    <!--                                        else-->
+                    <!--                                            opts[7] = false;-->
+                    <!--                                        if (opts[0] == 'fade')-->
+                    <!--                                            opts[0] = true;-->
+                    <!--                                        else-->
+                    <!--                                            opts[0] = false;-->
+
+                    <!--                                        who.slick({-->
+                    <!--                                            fade: opts[0],-->
+                    <!--                                            dots: opts[6],-->
+                    <!--                                            autoplay: opts[2],-->
+                    <!--                                            autoplaySpeed: opts[3],-->
+                    <!--                                            speed: opts[4],-->
+                    <!--                                            infinite: true,-->
+                    <!--                                            arrows: opts[5],-->
+                    <!--                                            adaptiveHeight: true,-->
+                    <!--                                            nextArrow: '<button type="button" class="slick-next default"><i class="ultsl-arrow-right6"></i></button>',-->
+                    <!--                                            prevArrow: '<button type="button" class="slick-prev default"><i class="ultsl-arrow-left6"></i></button>',-->
+                    <!--                                            swipe: true,-->
+                    <!--                                            draggable: true,-->
+                    <!--                                            touchMove: true,-->
+                    <!--                                            slidesToScroll: parseInt(opts[9], 10),-->
+                    <!--                                            slidesToShow: parseInt(opts[9], 10),-->
+                    <!--                                            responsive: [{-->
+                    <!--                                                breakpoint: 1024,-->
+                    <!--                                                settings: {-->
+                    <!--                                                    slidesToShow: parseInt(opts[10], 10),-->
+                    <!--                                                    slidesToScroll: parseInt(opts[10], 10)-->
+                    <!--                                                }-->
+                    <!--                                            }, {-->
+                    <!--                                                breakpoint: 768,-->
+                    <!--                                                settings: {-->
+                    <!--                                                    slidesToShow: parseInt(opts[11], 10),-->
+                    <!--                                                    slidesToScroll: parseInt(opts[11], 10)-->
+                    <!--                                                }-->
+                    <!--                                            }, {-->
+                    <!--                                                breakpoint: 480,-->
+                    <!--                                                settings: {-->
+                    <!--                                                    slidesToShow: parseInt(opts[12], 10),-->
+                    <!--                                                    slidesToScroll: parseInt(opts[12], 10)-->
+                    <!--                                                }-->
+                    <!--                                            }],-->
+                    <!--                                            pauseOnHover: opts[7],-->
+                    <!--                                            pauseOnDotsHover: opts[7],-->
+                    <!--                                            customPaging: function(slider, i) {-->
+                    <!--                                                return '<i type="button" class="ultsl-record" data-role="none"></i>';-->
+                    <!--                                            }-->
+                    <!--                                        });-->
+                    <!--                                    });-->
+                    <!--                                </script>-->
+                    <!--                            </div>-->
+                    <!--                        </div>-->
+                    <!--                    </div>-->
+                    <!--                </div>-->
+                    <!--                <div class="ult-spacer spacer-6412f7ad3f666" data-id="6412f7ad3f666" data-height="0" data-height-mobile="50" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="50" style="clear:both;display:block;"></div>-->
+                    <!--            </div>-->
+                    <!--        </div>-->
+                    <!--    </div>-->
+                    <!--</div>-->
+                    <!-- Row Backgrounds -->
+                    <div class="vc_row wpb_row vc_row-fluid wideipad vc_custom_1673349597994 ult-vc-hide-row vc_row-has-fill" data-rtl="false" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" style="position: relative;">
+                        <div class="upb_row_bg vcpb-default" data-upb_br_animation="" data-parallax_sense="30" data-bg-override="ex-full" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" style="background-size: cover; background-repeat: no-repeat; background-color: rgba(0, 0, 0, 0); background-image: url(&quot;/img/import/I-IMAGE DU BAS.jpg&quot;); background-attachment: scroll; min-width: 1903px; left: -261.5px; width: 1903px;">
+                            <div class="upb_bg_overlay" style="background-color:rgba(67,25,147,0.25);"></div>
+                        </div>
+                        <div class="home-padding2 wpb_column vc_column_container vc_col-sm-2">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper"></div>
+                            </div>
+                        </div>
+                        <div id="enregistre-acquereurs" class="wpb_column vc_column_container vc_col-sm-8">
                             <div class="vc_column-inner">
                                 <div class="wpb_wrapper">
-                                    <div class="ult-spacer spacer-65a535b84582e" data-id="65a535b84582e" data-height="120" data-height-mobile="50" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="50" style="clear:both;display:block;"></div>
-                                    <h3 style="text-align: center" class="vc_custom_heading">Decouvrez Hallo Challenge</h3>
-                                    <div class="vc_empty_space" style="height: 20px">
-                                        <span class="vc_empty_space_inner"></span>
-                                    </div>
-                                    <div class="vc_row wpb_row vc_inner vc_row-fluid testimonials-box vc_custom_1676046159082">
-                                        <div class="wpb_column vc_column_container vc_col-sm-12">
-                                            <div class="vc_column-inner">
-                                                <div class="wpb_wrapper">
+                                    <div class="ult-content-box-container ">
+                                        <div class="ult-content-box" style="background-color: rgba(10,7,20,0.85); border-style: solid; border-width: 1px; border-radius: 5px; padding: 50px 40px; min-height: 400px; transition: all 700ms ease 0s; margin: 0px;" data-hover_box_shadow="none" data-border_color="#000" data-normal_margins="margin-left:0px;margin-right:0px;margin-top:0px;margin-bottom:0px;">
+                                            <h6 style="color: #4beee9;text-align: center" class="vc_custom_heading">INSCRIVREZ-VOUS</h6>
+                                            <h3 style="text-align: center" class="vc_custom_heading">Vos possibilités en un seul clic</h3>
+                                            <div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div>
+                                            <div class="wpcf7 js" id="wpcf7-f1258-o1" lang="en-US" dir="ltr">
+                                                <div class="screen-reader-response">
+                                                    <p role="status" aria-live="polite" aria-atomic="true"></p>
+                                                    <ul></ul>
+                                                </div>
+                                                <form id="register-form" action="{{route('font.acquereurs.store')}}" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
 
+                                                    @csrf
+                                                    <div class="nyssa-multiple-fields" id="form1">
 
-                                                    <div class="row g-4">
-                                                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                                                            <div class="team-item">
-                                                                <div class="d-flex">
-
-                                                                    <img fetchpriority="high" decoding="async" width="1633" height="1750" src="/img/accueil/offre1.png" alt="">
-
-                                                                </div>
-
-
-                                                            </div>
+                                                        <div class="f-subject">
+                                                            <p>Quel type de logement vous conviendrait ?</p>
+                                                            <p>
+                                                                <span class="wpcf7-form-control-wrap" data-name="menu-781">
+                                                                    <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="one1">
+                                                                        <option value="Un appartement">Un appartement</option>
+                                                                        <option value="Une villa basse">Une villa basse</option>
+                                                                        <option value="Une villa duplex ">Une villa duplex</option>
+                                                                        <option value="Une villa triplex">Une villa triplex</option>
+                                                                    </select>
+                                                                </span>
+                                                            </p>
                                                         </div>
-                                                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                                                            <div class="team-item">
-                                                                <div class="d-flex">
-                                                                    <img fetchpriority="high" decoding="async" width="1633" height="1750" src="/img/accueil/offre2.png" alt="">
-                                                                    <!--                            <a href="/inscription" title="Choix du nombre d’année">   <img fetchpriority="high" decoding="async" width="1633" height="1750" src="../wp-content/uploads/sites/8/2024/11/Site bloc1.png" class="vc_single_image-img attachment-full" alt="" title="Site bloc1" srcset="/wp-content/uploads/sites/8/2024/11/Site bloc1.png 1633w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-280x300.png 280w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-956x1024.png 956w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-768x823.png 768w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-1433x1536.png 1433w" sizes="(max-width: 1633px) 100vw, 1633px" alt=""> </a>	-->
-                                                                </div>
-
-                                                            </div>
+                                                        <div class="f-service">
+                                                            <p>Pour combien de pièce opteriez-vous ?
+                                                            </p>
+                                                            <p><span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                                                    <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="one2" tabindex="-1" aria-hidden="true">
+                                                                        <option value="2 pièces">2 pièces</option>
+                                                                        <option value="3 pièces">3 pièces</option>
+                                                                        <option value="4 pièces">4 pièces</option>
+                                                                        <option value="5 pièces">5 pièces</option>
+                                                                        <option value="6 pièces">6 pièces</option>
+                                                                        <option value="Autre">Autre</option>
+                                                                    </select>
+                                                            </p>
                                                         </div>
-                                                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
-                                                            <div class="team-item">
-                                                                <div class="d-flex">
-
-                                                                    <img fetchpriority="high" decoding="async" width="1633" height="1750" src="/img/accueil/offre3.png" alt="">
-                                                                </div>
-
-                                                            </div>
+                                                        <div class="f-name" style="left: 0;right: 0;width: 100%; display:none;">
+                                                            <p>Précisez<span class="cforms-required">*</span>
+                                                            </p>
+                                                            <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="one3"></span>
+                                                            </p>
+                                                        </div>
+                                                        <div class="f-subject">
+                                                            <p>Quand voulez-vous devenir propriétaire ?</p>
+                                                            <p>
+                                                                <span class="wpcf7-form-control-wrap" data-name="menu-781">
+                                                                    <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="one4">
+                                                                        <option value="Maintenant">Maintenant</option>
+                                                                        <option value="6 mois">6 mois</option>
+                                                                        <option value="1 ans">1 ans</option>
+                                                                        <option value="2 ans">2 ans</option>
+                                                                        <option value="3 ans">3 ans</option>
+                                                                        <option value="4 ans">4 ans</option>
+                                                                        <option value="5 ans">5 ans</option>
+                                                                    </select>
+                                                                </span>
+                                                            </p>
+                                                        </div>
+                                                        <div class="f-service">
+                                                            <p>Le logement idéal serait donc :
+                                                            </p>
+                                                            <p><span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                                                    <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="one5" tabindex="-1" aria-hidden="true">
+                                                                        <option value="Dans une promotion immobilière">Dans une promotion immobilière</option>
+                                                                        <option value="Une maison individuelle">Une maison individuelle</option>
+                                                                        <option value="Autre">Autre</option>
+                                                                    </select>
+                                                            </p>
+                                                        </div>
+                                                        <div class="f-name" style="left: 0;right: 0;width: 100%; display:none;">
+                                                            <p>Précisez<span class="cforms-required">*</span>
+                                                            </p>
+                                                            <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="one6"></span>
+                                                            </p>
+                                                        </div>
+                                                        <div class="f-subject">
+                                                            <p>Dans quel zone aimeriez-vous habiter ?</p>
+                                                            <p>
+                                                                <span class="wpcf7-form-control-wrap" data-name="menu-781">
+                                                                    <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="one7">
+                                                                        <option value="En plein centre-ville">En plein centre-ville</option>
+                                                                        <option value="En banlieue">En banlieue (les communes aux alentours des capitales)</option>
+                                                                        <option value="A l’intérieur du pays">A l’intérieur du pays</option>
+                                                                    </select>
+                                                                </span>
+                                                            </p>
+                                                        </div>
+                                                        <div class="f-email">
+                                                            <p>Commune ou ville où vous aimeriez habiter<span class="cforms-required">*</span></p>
+                                                            <p>
+                                                                <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                                    <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="one8">
+                                                                </span>
+                                                            </p>
+                                                        </div>
+                                                        <div class="f-name">
+                                                            <p>Surface habitable pour cette maison ?(m²)<span class="cforms-required"></span></p>
+                                                            <p>
+                                                                <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                                    <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="number" min="5" name="one9">
+                                                                </span>
+                                                            </p>
+                                                        </div>
+                                                        <div class="f-service">
+                                                            <p>Vous êtes plutôt :
+                                                            </p>
+                                                            <p><span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                                                    <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="one10" tabindex="-1" aria-hidden="true">
+                                                                        <option value="Maison à construire">Maison à construire</option>
+                                                                        <option value="Maison déjà réalisée et prête à habiter">Maison déjà réalisée et prête à habiter</option>
+                                                                        <option value="Autre">Autre</option>
+                                                                    </select>
+                                                            </p>
+                                                        </div>
+                                                        <div class="f-name" style="left: 0;right: 0;width: 100%; display:none;">
+                                                            <p>Précisez<span class="cforms-required">*</span>
+                                                            </p>
+                                                            <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="one11"></span>
+                                                            </p>
+                                                        </div>
+                                                        <div class="f-name">
+                                                            <p>Quel est votre budget pour ce logement<span class="cforms-required">*</span></p>
+                                                            <p>
+                                                                <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                                    <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" placeholder="0 fcfa" type="number" min="100000" name="one12">
+                                                                </span>
+                                                            </p>
+                                                        </div>
+                                                        <div class="f-email">
+                                                            <p>Pour une offre alléchante, vous payerez ?<span class="cforms-required">*</span></p>
+                                                            <p>
+                                                                <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                                    <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="0 fcfa" value="" type="number" name="one13">
+                                                                </span>
+                                                            </p>
+                                                        </div>
+                                                        <div class="f-name">
+                                                            <p>Votre nom et prénoms<span class="cforms-required">*</span>
+                                                            </p>
+                                                            <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="one14"></span>
+                                                            </p>
+                                                        </div>
+                                                        <div class="f-email">
+                                                            <p>Votre téléphone<span class="cforms-required">*</span></p>
+                                                            <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="one15"></span>
+                                                            </p>
+                                                        </div>
+                                                        <div class="f-name">
+                                                            <p>Votre e-mail<span class="cforms-required">*</span>
+                                                            </p>
+                                                            <p><span class="wpcf7-form-control-wrap" data-name="your-email"><input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="one16"></span>
+                                                            </p>
+                                                        </div>
+                                                        <div class="f-service">
+                                                            <p>Particulier ou groupement ?
+                                                            </p>
+                                                            <p><span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                                                    <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="one17" tabindex="-1" aria-hidden="true">
+                                                                        <option value="Particulier">Particulier</option>
+                                                                        <option value="Groupement">Groupement</option>
+                                                                    </select>
+                                                            </p>
+                                                        </div>
+                                                        <div class="f-name" style="left: 0;right: 0;width: 100%;">
+                                                            <p>Votre age<span class="cforms-required">*</span>
+                                                            </p>
+                                                            <p><span class="wpcf7-form-control-wrap" data-name="your-age"><input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="number" min="18" name="one18"></span>
+                                                            </p>
                                                         </div>
                                                     </div>
 
-                                                    <script type="text/javascript">
-                                                        jQuery(document).ready(function() {
-
-                                                            if (window.self === window.top) {
-                                                                if (jQuery('body').is('.wp-admin.compose-mode')) {
-                                                                    return;
-                                                                }
-                                                            }
-
-                                                            var who = jQuery('#testimonials-slider-1 ul.slides');
-
-                                                            var opts = ['slide', 'horizontal', 'no', '3500', '1000', 'no', 'no', 'yes', 'dark', '3', '2', '1', '1'];
-                                                            if (opts[2] == 'yes') opts[2] = true;
-                                                            else opts[2] = false;
-                                                            if (opts[5] == 'yes') {
-                                                                opts[5] = true;
-                                                            } else opts[5] = false;
-                                                            if (opts[6] == 'yes') {
-                                                                opts[6] = true;
-                                                            } else opts[6] = false;
-                                                            if (opts[7] == 'yes') opts[7] = true;
-                                                            else opts[7] = false;
-                                                            if (opts[0] == 'fade') opts[0] = true;
-                                                            else opts[0] = false;
-
-                                                            who.slick({
-                                                                fade: opts[0],
-                                                                dots: opts[6],
-                                                                autoplay: opts[2],
-                                                                autoplaySpeed: opts[3],
-                                                                speed: opts[4],
-                                                                infinite: true,
-                                                                arrows: opts[5],
-                                                                adaptiveHeight: true,
-                                                                nextArrow: '<button type="button" class="slick-next default"><i class="ultsl-arrow-right6"></i></button>',
-                                                                prevArrow: '<button type="button" class="slick-prev default"><i class="ultsl-arrow-left6"></i></button>',
-                                                                swipe: true,
-                                                                draggable: true,
-                                                                touchMove: true,
-                                                                slidesToScroll: parseInt(opts[9], 10),
-                                                                slidesToShow: parseInt(opts[9], 10),
-                                                                responsive: [{
-                                                                    breakpoint: 1024,
-                                                                    settings: {
-                                                                        slidesToShow: parseInt(opts[10], 10),
-                                                                        slidesToScroll: parseInt(opts[10], 10)
-                                                                    }
-                                                                }, {
-                                                                    breakpoint: 768,
-                                                                    settings: {
-                                                                        slidesToShow: parseInt(opts[11], 10),
-                                                                        slidesToScroll: parseInt(opts[11], 10)
-                                                                    }
-                                                                }, {
-                                                                    breakpoint: 480,
-                                                                    settings: {
-                                                                        slidesToShow: parseInt(opts[12], 10),
-                                                                        slidesToScroll: parseInt(opts[12], 10)
-                                                                    }
-                                                                }],
-                                                                pauseOnHover: opts[7],
-                                                                pauseOnDotsHover: opts[7],
-                                                                customPaging: function(slider, i) {
-                                                                    return '<i type="button" class="ultsl-record" data-role="none"></i>';
-                                                                }
-                                                            });
-                                                        });
-                                                    </script>
-                                                </div>
+                                                    <div class="bt-contact center">
+                                                        <p id="btnsender" style="text-align:center;display: flex;justify-content: center;">
+                                                            <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Envoyez"><span class="wpcf7-spinner"></span></a>
+                                                        </p>
+                                                    </div>
+                                                    <div class="wpcf7-response-output" aria-hidden="true"></div>
+                                                </form>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="ult-spacer spacer-65c0b3f367ce7" data-id="65c0b3f367ce7" data-height="0" data-height-mobile="50" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="50" style="clear:both;display:block;"></div>
                                 </div>
+                            </div>
+                        </div>
+                        <div class="wpb_column vc_column_container vc_col-sm-2">
+                            <div class="vc_column-inner">
+                                <div class="wpb_wrapper"></div>
                             </div>
                         </div>
                     </div>
                     <!-- Row Backgrounds -->
+                    <div class="upb_bg_img" data-ultimate-bg="url(/img/import/I-IMAGE DU BAS.jpg)" data-image-id="id^1937|url^/img/import/I-IMAGE DU BAS.jpg|caption^null|alt^null|title^jason-goodman-wVh5grSMYaY-unsplash|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="ex-full" data-bg_img_attach="scroll" data-upb-overlay-color="rgba(67,25,147,0.25)" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="rgba(67,25,147,0.25)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll"></div>
                 </section>
             </div>
         </section>
-
         <div id="big_footer" class="">
             <div class="footer_newsletter">
                 <div class="mail-box">
@@ -4411,7 +4904,7 @@
                             <div class="form">
                                 <!-- Begin Mailchimp Signup Form -->
                                 <div id="mc_embed_signup">
-                                    <form action="\{\{ route('font.contacts.store') \}\}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
+                                    <form action="{{ route('font.contacts.store') }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
                                         @csrf
                                         <!-- @method("PUT") -->
                                         <div id="mc_embed_signup_scroll">
@@ -4883,11 +5376,11 @@
         $("a.cbp-caption:nth-child(1)").removeAttr("href").attr("href", '/#enregistre-acquereurs');
         console.log("remove href");
         var counter = 0
-        var curTimer = setInterval(function() {
+        var curTimer = setInterval( function(){
             $('#form-register-modal > div.nyssa-multiple-fields select.wpcf7-form-control.wpcf7-select').removeClass("select2-hidden-accessible");
             counter += 1;
-            if (counter == 6) clearInterval(curTimer);
-        }, 2000);
+            if(counter == 6) clearInterval(curTimer);
+        }, 2000 );
     </script>
 </body>
 
