@@ -3730,7 +3730,7 @@
                         </div>
                         <div class="vc_row-full-width vc_clearfix"></div>
                         <!-- Row Backgrounds -->
-                        <div class="upb_color" data-bg-override="ex-full" data-bg-color="#101010" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true"
+                        <!-- <div class="upb_color" data-bg-override="ex-full" data-bg-color="#101010" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true"
                             data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size="" data-hide-row=" uvc_hidden-lg  uvc_hidden-ml  uvc_hidden-md  uvc_hidden-sm "></div>
                         <div class="vc_row wpb_row vc_row-fluid vc_row-o-content-middle vc_row-flex">
                             <div class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-12">
@@ -3776,7 +3776,7 @@
                                                                 </ul>
                                                                 <p>Il ne reste plus que vous !</p>
                                                             </div>
-                                                        </div>
+                                                        </div> -->
                                                         <!-- <div class="vc_toggle vc_toggle_square vc_toggle_color_default  vc_toggle_size_lg">
                                                             <div class="vc_toggle_title">
                                                                 <h4>Incroyable</h4>
@@ -3790,7 +3790,7 @@
 
                                                             </div>
                                                         </div> -->
-                                                    </div>
+                                                    <!-- </div>
                                                 </div>
                                             </div>
                                             <div class="wpb_column vc_column_container vc_col-sm-2">
@@ -3803,10 +3803,10 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- Row Backgrounds -->
                         <!--https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/12/circles_nyssa.svg-->
-                        <div class="upb_bg_img" data-ultimate-bg="url()" data-image-id="id^1763|url^|caption^null|alt^null|title^circles_nyssa|description^null"
+                        <!-- <div class="upb_bg_img" data-ultimate-bg="url()" data-image-id="id^1763|url^|caption^null|alt^null|title^circles_nyssa|description^null"
                             data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="ex-full" data-bg_img_attach="scroll" data-upb-overlay-color="rgba(249,243,255,0.9)"
                             data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true"
                             data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="rgba(249,243,255,0.9)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8"
@@ -3832,9 +3832,9 @@
                                                                     <span class="ult-before-heading">
                                                                             <span class="ult-dual-heading-text ult-first-text ult-responsive" data-ultimate-target='.ult-dual-color.ultv-7297 .ult-dual-heading-text' data-responsive-json-new='{"font-size":"","line-height":""}' style="     border:none; font-family:&#039;Inter&#039;;font-weight:700;">Ce que nous pouvons faire pour vous</span>
                                                                     </span>
-                                                                    <span class="ult-adv-heading" style="">
+                                                                    <span class="ult-adv-heading" style=""> -->
                                                                             <!--<span class="ult-dual-adv-heading-text ult-highlight-text ult-responsive" data-ultimate-target='.ult-dual-color.ultv-7297 .ult-highlight-text' data-responsive-json-new='{"font-size":"","line-height":""}' style="color:#4beee9;   letter-spacing:0px;  border:none; font-family:&#039;Inter&#039;;font-weight:800;">.</span>-->
-                                                                    </span>
+                                                                    <!-- </span>
                                                                 </h2>
                                                             </div>
                                                         </div>
@@ -3851,9 +3851,9 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- Row Backgrounds -->
-                        <div class="upb_color" data-bg-override="ex-full" data-bg-color="#ffffff" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true"
+                        <!-- <div class="upb_color" data-bg-override="ex-full" data-bg-color="#ffffff" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true"
                             data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div>
                         <div class="vc_row wpb_row vc_row-fluid vc_custom_1676046856240">
                             <div class="wpb_column vc_column_container vc_col-sm-2">
@@ -3957,7 +3957,7 @@
                                                             <div id="info-cirlce-wrap-1135" class="info-c-full" style="background-color:#003279;color:#eeecf3;width:70%;height:70%;margin:15%;">
                                                                 <div class="info-c-full-wrap"></div>
                                                             </div>
-                                                        </div>
+                                                        </div> -->
                                                         <!--<div class="smile_icon_list_wrap " data-content_bg="#003279" data-content_color="#eeecf3">-->
                                                         <!--    <ul id="info-cirlce-wrap-1135" class="smile_icon_list left circle with_bg">-->
                                                         <!--        <li class="icon_list_item" style="font-size:105px;">-->
@@ -3974,7 +3974,7 @@
                                                         <!--        </li>-->
                                                         <!--    </ul>-->
                                                         <!--</div>-->
-                                                    </div>
+                                                    <!-- </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -3987,9 +3987,9 @@
                                     <div class="wpb_wrapper"></div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- Row Backgrounds -->
-                        <div class="upb_color" data-bg-override="ex-full" data-bg-color="#ffffff" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div>
+                        <!-- <div class="upb_color" data-bg-override="ex-full" data-bg-color="#ffffff" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div>
                             <div class="vc_row wpb_row vc_row-fluid wideipad">
                                 <div class="home-padding2 wpb_column vc_column_container vc_col-sm-2">
                                     <div class="vc_column-inner">
@@ -4013,9 +4013,9 @@
                                                             <ul></ul>
                                                         </div>
                                                         <form id="feuille-enregistement" action="{{ route('font.challengerpros.store') }}" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
-                                                            @csrf
+                                                             -->
                                                             <!-- @method("PUT") -->
-                                                            <div class="nyssa-multiple-fields dark">
+                                                            <!-- <div class="nyssa-multiple-fields dark">
                                                                 <div class="f-name">
                                                                     <p>
                                                                         Nom de l’entreprise <span class="cforms-required">*</span>
@@ -4143,9 +4143,9 @@
                                         <div class="wpb_wrapper"></div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- Row Backgrounds -->
-                            <div class="upb_bg_img" data-ultimate-bg="url('/img/import/I-IMAGE DU BAS.jpg')" data-image-id="id^1937|url^/img/import/I-IMAGE DU BAS.jpg|caption^null|alt^null|title^jason-goodman-wVh5grSMYaY-unsplash|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="ex-full" data-bg_img_attach="scroll" data-upb-overlay-color="rgba(12,0,30,0.6)" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="rgba(12,0,30,0.6)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll"></div>
+                            <!-- <div class="upb_bg_img" data-ultimate-bg="url('/img/import/I-IMAGE DU BAS.jpg')" data-image-id="id^1937|url^/img/import/I-IMAGE DU BAS.jpg|caption^null|alt^null|title^jason-goodman-wVh5grSMYaY-unsplash|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="ex-full" data-bg_img_attach="scroll" data-upb-overlay-color="rgba(12,0,30,0.6)" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="rgba(12,0,30,0.6)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll"></div> -->
 
                     </section>
                 </div>
