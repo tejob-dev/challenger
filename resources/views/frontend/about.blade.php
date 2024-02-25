@@ -2364,6 +2364,12 @@
         .woocommerce header.navbar {
             background-color: rgba(255, 255, 255, 1) !important;
         }
+
+        #section-1490 > div > section > div.vc_row.wpb_row.vc_row-fluid.team-boxes-style.wide-ipad.wpb_animate_when_almost_visible.wpb_fadeIn.fadeIn.vc_row-o-equal-height.vc_row-o-content-top.vc_row-flex.wpb_start_animation.animated > div.high-index.wpb_column.vc_column_container.vc_col-sm-3.vc_col-has-fill > div > div > div.ult-content-box-container > div > div:nth-child(3) > div > ul > li {
+            color: #fff;
+            font-size: 13px;
+        }
+
     </style>
     <link rel='stylesheet' id='wp-block-library-css' href='https://preview.treethemes.com/nyssa/demo1/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all' />
     <style id='lizr-gutenberg-style-inline-css' type='text/css'>
@@ -3278,13 +3284,13 @@
                                                     <span class="vc_empty_space_inner"></span>
                                                 </div>
                                                 <h5 style="color: rgba(255,255,255,0.91);text-align: left" class="vc_custom_heading heading_border vc_custom_1677784456103">Challenge pro</h5>
-                                                <h1 style="color: #ffffff;text-align: left;width: 100%;font-size: 44px;" class="vc_custom_heading">Un service exceptionnellement adapté aux <span class="break"><br></span> besoins des professionnels de l’immobilier.</h1>
+                                                <h1 style="color: #ffffff;text-align: left;width: 100%;font-size: 44px;" class="vc_custom_heading">Exceptionnellement <span class="break"><br></span> Adapté à vos relatié.</h1>
                                                 <div class="vc_empty_space" style="height: 40px">
                                                     <span class="vc_empty_space_inner"></span>
                                                 </div>
-                                                <div class="vc_btn3-container  nav-to vc_btn3-left">
+                                                <!-- <div class="vc_btn3-container  nav-to vc_btn3-left">
                                                     <a href="#feuille-enregistement" style="background-color:#4beee9; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-round vc_btn3-style-custom">Inscrivez-vous</a>
-                                                </div>
+                                                </div> -->
                                                 <div class="vc_empty_space" style="height: 220px">
                                                     <span class="vc_empty_space_inner"></span>
                                                 </div>
@@ -3328,18 +3334,14 @@
                                                         <div class="vc_column-inner vc_custom_1474056192226">
                                                             <div class="wpb_wrapper" style="width:100%;">
                                                                 <h3 style="text-align: left" class="vc_custom_heading">
-                                                                    Découvrez une solution unique pour vous</h3>
+                                                                Tout commence ici.</h3>
                                                                 <div class="vc_empty_space" style="height: 10px">
                                                                     <span class="vc_empty_space_inner"></span>
                                                                 </div>
                                                                 <div class="wpb_text_column wpb_content_element ">
                                                                     <div class="wpb_wrapper">
-                                                                        <p>Notre système dispose également de listes intelligentes et vous permet de découvrir des 
-                                                                            opportunités que vous souhaitez en temps réel. Votre équipe technique, peut ainsi proposer 
-                                                                            des logements ou des solutions en adéquation avec le profil d‘acheteurs existants, ce qui 
-                                                                            stimulera les ventes de votre entreprise.</p>
-                                                                        <p>Vous ne travaillerez plus à vue…
-                                                                        </p>
+                                                                        <p>Inscrivez-vous dès maintenant, complétez le formulaire et plonger dans une expérience immersive qui vous rapproche de votre maison idéale, celle qui répond à tous vos critères de qualité, d’emplacement ou de budget.</p>
+                                                                        <p>Bienvenue chez vous !</p>
                                                                     </div>
                                                                 </div>
                                                                 <div class="vc_empty_space" style="height: 20px">
@@ -3410,11 +3412,11 @@
                                             </div>
                                         </div>
                                         <div class="ult-content-box-container ">
-                                            <div class="ult-content-box" style="box-shadow: px px px px none;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin-top:15%;margin-right:35px;margin-bottom:55px;margin-left:35px;" data-normal_margins="margin:15% 40px 40px 40px;">
+                                            <div class="ult-content-box" style="box-shadow: px px px px none;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin-top:30%;margin-right:35px;margin-bottom:55px;margin-left:35px;" data-normal_margins="margin:30% 40px 40px 40px;">
                                                 <div class="wpb_text_column wpb_content_element  make-p-small">
                                                     <div class="wpb_wrapper">
                                                         <h3 style="text-align: left;">
-                                                            <span style="color: #ffffff;">Travaillons ensemble</span>
+                                                            <span style="color: #ffffff;">Maison certifiée.</span>
                                                         </h3>
                                                         <h6 style="text-align: left;">
                                                             <span style="color: #ab8bdd;"></span>
@@ -3427,16 +3429,15 @@
                                                 <div class="wpb_text_column wpb_content_element  make-p-small">
                                                     <div class="wpb_wrapper">
                                                         <p>
-                                                            <span style="color: #ffffff;">Trouver des clients, développer son portefeuille et augmenter son chiffre d'affaires,
-                                                                le rêve de tout dirigeant d’entreprise immobilière. Seulement, cela ne se fait pas comme par
-                                                                miracle, souvent, cette quête peut s’avérer être très fastidieuse et même infructueuse. 
-                                                                Notre rôle, est de vous proposer ou fournir (selon vos besoins) des clients fiables et qualifiés 
-                                                                solvables et prêts à l’achat.</span>
+                                                            <span style="color: #ffffff;">Nos programmes certifiés incarnent l'excellence dans le domaine immobilier, offrant bien plus qu'un simple abri. La qualité et le bien-être sont à portée de main.  Découvrez le confort, la sécurité et la satisfaction au sein de nos maisons certifiées.</span>
                                                         </p>
                                                     </div>
                                                 </div>
                                                 <div class="vc_empty_space" style="height: 20px">
                                                     <span class="vc_empty_space_inner"></span>
+                                                </div>
+                                                <div class="vc_btn3-container vc_btn3-inline">
+                                                    <a onmouseleave="this.style.borderColor='#ffffff'; this.style.backgroundColor='transparent'; this.style.color='#ffffff'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#ffffff; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="#form-maison-certif" title="Inscrivez-vous pour une maison cert">Inscrivez-vous</a>
                                                 </div>
                                                 <div id="treethemes-social-networks-shortcode-1" class="widget nyssa_socials_widget">
                                                     <div class="social-icons-fa align-left">
@@ -3470,7 +3471,7 @@
                                                 <div class="wpb_text_column wpb_content_element  make-p-small">
                                                     <div class="wpb_wrapper">
                                                         <h3 style="text-align: left;">
-                                                            <span style="color: #ffffff;">Promoteur immobilier agrée</span>
+                                                            <span style="color: #ffffff;">Terrain certifie.</span>
                                                         </h3>
                                                         <h6 style="text-align: left;">
                                                             <span style="color: #ba2946;"></span>
@@ -3483,7 +3484,7 @@
                                                 <div class="wpb_text_column wpb_content_element  make-p-small">
                                                     <div class="wpb_wrapper">
                                                         <p>
-                                                            <span style="color: #ffffff;"></span>
+                                                            <span style="color: #ffffff;">Tous nos terrains sont soumis à des procédures de certification rigoureuses, garantissant ainsi une qualité exceptionnelle et une authenticité incontestable. Inscrivez-vous et dites-nous ce dont vous avez besoin.</span>
                                                         </p>
                                                     </div>
                                                 </div>
@@ -3491,7 +3492,7 @@
                                                     <span class="vc_empty_space_inner"></span>
                                                 </div>
                                                 <div class="vc_btn3-container vc_btn3-inline">
-                                                    <a onmouseleave="this.style.borderColor='#ffffff'; this.style.backgroundColor='transparent'; this.style.color='#ffffff'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#ffffff; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="#feuille-enregistement" title="Savoir+">Savoir+</a>
+                                                    <a onmouseleave="this.style.borderColor='#ffffff'; this.style.backgroundColor='transparent'; this.style.color='#ffffff'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#ffffff; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="#form-terrain" title="Inscrivez-vous pour un terrain">Inscrivez-vous</a>
                                                 </div>
                                                 <div class="vc_empty_space" style="height: 20px">
                                                     <span class="vc_empty_space_inner"></span>
@@ -3510,61 +3511,8 @@
                         <div class="vc_row-full-width vc_clearfix"></div>
                         <!-- Row Backgrounds -->
                         <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid team-boxes-style wide-ipad wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_row-o-equal-height vc_row-o-content-top vc_row-flex">
-                            <div class="high-index wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill">
-                                <div class="vc_column-inner vc_custom_1675874814017">
-                                    <div class="wpb_wrapper">
-                                        <div class="vc_icon_element vc_icon_element-outer icon-absolute-boxes-right vc_icon_element-align-left">
-                                            <div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-size-lg vc_icon_element-style- vc_icon_element-background-color-grey">
-                                                <span class="vc_icon_element-icon fas fa-caret-right" style="color:#6fe6c7 !important"></span>
-                                            </div>
-                                        </div>
-                                        <div class="ult-content-box-container ">
-                                            <div class="ult-content-box" style="box-shadow: px px px px none;margin:40px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin-top:48%;margin-right:35px;margin-bottom:55px;margin-left:35px;" data-normal_margins="margin:48% 35px 55px 35px;!important">
-                                                <div class="wpb_text_column wpb_content_element  make-p-small">
-                                                    <div class="wpb_wrapper">
-                                                        <h3 style="text-align: left;">
-                                                            <span style="color: #ffffff;">Constructeur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                                                        </h3>
-                                                        <h6 style="text-align: left;">
-                                                            <span style="color: #ba2946;"></span>
-                                                        </h6>
-                                                    </div>
-                                                </div>
-                                                <!--<div class="vc_empty_space" style="height: 20px">-->
-                                                <!--    <span class="vc_empty_space_inner"></span>-->
-                                                <!--</div>-->
-                                                <div class="wpb_text_column wpb_content_element  make-p-small">
-                                                    <div class="wpb_wrapper">
-                                                        <p>
-                                                            <span style="color: #ffffff;"></span>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <!--<div class="vc_empty_space" style="height: 20px">-->
-                                                <!--    <span class="vc_empty_space_inner"></span>-->
-                                                <!--</div>-->
-                                                <div class="vc_empty_space whiteadd" style="height: 64px">
-                                                    <span class="vc_empty_space_inner"></span>
-                                                </div>
-                                                <div class="vc_btn3-container vc_btn3-inline">
-                                                    <a onmouseleave="this.style.borderColor='#ffffff'; this.style.backgroundColor='transparent'; this.style.color='#ffffff'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#ffffff; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="#feuille-enregistement" title="Savoir+">Savoir+</a>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 20px">
-                                                    <span class="vc_empty_space_inner"></span>
-                                                </div>
-                                                <div id="treethemes-social-networks-shortcode-3" class="widget nyssa_socials_widget">
-                                                    <div class="social-icons-fa align-left">
-                                                        
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-index wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill">
+                            
+                            <div class="lower-index wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill">
                                 <div class="vc_column-inner vc_custom_1674469199507">
                                     <div class="wpb_wrapper">
                                         <div class="vc_empty_space" style="height: 250px">
@@ -3586,7 +3534,7 @@
                                                 <div class="wpb_text_column wpb_content_element  make-p-small">
                                                     <div class="wpb_wrapper">
                                                         <h3 style="text-align: left;">
-                                                            <span style="color: #ffffff;">Agence immobilière agrée</span>
+                                                            <span style="color: #ffffff;">Fonctionnement</span>
                                                         </h3>
                                                         <h6 style="text-align: left;">
                                                             <span style="color: #ba2946;"></span>
@@ -3598,16 +3546,21 @@
                                                 </div>
                                                 <div class="wpb_text_column wpb_content_element  make-p-small">
                                                     <div class="wpb_wrapper">
+                                                        <ul style="color:#fff!important;">
+                                                            <li>Inscris-toi c’est totalement gratuit</li>
+                                                            <li>Reçois une réponse en adéquation avec ta demande </li>
+                                                            <li>Intègre un programme certifié par la signature de ta fiche d’adhésion et le paiement des frais d’ouverture de dossier</li>
+                                                            <li>Tu reçois ton contrat de réservation et tu débutes ton challenge</li>
+                                                            <li>Tu es livré dans le temps imparti et tu reçois ton titre de propriété, faisant de toit un propriétaire de plein droit. </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="wpb_text_column wpb_content_element  make-p-small">
+                                                    <div class="wpb_wrapper">
                                                         <p>
                                                             <span style="color: #ffffff;"></span>
                                                         </p>
                                                     </div>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 20px">
-                                                    <span class="vc_empty_space_inner"></span>
-                                                </div>
-                                                <div class="vc_btn3-container vc_btn3-inline">
-                                                    <a onmouseleave="this.style.borderColor='#ffffff'; this.style.backgroundColor='transparent'; this.style.color='#ffffff'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#ffffff; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="#feuille-enregistement" title="Savoir+">Savoir+</a>
                                                 </div>
                                                 <div class="vc_empty_space" style="height: 20px">
                                                     <span class="vc_empty_space_inner"></span>
@@ -3627,102 +3580,6 @@
                                     <div class="wpb_wrapper">
                                         <div class="vc_empty_space" style="height: 250px">
                                             <span class="vc_empty_space_inner"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="vc_row-full-width vc_clearfix"></div>
-                        <!-- Row Backgrounds -->
-                        <div class="upb_color" data-bg-override="ex-full" data-bg-color="#101010" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true"
-                            data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size="" data-hide-row=" uvc_hidden-xs  uvc_hidden-xsl "></div>
-                        <div id="reorder_mobile_usingHideRow_option" data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid team-boxes-style wide-ipad vc_row-o-equal-height vc_row-o-content-top vc_row-flex">
-                            <div class="wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill">
-                                <div class="vc_column-inner vc_custom_1671107465649">
-                                    <div class="wpb_wrapper">
-                                        <div class="vc_empty_space" style="height: 250px">
-                                            <span class="vc_empty_space_inner" style="color:#6fe6c7 !important"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill">
-                                <div class="vc_column-inner vc_custom_1675874803244">
-                                    <div class="wpb_wrapper">
-                                        <div class="ult-content-box-container ">
-                                            <div class="ult-content-box" style="box-shadow: px px px px none;margin:40px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none"
-                                                data-responsive_margins="margin-top:48%;margin-right:35px;margin-bottom:55px;margin-left:35px;" data-normal_margins="margin:48% 35px 55px 35px;!important">
-                                                <div class="wpb_text_column wpb_content_element  make-p-small">
-                                                    <div class="wpb_wrapper">
-                                                        <h3 style="text-align: left;">
-                                                            <span style="color: #ffffff;">Constructeur</span>
-                                                        </h3>
-                                                        <h6 style="text-align: left;">
-                                                            <span style="color: #8c1930;"></span>
-                                                        </h6>
-                                                    </div>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 64px">
-                                                    <span class="vc_empty_space_inner"></span>
-                                                </div>
-                                                <div class="vc_btn3-container vc_btn3-inline">
-                                                    <a onmouseleave="this.style.borderColor='#ffffff'; this.style.backgroundColor='transparent'; this.style.color='#ffffff'" onmouseenter="this.style.borderColor='#4beee9'; this.style.backgroundColor='#4beee9'; this.style.color='#ffffff';" style="border-color:#ffffff; color:#ffffff;"
-                                                        class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="https://preview.treethemes.com/nyssa/demo1-clean/pages/about-me/" title="Savoir+">Savoir+</a>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 20px">
-                                                    <span class="vc_empty_space_inner"></span>
-                                                </div>
-                                                <div id="treethemes-social-networks-shortcode-5" class="widget nyssa_socials_widget">
-                                                    <div class="social-icons-fa align-left">
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="high-index wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill">
-                                <div class="vc_column-inner vc_custom_1671115947837">
-                                    <div class="wpb_wrapper">
-                                        <div class="vc_empty_space" style="height: 250px">
-                                            <span class="vc_empty_space_inner" style="color:#003279!important"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill">
-                                <div class="vc_column-inner vc_custom_1674469592072">
-                                    <div class="wpb_wrapper">
-                                        <div class="ult-content-box-container ">
-                                            <div class="ult-content-box" style="box-shadow: px px px px none;margin:40px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none"
-                                                data-responsive_margins="margin-top:40%;margin-right:35px;margin-bottom:55px;margin-left:35px;" data-normal_margins="margin:40% 35px 55px 35px;!important">
-                                                <div class="wpb_text_column wpb_content_element  make-p-small">
-                                                    <div class="wpb_wrapper">
-                                                        <h3 style="text-align: left;">
-                                                            <span style="color: #ffffff;">Agence immobilière agrée</span>
-                                                        </h3>
-                                                        <h6 style="text-align: left;">
-                                                            <span style="color: #7774d7;"></span>
-                                                        </h6>
-                                                    </div>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 20px">
-                                                    <span class="vc_empty_space_inner"></span>
-                                                </div>
-                                                <div class="vc_btn3-container vc_btn3-inline">
-                                                    <a onmouseleave="this.style.borderColor='#ffffff'; this.style.backgroundColor='transparent'; this.style.color='#ffffff'" onmouseenter="this.style.borderColor='#4beee9'; this.style.backgroundColor='#4beee9'; this.style.color='#ffffff';" style="border-color:#ffffff; color:#ffffff;"
-                                                        class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="https://preview.treethemes.com/nyssa/demo1-clean/pages/about-me/" title="Savoir+">Savoir+</a>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 20px">
-                                                    <span class="vc_empty_space_inner"></span>
-                                                </div>
-                                                <div id="treethemes-social-networks-shortcode-6" class="widget nyssa_socials_widget">
-                                                    <div class="social-icons-fa align-left">
-
-                                                    </div>
-                                                </div>
-                                            </div>
                                         </div>
                                     </div>
                                 </div>
