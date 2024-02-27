@@ -3359,7 +3359,7 @@
                                                                     <!--
 
 										-->
-                                                                    <rs-layer id="slider-18-slide-52-layer-17" data-type="text" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:20,18,18,20;l:60,50,50,28;fw:600;a:left,left,left,center;" data-dim="w:70%,65%,70%,302px;" data-disp="inline-block" data-frame_999="o:1;st:w;sp:1000;sR:8700;" style="z-index:7;font-family:'Montserrat';display:inline-block;">Maintenant si vous avez un projet immobilier</rs-layer>
+                                                                    <rs-layer id="slider-18-slide-52-layer-17" data-type="text" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:20,18,18,20;l:60,50,50,28;fw:600;a:left,left,left,center;" data-dim="w:70%,65%,70%,302px;" data-disp="inline-block" data-frame_999="o:1;st:w;sp:1000;sR:8700;" style="z-index:7;font-family:'Montserrat';display:inline-block;">Recherchez-vous une certification particulière ?</rs-layer>
                                                                     <!--
 
 										-->
@@ -4042,137 +4042,170 @@
                                     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400normal" type="text/css" media="all" property="stylesheet">
                                     <div id="cbpw-wrap130">
                                         <div id="cbpw-filters130" class="cbp-l-filters-alignCenter des-align-center">
-                                            <div style="display: none;" data-filter="*" class="cbp-filter-item cbp-filter-item-active">TOUS</div>
+                                            {{-- <div data-filter="*" class="cbp-filter-item cbp-filter-item-active">TOUS</div> --}}
                                             /<div data-filter=".slider" class="cbp-filter-item">Certifications</div>
-                                            /<div data-filter=".gallery" class="cbp-filter-item">Programmes</div>
+                                            /<div data-filter=".programm" class="cbp-filter-item">Programmes</div>
                                             /<div data-filter=".mockup" class="cbp-filter-item">Terrains</div>
                                         </div>
                                         <div id="cbpw-grid130" class="cbp-l-grid-gallery cbp">
                                             <div>
-                                                <div class="cbp-item mockup">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/nyssa-mockup/" class="cbp-caption cbp-singlePageInline" data-title="Nyssa Mockup" data-cbp-selector="automatically">
+                                                <div class="cbp-item slider">
+                                                    <a href="/img/accueil/imag1.jpg" class="cbp-caption cbp-singlePageInline" data-title="JURIDIQUE" data-cbp-selector="automatically">
                                                         <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project1.jpg" alt="">
+                                                            <img decoding="async" src="/img/accueil/imag1.jpg" alt="">
                                                         </div>
                                                         <div class="cbp-caption-activeWrap">
                                                             <div class="cbp-l-caption-alignLeft">
                                                                 <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">Nyssa Mockup</div>
+                                                                    <div class="cbp-l-caption-title">JURIDIQUE</div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </a>
                                                 </div>
-                                                <div class="cbp-item des-project slider">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/boldway-business-card/" class="cbp-caption cbp-singlePageInline" data-title="Boldway Business Card" data-cbp-selector="automatically">
+                                                <div class="cbp-item slider">
+                                                    <a href="/img/accueil/imag2.jpg" class="cbp-caption cbp-singlePageInline" data-title="INTEGREE" data-cbp-selector="automatically">
                                                         <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project2.jpg" alt="">
+                                                            <img decoding="async" src="/img/accueil/imag2.jpg" alt="">
                                                         </div>
                                                         <div class="cbp-caption-activeWrap">
                                                             <div class="cbp-l-caption-alignLeft">
                                                                 <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">Boldway Card</div>
+                                                                    <div class="cbp-l-caption-title">INTEGREE</div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </a>
                                                 </div>
-                                                <div class="cbp-item gallery">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/nyssa-lettering/" class="cbp-caption cbp-singlePageInline" data-title="We are Nyssa Lettering" data-cbp-selector="automatically">
+                                                <div class="cbp-item slider">
+                                                    <a href="/img/accueil/imag3.png" class="cbp-caption cbp-singlePageInline" data-title="ACCREDITATION" data-cbp-selector="automatically">
                                                         <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project3.jpg" alt="">
+                                                            <img decoding="async" src="/img/accueil/imag3.png" alt="">
                                                         </div>
                                                         <div class="cbp-caption-activeWrap">
                                                             <div class="cbp-l-caption-alignLeft">
                                                                 <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">We are Nyssa</div>
+                                                                    <div class="cbp-l-caption-title">ACCREDITATION</div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </a>
                                                 </div>
-                                                <div class="cbp-item image">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/art-exhibition/" class="cbp-caption cbp-singlePageInline" data-title="Art exhibition" data-cbp-selector="automatically">
+                                                <div class="cbp-item slider">
+                                                    <a href="/img/accueil/imag4.jpg" class="cbp-caption cbp-singlePageInline" data-title="QUALITE" data-cbp-selector="automatically">
                                                         <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project4.jpg" alt="">
+                                                            <img decoding="async" src="/img/accueil/imag4.jpg" alt="">
                                                         </div>
                                                         <div class="cbp-caption-activeWrap">
                                                             <div class="cbp-l-caption-alignLeft">
                                                                 <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">Art exhibition</div>
+                                                                    <div class="cbp-l-caption-title">QUALITE</div>
                                                                     <div class="cbp-l-caption-desc"></div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </a>
                                                 </div>
-                                                <div class="cbp-item mockup">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/heart-logo/" class="cbp-caption cbp-singlePageInline" data-title="Heart Logo" data-cbp-selector="automatically">
+                                                <div class="cbp-item slider">
+                                                    <a href="/img/accueil/imag5.jpg" class="cbp-caption cbp-singlePageInline" data-title="SECURITE" data-cbp-selector="automatically">
                                                         <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project5.jpg" alt="">
+                                                            <img decoding="async" src="/img/accueil/imag5.jpg" alt="">
                                                         </div>
                                                         <div class="cbp-caption-activeWrap">
                                                             <div class="cbp-l-caption-alignLeft">
                                                                 <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">Heart Logo</div>
+                                                                    <div class="cbp-l-caption-title">SECURITE</div>
                                                                     <div class="cbp-l-caption-desc"></div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </a>
                                                 </div>
-                                                <div class="cbp-item mockup">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/my-goals-app/" class="cbp-caption cbp-singlePageInline" data-title="My Goals App" data-cbp-selector="automatically">
+                                                <div class="cbp-item slider">
+                                                    <a href="/img/accueil/imag6.jpg" class="cbp-caption cbp-singlePageInline" data-title="PERFORMANCE" data-cbp-selector="automatically">
                                                         <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project6.jpg" alt="">
+                                                            <img decoding="async" src="/img/accueil/imag6.jpg" alt="">
                                                         </div>
                                                         <div class="cbp-caption-activeWrap">
                                                             <div class="cbp-l-caption-alignLeft">
                                                                 <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">My Goals App</div>
+                                                                    <div class="cbp-l-caption-title">PERFORMANCE</div>
                                                                     <div class="cbp-l-caption-desc"></div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </a>
                                                 </div>
-                                                <div class="cbp-item image">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/nyssa-wordpress-theme/" class="cbp-caption cbp-singlePageInline" data-title="Nyssa WordPress Theme" data-cbp-selector="automatically">
+                                                <div class="cbp-item slider programm">
+                                                    <a href="/img/accueil/program1.jpg" class="cbp-caption cbp-singlePageInline" data-title="Challenge Express" data-cbp-selector="automatically">
                                                         <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project7.jpg" alt="">
+                                                            <img decoding="async" src="/img/accueil/program1.jpg" alt="">
                                                         </div>
                                                         <div class="cbp-caption-activeWrap">
                                                             <div class="cbp-l-caption-alignLeft">
                                                                 <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">Nyssa Theme</div>
+                                                                    <div class="cbp-l-caption-title">Challenge Express</div>
+                                                                    <div class="cbp-l-caption-desc"></div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </a>
                                                 </div>
-                                                <div class="cbp-item des-project slider">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/macarons/" class="cbp-caption cbp-singlePageInline" data-title="Colored vanilla macarons" data-cbp-selector="automatically">
+                                                <div class="cbp-item slider programm">
+                                                    <a href="/img/accueil/program2.jpg" class="cbp-caption cbp-singlePageInline" data-title="Challenge Progressif" data-cbp-selector="automatically">
                                                         <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project8.jpg" alt="">
+                                                            <img decoding="async" src="/img/accueil/program2.jpg" alt="">
                                                         </div>
                                                         <div class="cbp-caption-activeWrap">
                                                             <div class="cbp-l-caption-alignLeft">
                                                                 <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">Colored macarons</div>
+                                                                    <div class="cbp-l-caption-title">Challenge Progressif</div>
+                                                                    <div class="cbp-l-caption-desc"></div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </a>
                                                 </div>
-                                                <div class="cbp-item image">
-                                                    <a href="//preview.treethemes.com/nyssa/demo1/portfolio/flower-nyssa-lettering/" class="cbp-caption cbp-singlePageInline" data-title="Flower nyssa lettering" data-cbp-selector="automatically">
+                                                <div class="cbp-item slider programm">
+                                                    <a href="/img/accueil/program3.jpg" class="cbp-caption cbp-singlePageInline" data-title="Challenge Stabilité" data-cbp-selector="automatically">
                                                         <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="//preview.treethemes.com/nyssa/demo1-clean/wp-content/uploads/sites/2/2022/08/project9.jpg" alt="">
+                                                            <img decoding="async" src="/img/accueil/program3.jpg" alt="">
                                                         </div>
                                                         <div class="cbp-caption-activeWrap">
                                                             <div class="cbp-l-caption-alignLeft">
                                                                 <div class="cbp-l-caption-body">
-                                                                    <div class="cbp-l-caption-title">Flower nyssa</div>
+                                                                    <div class="cbp-l-caption-title">Challenge Stabilité</div>
+                                                                    <div class="cbp-l-caption-desc"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item slider programm">
+                                                    <a href="/img/accueil/program4.jpg" class="cbp-caption cbp-singlePageInline" data-title="Challenge Planifié" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="/img/accueil/program4.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Challenge Planifié</div>
+                                                                    <div class="cbp-l-caption-desc"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item slider programm">
+                                                    <a href="/img/accueil/program5.jpg" class="cbp-caption cbp-singlePageInline" data-title="Challenge Visionnaire" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="/img/accueil/program5.jpg" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Challenge Visionnaire</div>
+                                                                    <div class="cbp-l-caption-desc"></div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -4180,7 +4213,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <!-- <div id="cbpw-loadMore130" class="">
+                                        <div id="cbpw-loadMore130" class="">
                                             <div class="cbp-l-loadMore-button">
                                                 <a href="ajax/loadMore.html" class="cbp-l-loadMore-link">
                                                     <span class="cbp-l-loadMore-defaultText">Load more</span>
@@ -4188,7 +4221,7 @@
                                                     <span class="cbp-l-loadMore-noMoreLoading">No more works</span>
                                                 </a>
                                             </div>
-                                        </div> -->
+                                        </div>
                                     </div>
                                     <script type="text/javascript">
                                         this.initCubePortfolio = this.initCubePortfolio || [];
@@ -4888,6 +4921,13 @@
             counter += 1;
             if (counter == 6) clearInterval(curTimer);
         }, 2000);
+        $(document).ready(function(){
+
+            // setTimeout(() => {
+            //     $("#cbpw-filters130 > div:nth-child(2)").click();
+            //     console.log("THE MOVIE ADD")
+            // }, 4000);
+        })
     </script>
 </body>
 
