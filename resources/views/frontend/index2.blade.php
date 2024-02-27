@@ -4213,7 +4213,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div id="cbpw-loadMore130" class="">
+                                        {{-- <div id="cbpw-loadMore130" class="">
                                             <div class="cbp-l-loadMore-button">
                                                 <a href="ajax/loadMore.html" class="cbp-l-loadMore-link">
                                                     <span class="cbp-l-loadMore-defaultText">Load more</span>
@@ -4221,7 +4221,7 @@
                                                     <span class="cbp-l-loadMore-noMoreLoading">No more works</span>
                                                 </a>
                                             </div>
-                                        </div>
+                                        </div> --}}
                                     </div>
                                     <script type="text/javascript">
                                         this.initCubePortfolio = this.initCubePortfolio || [];
