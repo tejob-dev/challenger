@@ -6431,7 +6431,7 @@ if (typeof Object.create !== 'function') {
                     self.updateSinglePageInline(process.result, process.scripts);
                 })
                 .fail(function() {
-                    self.updateSinglePageInline('Check Test and pass other test!');
+                    self.updateSinglePageInline('');
                 })
                 .always(function(){
 	                setTimeout( function(){ jQuery('body').removeClass('cbp-animating'); if (jQuery('html.vc_mobile')) jQuery(window).trigger('scroll'); }, 1500 ); 

@@ -3283,8 +3283,8 @@
                                                 <div class="vc_empty_space" style="height: 100px">
                                                     <span class="vc_empty_space_inner"></span>
                                                 </div>
-                                                <h5 style="color: rgba(255,255,255,0.91);text-align: left" class="vc_custom_heading heading_border vc_custom_1677784456103">Challenge pro</h5>
-                                                <h1 style="color: #ffffff;text-align: left;width: 100%;font-size: 44px;" class="vc_custom_heading">Exceptionnellement <span class="break"><br></span> Adapté à vos relatié.</h1>
+                                                <h5 style="color: rgba(255,255,255,0.91);text-align: left" class="vc_custom_heading heading_border vc_custom_1677784456103">INSCRIVEZ-VOUS</h5>
+                                                <h1 style="color: #ffffff;text-align: left;width: 100%;font-size: 44px;" class="vc_custom_heading">Exceptionnellement <span class="break"><br></span> Adapté à<span class="break"><br></span> Vos relatié.</h1>
                                                 <div class="vc_empty_space" style="height: 40px">
                                                     <span class="vc_empty_space_inner"></span>
                                                 </div>
@@ -3324,7 +3324,7 @@
                                                     <img src="/img/import/I-C-1.png" width="60px" height="60px" alt="icone" style="margin-top:4px;"/>
                                                 </div>
                                                 <div class='title'>
-                                                    <a class='special_tabs_linkage'>Simple</a>
+                                                    <a class='special_tabs_linkage'>INSCRIVEZ-VOUS</a>
                                                 </div>
                                                 <div class='divider-vertical-tabs'></div>
                                             </div>
@@ -3352,7 +3352,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class='label 2'>
+                                            <!-- <div class='label 2'>
                                                 <div class='nyssa_icon_special_tabs'>
                                                     <img src="/img/import/I-C-2.png" width="60px" height="60px" alt="icone" style="margin-top:4px;"/>
                                                 </div>
@@ -3386,7 +3386,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div>
+                                            </div> -->
                                         </section>
                                         <div class="ult-spacer spacer-64131a284d495" data-id="64131a284d495" data-height="100" data-height-mobile="60" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="60" style="clear:both;display:block;"></div>
                                     </div>
@@ -3450,7 +3450,7 @@
                                 </div>
                             </div>
                             <div class="wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill">
-                                <div class="vc_column-inner vc_custom_1674469181075">
+                                <div class="vc_column-inner vc_custom_1674469181077">
                                     <div class="wpb_wrapper">
                                         <div class="vc_empty_space" style="height: 250px">
                                             <span class="vc_empty_space_inner"></span>
@@ -4330,7 +4330,16 @@
             .vc_custom_1674469181075 {
                 padding-top: 110px !important;
                 padding-bottom: 110px !important;
-                background-image: url(/img/import/I-PROMOTEUR.jpg) !important;
+                background-image: url(/img/about/casee1.jpg) !important;
+                background-position: center !important;
+                background-repeat: no-repeat !important;
+                background-size: cover !important;
+            }
+            
+            .vc_custom_1674469181077 {
+                padding-top: 110px !important;
+                padding-bottom: 110px !important;
+                background-image: url(/img/about/casee2.jpg) !important;
                 background-position: center !important;
                 background-repeat: no-repeat !important;
                 background-size: cover !important;
@@ -4347,7 +4356,7 @@
             .vc_custom_1674469199507 {
                 padding-top: 110px !important;
                 padding-bottom: 110px !important;
-                background-image: url(/img/import/I-CONSTRUCTEUR.jpg) !important;
+                background-image: url(/img/about/casee3.jpg) !important;
                 background-position: center !important;
                 background-repeat: no-repeat !important;
                 background-size: cover !important;
@@ -4360,7 +4369,7 @@
             .vc_custom_1674469194362 {
                 padding-top: 110px !important;
                 padding-bottom: 110px !important;
-                background-image: url(/img/import/I-AGENCE.jpg) !important;
+                background-image: url(/img/about/casee4.jpg) !important;
                 background-position: center !important;
                 background-repeat: no-repeat !important;
                 background-size: cover !important;
@@ -4369,7 +4378,7 @@
             .vc_custom_1671107465649 {
                 padding-top: 110px !important;
                 padding-bottom: 110px !important;
-                background-image: url(/img/import/I-CONSTRUCTEUR.jpg) !important;
+                background-image: url(/img/about/casee3.jpg) !important;
                 background-position: center !important;
                 background-repeat: no-repeat !important;
                 background-size: cover !important;
@@ -4382,7 +4391,7 @@
             .vc_custom_1671115947837 {
                 padding-top: 110px !important;
                 padding-bottom: 110px !important;
-                background-image: url(/img/import/I-AGENCE.jpg) !important;
+                background-image: url(/img/about/casee4.jpg) !important;
                 background-position: center !important;
                 background-repeat: no-repeat !important;
                 background-size: cover !important;

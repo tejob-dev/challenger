@@ -3350,33 +3350,33 @@
                         --></rs-row><!--
 
                         --><rs-row id="slider-18-slide-52-layer-12" data-type="row" data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-margin="t:100,50,50,450;r:30,30,30,20;b:75,75,50,50;l:30,30,30,20;" data-frame_0="x:left;o:1;" data-frame_1="e:power4.out;st:300;sp:2000;sR:300;" data-frame_999="x:0px;y:bottom;o:1;st:w;sp:1000;sR:6700;sA:9000;" style="z-index:6;">
+                                                            <!--
+									-->
+                                                            <rs-column id="slider-18-slide-52-layer-13" data-type="column" data-bsh="c:rgba(0,0,0,0.15);v:20px;b:40px;" data-xy="xo:50px;yo:50px;" data-text="a:right,right,right,center;" data-actions='o:mouseenter;a:pauseslider;||o:mouseleave;a:playslider;' data-rsp_bd="off" data-column="w:75%;" data-padding="t:30,30,20,20;r:30,30,20,20;b:30,30,20,30;l:30,30,20,20;" data-border="bor:10px,10px,10px,10px;" data-frame_0="o:1;bB:10px;" data-frame_1="bB:10px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;bB:10px;sA:9000;" style="z-index:7;background-color:rgba(74,81,101,0.5);width:100%;">
                                                                 <!--
-									-->
-                                    <rs-column id="slider-18-slide-52-layer-13" data-type="column" data-bsh="c:rgba(0,0,0,0.15);v:20px;b:40px;" data-xy="xo:50px;yo:50px;" data-text="a:right,right,right,center;" data-actions='o:mouseenter;a:pauseslider;||o:mouseleave;a:playslider;' data-rsp_bd="off" data-column="w:75%;" data-padding="t:30,30,20,20;r:30,30,20,20;b:30,30,20,30;l:30,30,20,20;" data-border="bor:10px,10px,10px,10px;" data-frame_0="o:1;bB:10px;" data-frame_1="bB:10px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;bB:10px;sA:9000;" style="z-index:7;background-color:rgba(74,81,101,0.5);width:100%;">
-                                                                    <!--
 										-->
-                                                                    <rs-layer id="slider-18-slide-52-layer-21" data-type="shape" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:20,15,11,6;f:left;l:0,19,14,8;" data-flcr="f:left;" data-dim="w:10px,10px,10px,6px;h:10px,10px,10px,6px;" data-disp="inline-block" data-border="bor:5px,5px,5px,5px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" data-loop_999="sX:2;sY:2;sp:2000;st:0;e:sine.inOut;yys:t;yyf:t;" style="z-index:8;background-color:#f94a82;display:inline-block;"></rs-layer>
-                                                                    <!--
-
-										-->
-                                                                    <rs-layer id="slider-18-slide-52-layer-17" data-type="text" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:20,18,18,20;l:60,50,50,28;fw:600;a:left,left,left,center;" data-dim="w:70%,65%,70%,302px;" data-disp="inline-block" data-frame_999="o:1;st:w;sp:1000;sR:8700;" style="z-index:7;font-family:'Montserrat';display:inline-block;">Recherchez-vous une certification particulière ?</rs-layer>
-                                                                    <!--
-
-										-->
-                                                                    <a id="slider-18-slide-52-layer-16" class="rs-layer rev-btn" href="/contact" target="_blank" rel="noopener" data-type="button" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:18,16,16,16;l:60,50,50,50;fw:600;" data-dim="minh:0px,none,none,none;" data-disp="inline-block" data-margin="t:0,0,0,10;" data-padding="r:50,40,30,30;l:50,40,30,30;" data-border="bor:5px,5px,5px,5px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" data-frame_hover="c:#fff;bgc:rgba(0,0,0,0.35);bor:5px,5px,5px,5px;" style="z-index:6;background-color:#f94a82;font-family:'Montserrat';display:inline-block;">Parlons-en 
-										</a>
-                                                                    <!--
-									-->
-                                                                </rs-column>
+                                                                <rs-layer id="slider-18-slide-52-layer-21" data-type="shape" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:20,15,11,6;f:left;l:0,19,14,8;" data-flcr="f:left;" data-dim="w:10px,10px,10px,6px;h:10px,10px,10px,6px;" data-disp="inline-block" data-border="bor:5px,5px,5px,5px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" data-loop_999="sX:2;sY:2;sp:2000;st:0;e:sine.inOut;yys:t;yyf:t;" style="z-index:8;background-color:#f94a82;display:inline-block;"></rs-layer>
                                                                 <!--
 
+										-->
+                                                                <rs-layer id="slider-18-slide-52-layer-17" data-type="text" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:20,18,18,20;l:60,50,50,28;fw:600;a:left,left,left,center;" data-dim="w:70%,65%,70%,302px;" data-disp="inline-block" data-frame_999="o:1;st:w;sp:1000;sR:8700;" style="z-index:7;font-family:'Montserrat';display:inline-block;">Recherchez-vous une certification particulière ?</rs-layer>
+                                                                <!--
+
+										-->
+                                                                <a id="slider-18-slide-52-layer-16" class="rs-layer rev-btn" href="/contact" target="_blank" rel="noopener" data-type="button" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:18,16,16,16;l:60,50,50,50;fw:600;" data-dim="minh:0px,none,none,none;" data-disp="inline-block" data-margin="t:0,0,0,10;" data-padding="r:50,40,30,30;l:50,40,30,30;" data-border="bor:5px,5px,5px,5px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" data-frame_hover="c:#fff;bgc:rgba(0,0,0,0.35);bor:5px,5px,5px,5px;" style="z-index:6;background-color:#f94a82;font-family:'Montserrat';display:inline-block;">Parlons-en
+                                                                </a>
+                                                                <!--
 									-->
-                                                                <rs-column id="slider-18-slide-52-layer-14" data-type="column" data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-column="w:25%;" data-frame_0="o:1;" data-frame_999="o:1;st:w;sp:1000;sR:8700;sA:9000;" style="z-index:6;width:100%;">
+                                                            </rs-column>
+                                                            <!--
+
+									-->
+                                                            <rs-column id="slider-18-slide-52-layer-14" data-type="column" data-xy="xo:50px;yo:50px;" data-rsp_bd="off" data-column="w:25%;" data-frame_0="o:1;" data-frame_999="o:1;st:w;sp:1000;sR:8700;sA:9000;" style="z-index:6;width:100%;">
                                                                 <!--									-->
-                                                                </rs-column>
-                                                                <!--
+                                                            </rs-column>
+                                                            <!--
 								-->
-                                                            </rs-row><!--
+                                                        </rs-row><!--
                     --><!--
 
                     --><!--
@@ -3478,7 +3478,9 @@
                                                                 </div>
                                                             </div>
                                                             <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
-                                                            <div class="vc_btn3-container vc_btn3-inline"><a style="background-color:#f3889e; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom" href="/contact" title="">Rejoins-nous</a></div>
+                                                            <!-- <div class="vc_btn3-container vc_btn3-inline"><a style="background-color:#f3889e; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom" href="/contact" title="">Rejoins-nous</a></div> -->
+                                                            <button data-ultimate-target='#modal-trg-txt-wrap-8000 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' style="background-color:#f3889e; color:#ffffff;" data-class-id="content-64f491c87e33b4-400800" class="btn-modal ult-responsive vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom overlay-show ult-align-left btn-id-64f491c87e33b4-51630579" data-overlay-class="overlay-zoomin">Rejoins-nous
+                                                            </button>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3495,6 +3497,9 @@
                             </div>
                         </div>
                     </div>
+
+
+
                     <div class="vc_row-full-width vc_clearfix"></div>
                     <!-- Row Backgrounds -->
                     <div class="upb_color" data-bg-override="ex-full" data-bg-color="#fbf7ff" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div>
@@ -3529,7 +3534,9 @@
                                                 </div>
                                             </div>
                                             <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
-                                            <div class="vc_btn3-container vc_btn3-inline"><a style="background-color:#17b088; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom" href="/inscription" title="">Inscrivez-vous</a></div>
+                                            <!-- <div class="vc_btn3-container vc_btn3-inline"><a style="background-color:#17b088; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom" href="/inscription" title="">Inscrivez-vous</a></div> -->
+                                            <button data-ultimate-target='#modal-trg-txt-wrap-9000 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' style="background-color:#17b088; color:#ffffff;" data-class-id="content-64f491c87e33b4-400900" class="btn-modal ult-responsive vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom overlay-show ult-align-left btn-id-64f491c87e33b4-51630579" data-overlay-class="overlay-zoomin">Inscrivez-vous
+                                            </button>
                                             <div class="ult-spacer spacer-65a535b84272e" data-id="65a535b84272e" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
                                         </div>
                                     </div>
@@ -3549,6 +3556,150 @@
                             </div>
                         </div>
                     </div>
+
+
+                    <div class="ult-overlay content-64f491c87e33b4-400900" data-class="content-64f491c87e33b4-400900" id="button-click-overlay" style="background:rgba(23,22,29,0.98); display:none;">
+                        <div class="ult_modal ult-fade ult-medium">
+                            <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
+                                <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
+                                    BON PLAN POUR VOTRE MAISON
+                                    <p></p>
+                                    <div class="wpcf7 js" id="wpcf7-f831-o1" lang="en-US" dir="ltr">
+                                        <div class="screen-reader-response">
+                                            <p role="status" aria-live="polite" aria-atomic="true"></p>
+                                            <ul></ul>
+                                        </div>
+                                        <form action="{{route('font.acquereurs.store')}}" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" id="form-register-modal">
+
+                                            @csrf
+                                            <div class="nyssa-multiple-fields">
+                                                <div class="f-name" style="left: 0;right: 0;width: 100%;">
+                                                    <p>Nom complet<span class="cforms-required">*</span>
+                                                    </p>
+                                                    <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="nompre"></span>
+                                                    </p>
+                                                </div>
+                                                <div class="f-name">
+                                                    <p>Adresse e-mail<span class="cforms-required">*</span>
+                                                    </p>
+                                                    <p><span class="wpcf7-form-control-wrap" data-name="your-email"><input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="email"></span>
+                                                    </p>
+                                                </div>
+                                                <div class="f-email">
+                                                    <p>Numéro de téléphone<span class="cforms-required">*</span></p>
+                                                    <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="telephone"></span>
+                                                    </p>
+                                                </div>
+                                                <div class="f-subject">
+                                                    <p>Type de bien recherché</p>
+                                                    <p>
+                                                        <span class="wpcf7-form-control-wrap" data-name="menu-781">
+                                                            <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="typlog">
+                                                                <option value="Un appartement">Un appartement</option>
+                                                                <option value="Une villa basse">Une villa basse</option>
+                                                                <option value="Une villa duplex ">Une villa duplex</option>
+                                                                <option value="Une villa triplex">Une villa triplex</option>
+                                                                <option value="Autre">Autre</option>
+                                                            </select>
+                                                        </span>
+                                                    </p>
+                                                </div>
+                                                <div class="f-service">
+                                                    <p>Nombre de pièces
+                                                    </p>
+                                                    <p>
+                                                        <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                                            <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="typlog" tabindex="-1" aria-hidden="true">
+                                                                <option value="2 pièces">2 pièces</option>
+                                                                <option value="3 pièces">3 pièces</option>
+                                                                <option value="4 pièces">4 pièces</option>
+                                                                <option value="5 pièces">5 pièces</option>
+                                                                <option value="6 pièces">6 pièces</option>
+                                                                <option value="+6 pièces">+6 pièces</option>
+                                                            </select>
+                                                    </p>
+                                                </div>
+                                                <div class="f-name">
+                                                    <p>Budget approximatif<span class="cforms-required"></span></p>
+                                                    <p>
+                                                        <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                            <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="number" min="1000000" name="surface">
+                                                        </span>
+                                                    </p>
+                                                </div>
+                                                <div class="f-service">
+                                                    <p>Localisation souhaitée
+                                                    </p>
+                                                    <p>
+                                                        <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                                            <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="localisation" tabindex="-1" aria-hidden="true">
+                                                                <option value="Ville">Ville</option>
+                                                                <option value="Quartier">Quartier</option>
+                                                                <option value="Région">Région</option>
+                                                            </select>
+                                                    </p>
+                                                </div>
+                                                <div class="f-name">
+                                                    <p>Infos supplémentaires</p>
+                                                    <div style="display: flex; flex-direction:column;">
+                                                        <label class="new-check">
+                                                            <input type="checkbox" name="todo-status" value="Nouvelle construction" />
+                                                            <div></div>Nouvelle construction
+                                                        </label>
+                                                        <label class="new-check">
+                                                            <input type="checkbox" name="todo-status" value="Nouvelle construction" />
+                                                            <div></div>Maison rénovée
+                                                        </label>
+                                                        <label class="new-check">
+                                                            <input type="checkbox" name="todo-status" value="Nouvelle construction" />
+                                                            <div></div>Ancien quartier
+                                                        </label>
+                                                        <label class="new-check">
+                                                            <input type="checkbox" name="todo-status" value="Nouvelle construction" />
+                                                            <div></div>Autres
+                                                        </label>
+                                                    </div>
+                                                </div>
+                                                <div class="f-name" style="left: 0;right: 0;width: 100%; display:none;">
+                                                    <p>Précisez<span class="cforms-required"></span></p>
+                                                    <p>
+                                                        <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                            <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="precision">
+                                                        </span>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <p>
+                                                    En soumettant ce formulaire, vous autorisez Challenge-toit à vous contacter par e-mail ou par téléphone pour répondre à votre demande et vous proposer des offres immobilières adaptées à vos critères de recherche.
+                                                </p>
+                                                <div style="display: flex; flex-direction:column;">
+                                                    <label class="" style="text-align: center;">
+                                                        <input type="checkbox" name="todo-status" value="J'accepte de recevoir des e-mails contenant vos bons plans immobiliers et des offres de terrains." />
+                                                        <div></div>J'accepte de recevoir des e-mails contenant vos bons plans immobiliers et des offres de terrains.
+                                                    </label>
+                                                    <label class="" style="text-align: center;">
+                                                        <input type="checkbox" name="todo-status" value="Nouvelle construction" />
+                                                        <div></div>J'accepte les conditions d'utilisation et la politique de confidentialité.
+                                                    </label>
+                                                </div>
+                                            </div>
+                                            <div class="bt-contact center">
+                                                <p id="btnsender">
+                                                    <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Envoyez ma demande"><span class="wpcf7-spinner"></span></a>
+                                                </p>
+                                            </div>
+                                            <div class="wpcf7-response-output" aria-hidden="true"></div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ult-overlay-close top-right" style="width:80px;height:80px; ">
+                            <div class="ult-overlay-close-inside" style="background-color: #000;"></div>
+                        </div>
+                    </div>
+
                     <div class="vc_row-full-width vc_clearfix"></div>
                     <!-- Row Backgrounds -->
                     <div class="upb_color" data-bg-override="ex-full" data-bg-color="#fbf7ff" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size="" data-hide-row=" uvc_hidden-xs  uvc_hidden-xsl "></div>
@@ -3612,16 +3763,16 @@
                                                 </div>
                                             </div>
                                             <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
-                                            <!-- <div class="vc_btn3-container vc_btn3-inline"><a onmouseleave="this.style.borderColor='#5a24b1'; this.style.backgroundColor='transparent'; this.style.color='#5a24b1'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#5a24b1; color:#5a24b1;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="/rdv" title="">Prenez rendez-vous</a></div> -->
-                                            <button data-ultimate-target='#modal-trg-txt-wrap-9545 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' style="background-color:#4beee9; color:#ffffff;" data-class-id="content-64f491c87e33b4-400000" class="btn-modal ult-responsive vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom overlay-show ult-align-left btn-id-64f491c87e33b4-51630579" data-overlay-class="overlay-zoomin">Prenez rendez-vous
-                                            </button>
+                                            <div class="vc_btn3-container vc_btn3-inline"><a onmouseleave="this.style.borderColor='#5a24b1'; this.style.backgroundColor='transparent'; this.style.color='#5a24b1'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#5a24b1; color:#5a24b1;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="/contact.html" title="">Prenez rendez-vous</a></div>
+                                            <!-- <button data-ultimate-target='#modal-trg-txt-wrap-9545 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' style="background-color:#4beee9; color:#ffffff;" data-class-id="content-64f491c87e33b4-400000" class="btn-modal ult-responsive vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom overlay-show ult-align-left btn-id-64f491c87e33b4-51630579" data-overlay-class="overlay-zoomin">Prenez rendez-vous
+                                            </button> -->
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="ult-overlay content-64f491c87e33b4-400000 " data-class="content-64f491c87e33b4-400000" id="button-click-overlay" style="background:rgba(23,22,29,0.98); display:none;">
+                        <!-- <div class="ult-overlay content-64f491c87e33b4-400000 " data-class="content-64f491c87e33b4-400000" id="button-click-overlay" style="background:rgba(23,22,29,0.98); display:none;">
                             <div class="ult_modal ult-fade ult-medium">
                                 <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
                                     <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
@@ -3674,7 +3825,7 @@
                             <div class="ult-overlay-close top-right" style="width:80px;height:80px; ">
                                 <div class="ult-overlay-close-inside"></div>
                             </div>
-                        </div>
+                        </div> -->
 
 
 
@@ -4045,7 +4196,7 @@
                                             {{-- <div data-filter="*" class="cbp-filter-item cbp-filter-item-active">TOUS</div> --}}
                                             /<div data-filter=".slider" class="cbp-filter-item">Certifications</div>
                                             /<div data-filter=".programm" class="cbp-filter-item">Programmes</div>
-                                            /<div data-filter=".mockup" class="cbp-filter-item">Terrains</div>
+                                            /<div data-filter=".terrain" class="cbp-filter-item">Terrains</div>
                                         </div>
                                         <div id="cbpw-grid130" class="cbp-l-grid-gallery cbp">
                                             <div>
@@ -4136,10 +4287,10 @@
                                                         </div>
                                                     </a>
                                                 </div>
-                                                <div class="cbp-item slider programm">
+                                                <div class="cbp-item programm">
                                                     <a href="/img/accueil/program1.jpg" class="cbp-caption cbp-singlePageInline" data-title="Challenge Express" data-cbp-selector="automatically">
                                                         <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="/img/accueil/program1.jpg" alt="">
+                                                            <img decoding="async" src="/img/accueil/program1.png" alt="">
                                                         </div>
                                                         <div class="cbp-caption-activeWrap">
                                                             <div class="cbp-l-caption-alignLeft">
@@ -4151,10 +4302,10 @@
                                                         </div>
                                                     </a>
                                                 </div>
-                                                <div class="cbp-item slider programm">
+                                                <div class="cbp-item programm">
                                                     <a href="/img/accueil/program2.jpg" class="cbp-caption cbp-singlePageInline" data-title="Challenge Progressif" data-cbp-selector="automatically">
                                                         <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="/img/accueil/program2.jpg" alt="">
+                                                            <img decoding="async" src="/img/accueil/program2.png" alt="">
                                                         </div>
                                                         <div class="cbp-caption-activeWrap">
                                                             <div class="cbp-l-caption-alignLeft">
@@ -4166,10 +4317,10 @@
                                                         </div>
                                                     </a>
                                                 </div>
-                                                <div class="cbp-item slider programm">
+                                                <div class="cbp-item programm">
                                                     <a href="/img/accueil/program3.jpg" class="cbp-caption cbp-singlePageInline" data-title="Challenge Stabilité" data-cbp-selector="automatically">
                                                         <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="/img/accueil/program3.jpg" alt="">
+                                                            <img decoding="async" src="/img/accueil/program3.png" alt="">
                                                         </div>
                                                         <div class="cbp-caption-activeWrap">
                                                             <div class="cbp-l-caption-alignLeft">
@@ -4181,10 +4332,10 @@
                                                         </div>
                                                     </a>
                                                 </div>
-                                                <div class="cbp-item slider programm">
+                                                <div class="cbp-item programm">
                                                     <a href="/img/accueil/program4.jpg" class="cbp-caption cbp-singlePageInline" data-title="Challenge Planifié" data-cbp-selector="automatically">
                                                         <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="/img/accueil/program4.jpg" alt="">
+                                                            <img decoding="async" src="/img/accueil/program4.png" alt="">
                                                         </div>
                                                         <div class="cbp-caption-activeWrap">
                                                             <div class="cbp-l-caption-alignLeft">
@@ -4196,10 +4347,10 @@
                                                         </div>
                                                     </a>
                                                 </div>
-                                                <div class="cbp-item slider programm">
+                                                <div class="cbp-item programm">
                                                     <a href="/img/accueil/program5.jpg" class="cbp-caption cbp-singlePageInline" data-title="Challenge Visionnaire" data-cbp-selector="automatically">
                                                         <div class="cbp-caption-defaultWrap">
-                                                            <img decoding="async" src="/img/accueil/program5.jpg" alt="">
+                                                            <img decoding="async" src="/img/accueil/program5.png" alt="">
                                                         </div>
                                                         <div class="cbp-caption-activeWrap">
                                                             <div class="cbp-l-caption-alignLeft">
@@ -4211,17 +4362,53 @@
                                                         </div>
                                                     </a>
                                                 </div>
+                                                <div class="cbp-item terrain">
+                                                    <a href="/img/accueil/terrain.png" class="cbp-caption cbp-singlePageInline" data-title="Achat Cash" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="/img/accueil/terrain.png" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Achat Cash</div>
+                                                                    <div class="cbp-l-caption-desc"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item terrain">
+                                                    <a href="/img/accueil/terrain2.png" class="cbp-caption cbp-singlePageInline" data-title="Achat par tempérament" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="/img/accueil/terrain2.png" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Achat par tempérament</div>
+                                                                    <div class="cbp-l-caption-desc"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class="cbp-item terrain">
+                                                    <a href="/img/accueil/terrain3.png" class="cbp-caption cbp-singlePageInline" data-title="Achat par crédit bancaire" data-cbp-selector="automatically">
+                                                        <div class="cbp-caption-defaultWrap">
+                                                            <img decoding="async" src="/img/accueil/terrain3.png" alt="">
+                                                        </div>
+                                                        <div class="cbp-caption-activeWrap">
+                                                            <div class="cbp-l-caption-alignLeft">
+                                                                <div class="cbp-l-caption-body">
+                                                                    <div class="cbp-l-caption-title">Achat par crédit bancaire</div>
+                                                                    <div class="cbp-l-caption-desc"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
                                             </div>
                                         </div>
-                                        {{-- <div id="cbpw-loadMore130" class="">
-                                            <div class="cbp-l-loadMore-button">
-                                                <a href="ajax/loadMore.html" class="cbp-l-loadMore-link">
-                                                    <span class="cbp-l-loadMore-defaultText">Load more</span>
-                                                    <span class="cbp-l-loadMore-loadingText">Loading...</span>
-                                                    <span class="cbp-l-loadMore-noMoreLoading">No more works</span>
-                                                </a>
-                                            </div>
-                                        </div> --}}
                                     </div>
                                     <script type="text/javascript">
                                         this.initCubePortfolio = this.initCubePortfolio || [];
@@ -4623,6 +4810,228 @@
             </div>
         </div>
     </div>
+
+    <div class="ult-overlay content-64f491c87e33b4-400800" data-class="content-64f491c87e33b4-400800" id="button-click-overlay" style="background:rgba(23,22,29,0.98); display:none;">
+        <div class="ult_modal ult-fade ult-medium">
+            <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
+                <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
+                    Formulaire Inscription maison certifiée
+                    <p></p>
+                    <div class="wpcf7 js" id="wpcf7-f831-o1" lang="en-US" dir="ltr">
+                        <div class="screen-reader-response">
+                            <p role="status" aria-live="polite" aria-atomic="true"></p>
+                            <ul></ul>
+                        </div>
+                        <form action="{{route('font.acquereurs.store')}}" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" id="form-register-modal">
+
+                            @csrf
+                            <div class="nyssa-multiple-fields">
+                                <div class="f-subject">
+                                    <p>Quel type de logement vous conviendrait ?</p>
+                                    <p>
+                                        <span class="wpcf7-form-control-wrap" data-name="menu-781">
+                                            <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="typelogement">
+                                                <option value="Un appartement">Un appartement</option>
+                                                <option value="Villa basse">Villa basse</option>
+                                                <option value="Villa duplex ">Villa duplex</option>
+                                                <option value="Villa triplex">Villa triplex</option>
+                                            </select>
+                                        </span>
+                                    </p>
+                                </div>
+                                <div class="f-email" style="display: flex;">
+                                    <p>
+                                        <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                        Nombre de chambres<input style="width: 30%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="nbr_chambre"> 
+                                        </span>
+                                    </p>
+                                    <p>
+                                        <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                        Nombre de salle de bain <input style="width: 30%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="nbr_salle">
+                                        </span>
+                                    </p>
+                                </div>
+                                <div class="f-name">
+                                    <p>SURFACES ANNEXES</p>
+                                    <div style="display: flex; flex-direction:column;">
+                                        <label class="new-check">
+                                            <input type="checkbox" name="type_surface" value="Balcon" />
+                                            <div></div>Balcon
+                                        </label>
+                                        <label class="new-check">
+                                            <input type="checkbox" name="type_surface" value="Terrasse" />
+                                            <div></div>Terrasse
+                                        </label>
+                                        <label class="new-check">
+                                            <input type="checkbox" name="type_surface" value="Garage" />
+                                            <div></div>Garage
+                                        </label>
+                                        <label class="new-check">
+                                            <input type="checkbox" name="type_surface" value="Jardin" />
+                                            <div></div>Jardin
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="f-email">
+                                    <p>SI VOUS CHOISISSEZ DANS UN IMMEUBLE DONNEZ-NOUS VOS CRITÈRES ÉTAGES</p>
+                                    <div style="display: flex; flex-direction:column;">
+                                        <label class="new-check">
+                                            <input type="checkbox" name="critere_immeuble" value="Dernier étage" />
+                                            <div></div>Dernier étage
+                                        </label>
+                                        <label class="new-check">
+                                            <input type="checkbox" name="critere_immeuble" value="Rez-de-chaussée" />
+                                            <div></div>Rez-de-chaussée
+                                        </label>
+                                        <label class="new-check">
+                                            <input type="checkbox" name="critere_immeuble" value="Éviter le rez-de-chaussée" />
+                                            <div></div>Éviter le rez-de-chaussée
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="f-name">
+                                    <p>VOS EXIGENCES PARTICULIÈRES POUR L’IMMEUBLE</p>
+                                    <div style="display: flex; flex-direction:column;">
+                                        <label class="new-check">
+                                            <input type="checkbox" name="exigence_immeuble" value="Interphone" />
+                                            <div></div>Interphone
+                                        </label>
+                                        <label class="new-check">
+                                            <input type="checkbox" name="exigence_immeuble" value="Gardien" />
+                                            <div></div>Gardien
+                                        </label>
+                                        <label class="new-check">
+                                            <input type="checkbox" name="exigence_immeuble" value="Ascenseur" />
+                                            <div></div>Ascenseur
+                                        </label>
+                                        <label class="new-check">
+                                            <input type="checkbox" name="exigence_immeuble" value="Piscine" />
+                                            <div></div>Piscine
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="f-service">
+                                    <p>Quand souhaitez vous l’acquérir ?
+                                    </p>
+                                    <p>
+                                        <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                            <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="moment_acquis" tabindex="-1" aria-hidden="true">
+                                                <option value="Maintenant">Maintenant</option>
+                                                <option value="Challenge Express (1an)">Challenge Express (1an)</option>
+                                                <option value="Challenge Stabilité (3ans)">Challenge Stabilité (3ans)</option>
+                                                <option value="Challenge Planifié (4ans)">Challenge Planifié (4ans)</option>
+                                                <option value="Challenge Visionnaire (5ans)">Challenge Visionnaire (5ans)</option>
+                                            </select>
+                                    </p>
+                                </div>
+                                <div class="f-subject">
+                                    <p>Vous preferez ?
+                                    </p>
+                                    <p>
+                                        <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                            <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="ma_preference" tabindex="-1" aria-hidden="true">
+                                                <option value="Un logement hors promotion immobilière">Un logement hors promotion immobilière</option>
+                                                <option value="Un logement dans une promotion immobilière">Un logement dans une promotion immobilière</option>
+                                            </select>
+                                    </p>
+                                </div>
+                                <div class="f-email">
+                                    <p>Surface habitable pour cette maison ?(m²)<span class="cforms-required"></span></p>
+                                    <p>
+                                        <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                            <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="number" min="0" name="surface_habitable">
+                                        </span>
+                                    </p>
+                                </div>
+                                <div class="f-name">
+                                    <p>Quelle commune aimeriez-vous habiter ?*<span class="cforms-required">*</span>
+                                    </p>
+                                    <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="commune"></span>
+                                    </p>
+                                </div>
+                                <div class="f-service">
+                                    <p>Vous êtes plutôt :
+                                    </p>
+                                    <p>
+                                        <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                            <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="type_construction" tabindex="-1" aria-hidden="true">
+                                                <option value="logement à construire">logement à construire</option>
+                                                <option value="logement prête à habiter">logement prête à habiter</option>
+                                                <option value="logement à renover">logement à renover</option>
+                                            </select>
+                                    </p>
+                                </div>
+                                <div class="f-name">
+                                    <p>Quel est votre budget pour le projet ?(FCFA)*<span class="cforms-required"></span></p>
+                                    <p>
+                                        <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                            <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="number" min="500000" name="budget">
+                                        </span>
+                                    </p>
+                                </div>
+                                <div class="f-email">
+                                    <p>Jusqu’à combien seriez-vous prêt à augmenter votre budget ?(FCFA)*<span class="cforms-required"></span></p>
+                                    <p>
+                                        <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                            <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="number" min="500000" name="autre_budget">
+                                        </span>
+                                    </p>
+                                </div>
+                                <div class="f-subject">
+                                    <p>Vous êtes ?
+                                    </p>
+                                    <p>
+                                        <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                            <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="type_emploi" tabindex="-1" aria-hidden="true">
+                                                <option value="Fonctionnaire">Fonctionnaire</option>
+                                                <option value="Salarié du privé">Salarié du privé</option>
+                                                <option value="Chef d’entreprise">Chef d’entreprise</option>
+                                                <option value="Travailleur indépendant">Travailleur indépendant</option>
+                                            </select>
+                                    </p>
+                                </div>
+                                <div class="f-service">
+                                    <p>Êtes-vous déjà propriétaire ?
+                                    </p>
+                                    <p>
+                                        <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                            <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="proprietaire" tabindex="-1" aria-hidden="true">
+                                                <option value="Non">Non</option>
+                                                <option value="Oui">Oui</option>
+                                            </select>
+                                    </p>
+                                </div>
+                                <div class="f-name">
+                                    <p>Votre nom et prénoms*<span class="cforms-required"></span></p>
+                                    <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="nom_prenom"></span>
+                                    </p>
+                                </div>
+                                <div class="f-email">
+                                    <p>Votre téléphone avec l'indicatif du pays*<span class="cforms-required"></span></p>
+                                    <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="telephone"></span>
+                                    </p>
+                                </div>
+                                <div class="f-name" style="left: 0;right: 0;width: 100%;">
+                                    <p>Votre e-mail valide*<span class="cforms-required"></span>
+                                    </p>
+                                    <p><span class="wpcf7-form-control-wrap" data-name="your-email"><input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="email"></span>
+                                    </p>
+                                </div>
+                                <div class="bt-contact center">
+                                    <p id="btnsender">
+                                        <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Envoyez ma demande"><span class="wpcf7-spinner"></span></a>
+                                    </p>
+                                    <div class="wpcf7-response-output" aria-hidden="true"></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="ult-overlay-close top-right" style="width:80px;height:80px; ">
+            <div class="ult-overlay-close-inside" style="background-color: #000;"></div>
+        </div>
+    </div>
+
     <!-- END OF MAIN -->
     <!--<div id="back-top">-->
     <!--    <a href="#home">-->
@@ -4921,12 +5330,144 @@
             counter += 1;
             if (counter == 6) clearInterval(curTimer);
         }, 2000);
-        $(document).ready(function(){
+        $(document).ready(function() {
 
-            // setTimeout(() => {
-            //     $("#cbpw-filters130 > div:nth-child(2)").click();
-            //     console.log("THE MOVIE ADD")
-            // }, 4000);
+            setTimeout(() => {
+                $("#cbpw-filters130 > div:nth-child(1)").click();
+                console.log("THE MOVIE ADD")
+            }, 4000);
+        })
+        $("#cbpw-grid130 > div > div.cbp-item:nth-child(1)").on("click", function(e) {
+            $.get("{{config("
+                app.url ")}}/pagetiers/certif1.html",
+                function(data) {
+                    console.log(data);
+                    setTimeout(() => {
+                        $("div.cbp-popup-singlePageInline.cbp-popup-singlePageInline-ready > div.cbp-popup-content").html(data);
+                    }, 1500);
+                });
+        })
+        $("#cbpw-grid130 > div > div.cbp-item:nth-child(2)").on("click", function(e) {
+            $.get("{{config("
+                app.url ")}}/pagetiers/certif2.html",
+                function(data) {
+                    console.log(data);
+                    setTimeout(() => {
+                        $("div.cbp-popup-singlePageInline.cbp-popup-singlePageInline-ready > div.cbp-popup-content").html(data);
+                    }, 1500);
+                });
+        })
+        $("#cbpw-grid130 > div > div.cbp-item:nth-child(3)").on("click", function(e) {
+            $.get("{{config("
+                app.url ")}}/pagetiers/certif3.html",
+                function(data) {
+                    console.log(data);
+                    setTimeout(() => {
+                        $("div.cbp-popup-singlePageInline.cbp-popup-singlePageInline-ready > div.cbp-popup-content").html(data);
+                    }, 1500);
+                });
+        })
+        $("#cbpw-grid130 > div > div.cbp-item:nth-child(4)").on("click", function(e) {
+            $.get("{{config("
+                app.url ")}}/pagetiers/certif4.html",
+                function(data) {
+                    console.log(data);
+                    setTimeout(() => {
+                        $("div.cbp-popup-singlePageInline.cbp-popup-singlePageInline-ready > div.cbp-popup-content").html(data);
+                    }, 1500);
+                });
+        })
+        $("#cbpw-grid130 > div > div.cbp-item:nth-child(5)").on("click", function(e) {
+            $.get("{{config("
+                app.url ")}}/pagetiers/certif5.html",
+                function(data) {
+                    console.log(data);
+                    setTimeout(() => {
+                        $("div.cbp-popup-singlePageInline.cbp-popup-singlePageInline-ready > div.cbp-popup-content").html(data);
+                    }, 1500);
+                });
+        })
+        $("#cbpw-grid130 > div > div.cbp-item:nth-child(6)").on("click", function(e) {
+            $.get("{{config("
+                app.url ")}}/pagetiers/certif6.html",
+                function(data) {
+                    console.log(data);
+                    setTimeout(() => {
+                        $("div.cbp-popup-singlePageInline.cbp-popup-singlePageInline-ready > div.cbp-popup-content").html(data);
+                    }, 1500);
+                });
+        })
+        $("#cbpw-grid130 > div > div.cbp-item:nth-child(7)").on("click", function(e) {
+            console.log("THET DATA GRID")
+            $.get("/pagetiers/promot1.html", function(data) {
+                console.log(data);
+                setTimeout(() => {
+                    $("div.cbp-popup-singlePageInline.cbp-popup-singlePageInline-ready > div.cbp-popup-content").html(data);
+                }, 1500);
+            });
+        })
+        $("#cbpw-grid130 > div > div.cbp-item:nth-child(8)").on("click", function(e) {
+            console.log("THET DATA GRID")
+            $.get("/pagetiers/promot2.html", function(data) {
+                console.log(data);
+                setTimeout(() => {
+                    $("div.cbp-popup-singlePageInline.cbp-popup-singlePageInline-ready > div.cbp-popup-content").html(data);
+                }, 1500);
+            });
+        })
+        $("#cbpw-grid130 > div > div.cbp-item:nth-child(9)").on("click", function(e) {
+            console.log("THET DATA GRID")
+            $.get("/pagetiers/promot3.html", function(data) {
+                console.log(data);
+                setTimeout(() => {
+                    $("div.cbp-popup-singlePageInline.cbp-popup-singlePageInline-ready > div.cbp-popup-content").html(data);
+                }, 1500);
+            });
+        })
+        $("#cbpw-grid130 > div > div.cbp-item:nth-child(10)").on("click", function(e) {
+            console.log("THET DATA GRID")
+            $.get("/pagetiers/promot4.html", function(data) {
+                console.log(data);
+                setTimeout(() => {
+                    $("div.cbp-popup-singlePageInline.cbp-popup-singlePageInline-ready > div.cbp-popup-content").html(data);
+                }, 1500);
+            });
+        })
+        $("#cbpw-grid130 > div > div.cbp-item:nth-child(11)").on("click", function(e) {
+            console.log("THET DATA GRID")
+            $.get("/pagetiers/promot5.html", function(data) {
+                console.log(data);
+                setTimeout(() => {
+                    $("div.cbp-popup-singlePageInline.cbp-popup-singlePageInline-ready > div.cbp-popup-content").html(data);
+                }, 1500);
+            });
+        })
+        $("#cbpw-grid130 > div > div.cbp-item:nth-child(12)").on("click", function(e) {
+            console.log("THET DATA GRID")
+            $.get("/pagetiers/terrain1.html", function(data) {
+                console.log(data);
+                setTimeout(() => {
+                    $("div.cbp-popup-singlePageInline.cbp-popup-singlePageInline-ready > div.cbp-popup-content").html(data);
+                }, 1500);
+            });
+        })
+        $("#cbpw-grid130 > div > div.cbp-item:nth-child(13)").on("click", function(e) {
+            console.log("THET DATA GRID")
+            $.get("/pagetiers/terrain2.html", function(data) {
+                console.log(data);
+                setTimeout(() => {
+                    $("div.cbp-popup-singlePageInline.cbp-popup-singlePageInline-ready > div.cbp-popup-content").html(data);
+                }, 1500);
+            });
+        })
+        $("#cbpw-grid130 > div > div.cbp-item:nth-child(14)").on("click", function(e) {
+            console.log("THET DATA GRID")
+            $.get("/pagetiers/terrain3.html", function(data) {
+                console.log(data);
+                setTimeout(() => {
+                    $("div.cbp-popup-singlePageInline.cbp-popup-singlePageInline-ready > div.cbp-popup-content").html(data);
+                }, 1500);
+            });
         })
     </script>
 </body>
