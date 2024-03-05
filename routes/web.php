@@ -40,8 +40,8 @@ Route::get('/notavailable', function(){
     return view("frontend.404");
 });
 Route::get('/', function(){
-    return view("frontend.index2");
-    //return view("frontend.index");
+    //return view("frontend.index2");
+    return view("frontend.index");
 });
 // Route::get('/index2.html', function(){
 // });
