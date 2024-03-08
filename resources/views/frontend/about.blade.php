@@ -3283,8 +3283,8 @@
                                                 <div class="vc_empty_space" style="height: 100px">
                                                     <span class="vc_empty_space_inner"></span>
                                                 </div>
-                                                <h5 style="color: rgba(255,255,255,0.91);text-align: left" class="vc_custom_heading heading_border vc_custom_1677784456103">INSCRIVEZ-VOUS</h5>
-                                                <h1 style="color: #ffffff;text-align: left;width: 100%;font-size: 44px;" class="vc_custom_heading">Exceptionnellement <span class="break"><br></span> Adapté à<span class="break"><br></span> Vos relatié.</h1>
+                                                <h5 style="color: #4beee9;text-align: left" class="vc_custom_heading heading_border vc_custom_1677784456103">INSCRIVEZ-VOUS</h5>
+                                                <h1 style="color:#ffffff;border:none; font-family:'Inter';font-weight:800;" class="vc_custom_heading">Exceptionnellement <span class="break"><br></span> Adapté à vos<span class="break"><br></span>Réalités.</h1>
                                                 <div class="vc_empty_space" style="height: 40px">
                                                     <span class="vc_empty_space_inner"></span>
                                                 </div>
@@ -3306,7 +3306,7 @@
                             </div>
                         </div>
                         <!-- Row Backgrounds -->
-                        <div class="upb_bg_img" data-ultimate-bg="url('/img/import/I-Challenge Pro.jpg')" data-image-id="id^1900|url^/img/import/I-Challenge Pro.jpg|caption^null|alt^null|title^s-o-c-i-a-l-c-u-t-1RT4txDDAbM-unsplash|description^null"
+                        <div class="upb_bg_img" data-ultimate-bg="url('/img/about/bg_big_image.jpg')" data-image-id="id^1900|url^/img/about/bg_big_image.jpg|caption^null|alt^null|title^s-o-c-i-a-l-c-u-t-1RT4txDDAbM-unsplash|description^null"
                             data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="ex-full" data-bg_img_attach="scroll" data-upb-overlay-color="rgba(28,12,61,0.5)"
                             data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true"
                             data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="rgba(28,12,61,0.5)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8"
@@ -3471,7 +3471,7 @@
                                                 <div class="wpb_text_column wpb_content_element  make-p-small">
                                                     <div class="wpb_wrapper">
                                                         <h3 style="text-align: left;">
-                                                            <span style="color: #ffffff;">Terrain certifie.</span>
+                                                            <span style="color: #1c0c3d;">Terrain certifié.</span>
                                                         </h3>
                                                         <h6 style="text-align: left;">
                                                             <span style="color: #ba2946;"></span>
@@ -3484,7 +3484,7 @@
                                                 <div class="wpb_text_column wpb_content_element  make-p-small">
                                                     <div class="wpb_wrapper">
                                                         <p>
-                                                            <span style="color: #ffffff;">Tous nos terrains sont soumis à des procédures de certification rigoureuses, garantissant ainsi une qualité exceptionnelle et une authenticité incontestable. Inscrivez-vous et dites-nous ce dont vous avez besoin.</span>
+                                                            <span style="color: #1c0c3d;">Tous nos terrains sont soumis à des procédures de certification rigoureuses, garantissant ainsi une qualité exceptionnelle et une authenticité incontestable. Inscrivez-vous et dites-nous ce dont vous avez besoin.</span>
                                                         </p>
                                                     </div>
                                                 </div>
@@ -3492,7 +3492,7 @@
                                                     <span class="vc_empty_space_inner"></span>
                                                 </div>
                                                 <div class="vc_btn3-container vc_btn3-inline">
-                                                    <a onmouseleave="this.style.borderColor='#ffffff'; this.style.backgroundColor='transparent'; this.style.color='#ffffff'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#ffffff; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="#form-terrain" title="Inscrivez-vous pour un terrain">Inscrivez-vous</a>
+                                                    <a onmouseleave="this.style.borderColor='#1c0c3d'; this.style.backgroundColor='transparent'; this.style.color='#1c0c3d'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#1c0c3d; color:#1c0c3d;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="#form-terrain" title="Inscrivez-vous pour un terrain">Inscrivez-vous</a>
                                                 </div>
                                                 <div class="vc_empty_space" style="height: 20px">
                                                     <span class="vc_empty_space_inner"></span>
@@ -4023,7 +4023,7 @@
                             <div class="form">
                                 <!-- Begin Mailchimp Signup Form -->
                                 <div id="mc_embed_signup">
-                                    <form action="{{ route('font.contacts.store') }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
+                                    <form action="\{\{ route('font.contacts.store') \}\}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
                                         @csrf
                                         <!-- @method("PUT") -->
                                         <div id="mc_embed_signup_scroll">
@@ -4032,8 +4032,8 @@
                                             </div>
                                             <div class="mc-field-group">
                                                 <label for="mce-EMAIL">
-                                                        L'email <span class="asterisk">*</span>
-                                                    </label>
+                                                    L'email <span class="asterisk">*</span>
+                                                </label>
                                                 <input type="email" value="" name="email" class="required email" id="mce-EMAIL" required>
                                                 <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
                                             </div>
@@ -4077,11 +4077,10 @@
                                                     <lord-icon src="https://cdn.treethemes.com/animations/icons/53-location-pin-on-round-map-outline-edited.json" trigger="hover" lalign="center" style="height: 90px; width: 90px" class="lizr_icon lizr_vc_d7n1iprG6t" colors="primary:#f9f3ff,secondary:#4beee9,"></lord-icon>
                                                 </div>
                                                 <div class="ult-content-box-container ">
-                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;"
-                                                        data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
+                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
-                                                                <p style="text-align: center;">Abidjan, Cocody riviera, Carrefour Tonton Bouba face au collège Akanji</p>
+                                                                <p style="text-align: center;">Abidjan-Cocody Riviera face collège Akanji</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -4104,14 +4103,13 @@
                                                     <lord-icon src="https://cdn.treethemes.com/animations/icons/145-envelope-mail-notification-open-morph-outline-edited.json" trigger="hover" lalign="center" style="height: 90px; width: 90px" class="lizr_icon lizr_vc_Mh1OTyBieF" colors="primary:#f9f3ff,secondary:#4beee9,"></lord-icon>
                                                 </div>
                                                 <div class="ult-content-box-container ">
-                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;"
-                                                        data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
+                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">
-                                                                    <a href="mailto:challenge-toit@heyz.ci">challenge-toit@heyz.ci</a>
-                                                                    <br/>
-                                                                    <a href="mailto:challenge-toit@heyz.ci">info-challenge-toit@heyz.ci</a>
+                                                                    <a href="mailto:info@challenge-toit.com">info@challenge-toit.com</a>
+                                                                    <br />
+                                                                    <a href="mailto:office@challenge-toit.com">office@challenge-toit.com</a>
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -4135,12 +4133,12 @@
                                                     <lord-icon src="https://cdn.treethemes.com/animations/icons/140-earphone-telephone-outline-edited.json" trigger="hover" lalign="center" style="height: 90px; width: 90px" class="lizr_icon lizr_vc_I41aJwYo30" colors="primary:#f9f3ff,secondary:#4beee9,"></lord-icon>
                                                 </div>
                                                 <div class="ult-content-box-container ">
-                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;"
-                                                        data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
+                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">
-                                                                    (+225) 0779796440<br/>&nbsp;
+                                                                    (+225) 2722245432<br />&nbsp;
+                                                                    (+225) 0705055059
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -4157,7 +4155,7 @@
             </div>
             <div id="secondary_footer">
                 <div class="container ">
-                    <a class="footer_logo align-center" href="https://preview.treethemes.com/nyssa/demo1/" tabindex="-1">
+                    <a class="footer_logo align-center" href="/#" tabindex="-1">
                         <img class="footer_logo_normal notalone" src="/img/import/Footer.png" alt="" title="">
                         <img class="footer_logo_retina" src="/img/import/Footer.png" alt="" title="">
                     </a>
@@ -4346,7 +4344,8 @@
             }
             
             .vc_custom_1671116191468 {
-                background-color: #4beee9 !important;
+                background-color: #eca2af !important;
+                color: #000;
             }
             
             .vc_custom_1675874814017 {

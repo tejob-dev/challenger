@@ -41,10 +41,11 @@ Route::get('/notavailable', function(){
 });
 Route::get('/', function(){
     //return view("frontend.index2");
-    return view("frontend.index");
+    return view("frontend.index2");
+    // return view("frontend.index");
 });
-// Route::get('/index2.html', function(){
-// });
+Route::get('/index2.html', function(){
+});
 Route::get('/index.html', function(){
     return view("frontend.index");
 });

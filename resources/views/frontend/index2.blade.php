@@ -2501,7 +2501,7 @@
             display: none !important;
         }
 
-        #form-register-modal>div.nyssa-multiple-fields span.select2.select2-container {
+        #form-register-modal>div.nyssa-form-simple-wide span.select2.select2-container {
             display: none !important;
         }
 
@@ -2518,6 +2518,7 @@
     <link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=9.1.5' type='text/css' media='all' />
     <!-- <link rel='stylesheet' href='/stylea.css' type='text/css' /> -->
     <link rel='stylesheet' href='/checkcss.css' type='text/css' />
+    <link rel='stylesheet' href='/formstyle.css' type='text/css' />
 
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -3363,7 +3364,9 @@
                                                                 <!--
 
 										-->
-                                                                <a id="slider-18-slide-52-layer-16" class="rs-layer rev-btn" href="/contact" target="_blank" rel="noopener" data-type="button" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:18,16,16,16;l:60,50,50,50;fw:600;" data-dim="minh:0px,none,none,none;" data-disp="inline-block" data-margin="t:0,0,0,10;" data-padding="r:50,40,30,30;l:50,40,30,30;" data-border="bor:5px,5px,5px,5px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" data-frame_hover="c:#fff;bgc:rgba(0,0,0,0.35);bor:5px,5px,5px,5px;" style="z-index:6;background-color:#f94a82;font-family:'Montserrat';display:inline-block;">Parlons-en
+                                                                <a id="slider-18-slide-52-layer-16" class="rs-layer rev-btn" href="#" target="_blank" rel="noopener" data-type="button" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:18,16,16,16;l:60,50,50,50;fw:600;" data-dim="minh:0px,none,none,none;" data-disp="inline-block" data-margin="t:0,0,0,10;" data-padding="r:50,40,30,30;l:50,40,30,30;" data-border="bor:5px,5px,5px,5px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" data-frame_hover="c:#fff;bgc:rgba(0,0,0,0.35);bor:5px,5px,5px,5px;"
+                                                                 data-ultimate-target='#modal-trg-txt-wrap-1900 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' data-class-id="content-64f491c87e33b4-401900" data-overlay-class="overlay-zoomin"
+                                                                 style="z-index:6;background-color:#f94a82;font-family:'Montserrat';display:inline-block;">Parlons-en
                                                                 </a>
                                                                 <!--
 									-->
@@ -3479,7 +3482,7 @@
                                                             </div>
                                                             <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
                                                             <!-- <div class="vc_btn3-container vc_btn3-inline"><a style="background-color:#f3889e; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom" href="/contact" title="">Rejoins-nous</a></div> -->
-                                                            <button data-ultimate-target='#modal-trg-txt-wrap-8000 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' style="background-color:#f3889e; color:#ffffff;" data-class-id="content-64f491c87e33b4-400800" class="btn-modal ult-responsive vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom overlay-show ult-align-left btn-id-64f491c87e33b4-51630579" data-overlay-class="overlay-zoomin">Rejoins-nous
+                                                            <button data-ultimate-target='#modal-trg-txt-wrap-8000 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' style="background-color:#003279; color:#ffffff;" data-class-id="content-64f491c87e33b4-400800" class="btn-modal ult-responsive vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom overlay-show ult-align-left btn-id-64f491c87e33b4-51630579" data-overlay-class="overlay-zoomin">Rejoins-nous
                                                             </button>
                                                         </div>
                                                     </div>
@@ -3549,7 +3552,7 @@
                                     <div class="wpb_single_image wpb_content_element vc_align_left">
 
                                         <figure class="wpb_wrapper vc_figure">
-                                            <div class="vc_single_image-wrapper   vc_box_border_grey"><img decoding="async" width="1633" height="1750" src="/img/accueil/accueil_bloc2.png" class="vc_single_image-img attachment-full" alt="" title="Site bloc2" /></div>
+                                            <div class="vc_single_image-wrapper   vc_box_border_grey"><img decoding="async" width="1633" height="1750" src="/img/accueil/bg_terrain_certif.jpg" class="vc_single_image-img attachment-full" alt="" title="Site bloc2" /></div>
                                         </figure>
                                     </div>
                                 </div>
@@ -3562,8 +3565,11 @@
                         <div class="ult_modal ult-fade ult-medium">
                             <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
                                 <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
-                                    FORMULAIRE INSCRIPTION TERRAIN
-                                    <p>En complétant ce formulaire, vous profiterez, lors de transactions, d'un acte d'achat notarié, de documentation authentifiée et certifiée, conforme aux normes et réglementations (restriction d’utilisation du terrain, Conformité aux règlements locaux-Quartier), et vous recevrez en tant que titre un CMPF (certificat de mutation de propriété foncière). <br>Historique du terrain <br></p>
+                                    <!-- <h4 style="text-transform: uppercase;">FORMULAIRE INSCRIPTION TERRAIN</h4>
+                                    <p>En complétant ce formulaire, vous profiterez, lors de transactions, d'un acte d'achat notarié, de documentation authentifiée et certifiée, conforme aux normes et réglementations (restriction d’utilisation du terrain, Conformité aux règlements locaux-Quartier), et vous recevrez en tant que titre un CMPF (certificat de mutation de propriété foncière). <br>Historique du terrain <br></p> -->
+                                    <p>
+                                        <img src="/img/accueil/achete_terrain_form.png" style="width: auto;height: auto;scale: 1.1;" alt="">
+                                    </p>
                                     <div class="wpcf7 js" id="wpcf7-f831-o1" lang="en-US" dir="ltr">
                                         <div class="screen-reader-response">
                                             <p role="status" aria-live="polite" aria-atomic="true"></p>
@@ -3572,7 +3578,7 @@
                                         <form action="{{route('font.acquereurs.store')}}" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" id="form-register-modal">
 
                                             @csrf
-                                            <div class="nyssa-multiple-fields">
+                                            <div class="nyssa-form-simple-wide">
                                                 <div class="f-subject">
                                                     <p>Objectif de l'achat :</p>
                                                     <p>
@@ -3602,7 +3608,7 @@
                                                     </p>
                                                 </div>
                                                 <div class="f-name">
-                                                    <p>La commune où vous aimeriez posséder le terrain ?<span class="cforms-required">*</span>
+                                                    <p>Dans quelle commune aimeriez-vous posséder le terrain ?<span class="cforms-required"></span>
                                                     </p>
                                                     <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="commune"></span>
                                                     </p>
@@ -3648,7 +3654,7 @@
                                                     </p>
                                                 </div>
                                                 <div class="f-name">
-                                                    <p>Accès aux services publics</p>
+                                                    <p>Donnez-nous l’intervalle de budget pour l'achat de ce terrain ?<span class="cforms-required">*</span></p>
                                                     <div style="display: flex;">
                                                         <p>
                                                             <span class="wpcf7-form-control-wrap" data-name="your-email">
@@ -3680,7 +3686,7 @@
                                                     </p>
                                                 </div>
                                                 <div class="f-subject">
-                                                    <p>Vous êtes ?*</p>
+                                                    <p>Vous êtes ?<span class="cforms-required"></span></p>
                                                     <p>
                                                         <span class="wpcf7-form-control-wrap" data-name="menu-781">
                                                             <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="votre_poste">
@@ -3695,7 +3701,7 @@
                                                     </p>
                                                 </div>
                                                 <div class="f-email">
-                                                    <p>Votre nom et prénoms*<span class="cforms-required"></span></p>
+                                                    <p>Votre nom et prénoms<span class="cforms-required">*</span></p>
                                                     <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="nom_prenom"></span>
                                                     </p>
                                                 </div>
@@ -3715,7 +3721,7 @@
                                                     </p>
                                                     <p>
                                                         <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
-                                                            <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="partic_group" tabindex="-1" aria-hidden="true">
+                                                            <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="partic_group" tabindex="-1" aria-hidden="true">
                                                                 <option value="Particulier">Particulier</option>
                                                                 <option value="Groupement">Groupement</option>
                                                             </select>
@@ -3726,6 +3732,7 @@
                                                 <p>
                                                     En cliquant sur le bouton ci-dessous, je reconnais avoir pris connaissance et accepter sans réserves les Mentions légales et Conditions Générales d’Utilisation du site.
                                                 </p>
+                                                <br>
                                                 <div style="display: flex; flex-direction:column;">
                                                     <label class="" style="text-align: center;">
                                                         <input type="checkbox" name="active_news" value="Je souhaite recevoir l’actualité du marché ainsi que les offres de Challenge-toit." />
@@ -3735,7 +3742,7 @@
                                             </div>
                                             <div class="bt-contact center">
                                                 <p id="btnsender">
-                                                    <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Envoyez"><span class="wpcf7-spinner"></span></a>
+                                                    <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Envoyer"><span class="wpcf7-spinner"></span></a>
                                                 </p>
                                             </div>
                                             <div class="wpcf7-response-output" aria-hidden="true"></div>
@@ -3886,7 +3893,7 @@
                                             <div class="info-c-full-br" style='border:1px solid rgba(28,12,61,0.15);width:150%;opacity:0;' data-start-degree="90" data-divert="" data-info-circle-angle="full" data-responsive-circle="on" data-responsive-breakpoint="600" data-launch="linear" data-launch-duration="1" data-launch-delay="0.2" data-slide-true="off" data-slide-duration="3" data-icon-size="30" data-icon-show="not-show" data-icon-show-size="" data-highlight-style="info-circle-highlight-style" data-focus-on="hover">
                                                 <div class="icon-circle-list">
                                                     <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);">
-                                                        <i class="linearicons-color-sampler info-circle-icon"></i>
+                                                        <img style="width: 40px;height: 40px;margin: 16% auto;display: block;" src="/img/accueil/icones/PRET-ADAPTE.png" alt="icone" srcset="">
                                                     </div>
                                                     <div class="info-details" data-icon-class="ult-info-circle-icon">
                                                         <div class="info-circle-def">
@@ -3900,7 +3907,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);">
-                                                        <i class="linearicons-laptop-phone info-circle-icon"></i>
+                                                        <img style="width: 40px;height: 40px;margin: 16% auto;display: block;" src="/img/accueil/icones/FINACEMENTS-FLEXIBLES.png" alt="icone" srcset="">
                                                     </div>
                                                     <div class="info-details" data-icon-class="ult-info-circle-icon">
                                                         <div class="info-circle-def">
@@ -3913,7 +3920,9 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);"><i class="linearicons-code info-circle-icon"></i></div>
+                                                    <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);">
+                                                        <img style="width: 40px;height: 40px;margin: 16% auto;display: block;" src="/img/accueil/icones/COMPTE-SEQUESTRE.png" alt="icone" srcset="">
+                                                    </div>
                                                     <div class="info-details" data-icon-class="ult-info-circle-icon">
                                                         <div class="info-circle-def">
                                                             <div class="info-circle-sub-def"><i class="linearicons-code info-circle-icon"></i>
@@ -3924,7 +3933,9 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);"><i class="linearicons-cube info-circle-icon"></i></div>
+                                                    <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);">
+                                                        <img style="width: 40px;height: 40px;margin: 16% auto;display: block;" src="/img/accueil/icones/GARANTIE-REMBOURSEMENT.png" alt="icone" srcset="">
+                                                    </div>
                                                     <div class="info-details" data-icon-class="ult-info-circle-icon">
                                                         <div class="info-circle-def">
                                                             <div class="info-circle-sub-def"><i class="linearicons-cube info-circle-icon"></i>
@@ -3935,7 +3946,9 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);"><i class="linearicons-fire info-circle-icon"></i></div>
+                                                    <div class="info-circle-icons " style="background:#1c0c40;color:#ffffff;border-style:solid;border-width:1px;border-color:rgba(255,255,255,0.2);">
+                                                        <img style="width: 40px;height: 40px;margin: 16% auto;display: block;" src="/img/accueil/icones/DELAI-DE-LIVRAISON.png" alt="icone" srcset="">
+                                                    </div>
                                                     <div class="info-details" data-icon-class="ult-info-circle-icon">
                                                         <div class="info-circle-def">
                                                             <div class="info-circle-sub-def"><i class="linearicons-fire info-circle-icon"></i>
@@ -4541,7 +4554,7 @@
                             <div class="vc_column-inner">
                                 <div class="wpb_wrapper">
                                     <div class="ult-spacer spacer-65a535b84582e" data-id="65a535b84582e" data-height="120" data-height-mobile="50" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="50" style="clear:both;display:block;"></div>
-                                    <h3 style="text-align: center" class="vc_custom_heading">Decouvrez Hallo Challenge</h3>
+                                    <h3 style="text-align: center" class="vc_custom_heading">Découvrez Allo Challenge-toit</h3>
                                     <div class="vc_empty_space" style="height: 20px">
                                         <span class="vc_empty_space_inner"></span>
                                     </div>
@@ -4669,7 +4682,7 @@
             <div class="ult_modal ult-fade ult-medium">
                 <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
                     <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
-                        J’ACHETE MAINTENANT
+                        <h4 style="text-transform: uppercase;">J’ACHETE MAINTENANT</h4>
                         <p>Recevez les réponses correspondantes à vos critères pour achat immédiat.</p>
                         <div class="wpcf7 js" id="wpcf7-f831-o1" lang="en-US" dir="ltr">
                             <div class="screen-reader-response">
@@ -4679,19 +4692,19 @@
                             <form action="{{route('font.acquereurs.store')}}" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" id="form-register-modal">
 
                                 @csrf
-                                <div class="nyssa-multiple-fields">
+                                <div class="nyssa-form-simple-wide">
                                     <div class="f-name">
-                                        <p>Votre nom et prénoms*<span class="cforms-required"></span></p>
+                                        <p>Votre nom et prénoms<span class="cforms-required">*</span></p>
                                         <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="nom_prenom"></span>
                                         </p>
                                     </div>
                                     <div class="f-email">
-                                        <p>Votre téléphone<span class="cforms-required">*</span></p>
+                                        <p>Votre contact<span class="cforms-required">*</span></p>
                                         <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="telephone"></span>
                                         </p>
                                     </div>
                                     <div class="f-name">
-                                        <p>Votre e-mail*<span class="cforms-required">*</span>
+                                        <p>Votre e-mail<span class="cforms-required">*</span>
                                         </p>
                                         <p><span class="wpcf7-form-control-wrap" data-name="your-email"><input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="email"></span>
                                         </p>
@@ -4858,6 +4871,7 @@
                                     <p>
                                         En cliquant sur le bouton ci-dessous, je reconnais avoir pris connaissance et accepter sans réserves les Mentions légales et Conditions Générales d’Utilisation du site.
                                     </p>
+                                    <br>
                                     <div style="display: flex; flex-direction:column;">
                                         <label class="" style="text-align: center;">
                                             <input type="checkbox" name="active_news" value="Je souhaite recevoir l’actualité du marché ainsi que les offres de Challenge-toit." />
@@ -4867,10 +4881,325 @@
                                 </div>
                                 <div class="bt-contact center">
                                     <p id="btnsender">
-                                        <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Envoyez"><span class="wpcf7-spinner"></span></a>
+                                        <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Envoyer"><span class="wpcf7-spinner"></span></a>
                                     </p>
                                 </div>
                                 <div class="wpcf7-response-output" aria-hidden="true"></div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="ult-overlay-close top-right" style="width:80px;height:80px; ">
+                <div class="ult-overlay-close-inside" style="background-color: #000;"></div>
+            </div>
+        </div>
+
+        <div class="ult-overlay content-64f491c87e33b4-401900" data-class="content-64f491c87e33b4-401900" id="button-click-overlay" style="background:rgba(23,22,29,0.98); display:none;">
+            <div class="ult_modal ult-fade ult-medium">
+                <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
+                    <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
+                        <h4 style="text-transform: uppercase;">FORMULAIRE CERTIFICATION</h4>
+                        <!-- <p>Recevez les réponses correspondantes à vos critères pour achat immédiat.</p> -->
+                        <div class="wpcf7 js" id="wpcf7-f831-o1" lang="en-US" dir="ltr">
+                            <div class="screen-reader-response">
+                                <p role="status" aria-live="polite" aria-atomic="true"></p>
+                                <ul></ul>
+                            </div>
+                            <form action="{{route('font.acquereurs.store')}}" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" id="form-register-modal">
+
+                                @csrf
+                                <div class="nyssa-form-simple-wide">
+                                    <div class="f-name">
+                                        <p>Votre nom et prénoms<span class="cforms-required">*</span></p>
+                                        <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="nom_prenom"></span>
+                                        </p>
+                                    </div>
+                                    <div class="f-email">
+                                        <p>Votre adresse<span class="cforms-required">*</span></p>
+                                        <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="adresse"></span>
+                                        </p>
+                                    </div>
+                                    <div class="f-name">
+                                        <p>Votre e-mail<span class="cforms-required">*</span>
+                                        </p>
+                                        <p><span class="wpcf7-form-control-wrap" data-name="your-email"><input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="email"></span>
+                                        </p>
+                                    </div>
+                                    <div class="f-name">
+                                        <p>Votre contact<span class="cforms-required">*</span>
+                                        </p>
+                                        <p><span class="wpcf7-form-control-wrap" data-name="your-email"><input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="contact"></span>
+                                        </p>
+                                    </div>
+                                    <div class="f-subject">
+                                        <p>Type de bien :</p>
+                                        <p>
+                                            <span class="wpcf7-form-control-wrap" data-name="menu-781">
+                                                <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="typebien">
+                                                    <option value="Maison">Maison</option>
+                                                    <option value="Terrain">Terrain</option>
+                                                </select>
+                                            </span>
+                                        </p>
+                                    </div>
+                                    <div class="f-email">
+                                        <p>Quel type de certification recherchez-vous ? (cocher multiple choix)</p>
+                                        <br>
+                                        <div style="display: grid;grid-template-columns: 1fr 1fr 1fr;">
+                                            <label class="new-check">
+                                                <input type="checkbox" name="type_certif[]" value="Certification administrative" />
+                                                <div></div>Certification administrative
+                                            </label>
+                                            <label class="new-check">
+                                                <input type="checkbox" name="type_certif[]" value="Certification juridique" />
+                                                <div></div>Certification juridique
+                                            </label>
+                                            <label class="new-check">
+                                                <input type="checkbox" name="type_certif[]" value="Certification technique" />
+                                                <div></div>Certification technique
+                                            </label>
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                                <div class="bt-contact center">
+                                    <p id="btnsender">
+                                        <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Valider"><span class="wpcf7-spinner"></span></a>
+                                    </p>
+                                </div>
+                                <div class="wpcf7-response-output" aria-hidden="true"></div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="ult-overlay-close top-right" style="width:80px;height:80px; ">
+                <div class="ult-overlay-close-inside" style="background-color: #000;"></div>
+            </div>
+        </div>
+
+        
+
+        <div class="ult-overlay content-64f491c87e33b4-400800" data-class="content-64f491c87e33b4-400800" id="button-click-overlay" style="background:rgba(23,22,29,0.98); display:none;">
+            <div class="ult_modal ult-fade ult-medium">
+                <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
+                    <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
+                        <!-- <h4 style="text-transform: uppercase;">Formulaire Inscription maison certifiée</h4>
+                        <br> -->
+                        <p>
+                            <img src="/img/accueil/maison_certif_form.png" style="width: auto;height: auto;scale: 1.1;" alt="">
+                        </p>
+                        <div class="wpcf7 js" id="wpcf7-f831-o1" lang="en-US" dir="ltr">
+                            <div class="screen-reader-response">
+                                <p role="status" aria-live="polite" aria-atomic="true"></p>
+                                <ul></ul>
+                            </div>
+                            <form action="{{route('font.acquereurs.store')}}" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" id="form-register-modal">
+
+                                @csrf
+                                <div class="nyssa-form-simple-wide">
+                                    <div class="f-subject">
+                                        <p>Quel type de logement vous conviendrait ?</p>
+                                        <p>
+                                            <span class="wpcf7-form-control-wrap" data-name="menu-781">
+                                                <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="typelogement">
+                                                    <option value="Un appartement">Un appartement</option>
+                                                    <option value="Villa basse">Villa basse</option>
+                                                    <option value="Villa duplex ">Villa duplex</option>
+                                                    <option value="Villa triplex">Villa triplex</option>
+                                                </select>
+                                            </span>
+                                        </p>
+                                    </div>
+                                    <div class="f-email">
+                                        <p>À PROPOS DU BIEN</p>
+                                        <div style="display: flex;">
+                                            <p>
+                                                <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                Nombre de chambres<input style="width: 30%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="nbr_chambre"> 
+                                                </span>
+                                            </p>
+                                            <p>
+                                                <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                Nombre de salle de bain <input style="width: 30%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="nbr_salle">
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="f-name">
+                                        <p>SURFACES ANNEXES</p>
+                                        <br>
+                                        <div style="display: grid;grid-template-columns: 1fr 1fr 1fr;">
+                                            <label class="new-check">
+                                                <input type="checkbox" name="type_surface" value="Balcon" />
+                                                <div></div>Balcon
+                                            </label>
+                                            <label class="new-check">
+                                                <input type="checkbox" name="type_surface" value="Terrasse" />
+                                                <div></div>Terrasse
+                                            </label>
+                                            <label class="new-check">
+                                                <input type="checkbox" name="type_surface" value="Garage" />
+                                                <div></div>Garage
+                                            </label>
+                                            <label class="new-check">
+                                                <input type="checkbox" name="type_surface" value="Jardin" />
+                                                <div></div>Jardin
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="f-email">
+                                        <p>SI VOUS CHOISISSEZ DANS UN IMMEUBLE DONNEZ-NOUS VOS CRITÈRES ÉTAGES</p>
+                                        <div style="display: grid;grid-template-columns: 1fr 1fr 1fr;">
+                                            <label class="new-check">
+                                                <input type="checkbox" name="critere_immeuble" value="Dernier étage" />
+                                                <div></div>Dernier étage
+                                            </label>
+                                            <label class="new-check">
+                                                <input type="checkbox" name="critere_immeuble" value="Rez-de-chaussée" />
+                                                <div></div>Rez-de-chaussée
+                                            </label>
+                                            <label class="new-check">
+                                                <input type="checkbox" name="critere_immeuble" value="Éviter le rez-de-chaussée" />
+                                                <div></div>Éviter le rez-de-chaussée
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="f-name">
+                                        <p>VOS EXIGENCES PARTICULIÈRES POUR L’IMMEUBLE</p>
+                                        <br>
+                                        <div style="display: grid;grid-template-columns: 1fr 1fr 1fr;">
+                                            <label class="new-check">
+                                                <input type="checkbox" name="exigence_immeuble" value="Interphone" />
+                                                <div></div>Interphone
+                                            </label>
+                                            <label class="new-check">
+                                                <input type="checkbox" name="exigence_immeuble" value="Gardien" />
+                                                <div></div>Gardien
+                                            </label>
+                                            <label class="new-check">
+                                                <input type="checkbox" name="exigence_immeuble" value="Ascenseur" />
+                                                <div></div>Ascenseur
+                                            </label>
+                                            <label class="new-check">
+                                                <input type="checkbox" name="exigence_immeuble" value="Piscine" />
+                                                <div></div>Piscine
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="f-service">
+                                        <p>Quand souhaitez vous l’acquérir ?
+                                        </p>
+                                        <p>
+                                            <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                                <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="moment_acquis" tabindex="-1" aria-hidden="true">
+                                                    <option value="Maintenant">Maintenant</option>
+                                                    <option value="Challenge Express (1an)">Challenge Express (1an)</option>
+                                                    <option value="Challenge Stabilité (3ans)">Challenge Stabilité (3ans)</option>
+                                                    <option value="Challenge Planifié (4ans)">Challenge Planifié (4ans)</option>
+                                                    <option value="Challenge Visionnaire (5ans)">Challenge Visionnaire (5ans)</option>
+                                                </select>
+                                        </p>
+                                    </div>
+                                    <div class="f-subject">
+                                        <p>Vous preferez ?
+                                        </p>
+                                        <p>
+                                            <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                                <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="ma_preference" tabindex="-1" aria-hidden="true">
+                                                    <option value="Un logement hors promotion immobilière">Un logement hors promotion immobilière</option>
+                                                    <option value="Un logement dans une promotion immobilière">Un logement dans une promotion immobilière</option>
+                                                </select>
+                                        </p>
+                                    </div>
+                                    <div class="f-email">
+                                        <p>Surface habitable pour cette maison ?(m²)<span class="cforms-required"></span></p>
+                                        <p>
+                                            <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="number" min="0" name="surface_habitable">
+                                            </span>
+                                        </p>
+                                    </div>
+                                    <div class="f-name">
+                                        <p>Quelle commune aimeriez-vous habiter ?<span class="cforms-required">*</span>
+                                        </p>
+                                        <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="commune"></span>
+                                        </p>
+                                    </div>
+                                    <div class="f-service">
+                                        <p>Vous êtes plutôt :
+                                        </p>
+                                        <p>
+                                            <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                                <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="type_construction" tabindex="-1" aria-hidden="true">
+                                                    <option value="logement à construire">logement à construire</option>
+                                                    <option value="logement prête à habiter">logement prête à habiter</option>
+                                                    <option value="logement à renover">logement à renover</option>
+                                                </select>
+                                        </p>
+                                    </div>
+                                    <div class="f-name">
+                                        <p>Quel est votre budget pour le projet ?(FCFA)<span class="cforms-required">*</span></p>
+                                        <p>
+                                            <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="number" min="500000" name="budget">
+                                            </span>
+                                        </p>
+                                    </div>
+                                    <div class="f-email">
+                                        <p>Jusqu'à combien augmentez-vous votre budget ?(FCFA)<span class="cforms-required">*</span></p>
+                                        <p>
+                                            <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="number" min="500000" name="autre_budget">
+                                            </span>
+                                        </p>
+                                    </div>
+                                    <div class="f-subject">
+                                        <p>Vous êtes ?
+                                        </p>
+                                        <p>
+                                            <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                                <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="type_emploi" tabindex="-1" aria-hidden="true">
+                                                    <option value="Fonctionnaire">Fonctionnaire</option>
+                                                    <option value="Salarié du privé">Salarié du privé</option>
+                                                    <option value="Chef d’entreprise">Chef d’entreprise</option>
+                                                    <option value="Travailleur indépendant">Travailleur indépendant</option>
+                                                </select>
+                                        </p>
+                                    </div>
+                                    <div class="f-service">
+                                        <p>Êtes-vous déjà propriétaire ?
+                                        </p>
+                                        <p>
+                                            <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
+                                                <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="proprietaire" tabindex="-1" aria-hidden="true">
+                                                    <option value="Non">Non</option>
+                                                    <option value="Oui">Oui</option>
+                                                </select>
+                                        </p>
+                                    </div>
+                                    <div class="f-name">
+                                        <p>Votre nom et prénoms<span class="cforms-required">*</span></p>
+                                        <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="nom_prenom"></span>
+                                        </p>
+                                    </div>
+                                    <div class="f-email">
+                                        <p>Votre téléphone avec l'indicatif du pays<span class="cforms-required">*</span></p>
+                                        <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="telephone"></span>
+                                        </p>
+                                    </div>
+                                    <div class="f-name" style="left: 0;right: 0;width: 100%;">
+                                        <p>Votre e-mail valide<span class="cforms-required">*</span>
+                                        </p>
+                                        <p><span class="wpcf7-form-control-wrap" data-name="your-email"><input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="email"></span>
+                                        </p>
+                                    </div>
+                                    <div class="bt-contact center">
+                                        <p id="btnsender">
+                                            <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Envoyer"><span class="wpcf7-spinner"></span></a>
+                                        </p>
+                                        <div class="wpcf7-response-output" aria-hidden="true"></div>
                             </form>
                         </div>
                     </div>
@@ -4953,7 +5282,7 @@
                                                     <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
-                                                                <p style="text-align: center;">Abidjan, Cocody riviera, Carrefour Tonton Bouba face au collège Akanji</p>
+                                                                <p style="text-align: center;">Abidjan-Cocody Riviera face collège Akanji</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -4980,9 +5309,9 @@
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">
-                                                                    <a href="mailto:challenge-toit@heyz.ci">challenge-toit@heyz.ci</a>
+                                                                    <a href="mailto:info@challenge-toit.com">info@challenge-toit.com</a>
                                                                     <br />
-                                                                    <a href="mailto:challenge-toit@heyz.ci">info-challenge-toit@heyz.ci</a>
+                                                                    <a href="mailto:office@challenge-toit.com">office@challenge-toit.com</a>
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -5010,7 +5339,8 @@
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">
-                                                                    (+225) 0779796440<br />&nbsp;
+                                                                    (+225) 2722245432<br />&nbsp;
+                                                                    (+225) 0705055059
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -5027,7 +5357,7 @@
             </div>
             <div id="secondary_footer">
                 <div class="container ">
-                    <a class="footer_logo align-center" href="https://preview.treethemes.com/nyssa/demo1/" tabindex="-1">
+                    <a class="footer_logo align-center" href="/#" tabindex="-1">
                         <img class="footer_logo_normal notalone" src="/img/import/Footer.png" alt="" title="">
                         <img class="footer_logo_retina" src="/img/import/Footer.png" alt="" title="">
                     </a>
@@ -5073,229 +5403,6 @@
             <div class="chatbox__button">
                 <button style="padding-bottom: 4px;background-color:#4beee9;" spellcheck="false"><img src="/chat/images/icons/chatbox-icon.svg"></button>
             </div>
-        </div>
-    </div>
-
-    <div class="ult-overlay content-64f491c87e33b4-400800" data-class="content-64f491c87e33b4-400800" id="button-click-overlay" style="background:rgba(23,22,29,0.98); display:none;">
-        <div class="ult_modal ult-fade ult-medium">
-            <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
-                <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
-                    Formulaire Inscription maison certifiée
-                    <p></p>
-                    <div class="wpcf7 js" id="wpcf7-f831-o1" lang="en-US" dir="ltr">
-                        <div class="screen-reader-response">
-                            <p role="status" aria-live="polite" aria-atomic="true"></p>
-                            <ul></ul>
-                        </div>
-                        <form action="{{route('font.acquereurs.store')}}" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" id="form-register-modal">
-
-                            @csrf
-                            <div class="nyssa-multiple-fields">
-                                <div class="f-subject">
-                                    <p>Quel type de logement vous conviendrait ?</p>
-                                    <p>
-                                        <span class="wpcf7-form-control-wrap" data-name="menu-781">
-                                            <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="typelogement">
-                                                <option value="Un appartement">Un appartement</option>
-                                                <option value="Villa basse">Villa basse</option>
-                                                <option value="Villa duplex ">Villa duplex</option>
-                                                <option value="Villa triplex">Villa triplex</option>
-                                            </select>
-                                        </span>
-                                    </p>
-                                </div>
-                                <div class="f-email" style="display: flex;">
-                                    <p>
-                                        <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                        Nombre de chambres<input style="width: 30%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="nbr_chambre"> 
-                                        </span>
-                                    </p>
-                                    <p>
-                                        <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                        Nombre de salle de bain <input style="width: 30%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="nbr_salle">
-                                        </span>
-                                    </p>
-                                </div>
-                                <div class="f-name">
-                                    <p>SURFACES ANNEXES</p>
-                                    <br>
-                                    <div style="display: grid;grid-template-columns: 1fr 1fr 1fr;">
-                                        <label class="new-check">
-                                            <input type="checkbox" name="type_surface" value="Balcon" />
-                                            <div></div>Balcon
-                                        </label>
-                                        <label class="new-check">
-                                            <input type="checkbox" name="type_surface" value="Terrasse" />
-                                            <div></div>Terrasse
-                                        </label>
-                                        <label class="new-check">
-                                            <input type="checkbox" name="type_surface" value="Garage" />
-                                            <div></div>Garage
-                                        </label>
-                                        <label class="new-check">
-                                            <input type="checkbox" name="type_surface" value="Jardin" />
-                                            <div></div>Jardin
-                                        </label>
-                                    </div>
-                                </div>
-                                <div class="f-email">
-                                    <p>SI VOUS CHOISISSEZ DANS UN IMMEUBLE DONNEZ-NOUS VOS CRITÈRES ÉTAGES</p>
-                                    <div style="display: grid;grid-template-columns: 1fr 1fr 1fr;">
-                                        <label class="new-check">
-                                            <input type="checkbox" name="critere_immeuble" value="Dernier étage" />
-                                            <div></div>Dernier étage
-                                        </label>
-                                        <label class="new-check">
-                                            <input type="checkbox" name="critere_immeuble" value="Rez-de-chaussée" />
-                                            <div></div>Rez-de-chaussée
-                                        </label>
-                                        <label class="new-check">
-                                            <input type="checkbox" name="critere_immeuble" value="Éviter le rez-de-chaussée" />
-                                            <div></div>Éviter le rez-de-chaussée
-                                        </label>
-                                    </div>
-                                </div>
-                                <div class="f-name">
-                                    <p>VOS EXIGENCES PARTICULIÈRES POUR L’IMMEUBLE</p>
-                                    <br>
-                                    <div style="display: grid;grid-template-columns: 1fr 1fr 1fr;">
-                                        <label class="new-check">
-                                            <input type="checkbox" name="exigence_immeuble" value="Interphone" />
-                                            <div></div>Interphone
-                                        </label>
-                                        <label class="new-check">
-                                            <input type="checkbox" name="exigence_immeuble" value="Gardien" />
-                                            <div></div>Gardien
-                                        </label>
-                                        <label class="new-check">
-                                            <input type="checkbox" name="exigence_immeuble" value="Ascenseur" />
-                                            <div></div>Ascenseur
-                                        </label>
-                                        <label class="new-check">
-                                            <input type="checkbox" name="exigence_immeuble" value="Piscine" />
-                                            <div></div>Piscine
-                                        </label>
-                                    </div>
-                                </div>
-                                <div class="f-service">
-                                    <p>Quand souhaitez vous l’acquérir ?
-                                    </p>
-                                    <p>
-                                        <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
-                                            <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="moment_acquis" tabindex="-1" aria-hidden="true">
-                                                <option value="Maintenant">Maintenant</option>
-                                                <option value="Challenge Express (1an)">Challenge Express (1an)</option>
-                                                <option value="Challenge Stabilité (3ans)">Challenge Stabilité (3ans)</option>
-                                                <option value="Challenge Planifié (4ans)">Challenge Planifié (4ans)</option>
-                                                <option value="Challenge Visionnaire (5ans)">Challenge Visionnaire (5ans)</option>
-                                            </select>
-                                    </p>
-                                </div>
-                                <div class="f-subject">
-                                    <p>Vous preferez ?
-                                    </p>
-                                    <p>
-                                        <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
-                                            <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="ma_preference" tabindex="-1" aria-hidden="true">
-                                                <option value="Un logement hors promotion immobilière">Un logement hors promotion immobilière</option>
-                                                <option value="Un logement dans une promotion immobilière">Un logement dans une promotion immobilière</option>
-                                            </select>
-                                    </p>
-                                </div>
-                                <div class="f-email">
-                                    <p>Surface habitable pour cette maison ?(m²)<span class="cforms-required"></span></p>
-                                    <p>
-                                        <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                            <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="number" min="0" name="surface_habitable">
-                                        </span>
-                                    </p>
-                                </div>
-                                <div class="f-name">
-                                    <p>Quelle commune aimeriez-vous habiter ?*<span class="cforms-required">*</span>
-                                    </p>
-                                    <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="commune"></span>
-                                    </p>
-                                </div>
-                                <div class="f-service">
-                                    <p>Vous êtes plutôt :
-                                    </p>
-                                    <p>
-                                        <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
-                                            <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="type_construction" tabindex="-1" aria-hidden="true">
-                                                <option value="logement à construire">logement à construire</option>
-                                                <option value="logement prête à habiter">logement prête à habiter</option>
-                                                <option value="logement à renover">logement à renover</option>
-                                            </select>
-                                    </p>
-                                </div>
-                                <div class="f-name">
-                                    <p>Quel est votre budget pour le projet ?(FCFA)*<span class="cforms-required"></span></p>
-                                    <p>
-                                        <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                            <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="number" min="500000" name="budget">
-                                        </span>
-                                    </p>
-                                </div>
-                                <div class="f-email">
-                                    <p>Jusqu'à combien augmentez-vous votre budget ?(FCFA)*<span class="cforms-required"></span></p>
-                                    <p>
-                                        <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                            <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="number" min="500000" name="autre_budget">
-                                        </span>
-                                    </p>
-                                </div>
-                                <div class="f-subject">
-                                    <p>Vous êtes ?
-                                    </p>
-                                    <p>
-                                        <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
-                                            <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="type_emploi" tabindex="-1" aria-hidden="true">
-                                                <option value="Fonctionnaire">Fonctionnaire</option>
-                                                <option value="Salarié du privé">Salarié du privé</option>
-                                                <option value="Chef d’entreprise">Chef d’entreprise</option>
-                                                <option value="Travailleur indépendant">Travailleur indépendant</option>
-                                            </select>
-                                    </p>
-                                </div>
-                                <div class="f-service">
-                                    <p>Êtes-vous déjà propriétaire ?
-                                    </p>
-                                    <p>
-                                        <span class="wpcf7-form-control-wrap" data-name="menu-typloge">
-                                            <select class="wpcf7-form-control wpcf7-select select2-hidden-accessible" aria-invalid="false" name="proprietaire" tabindex="-1" aria-hidden="true">
-                                                <option value="Non">Non</option>
-                                                <option value="Oui">Oui</option>
-                                            </select>
-                                    </p>
-                                </div>
-                                <div class="f-name">
-                                    <p>Votre nom et prénoms*<span class="cforms-required"></span></p>
-                                    <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="nom_prenom"></span>
-                                    </p>
-                                </div>
-                                <div class="f-email">
-                                    <p>Votre téléphone avec l'indicatif du pays*<span class="cforms-required"></span></p>
-                                    <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="telephone"></span>
-                                    </p>
-                                </div>
-                                <div class="f-name" style="left: 0;right: 0;width: 100%;">
-                                    <p>Votre e-mail valide*<span class="cforms-required"></span>
-                                    </p>
-                                    <p><span class="wpcf7-form-control-wrap" data-name="your-email"><input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="email"></span>
-                                    </p>
-                                </div>
-                                <div class="bt-contact center">
-                                    <p id="btnsender">
-                                        <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Envoyez ma demande"><span class="wpcf7-spinner"></span></a>
-                                    </p>
-                                    <div class="wpcf7-response-output" aria-hidden="true"></div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="ult-overlay-close top-right" style="width:80px;height:80px; ">
-            <div class="ult-overlay-close-inside" style="background-color: #000;"></div>
         </div>
     </div>
 
@@ -5614,10 +5721,11 @@
                 $("#cbpw-filters130 > div:nth-child(1)").click();
                 console.log("THE MOVIE ADD")
             }, 4000);
+
+            $("#slider-18-slide-52-layer-16").addClass("btn-modal overlay-show");
         })
         $("#cbpw-grid130 > div > div.cbp-item:nth-child(1)").on("click", function(e) {
-            $.get("{{config("
-                app.url ")}}/pagetiers/certif1.html",
+            $.get("{{config("app.url ")}}/pagetiers/certif1.html",
                 function(data) {
                     console.log(data);
                     setTimeout(() => {
@@ -5626,8 +5734,7 @@
                 });
         })
         $("#cbpw-grid130 > div > div.cbp-item:nth-child(2)").on("click", function(e) {
-            $.get("{{config("
-                app.url ")}}/pagetiers/certif2.html",
+            $.get("{{config("app.url ")}}/pagetiers/certif2.html",
                 function(data) {
                     console.log(data);
                     setTimeout(() => {
@@ -5747,6 +5854,8 @@
                 }, 1500);
             });
         })
+
+        
     </script>
 </body>
 

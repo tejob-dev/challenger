@@ -4016,7 +4016,7 @@
                             <div class="form">
                                 <!-- Begin Mailchimp Signup Form -->
                                 <div id="mc_embed_signup">
-                                    <form action="{{ route('font.contacts.store') }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
+                                    <form action="\{\{ route('font.contacts.store') \}\}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
                                         @csrf
                                         <!-- @method("PUT") -->
                                         <div id="mc_embed_signup_scroll">
@@ -4025,8 +4025,8 @@
                                             </div>
                                             <div class="mc-field-group">
                                                 <label for="mce-EMAIL">
-                                                        L'email <span class="asterisk">*</span>
-                                                    </label>
+                                                    L'email <span class="asterisk">*</span>
+                                                </label>
                                                 <input type="email" value="" name="email" class="required email" id="mce-EMAIL" required>
                                                 <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
                                             </div>
@@ -4070,11 +4070,10 @@
                                                     <lord-icon src="https://cdn.treethemes.com/animations/icons/53-location-pin-on-round-map-outline-edited.json" trigger="hover" lalign="center" style="height: 90px; width: 90px" class="lizr_icon lizr_vc_d7n1iprG6t" colors="primary:#f9f3ff,secondary:#4beee9,"></lord-icon>
                                                 </div>
                                                 <div class="ult-content-box-container ">
-                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;"
-                                                        data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
+                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
-                                                                <p style="text-align: center;">Abidjan, Cocody riviera, Carrefour Tonton Bouba face au collège Akanji</p>
+                                                                <p style="text-align: center;">Abidjan-Cocody Riviera face collège Akanji</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -4097,14 +4096,13 @@
                                                     <lord-icon src="https://cdn.treethemes.com/animations/icons/145-envelope-mail-notification-open-morph-outline-edited.json" trigger="hover" lalign="center" style="height: 90px; width: 90px" class="lizr_icon lizr_vc_Mh1OTyBieF" colors="primary:#f9f3ff,secondary:#4beee9,"></lord-icon>
                                                 </div>
                                                 <div class="ult-content-box-container ">
-                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;"
-                                                        data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
+                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">
-                                                                    <a href="mailto:challenge-toit@heyz.ci">challenge-toit@heyz.ci</a>
-                                                                    <br/>
-                                                                    <a href="mailto:challenge-toit@heyz.ci">info-challenge-toit@heyz.ci</a>
+                                                                    <a href="mailto:info@challenge-toit.com">info@challenge-toit.com</a>
+                                                                    <br />
+                                                                    <a href="mailto:office@challenge-toit.com">office@challenge-toit.com</a>
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -4128,12 +4126,12 @@
                                                     <lord-icon src="https://cdn.treethemes.com/animations/icons/140-earphone-telephone-outline-edited.json" trigger="hover" lalign="center" style="height: 90px; width: 90px" class="lizr_icon lizr_vc_I41aJwYo30" colors="primary:#f9f3ff,secondary:#4beee9,"></lord-icon>
                                                 </div>
                                                 <div class="ult-content-box-container ">
-                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;"
-                                                        data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
+                                                    <div class="ult-content-box" style="box-shadow: px px px px none;margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-normal_margins="margin-top:20px;margin-right:55px;margin-bottom:0px;margin-left:55px;">
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">
-                                                                    (+225) 0779796440<br/>&nbsp;
+                                                                    (+225) 2722245432<br />&nbsp;
+                                                                    (+225) 0705055059
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -4150,7 +4148,7 @@
             </div>
             <div id="secondary_footer">
                 <div class="container ">
-                    <a class="footer_logo align-center" href="https://preview.treethemes.com/nyssa/demo1/" tabindex="-1">
+                    <a class="footer_logo align-center" href="/#" tabindex="-1">
                         <img class="footer_logo_normal notalone" src="/img/import/Footer.png" alt="" title="">
                         <img class="footer_logo_retina" src="/img/import/Footer.png" alt="" title="">
                     </a>
