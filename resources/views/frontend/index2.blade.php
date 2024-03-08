@@ -3364,9 +3364,7 @@
                                                                 <!--
 
 										-->
-                                                                <a id="slider-18-slide-52-layer-16" class="rs-layer rev-btn" href="#" target="_blank" rel="noopener" data-type="button" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:18,16,16,16;l:60,50,50,50;fw:600;" data-dim="minh:0px,none,none,none;" data-disp="inline-block" data-margin="t:0,0,0,10;" data-padding="r:50,40,30,30;l:50,40,30,30;" data-border="bor:5px,5px,5px,5px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" data-frame_hover="c:#fff;bgc:rgba(0,0,0,0.35);bor:5px,5px,5px,5px;"
-                                                                 data-ultimate-target='#modal-trg-txt-wrap-1900 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' data-class-id="content-64f491c87e33b4-401900" data-overlay-class="overlay-zoomin"
-                                                                 style="z-index:6;background-color:#f94a82;font-family:'Montserrat';display:inline-block;">Parlons-en
+                                                                <a id="slider-18-slide-52-layer-16" class="rs-layer rev-btn" href="#" target="_blank" rel="noopener" data-type="button" data-rsp_ch="on" data-xy="" data-pos="r" data-text="w:normal;s:18,16,16,16;l:60,50,50,50;fw:600;" data-dim="minh:0px,none,none,none;" data-disp="inline-block" data-margin="t:0,0,0,10;" data-padding="r:50,40,30,30;l:50,40,30,30;" data-border="bor:5px,5px,5px,5px;" data-frame_999="o:1;st:w;sp:1000;sR:8700;" data-frame_hover="c:#fff;bgc:rgba(0,0,0,0.35);bor:5px,5px,5px,5px;" data-ultimate-target='#modal-trg-txt-wrap-1900 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' data-class-id="content-64f491c87e33b4-401900" data-overlay-class="overlay-zoomin" style="z-index:6;background-color:#f94a82;font-family:'Montserrat';display:inline-block;">Parlons-en
                                                                 </a>
                                                                 <!--
 									-->
@@ -3634,10 +3632,10 @@
                                                     </p>
                                                     <div id="prec_config_terrain" style="display: none;">
                                                         <p>
-                                                            <p>Précisez<span class="cforms-required"></span></p>
-                                                            <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                                                <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="prec_config_terrain">
-                                                            </span>
+                                                        <p>Précisez<span class="cforms-required"></span></p>
+                                                        <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                            <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="prec_config_terrain">
+                                                        </span>
                                                         </p>
                                                     </div>
                                                 </div>
@@ -3658,12 +3656,12 @@
                                                     <div style="display: flex;">
                                                         <p>
                                                             <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                                            <input placeholder="min" style="width: 50%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="min_budget"> 
+                                                                <input placeholder="min" style="width: 50%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="min_budget">
                                                             </span>
                                                         </p>
                                                         <p>
                                                             <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                                            <input placeholder="max" style="width: 50%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="max_budget">
+                                                                <input placeholder="max" style="width: 50%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="max_budget">
                                                             </span>
                                                         </p>
                                                     </div>
@@ -4741,12 +4739,12 @@
                                         <div style="display: flex;">
                                             <p>
                                                 <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                                <input placeholder="min" style="width: 50%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="min_budget"> 
+                                                    <input placeholder="min" style="width: 50%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="min_budget">
                                                 </span>
                                             </p>
                                             <p>
                                                 <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                                <input placeholder="max" style="width: 50%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="max_budget">
+                                                    <input placeholder="max" style="width: 50%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="max_budget">
                                                 </span>
                                             </p>
                                         </div>
@@ -4865,7 +4863,7 @@
                                             </span>
                                         </p>
                                     </div>
-                                    
+
                                 </div>
                                 <div>
                                     <p>
@@ -4961,7 +4959,7 @@
                                             </label>
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                                 <div class="bt-contact center">
                                     <p id="btnsender">
@@ -4979,7 +4977,7 @@
             </div>
         </div>
 
-        
+
 
         <div class="ult-overlay content-64f491c87e33b4-400800" data-class="content-64f491c87e33b4-400800" id="button-click-overlay" style="background:rgba(23,22,29,0.98); display:none;">
             <div class="ult_modal ult-fade ult-medium">
@@ -5017,12 +5015,12 @@
                                         <div style="display: flex;">
                                             <p>
                                                 <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                                Nombre de chambres<input style="width: 30%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="nbr_chambre"> 
+                                                    Nombre de chambres<input style="width: 30%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="nbr_chambre">
                                                 </span>
                                             </p>
                                             <p>
                                                 <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                                Nombre de salle de bain <input style="width: 30%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="nbr_salle">
+                                                    Nombre de salle de bain <input style="width: 30%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="nbr_salle">
                                                 </span>
                                             </p>
                                         </div>
@@ -5200,6 +5198,8 @@
                                             <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Envoyer"><span class="wpcf7-spinner"></span></a>
                                         </p>
                                         <div class="wpcf7-response-output" aria-hidden="true"></div>
+                                    </div>
+                                </div>
                             </form>
                         </div>
                     </div>
@@ -5725,7 +5725,8 @@
             $("#slider-18-slide-52-layer-16").addClass("btn-modal overlay-show");
         })
         $("#cbpw-grid130 > div > div.cbp-item:nth-child(1)").on("click", function(e) {
-            $.get("{{config("app.url ")}}/pagetiers/certif1.html",
+            $.get("{{config("
+                app.url ")}}/pagetiers/certif1.html",
                 function(data) {
                     console.log(data);
                     setTimeout(() => {
@@ -5734,7 +5735,8 @@
                 });
         })
         $("#cbpw-grid130 > div > div.cbp-item:nth-child(2)").on("click", function(e) {
-            $.get("{{config("app.url ")}}/pagetiers/certif2.html",
+            $.get("{{config("
+                app.url ")}}/pagetiers/certif2.html",
                 function(data) {
                     console.log(data);
                     setTimeout(() => {
@@ -5854,8 +5856,6 @@
                 }, 1500);
             });
         })
-
-        
     </script>
 </body>
 

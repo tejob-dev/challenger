@@ -37,3 +37,47 @@
     height: 56px;
     margin-top: 0;
 }
+
+.wpcf7 input[type=number],
+select.wpcf7 {
+    font: inherit;
+    color: inherit;
+    font-family: inherit;
+    line-height: inherit;
+    border-radius: 0;
+    box-sizing: border-box;
+    font-size: 15px !important;
+    font-weight: 500;
+    position: relative;
+    float: left;
+    width: 100%;
+    padding: 15px;
+    outline: none;
+    background: #fff;
+    margin: 0 !important;
+    max-width: 100%;
+    border: 1px solid #d6d5d9 !important;
+}
+
+
+.wpcf7 select {
+    position: relative;
+    float: left;
+    width: 100%;
+    padding: 12px 20px;
+    outline: none;
+    background: #fff;
+    border: none;
+    margin: 10px 0;
+    height: 51px;
+    border: 1px solid #2b2929;
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    -webkit-appearance: none;
+}
+
+#wpcf7-f831-o1>div.nyssa-form-simple-wide>div.f-service>p:nth-child(2)>span>span,
+#form-register-modal > div > div > p:nth-child(2) > span > span {
+    display: none;
+}
