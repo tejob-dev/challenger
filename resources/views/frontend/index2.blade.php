@@ -3563,11 +3563,11 @@
                         <div class="ult_modal ult-fade ult-medium">
                             <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
                                 <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
-                                    <!-- <h4 style="text-transform: uppercase;">FORMULAIRE INSCRIPTION TERRAIN</h4>
-                                    <p>En complétant ce formulaire, vous profiterez, lors de transactions, d'un acte d'achat notarié, de documentation authentifiée et certifiée, conforme aux normes et réglementations (restriction d’utilisation du terrain, Conformité aux règlements locaux-Quartier), et vous recevrez en tant que titre un CMPF (certificat de mutation de propriété foncière). <br>Historique du terrain <br></p> -->
-                                    <p>
+                                    <h4 style="text-transform: uppercase;">J'achète mon terrain</h4>
+                                    <p>En complétant ce formulaire, vous profiterez, lors de transactions, d'un acte notarié, de documentation authentifiée et certifiée, conforme aux normes et réglementations en vigueur.<br><br><strong>Tous nos terrains ont des titres de propriété définitif</strong><br></p>
+                                    <!-- <p>
                                         <img src="/img/accueil/achete_terrain_form.png" style="width: auto;height: auto;scale: 1.1;" alt="">
-                                    </p>
+                                    </p> -->
                                     <div class="wpcf7 js" id="wpcf7-f831-o1" lang="en-US" dir="ltr">
                                         <div class="screen-reader-response">
                                             <p role="status" aria-live="polite" aria-atomic="true"></p>
@@ -4983,11 +4983,12 @@
             <div class="ult_modal ult-fade ult-medium">
                 <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
                     <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
-                        <!-- <h4 style="text-transform: uppercase;">Formulaire Inscription maison certifiée</h4>
-                        <br> -->
-                        <p>
+                        <h4 style="text-transform: uppercase;">Bienvenue chez vous</h4>
+                        <p>Là où les rêves deviennent des adresses, où les foyers deviennent des refuges, et où l'histoire de chaque propriété est tissée avec soin et passion.<br><br>Rejoignez-nous dans cette aventure en remplissant ce formulaire.<br><strong>Inscrivez vous et faites partie de la révolution !</strong><br></p>
+                                   
+                        <!-- <p>
                             <img src="/img/accueil/maison_certif_form.png" style="width: auto;height: auto;scale: 1.1;" alt="">
-                        </p>
+                        </p> -->
                         <div class="wpcf7 js" id="wpcf7-f831-o1" lang="en-US" dir="ltr">
                             <div class="screen-reader-response">
                                 <p role="status" aria-live="polite" aria-atomic="true"></p>
