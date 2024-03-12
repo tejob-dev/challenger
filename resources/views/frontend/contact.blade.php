@@ -2972,7 +2972,11 @@
                 <div class="sidebar-box widget_media_image" id="media_image-2"><img width="300" height="115" src="/img/import/Footer.png" class="image wp-image-448  attachment-medium size-medium" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;"></div>
                 <div class="sidebar-box widget_text" id="text-2">
                     <div class="textwidget">
-                        <p><span style="text-align: center;">Challenge-toit est une solution alternative pour l'achat d'une maison qui permet de verser des paiements échelonnés sur une période allant de 5 à 7 ans selon vos capacités financières plutôt que de payer le prix total au moment de la clôture de la vente.</span></p>
+                        <p style="text-align: center;">
+                            <span style="text-align: justify; width: 55ch;">
+                            Tout devient possible dans l’immobilier. <br>Bienvenue dans la tranquillité d’esprit. <br>Vivez l’expérience challenge-toit un service d’acquisition de biens immobiliers sans compromis qui assure l’authenticité et la conformité de chaque propriété.<!-- <a href="#">Get nyssa today!</a> -->
+                            </span>
+                        </p>
                     </div>
                 </div>
                 <div id="nyssa_socials_widget-2" class="widget nyssa_socials_widget">

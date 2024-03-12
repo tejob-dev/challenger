@@ -3165,9 +3165,9 @@
                 </div>
                 <div class="sidebar-box widget_text" id="text-2">
                     <div class="textwidget">
-                        <p>
+                        <p style="text-align: center;">
                             <span style="text-align: justify; width: 55ch;">
-                                Challenge-toit est une solution alternative pour l'achat d'une maison qui permet de verser des paiements échelonnés sur une période allant de 5 à 7 ans selon vos capacités financières plutôt que de payer le prix total au moment de la clôture de la vente.<!-- <a href="#">Get nyssa today!</a> -->
+                            Tout devient possible dans l’immobilier. <br>Bienvenue dans la tranquillité d’esprit. <br>Vivez l’expérience challenge-toit un service d’acquisition de biens immobiliers sans compromis qui assure l’authenticité et la conformité de chaque propriété.<!-- <a href="#">Get nyssa today!</a> -->
                             </span>
                         </p>
                     </div>
@@ -3817,7 +3817,7 @@
                                                 </div>
                                             </div>
                                             <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
-                                            <div class="vc_btn3-container vc_btn3-inline"><a onmouseleave="this.style.borderColor='#5a24b1'; this.style.backgroundColor='transparent'; this.style.color='#5a24b1'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#5a24b1; color:#5a24b1;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="/contact.html" title="">Prenez rendez-vous</a></div>
+                                            <div class="vc_btn3-container vc_btn3-inline"><a onmouseleave="this.style.borderColor='#5a24b1'; this.style.backgroundColor='transparent'; this.style.color='#5a24b1'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#5a24b1; color:#5a24b1;" class="btn-modal overlay-show vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="#" title="" data-ultimate-target='#modal-trg-txt-wrap-1900 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' data-class-id="content-64f491c87e33b4-408800" data-overlay-class="overlay-zoomin" >Prenez rendez-vous</a></div>
                                             <!-- <button data-ultimate-target='#modal-trg-txt-wrap-9545 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' style="background-color:#4beee9; color:#ffffff;" data-class-id="content-64f491c87e33b4-400000" class="btn-modal ult-responsive vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom overlay-show ult-align-left btn-id-64f491c87e33b4-51630579" data-overlay-class="overlay-zoomin">Prenez rendez-vous
                                             </button> -->
                                         </div>
@@ -4977,6 +4977,60 @@
             </div>
         </div>
 
+        <div class="ult-overlay content-64f491c87e33b4-408800" data-class="content-64f491c87e33b4-408800" id="button-click-overlay" style="background:rgba(23,22,29,0.98); display:none;">
+            <div class="ult_modal ult-fade ult-medium">
+
+                <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
+                    <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
+                        
+                        <h4 style="text-transform: uppercase;">PRENEZ UN RENDEZ-VOUS</h4>
+                        <p></p>
+                        
+                        <div class="wpcf7 js" id="wpcf7-f831-o1" lang="en-US" dir="ltr">
+                            <div class="screen-reader-response">
+                                <p role="status" aria-live="polite" aria-atomic="true"></p>
+                                <ul></ul>
+                            </div>
+                            <form action="" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+        
+                                @csrf
+                                <div class="nyssa-form-simple-wide">
+                                    <div class="f-name">
+                                        <p>Votre nom et prénoms<span class="cforms-required">*</span>
+                                        </p>
+                                        <p><span class="wpcf7-form-control-wrap" data-name="nompre"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="nompre"></span>
+                                        </p>
+                                    </div>
+                                    <div class="f-email">
+                                        <p>Votre téléphone avec l'indicatif du pays<span class="cforms-required">*</span></p>
+                                        <p><span class="wpcf7-form-control-wrap" data-name="telephone"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="telephone"></span>
+                                        </p>
+                                    </div>
+                                    <div class="f-name">
+                                        <p>Votre e-mail valide                      <span class="cforms-required">*</span>
+                                        </p>
+                                        <p><span class="wpcf7-form-control-wrap" data-name="votr_email"><input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="votr_email"></span>
+                                        </p>
+                                    </div>
+                                    <div class="f-email">
+                                        <p>Choix de la date<span class="cforms-required">*</span>
+                                        </p>
+                                        <p><span class="wpcf7-form-control-wrap" data-name="rdv"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="datetime-local" id="date" name="rdv"></span>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="bt-contact center">
+                                    <p id="btnsender">
+                                        <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#003279;" type="submit" value="Envoyez"><span class="wpcf7-spinner"></span></a>
+                                    </p>
+                                </div>
+                                <div class="wpcf7-response-output" aria-hidden="true"></div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
 
         <div class="ult-overlay content-64f491c87e33b4-400800" data-class="content-64f491c87e33b4-400800" id="button-click-overlay" style="background:rgba(23,22,29,0.98); display:none;">
@@ -5402,7 +5456,7 @@
                 <iframe id="chat-items" src="https://cchat.heyz.ci/" frameborder="0" width="100%" height="100%"></iframe>
             </div>
             <div class="chatbox__button">
-                <button style="padding-bottom: 4px;background-color:#4beee9;" spellcheck="false"><img src="/chat/images/icons/chatbox-icon.svg"></button>
+                <button onclick="window.open('https://web.whatsapp.com/send?phone=+2250705055059&text=Bonjour HEYZ, J\'aimerais savoir:', '_blank')" style="width: 72px; height: 72px; padding-bottom: 4px;/*! margin-right: 29px; */" spellcheck="false"><img style="width: 72px; height: 72px;margin: -9px;" src="/chat/images/icons/whatsapp.svg"></button>
             </div>
         </div>
     </div>
