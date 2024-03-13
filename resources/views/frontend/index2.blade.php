@@ -4498,7 +4498,7 @@
                                                             <div class="team-item">
                                                                 <div class="d-flex">
 
-                                                                    <img fetchpriority="high" decoding="async" width="1633" height="1750" src="/img/accueil/offre1.png" alt="">
+                                                                    <img fetchpriority="high" decoding="async" width="1633" height="1750" src="/img/accueil/offre1.png" alt="" style="border-radius: 25px;">
 
                                                                 </div>
 
@@ -4508,7 +4508,7 @@
                                                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                                                             <div class="team-item">
                                                                 <div class="d-flex">
-                                                                    <img data-ultimate-target='#modal-trg-txt-wrap-10000 .btn-modal' data-class-id="content-64f491c87e33b4-401000" data-overlay-class="overlay-zoomin" class="btn-modal overlay-show" style="cursor: pointer;" fetchpriority="high" decoding="async" width="1633" height="1750" src="/img/accueil/offre2.png" alt="">
+                                                                    <img data-ultimate-target='#modal-trg-txt-wrap-10000 .btn-modal' data-class-id="content-64f491c87e33b4-401000" data-overlay-class="overlay-zoomin" class="btn-modal overlay-show" style="cursor: pointer; border-radius: 25px;" fetchpriority="high" decoding="async" width="1633" height="1750" src="/img/accueil/offre2.png" alt="" >
                                                                     <!--                            <a href="/inscription" title="Choix du nombre d’année">   <img fetchpriority="high" decoding="async" width="1633" height="1750" src="../wp-content/uploads/sites/8/2024/11/Site bloc1.png" class="vc_single_image-img attachment-full" alt="" title="Site bloc1" srcset="/wp-content/uploads/sites/8/2024/11/Site bloc1.png 1633w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-280x300.png 280w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-956x1024.png 956w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-768x823.png 768w, /nyssa/demo1/wp-content/uploads/sites/8/2024/11/Site bloc1-1433x1536.png 1433w" sizes="(max-width: 1633px) 100vw, 1633px" alt=""> </a>	-->
                                                                 </div>
 
@@ -4518,7 +4518,7 @@
                                                             <div class="team-item">
                                                                 <div class="d-flex">
 
-                                                                    <img fetchpriority="high" decoding="async" width="1633" height="1750" src="/img/accueil/offre3.png" alt="">
+                                                                    <img fetchpriority="high" decoding="async" width="1633" height="1750" src="/img/accueil/offre3.png" alt="" style="border-radius: 25px;">
                                                                 </div>
 
                                                             </div>
@@ -5307,7 +5307,7 @@
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">
                                                                     <a href="mailto:info@challenge-toit.com">info@challenge-toit.com</a>
-                                                                    <br /><br />&nbsp;
+                                                                    <br />
                                                                     <a href="mailto:reclamations@challenge-toit.com">reclamations@challenge-toit.com</a>
                                                                 </p>
                                                             </div>
@@ -5336,8 +5336,8 @@
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">
-                                                                    (+225) 2722245432<br />&nbsp;<br />&nbsp;
-                                                                    (+225) 0705055059
+                                                                    (+225) 27-22-24-54-32<br />&nbsp;
+                                                                    (+225) 07-05-05-50-59
                                                                 </p>
                                                             </div>
                                                         </div>

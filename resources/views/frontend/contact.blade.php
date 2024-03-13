@@ -4098,7 +4098,7 @@
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">
                                                                     <a href="mailto:info@challenge-toit.com">info@challenge-toit.com</a>
-                                                                    <br /><br />&nbsp;
+                                                                    <br />
                                                                     <a href="mailto:reclamations@challenge-toit.com">reclamations@challenge-toit.com</a>
                                                                 </p>
                                                             </div>
@@ -4127,8 +4127,8 @@
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">
-                                                                    (+225) 2722245432<br />&nbsp;<br />&nbsp;
-                                                                    (+225) 0705055059
+                                                                    (+225) 27-22-24-54-32<br />&nbsp;
+                                                                    (+225) 07-05-05-50-59
                                                                 </p>
                                                             </div>
                                                         </div>
