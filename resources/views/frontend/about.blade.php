@@ -3526,10 +3526,11 @@
                                                     <div class="wpb_wrapper">
                                                         <ul style="color:#fff!important;">
                                                             <li>Inscris-toi c’est totalement gratuit</li>
-                                                            <li>Reçois une réponse en adéquation avec ta demande </li>
-                                                            <li>Intègre un programme certifié par la signature de ta fiche d’adhésion et le paiement des frais d’ouverture de dossier</li>
+                                                            <li>Reçois une réponse en adéquation avec ta demande</li>
+                                                            <li>Signature de ta fiche d’adhésion et le paiement des frais d’ouverture de dossier</li>
                                                             <li>Tu reçois ton contrat de réservation et tu débutes ton challenge</li>
-                                                            <li>Tu es livré dans le temps imparti et tu reçois ton titre de propriété, faisant de toit un propriétaire de plein droit. </li>
+                                                            <li>Tu es livré dans le temps imparti et tu reçois ton titre de propriété, faisant de toit un propriétaire de plein droit.</li>
+                                                            
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -4163,7 +4164,7 @@
                 <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
                     <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
                         <h4 style="text-transform: uppercase;">Bienvenue chez vous</h4>
-                        <p>Là où les rêves deviennent des adresses, où les foyers deviennent des refuges, et où l'histoire de chaque propriété est tissée avec soin et passion.<br><br>Rejoignez-nous dans cette aventure en remplissant ce formulaire.<br><strong>Inscrivez vous et faites partie de la révolution !</strong><br></p>
+                        <p>Là où les rêves deviennent des adresses, où les foyers deviennent des refuges,<br> et où l'histoire de chaque propriété est tissée avec soin et passion.<br><br>Rejoignez-nous dans cette aventure en remplissant ce formulaire.<br><strong>Inscrivez vous et faites partie de la révolution !</strong><br></p>
                         <!-- <p>
                             <img src="/img/accueil/maison_certif_form.png" style="width: auto;height: auto;scale: 1.1;" alt="">
                         </p> -->
@@ -4394,7 +4395,7 @@
                 <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
                     <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
                     <h4 style="text-transform: uppercase;">J'achète mon terrain</h4>
-                    <p>En complétant ce formulaire, vous profiterez, lors de transactions, d'un acte notarié, de documentation authentifiée et certifiée, conforme aux normes et réglementations en vigueur.<br><br><strong>Tous nos terrains ont des titres de propriété définitif</strong><br></p>    
+                    <p>En complétant ce formulaire, vous profiterez, lors de transactions, d'un acte notarié, de documentation <br>authentifiée et certifiée, conforme aux normes et réglementations en vigueur.<br><br><strong>Tous nos terrains ont des titres de propriété définitif</strong><br></p>    
                     <!-- <p>
                             <img src="/img/accueil/achete_terrain_form.png" style="width: auto;height: auto;scale: 1.1;" alt="">
                         </p> -->
@@ -4469,7 +4470,7 @@
                                             </p>
                                         </div>
                                     </div>
-                                    <div class="f-service">
+                                    <!-- <div class="f-service">
                                         <p>Accès aux services publics</p>
                                         <p>
                                             <span class="wpcf7-form-control-wrap" data-name="menu-781">
@@ -4480,7 +4481,7 @@
                                                 </select>
                                             </span>
                                         </p>
-                                    </div>
+                                    </div> -->
                                     <div class="f-name">
                                         <p>Donnez-nous l’intervalle de budget pour l'achat de ce terrain ?<span class="cforms-required">*</span></p>
                                         <div class="make-display-flex">
@@ -4556,7 +4557,7 @@
                                         </p>
                                     </div>
                                 </div>
-                                <div>
+                                <!-- <div>
                                     <p>
                                         En cliquant sur le bouton ci-dessous, je reconnais avoir pris connaissance et accepter sans réserves les Mentions légales et Conditions Générales d’Utilisation du site.
                                     </p>
@@ -4567,7 +4568,7 @@
                                             Je souhaite recevoir l’actualité du marché ainsi que les offres de Challenge-toit.
                                         </label>
                                     </div>
-                                </div>
+                                </div> -->
                                 <div class="bt-contact center">
                                     <p id="btnsender">
                                         <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Envoyer"><span class="wpcf7-spinner"></span></a>
