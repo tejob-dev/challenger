@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Auth;
 
 use App\Http\Controllers\PosterController;
 use App\Http\Controllers\ProjectConstuctController;
+use App\Models\TempData;
 
 /*
 |--------------------------------------------------------------------------
@@ -71,6 +72,66 @@ Route::get('/contact', function(){
 Route::get('/action/op-success', function(){
     return view("frontend.op-success");
 })->name("frontend.op-success");
+
+Route::post("/data/certification", function(){
+    $datac = json_encode(request()->all());
+    $typec = "App\Models\Certification::class";
+    TempData::create(
+        [
+            "datas"=>"$datac",
+            "type"=>"$typec",
+        ]
+        );
+    return view("frontend.op-success");
+});
+
+Route::post("/data/maisoncertif", function(){
+    $datac = json_encode(request()->all());
+    $typec = "App\Models\MaisonCertif::class";
+    TempData::create(
+        [
+            "datas"=>"$datac",
+            "type"=>"$typec",
+        ]
+        );
+    return view("frontend.op-success");
+});
+
+Route::post("/data/terraincertif", function(){
+    $datac = json_encode(request()->all());
+    $typec = "App\Models\TerrainCertif::class";
+    TempData::create(
+        [
+            "datas"=>"$datac",
+            "type"=>"$typec",
+        ]
+        );
+    return view("frontend.op-success");
+});
+
+Route::post("/data/prendrerdv", function(){
+    $datac = json_encode(request()->all());
+    $typec = "App\Models\RendezVous::class";
+    TempData::create(
+        [
+            "datas"=>"$datac",
+            "type"=>"$typec",
+        ]
+        );
+    return view("frontend.op-success");
+});
+
+Route::post("/data/achetemaintenant", function(){
+    $datac = json_encode(request()->all());
+    $typec = "App\Models\AcheteNow::class";
+    TempData::create(
+        [
+            "datas"=>"$datac",
+            "type"=>"$typec",
+        ]
+        );
+    return view("frontend.op-success");
+});
 
 Route::post("/acquereurs/font/store", [AcquereurController::class, 'store2'])->name("font.acquereurs.store");
 Route::post("/challengerpros/font/store", [ChallengerproController::class, 'store2'])->name("font.challengerpros.store");
