@@ -133,6 +133,18 @@ Route::post("/data/achetemaintenant", function(){
     return view("frontend.op-success");
 });
 
+Route::post("/data/contact", function(){
+    $datac = json_encode(request()->all());
+    $typec = "App\Models\Contact::class";
+    TempData::create(
+        [
+            "datas"=>"$datac",
+            "type"=>"$typec",
+        ]
+        );
+    return view("frontend.op-success");
+});
+
 Route::post("/acquereurs/font/store", [AcquereurController::class, 'store2'])->name("font.acquereurs.store");
 Route::post("/challengerpros/font/store", [ChallengerproController::class, 'store2'])->name("font.challengerpros.store");
 Route::post("/parraines/font/store", [ParraineController::class, 'store2'])->name("font.parraines.store");

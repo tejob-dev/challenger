@@ -3112,36 +3112,8 @@
                     </div>
                 </div>
                 <div id="nyssa_socials_widget-2" class="widget nyssa_socials_widget">
-                    <h4 class='widget_title_span'>Inscrivez-vous vite !</h4>
-                    <hr>
                     <div class="social-icons-fa align-center">
-                        <ul>
-                            <li>
-                                <a href="#" target="_blank" class="social-network twitter" title="Twitter">
-                                    <i class="fab fa-twitter"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank" class="social-network instagram" title="Instagram">
-                                    <i class="fab fa-instagram"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank" class="social-network youtube" title="Youtube">
-                                    <i class="fab fa-youtube"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank" class="social-network twitch" title="Twitch">
-                                    <i class="fab fa-twitch"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank" class="social-network weixin" title="Weixin">
-                                    <i class="fab fa-weixin"></i>
-                                </a>
-                            </li>
-                        </ul>
+                    <img alt="Logo challenge" style="height: 46px;/*! background-color: white; */border-radius: 25px;/*! padding: ; */" src="/img/import/challenge-fond-noir.png">
                     </div>
                 </div>
             </div>
@@ -4114,8 +4086,8 @@
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">
                                                                     <a href="mailto:info@challenge-toit.com">info@challenge-toit.com</a>
-                                                                    <br />
-                                                                    <a href="mailto:office@challenge-toit.com">office@challenge-toit.com</a>
+                                                                    <br /><br />&nbsp;
+                                                                    <a href="mailto:reclamations@challenge-toit.com">reclamations@challenge-toit.com</a>
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -4143,7 +4115,7 @@
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">
-                                                                    (+225) 2722245432<br />&nbsp;
+                                                                    (+225) 2722245432<br />&nbsp;<br />&nbsp;
                                                                     (+225) 0705055059
                                                                 </p>
                                                             </div>
@@ -4168,23 +4140,13 @@
                     <div class="social-icons-fa align-center">
                         <ul>
                             <li>
-                                <a href="#" target="_blank" class="instagram" title="Instagram">
-                                    <i class="fab fa-instagram"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank" class="twitter" title="Twitter">
-                                    <i class="fab fa-linkedin"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank" class="youtube" title="Youtube">
-                                    <i class="fab fa-youtube"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank" class="twitch" title="Twitch">
+                                <a href="https://web.facebook.com/profile.php?id=61554186385461" target="_blank" class="twitch" title="Twitch">
                                     <i class="fab fa-facebook"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.tiktok.com/@challenge_toit?is_from_webapp=1&sender_device=pc" target="_blank" class="twitch" title="Twitch">
+                                    <i class="fab fa-tiktok"></i>
                                 </a>
                             </li>
                         </ul>

@@ -3174,26 +3174,8 @@
                     </div>
                 </div>
                 <div id="nyssa_socials_widget-2" class="widget nyssa_socials_widget">
-                    <h4 class='widget_title_span'><a href="#enregistre-acquereurs">Inscrivez-vous vite !</a></h4>
-                    <hr>
                     <div class="social-icons-fa align-center">
-                        <ul>
-                            <li>
-                                <a href="#" target="_blank" class="social-network twitter" title="Twitter">
-                                    <i class="fab fa-twitter"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank" class="social-network instagram" title="Instagram">
-                                    <i class="fab fa-instagram"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank" class="social-network youtube" title="Youtube">
-                                    <i class="fab fa-youtube"></i>
-                                </a>
-                            </li>
-                        </ul>
+                        <img alt="Logo challenge" style="height: 46px;/*! background-color: white; */border-radius: 25px;/*! padding: ; */" src="/img/import/challenge-fond-noir.png">
                     </div>
                 </div>
             </div>
@@ -3815,7 +3797,6 @@
                                             <div class="wpb_text_column wpb_content_element ">
                                                 <div class="wpb_wrapper">
                                                     <p style="text-align: left;">Bénéficiez d’options d'acquisitions certifiées conçues pour vous, profitez des prêts adaptés, des plans de financement flexibles sur 5 ans ou des programmes spéciaux.</p>
-                                                    <br>
                                                     <p style="text-align: left;">Nous avons forcément la solution qui vous correspond en tout point.</p>
 
                                                 </div>
@@ -5326,8 +5307,8 @@
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">
                                                                     <a href="mailto:info@challenge-toit.com">info@challenge-toit.com</a>
-                                                                    <br />
-                                                                    <a href="mailto:office@challenge-toit.com">office@challenge-toit.com</a>
+                                                                    <br /><br />&nbsp;
+                                                                    <a href="mailto:reclamations@challenge-toit.com">reclamations@challenge-toit.com</a>
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -5355,7 +5336,7 @@
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">
-                                                                    (+225) 2722245432<br />&nbsp;
+                                                                    (+225) 2722245432<br />&nbsp;<br />&nbsp;
                                                                     (+225) 0705055059
                                                                 </p>
                                                             </div>
@@ -5380,23 +5361,13 @@
                     <div class="social-icons-fa align-center">
                         <ul>
                             <li>
-                                <a href="#" target="_blank" class="instagram" title="Instagram">
-                                    <i class="fab fa-instagram"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank" class="twitter" title="Twitter">
-                                    <i class="fab fa-linkedin"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank" class="youtube" title="Youtube">
-                                    <i class="fab fa-youtube"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank" class="twitch" title="Twitch">
+                                <a href="https://web.facebook.com/profile.php?id=61554186385461" target="_blank" class="twitch" title="Twitch">
                                     <i class="fab fa-facebook"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.tiktok.com/@challenge_toit?is_from_webapp=1&sender_device=pc" target="_blank" class="twitch" title="Twitch">
+                                    <i class="fab fa-tiktok"></i>
                                 </a>
                             </li>
                         </ul>
@@ -5417,7 +5388,7 @@
                 <iframe id="chat-items" src="https://cchat.heyz.ci/" frameborder="0" width="100%" height="100%"></iframe>
             </div>
             <div class="chatbox__button">
-                <button onclick="window.open('https://web.whatsapp.com/send?phone=+2250705055059&text=Bonjour HEYZ, J\'aimerais savoir:', '_blank')" style="width: 72px; height: 72px; padding-bottom: 4px;/*! margin-right: 29px; */" spellcheck="false"><img style="width: 72px; height: 72px;margin: -9px;" src="/chat/images/icons/whatsapp.svg"></button>
+                <button onclick="window.open('https://web.whatsapp.com/send?phone=+2250705151919&text=Bonjour HEYZ, J\'aimerais savoir:', '_blank')" style="width: 72px; height: 72px; padding-bottom: 4px;/*! margin-right: 29px; */" spellcheck="false"><img style="width: 72px; height: 72px;margin: -9px;" src="/chat/images/icons/whatsapp.svg"></button>
             </div>
         </div>
     </div>
