@@ -4247,19 +4247,19 @@
                                         <br>
                                         <div class="make-display-grid-3col">
                                             <label class="new-check">
-                                                <input type="checkbox" name="type_surface" value="Balcon" />
+                                                <input type="checkbox" name="type_surface[]" value="Balcon" />
                                                 <div></div>Balcon
                                             </label>
                                             <label class="new-check">
-                                                <input type="checkbox" name="type_surface" value="Terrasse" />
+                                                <input type="checkbox" name="type_surface[]" value="Terrasse" />
                                                 <div></div>Terrasse
                                             </label>
                                             <label class="new-check">
-                                                <input type="checkbox" name="type_surface" value="Garage" />
+                                                <input type="checkbox" name="type_surface[]" value="Garage" />
                                                 <div></div>Garage
                                             </label>
                                             <label class="new-check">
-                                                <input type="checkbox" name="type_surface" value="Jardin" />
+                                                <input type="checkbox" name="type_surface[]" value="Jardin" />
                                                 <div></div>Jardin
                                             </label>
                                         </div>
@@ -4268,15 +4268,15 @@
                                         <p>SI VOUS CHOISISSEZ DANS UN IMMEUBLE DONNEZ-NOUS VOS CRITÈRES ÉTAGES</p>
                                         <div class="make-display-grid-3col">
                                             <label class="new-check">
-                                                <input type="checkbox" name="critere_immeuble" value="Dernier étage" />
+                                                <input type="checkbox" name="critere_immeuble[]" value="Dernier étage" />
                                                 <div></div>Dernier étage
                                             </label>
                                             <label class="new-check">
-                                                <input type="checkbox" name="critere_immeuble" value="Rez-de-chaussée" />
+                                                <input type="checkbox" name="critere_immeuble[]" value="Rez-de-chaussée" />
                                                 <div></div>Rez-de-chaussée
                                             </label>
                                             <label class="new-check">
-                                                <input type="checkbox" name="critere_immeuble" value="Éviter le rez-de-chaussée" />
+                                                <input type="checkbox" name="critere_immeuble[]" value="Éviter le rez-de-chaussée" />
                                                 <div></div>Éviter le rez-de-chaussée
                                             </label>
                                         </div>
@@ -4286,19 +4286,19 @@
                                         <br>
                                         <div class="make-display-grid-3col">
                                             <label class="new-check">
-                                                <input type="checkbox" name="exigence_immeuble" value="Interphone" />
+                                                <input type="checkbox" name="exigence_immeuble[]" value="Interphone" />
                                                 <div></div>Interphone
                                             </label>
                                             <label class="new-check">
-                                                <input type="checkbox" name="exigence_immeuble" value="Gardien" />
+                                                <input type="checkbox" name="exigence_immeuble[]" value="Gardien" />
                                                 <div></div>Gardien
                                             </label>
                                             <label class="new-check">
-                                                <input type="checkbox" name="exigence_immeuble" value="Ascenseur" />
+                                                <input type="checkbox" name="exigence_immeuble[]" value="Ascenseur" />
                                                 <div></div>Ascenseur
                                             </label>
                                             <label class="new-check">
-                                                <input type="checkbox" name="exigence_immeuble" value="Piscine" />
+                                                <input type="checkbox" name="exigence_immeuble[]" value="Piscine" />
                                                 <div></div>Piscine
                                             </label>
                                         </div>
