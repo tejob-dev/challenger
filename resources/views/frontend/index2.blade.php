@@ -2519,6 +2519,7 @@
     <!-- <link rel='stylesheet' href='/stylea.css' type='text/css' /> -->
     <link rel='stylesheet' href='/checkcss.css' type='text/css' />
     <link rel='stylesheet' href='/formstyle.css' type='text/css' />
+    <link rel='stylesheet' href='/css/mobilecss.css' type='text/css' />
 
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -3388,7 +3389,7 @@
 
                     --><!--
 
-                    --><rs-layer id="slider-18-slide-52-layer-10" class="rs-pxl-7" data-type="shape" data-xy="x:c;xo:270px,250px,150px,-95px;yo:150px,30px,30px,400px;" data-text="w:normal;" data-dim="w:450px,450px,450px,480px;h:500px,500px,500px,300px;" data-rsp_o="off" data-rsp_bd="off" data-border="bor:75px,75px,0,0;" data-frame_0="y:top;o:1;" data-frame_1="e:power4.out;sp:2000;" data-frame_999="y:top;o:1;e:power2.inOut;st:w;sp:500;sR:7000;" style="z-index:13;;"><rs-bg-elem style="background: url('/img/br_accueil_transparence.png') no-repeat center center; background-size: 100%;"></rs-bg-elem>
+                    --><rs-layer id="slider-18-slide-52-layer-10" class="rs-pxl-7" data-type="shape" data-xy="x:c;xo:270px,250px,150px,-95px;yo:150px,30px,30px,400px;" data-text="w:normal;" data-dim="w:450px,450px,450px,480px;h:500px,500px,500px,300px;" data-rsp_o="off" data-rsp_bd="off" data-border="bor:75px,75px,0,0;" data-frame_0="y:top;o:1;" data-frame_1="e:power4.out;sp:2000;" data-frame_999="y:top;o:1;e:power2.inOut;st:w;sp:500;sR:7000;" style="z-index:13;;"><rs-bg-elem id="bg_image_accueil" style="background: url('/img/br_accueil_transparence.png') no-repeat center center; background-size: 100%;"></rs-bg-elem>
 
                                                         </rs-layer><!--
 
@@ -3764,7 +3765,7 @@
                                     <div class="wpb_single_image wpb_content_element vc_align_left">
                                         <figure class="wpb_wrapper vc_figure">
                                             <div class="vc_single_image-wrapper   vc_box_border_grey">
-                                                <img decoding="async" width="1633" height="1750" src="https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3.jpg" class="vc_single_image-img attachment-full" alt="" title="home2-section3" srcset="https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3.jpg 1633w, https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3-280x300.jpg 280w, https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3-956x1024.jpg 956w, https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3-768x823.jpg 768w, https://preview.treethemes.com/nyssa/demo1/wp-content/uploads/sites/8/2022/11/home2-section3-1433x1536.jpg 1433w" sizes="(max-width: 1633px) 100vw, 1633px" />
+                                                <img decoding="async" width="1633" height="1750" src="/img/accueil/bg_terrain_certif.jpg" class="vc_single_image-img attachment-full" alt="" title="home2-section3" />
                                             </div>
                                         </figure>
                                     </div>
@@ -3777,18 +3778,21 @@
                                     <div class="ult-content-box-container ">
                                         <div class="ult-content-box" style="box-shadow: px px px px none;margin:170px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin:0px;" data-normal_margins="margin:170px;">
                                             <div class="ult-spacer spacer-65c0b3f3647bf" data-id="65c0b3f3647bf" data-height="" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
-                                            <p style="text-align: left" class="vc_custom_heading heading_border">About Us</p>
-                                            <h2 style="text-align: left" class="vc_custom_heading">Turn ideas into creations</h2>
+                                            <p style="text-align: left" class="vc_custom_heading heading_border">Des terrains fiables et sécurisés</p>
+                                            <h2 style="text-align: left" class="vc_custom_heading">Terrains certifiés</h2>
                                             <div class="wpb_text_column wpb_content_element ">
                                                 <div class="wpb_wrapper">
-                                                    <p style="text-align: left;">Lorem Ipsum is simply dummy text of the printing and typesetting industry standard dummy text ever.</p>
+                                                    <p style="text-align: left;">Découvrez des terrains certifiés avec ACD (Arrêté de Concession Définitive), prêts pour la construction, en conformité absolue avec les normes et réglementations en vigueur.</p>
+                                                    <br>
+                                                    <p style="text-align: left;">Inscrivez-vous sans frais et faites-nous part de vos désirs pour que nous puissions vous aider à les concrétiser.</p>
                                                 </div>
                                             </div>
                                             <div class="vc_empty_space" style="height: 20px">
                                                 <span class="vc_empty_space_inner"></span>
                                             </div>
                                             <div class="vc_btn3-container vc_btn3-inline">
-                                                <a onmouseleave="this.style.borderColor='#5a24b1'; this.style.backgroundColor='transparent'; this.style.color='#5a24b1'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#5a24b1; color:#5a24b1;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="https://preview.treethemes.com/nyssa/demo1/portfolios/masonry-portfolio/masonry-big-gap-2/" title="">Our work</a>
+                                                <!-- <a onmouseleave="this.style.borderColor='#5a24b1'; this.style.backgroundColor='transparent'; this.style.color='#5a24b1'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#5a24b1; color:#5a24b1;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" href="https://preview.treethemes.com/nyssa/demo1/portfolios/masonry-portfolio/masonry-big-gap-2/" title="">Our work</a> -->
+                                                <button data-ultimate-target="#modal-trg-txt-wrap-9000 .btn-modal" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" style="background-color:#17b088; color:#ffffff;" data-class-id="content-64f491c87e33b4-400900" class="btn-modal ult-responsive vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-custom overlay-show ult-align-left btn-id-64f491c87e33b4-51630579" data-overlay-class="overlay-zoomin">Inscrivez-vous</button>
                                             </div>
                                         </div>
                                     </div>
@@ -3812,7 +3816,7 @@
                                                 <div class="wpb_wrapper">
                                                     <p style="text-align: left;">Bénéficiez d’options d'acquisitions certifiées conçues pour vous, profitez des prêts adaptés, des plans de financement flexibles sur 5 ans ou des programmes spéciaux.</p>
                                                     <br>
-                                                    <p style="text-align: left;">nous avons forcément la solution qui vous correspond en tout point.</p>
+                                                    <p style="text-align: left;">Nous avons forcément la solution qui vous correspond en tout point.</p>
 
                                                 </div>
                                             </div>
@@ -3825,63 +3829,6 @@
                                 </div>
                             </div>
                         </div>
-
-                        <!-- <div class="ult-overlay content-64f491c87e33b4-400000 " data-class="content-64f491c87e33b4-400000" id="button-click-overlay" style="background:rgba(23,22,29,0.98); display:none;">
-                            <div class="ult_modal ult-fade ult-medium">
-                                <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
-                                    <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
-                                        PRENEZ UN RENDEZ-VOUS
-                                        <p></p>
-                                        <div class="wpcf7 js" id="wpcf7-f831-o1" lang="en-US" dir="ltr">
-                                            <div class="screen-reader-response">
-                                                <p role="status" aria-live="polite" aria-atomic="true"></p>
-                                                <ul></ul>
-                                            </div>
-                                            <form action="http://challenger.test/acquereurs/font/store" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
-
-                                                <input type="hidden" name="_token" value="COpu6AITTwonzI9vJU8RkLxbAllclegbxvntwXlx">
-                                                <div class="nyssa-multiple-fields">
-                                                    <div class="f-name">
-                                                        <p>Votre nom et prénoms<span class="cforms-required">*</span>
-                                                        </p>
-                                                        <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="nompre"></span>
-                                                        </p>
-                                                    </div>
-                                                    <div class="f-email">
-                                                        <p>Votre téléphone<span class="cforms-required">*</span></p>
-                                                        <p><span class="wpcf7-form-control-wrap" data-name="your-subject"><input class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="telephone"></span>
-                                                        </p>
-                                                    </div>
-                                                    <div class="f-name">
-                                                        <p>Votre e-mail<span class="cforms-required">*</span>
-                                                        </p>
-                                                        <p><span class="wpcf7-form-control-wrap" data-name="your-email"><input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="email"></span>
-                                                        </p>
-                                                    </div>
-                                                    <div class="f-email">
-                                                        <p>Choix de la date<span class="cforms-required">*</span>
-                                                        </p>
-                                                        <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="datetime-local" name="nompre"></span>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="bt-contact center">
-                                                    <p id="btnsender">
-                                                        <a class="btn-contact-left"><input class="wpcf7-form-control has-spinner wpcf7-submit" style="color:#4beee9;" type="submit" value="Envoyez"><span class="wpcf7-spinner"></span></a>
-                                                    </p>
-                                                </div>
-                                                <div class="wpcf7-response-output" aria-hidden="true"></div>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="ult-overlay-close top-right" style="width:80px;height:80px; ">
-                                <div class="ult-overlay-close-inside"></div>
-                            </div>
-                        </div> -->
-
-
 
                         <div class="wpb_column vc_column_container vc_col-sm-6">
                             <div class="vc_column-inner">
@@ -3896,7 +3843,7 @@
                                                     <div class="info-details" data-icon-class="ult-info-circle-icon">
                                                         <div class="info-circle-def">
                                                             <div class="info-circle-sub-def">
-                                                                <i class="linearicons-color-sampler info-circle-icon"></i>
+                                                            <img style="width: 40px;height: 40px;margin: 10% auto;display: block;" src="/img/accueil/icones/PRET-ADAPTE.png" alt="icone" srcset="">
                                                                 <div class="responsive-font-class ult-responsive">
                                                                     <h3 data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;">Prêt adapté :</h3>
                                                                     <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Nos partenaires financiers vous font bénéficier de prêts à des taux avantageux.</div>
@@ -3910,7 +3857,7 @@
                                                     <div class="info-details" data-icon-class="ult-info-circle-icon">
                                                         <div class="info-circle-def">
                                                             <div class="info-circle-sub-def">
-                                                                <i class="linearicons-laptop-phone info-circle-icon"></i>
+                                                            <img style="width: 40px;height: 40px;margin: 10% auto;display: block;" src="/img/accueil/icones/FINACEMENTS-FLEXIBLES.png" alt="icone" srcset="">
                                                                 <div class="responsive-font-class ult-responsive">
                                                                     <h3 data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;">Financement flexibles :</h3>
                                                                     <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Vous pouvez structurer votre investissement selon vos capacités financières.</div>
@@ -3923,7 +3870,8 @@
                                                     </div>
                                                     <div class="info-details" data-icon-class="ult-info-circle-icon">
                                                         <div class="info-circle-def">
-                                                            <div class="info-circle-sub-def"><i class="linearicons-code info-circle-icon"></i>
+                                                            <div class="info-circle-sub-def">
+                                                            <img style="width: 40px;height: 40px;margin: 10% auto;display: block;" src="/img/accueil/icones/COMPTE-SEQUESTRE.png" alt="icone" srcset="">
                                                                 <div class="responsive-font-class ult-responsive">
                                                                     <h3 data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;">Compte séquestre :</h3>
                                                                     <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Assure la sécurité des fonds en les gardant séparés jusqu'à l'achèvement des travaux.</div>
@@ -3936,7 +3884,8 @@
                                                     </div>
                                                     <div class="info-details" data-icon-class="ult-info-circle-icon">
                                                         <div class="info-circle-def">
-                                                            <div class="info-circle-sub-def"><i class="linearicons-cube info-circle-icon"></i>
+                                                            <div class="info-circle-sub-def">
+                                                            <img style="width: 40px;height: 40px;margin: 10% auto;display: block;" src="/img/accueil/icones/GARANTIE-REMBOURSEMENT.png" alt="icone" srcset="">
                                                                 <div class="responsive-font-class ult-responsive">
                                                                     <h3 data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;">Assurance :</h3>
                                                                     <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Garantit le remboursement de vos cotisations en cas de non achèvement. </div>
@@ -3949,7 +3898,8 @@
                                                     </div>
                                                     <div class="info-details" data-icon-class="ult-info-circle-icon">
                                                         <div class="info-circle-def">
-                                                            <div class="info-circle-sub-def"><i class="linearicons-fire info-circle-icon"></i>
+                                                            <div class="info-circle-sub-def">
+                                                            <img style="width: 40px;height: 40px;margin: 10% auto;display: block;" src="/img/accueil/icones/DELAI-DE-LIVRAISON.png" alt="icone" srcset="">
                                                                 <div class="responsive-font-class ult-responsive">
                                                                     <h3 data-ultimate-target='#info-cirlce-wrap-1403 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:22px;","line-height":"desktop:28px;"}' class="info-circle-heading ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:600;">Délai de livraison :</h3>
                                                                     <div class="info-circle-text " style="font-family:&#039;Inter&#039;;font-weight:normal;">Contractuel, il reflète notre sérieux et notre volonté de vous offrir une expérience sans tracas.</div>
@@ -5029,6 +4979,9 @@
                         </div>
                     </div>
                 </div>
+            </div>
+            <div class="ult-overlay-close top-right" style="width:80px;height:80px; ">
+                <div class="ult-overlay-close-inside" style="background-color: #000;"></div>
             </div>
         </div>
 
