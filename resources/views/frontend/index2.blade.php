@@ -4965,12 +4965,12 @@
                                     <div class="f-email">
                                         <p>Choix de la date<span class="cforms-required">*</span>
                                         </p>
-                                        <div class="make-display-flex">
+                                        <div style="display: flex;flex-direction: column;">
                                             <p>
-                                                <span class="wpcf7-form-control-wrap" data-name="rdv-date"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="date" id="date" name="rdv-date"></span>
+                                                <span class="wpcf7-form-control-wrap" data-name="rdv-date">La Date: <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="date" id="date" name="rdv-date"></span>
                                             </p>
                                             <p>
-                                                <span class="wpcf7-form-control-wrap" data-name="rdv-hour"><input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="time" min="09:00" max="18:00" id="date" name="rdv-hour"></span>
+                                                <span class="wpcf7-form-control-wrap" data-name="rdv-hour">L'Heure: <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="time" min="09:00" max="18:00" id="date-hour" name="rdv-hour"></span>
                                             </p>
                                         </div>
                                         
@@ -5871,6 +5871,30 @@
                 }, 1500);
             });
         })
+
+        function getFormattedDate() {
+            const today = new Date();
+            const year = today.getFullYear();
+            const month = String(today.getMonth() + 1).padStart(2, '0'); // Add leading zero for single-digit months
+            const day = String(today.getDate()).padStart(2, '0'); // Add leading zero for single-digit days
+
+            const formattedDate = year + '-' + month + '-' + day;
+            return formattedDate;
+        }
+
+        function getFormattedTime() {
+            const now = new Date();
+            const hours = String(now.getHours()).padStart(2, '0'); // Add leading zero for single-digit hours
+            const minutes = String(now.getMinutes()).padStart(2, '0'); // Add leading zero for single-digit minutes
+
+            const formattedTime = hours + ':' + minutes;
+            return formattedTime;
+        }
+
+        const currentDate = getFormattedDate();
+
+        document.querySelector("#date").value = currentDate;
+        document.querySelector("#date-hour").value = getFormattedTime();
     </script>
 </body>
 
