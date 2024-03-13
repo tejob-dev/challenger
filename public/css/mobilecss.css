@@ -29,3 +29,15 @@
         margin-left: 1%;
     }
 }
+
+@media (max-width: 620px) {
+
+    .make-display-flex{
+        display: initial;
+    }
+
+    .make-display-grid-3col {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}

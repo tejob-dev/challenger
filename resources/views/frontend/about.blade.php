@@ -21,7 +21,8 @@
     <link rel='stylesheet' id='nyssa-woocommerce-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/nyssa-woocommerce.css?ver=6.1.1' type='text/css' media='all' />
     <link rel='stylesheet' id='nyssa-mb-ytplayer-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/mb.YTPlayer.css?ver=6.1.1' type='text/css' media='all' />
     <link rel='stylesheet' id='nyssa-retina-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/retina.css?ver=6.1.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='nyssa-style-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/style.css?ver=1.1.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='nyssa-style-css' href='/nyssa/demo1/wp-content/themes/nyssa/style.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='nyssa-style-css' href='/css/mobilecss.css' type='text/css' media='all' />
    
     <link rel='stylesheet' href='/stylec.css' type='text/css'  />
     <link rel='stylesheet' href='/formstyle.css' type='text/css' />
@@ -4228,7 +4229,7 @@
                                     </div>
                                     <div class="f-email">
                                         <p>À PROPOS DU BIEN</p>
-                                        <div style="display: flex;">
+                                        <div class="make-display-flex">
                                             <p>
                                                 <span class="wpcf7-form-control-wrap" data-name="your-email">
                                                 Nombre de chambres<input style="width: 30%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="nbr_chambre"> 
@@ -4241,10 +4242,10 @@
                                             </p>
                                         </div>
                                     </div>
-                                    <div class="f-name">
+                                    <div class="f-email">
                                         <p>SURFACES ANNEXES</p>
                                         <br>
-                                        <div style="display: grid;grid-template-columns: 1fr 1fr 1fr;">
+                                        <div class="make-display-grid-3col">
                                             <label class="new-check">
                                                 <input type="checkbox" name="type_surface" value="Balcon" />
                                                 <div></div>Balcon
@@ -4265,7 +4266,7 @@
                                     </div>
                                     <div class="f-email">
                                         <p>SI VOUS CHOISISSEZ DANS UN IMMEUBLE DONNEZ-NOUS VOS CRITÈRES ÉTAGES</p>
-                                        <div style="display: grid;grid-template-columns: 1fr 1fr 1fr;">
+                                        <div class="make-display-grid-3col">
                                             <label class="new-check">
                                                 <input type="checkbox" name="critere_immeuble" value="Dernier étage" />
                                                 <div></div>Dernier étage
@@ -4280,10 +4281,10 @@
                                             </label>
                                         </div>
                                     </div>
-                                    <div class="f-name">
+                                    <div class="f-email">
                                         <p>VOS EXIGENCES PARTICULIÈRES POUR L’IMMEUBLE</p>
                                         <br>
-                                        <div style="display: grid;grid-template-columns: 1fr 1fr 1fr;">
+                                        <div class="make-display-grid-3col">
                                             <label class="new-check">
                                                 <input type="checkbox" name="exigence_immeuble" value="Interphone" />
                                                 <div></div>Interphone
@@ -4520,7 +4521,7 @@
                                     </div>
                                     <div class="f-name">
                                         <p>Donnez-nous l’intervalle de budget pour l'achat de ce terrain ?<span class="cforms-required">*</span></p>
-                                        <div style="display: flex;">
+                                        <div class="make-display-flex">
                                             <p>
                                                 <span class="wpcf7-form-control-wrap" data-name="your-email">
                                                 <input placeholder="min" style="width: 50%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="min_budget"> 
@@ -4598,10 +4599,10 @@
                                         En cliquant sur le bouton ci-dessous, je reconnais avoir pris connaissance et accepter sans réserves les Mentions légales et Conditions Générales d’Utilisation du site.
                                     </p>
                                     <br>
-                                    <div style="display: flex; flex-direction:column;">
-                                        <label class="" style="text-align: center;">
-                                            <input type="checkbox" name="active_news" value="Je souhaite recevoir l’actualité du marché ainsi que les offres de Challenge-toit." />
-                                            <div></div>Je souhaite recevoir l’actualité du marché ainsi que les offres de Challenge-toit.
+                                    <div style="display: flex;flex-direction: initial;margin: 13px;">
+                                        <input type="checkbox" name="active_news" value="Je souhaite recevoir l’actualité du marché ainsi que les offres de Challenge-toit." style="display: initial;"><label class="" style="/* text-align: center; */display: contents;">
+                                            
+                                            Je souhaite recevoir l’actualité du marché ainsi que les offres de Challenge-toit.
                                         </label>
                                     </div>
                                 </div>

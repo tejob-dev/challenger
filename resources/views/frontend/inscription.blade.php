@@ -20,8 +20,9 @@
     <link rel="stylesheet" id="nyssa-woo-layout-css" href="css/nyssa-woo-layout.css" type="text/css" media="all">
     <link rel="stylesheet" id="nyssa-woocommerce-css" href="css/nyssa-woocommerce.css" type="text/css" media="all">
     <link rel="stylesheet" id="nyssa-mb-ytplayer-css" href="css/mb.YTPlayer.css" type="text/css" media="all">
-    <link rel="stylesheet" id="nyssa-retina-css" href="css/retina.css" type="text/css" media="all">
-    <link rel="stylesheet" id="nyssa-style-css" href="css/style.css" type="text/css" media="all">
+    <link rel="stylesheet" id="nyssa-retina-css" href="/css/retina.css" type="text/css" media="all">
+    <link rel="stylesheet" id="nyssa-style-css" href="/css/style.css" type="text/css" media="all">
+    <link rel="stylesheet" id="nyssa-style-css" href="/nyssa/demo1/wp-content/themes/nyssa/style.css" type="text/css" media="all">
     
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
