@@ -4692,7 +4692,7 @@
                                         </div>
                                     </div>
                                     <div class="f-email">
-                                        <p>Nombre de pieces (m²)<span class="cforms-required"></span></p>
+                                        <p>Nombre de pieces<span class="cforms-required"></span></p>
                                         <p>
                                             <span class="wpcf7-form-control-wrap" data-name="your-email">
                                                 <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="number" min="10" name="nbr_piece">
