@@ -3162,22 +3162,33 @@
         <div class="display-table">
             <div id="nyssa-push-sidebar-content" class="nyssa-push-sidebar-content ajaxable">
                 <div class="sidebar-box widget_media_image" id="media_image-2">
-                    <img width="300" height="115" src="/img/import/Footer.png" class="image wp-image-448  attachment-medium size-medium" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" />
+                    <!-- <img width="300" height="115" src="/img/import/Footer.png" class="image wp-image-448  attachment-medium size-medium" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" /> -->
+                    <img width="300" height="115" src="/img/import/challenge-fond-noir.png" class="image wp-image-448  attachment-medium size-medium" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;"
+                    />
                 </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
                 <div class="sidebar-box widget_text" id="text-2">
                     <div class="textwidget">
-                        <p style="text-align: center;">
-                            <span style="text-align: justify; width: 55ch;">
-                            Tout devient possible dans l’immobilier. <br>Bienvenue dans la tranquillité d’esprit. <br>Vivez l’expérience challenge-toit un service d’acquisition de biens immobiliers sans compromis qui assure l’authenticité et la conformité de chaque propriété.<!-- <a href="#">Get nyssa today!</a> -->
+                        <p style="text-align: left;width: 19ch;margin: 0 auto 0 15% !important;/*! align-content: space-evenly; *//*! align-items: revert-layer; *//*! align-self: center; */">
+                            <span style="">
+                                Tout devient possible dans l’immobilier. Bienvenue dans la tranquillité d’esprit. <!-- <a href="#">Get nyssa today!</a> -->
+                            </span>
+                        </p>
+                        <p style="text-align: left;width: 19ch;margin: 0 auto 0 15% !important;">
+                            <span style="">Vivez l’expérience challenge-toit un service d’acquisition de biens immobiliers sans compromis qui assure l’authenticité et la conformité de chaque propriété.<!-- <a href="#">Get nyssa today!</a> -->
                             </span>
                         </p>
                     </div>
                 </div>
-                <div id="nyssa_socials_widget-2" class="widget nyssa_socials_widget">
+                <!-- <div id="nyssa_socials_widget-2" class="widget nyssa_socials_widget">
                     <div class="social-icons-fa align-center">
                         <img alt="Logo challenge" style="height: 46px;/*! background-color: white; */border-radius: 25px;/*! padding: ; */" src="/img/import/challenge-fond-noir.png">
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
@@ -5091,6 +5102,7 @@
                                                 <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="moment_acquis" tabindex="-1" aria-hidden="true">
                                                     <option value="Maintenant">Maintenant</option>
                                                     <option value="Challenge Express (1an)">Challenge Express (1an)</option>
+                                                    <option value="Challenge Progressif (2ans)">Challenge Progressif (2ans)</option>
                                                     <option value="Challenge Stabilité (3ans)">Challenge Stabilité (3ans)</option>
                                                     <option value="Challenge Planifié (4ans)">Challenge Planifié (4ans)</option>
                                                     <option value="Challenge Visionnaire (5ans)">Challenge Visionnaire (5ans)</option>
@@ -5388,7 +5400,7 @@
                 <iframe id="chat-items" src="https://cchat.heyz.ci/" frameborder="0" width="100%" height="100%"></iframe>
             </div>
             <div class="chatbox__button">
-                <button onclick="window.open('https://web.whatsapp.com/send?phone=+2250705151919&text=Bonjour HEYZ, J\'aimerais savoir:', '_blank')" style="width: 72px; height: 72px; padding-bottom: 4px;/*! margin-right: 29px; */" spellcheck="false"><img style="width: 72px; height: 72px;margin: -9px;" src="/chat/images/icons/whatsapp.svg"></button>
+                <button onclick="window.open('https://web.whatsapp.com/send?phone=+2250705151919&text=Bonjour HEYZ, J\'aimerais savoir :', '_blank')" style="width: 72px; height: 72px; padding-bottom: 4px;/*! margin-right: 29px; */" spellcheck="false"><img style="width: 72px; height: 72px;margin: -9px;" src="/chat/images/icons/whatsapp.svg"></button>
             </div>
         </div>
     </div>

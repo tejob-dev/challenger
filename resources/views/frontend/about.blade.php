@@ -23,27 +23,27 @@
     <link rel='stylesheet' id='nyssa-retina-css' href='https://preview.treethemes.com/nyssa/demo1/wp-content/themes/nyssa/css/retina.css?ver=6.1.1' type='text/css' media='all' />
     <link rel='stylesheet' id='nyssa-style-css' href='/nyssa/demo1/wp-content/themes/nyssa/style.css' type='text/css' media='all' />
     <link rel='stylesheet' id='nyssa-style-css' href='/css/mobilecss.css' type='text/css' media='all' />
-   
-    <link rel='stylesheet' href='/stylec.css' type='text/css'  />
+
+    <link rel='stylesheet' href='/stylec.css' type='text/css' />
     <link rel='stylesheet' href='/formstyle.css' type='text/css' />
-    
+
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
     </style>
-    
+
     <style>
-        * :not(.fab, .fa, .fas){
-            font-family: "Marcellus"!important;
+        * :not(.fab, .fa, .fas) {
+            font-family: "Marcellus" !important;
         }
     </style>
-    
+
     <style id='nyssa-style-inline-css' type='text/css'>
         .widget li a:after,
         .widget_nav_menu li a:after,
         .custom-widget.widget_recent_entries li a:after {
             color: #003279;
         }
-        
+
         body,
         p,
         .lovepost a,
@@ -76,39 +76,39 @@
             font-size: 15px;
             color: #003279;
         }
-        
+
         input[type=date]::-webkit-calendar-picker-indicator {
             filter: invert(1);
         }
-        
+
         p:not(.metas-container p),
         .widget p,
         .widget span,
         .testimonials p {
             line-height: 1.7em !important;
         }
-        
+
         .info-circle-text {
             font-family: 'Inter', 'Arial', 'sans-serif';
             font-weight: normal;
             font-size: 15px;
         }
-        
+
         .wpb-js-composer .vc_tta-color-grey.vc_tta-style-outline .vc_tta-tab>a {
             color: #003279 !important;
         }
-        
+
         .page_content.sidebar .tagcloud a {
             color: #003279;
         }
-        
+
         .map_info_text {
             font-family: 'Inter', 'Arial', 'sans-serif', sans-serif;
             font-weight: normal;
             font-size: 15px;
             color: #003279 !important;
         }
-        
+
         .woocommerce ul.products li.product .price ins,
         .woocommerce-page ul.products li.product .price ins,
         .woocommerce #content div.product p.price ins,
@@ -125,7 +125,7 @@
             color: #003279 !important;
             background: transparent !important;
         }
-        
+
         a.pageXofY .pageX,
         .pricing .bestprice .name,
         .filter li a:hover,
@@ -198,27 +198,27 @@
         p.vc_custom_heading.heading_border {
             color: #4beee9;
         }
-        
+
         #pbd-alp-load-posts a {
             background-color: #4beee9;
             border-color: #4beee9;
         }
-        
+
         .wpb-js-composer .vc_tta-color-grey.vc_tta-style-outline .vc_tta-tab.vc_active>a {
             background: #4beee9 !important;
             color: #fff !important;
             border-color: #4beee9 !important;
         }
-        
+
         .vc_toggle_square .vc_toggle_icon,
         p.vc_custom_heading.heading_border::before {
             background-color: #4beee9 !important;
         }
-        
+
         body:not(.page-template-blog-template):not(.page-template-blog-masonry-template) .page_content blockquote {
             border-left: 4px solid #4beee9 !important;
         }
-        
+
         body .ls-roundedflat .ls-nav-prev:hover,
         body .ls-roundedflat .ls-nav-next:hover,
         body .ls-roundedflat .ls-bottom-slidebuttons a.ls-nav-active,
@@ -255,7 +255,7 @@
             background: #4beee9 !important;
             color: #fff !important;
         }
-        
+
         .woocommerce #content input.button,
         .woocommerce #respond input#submit,
         .woocommerce a.button:not(.add_to_cart_button):not(.product_type_simple),
@@ -277,7 +277,7 @@
             color: #4beee9 !important;
             border: 2px solid #4beee9 !important;
         }
-        
+
         .woocommerce #content input.button:hover,
         .woocommerce #respond input#submit:hover,
         .woocommerce a.button:not(.add_to_cart_button):not(.product_type_simple):hover,
@@ -300,7 +300,7 @@
             background: #4beee9 !important;
             border: 2px solid #4beee9 !important;
         }
-        
+
         .testimonials.style1 .testimonial span a,
         .metas a:hover(.page-template-blog-masonry-grid-template .metas a:hover),
         .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-title>a,
@@ -331,61 +331,61 @@
         .woocommerce ul.products li.product a.product_type_grouped:hover,
         .woocommerce ul.products li.product a.product_type_external:hover,
         {
-            color: #4beee9 !important;
+        color: #4beee9 !important;
         }
-        
+
         .nyssa-form-simple.dark .bt-contact a:not(.button-dark) span input:hover {
             border: 1px solid #4beee9 !important;
             background: #4beee9 !important;
         }
-        
+
         .info-circle-active {
             border: 1px solid #4beee9 !important;
             background: #4beee9 !important;
             color: #000 !important;
         }
-        
+
         .testimonials.style1 .testimonial span a,
         .tabs.wc-tabs a:hover,
         .tabs.wc-tabs .active a {
             color: #4beee9 !important;
         }
-        
+
         body.page-template-blog-masonry-grid-template .metas a:hover,
         body .button-dark:hover input {
             color: #fff !important;
         }
-        
+
         .widget:not(.contact-widget-container):not(.instagram_widget):not(.recent_posts_widget_2) li a:hover:after,
         .widget_nav_menu li a:hover:after,
         .footer_sidebar ul li a:hover:after {
             border-bottom-color: #4beee9 !important;
         }
-        
+
         .special_tabs.horizontal.text .tab-selector .label:hover .title a:before,
         .ult_btn10_span:hover:before,
         a.aio-icon-read:hover:before {
             border-bottom-color: #4beee9 !important;
         }
-        
+
         .ult_cl_link_1 .ult_btn10_span:hover:before,
         .ult_cl_link_1 .ult_btn10_span:before {
             border: none !important;
         }
-        
+
         .aio-icon-read,
         .tp-caption a.text_color {
             color: #4beee9 !important;
         }
-        
+
         #big_footer .social-icons-fa a:not(.social-network) i {
             color: #a79fbe;
         }
-        
+
         #big_footer .social-icons-fa a:not(.social-network) i:hover {
             color: #4beee9;
         }
-        
+
         .homepage_parallax .home-logo-text a.light:hover,
         .homepage_parallax .home-logo-text a.dark:hover,
         .widget li a:hover:before,
@@ -414,11 +414,11 @@
         .related_posts_listing .related_post .title:hover {
             color: #4beee9 !important;
         }
-        
+
         .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-title>a i.vc_tta-controls-icon:before {
             border-color: #4beee9 !important;
         }
-        
+
         .widget.widget_pages li:not(li:first-child),
         .widget.widget_meta li:not(li:first-child),
         .widget.widget_recent_comments li:not(li:first-child),
@@ -431,29 +431,29 @@
         .product-categories li:not(li:first-child) {
             border-top: 1px solid #d6d5d9 !important;
         }
-        
+
         .special_tabs.icontext.vertical .tab-selector,
         .special_tabs.text.vertical .tab-selector {
             border-right: 1px solid #d6d5d9 !important;
         }
-        
+
         .special_tabs.vertical:not(.icon) .tab-selector .label,
         .minicart_total_checkout {
             border-bottom: 1px solid #d6d5d9 !important;
         }
-        
+
         .special_tabs.icontext .tab-selector .label:last-child,
         .special_tabs.text .tab-selector .label:last-child {
             border-bottom: none !important;
         }
-        
+
         .widget_nav_menu li:not(.nyssa-push-sidebar-content li):last-child,
         .footer_sidebar ul li:not(.social-icons-fa li):not(.slick-dots li):last-child,
         .widget.widget_archive li:last-child,
         .widget.widget_categories li:last-child {
             border-bottom: 1px solid #d6d5d9 !important;
         }
-        
+
         a.sf-button.hide-icon,
         .tabs li.current,
         .readmore:hover,
@@ -544,12 +544,12 @@
         .recentpostsvc a.blog-read-more {
             background-color: #4beee9;
         }
-        
+
         .nyssa-button-color,
         .tagcloud a:hover {
             border: 1px solid #4beee9;
         }
-        
+
         .des-pages .current .postpagelinks,
         .des-pages a .postpagelinks:hover,
         .navigation a.page:hover {
@@ -557,16 +557,16 @@
             background-color: #4beee9;
             color: #fff !important;
         }
-        
+
         .bt-contact a.button-dark span input {
             border: 2px solid #fff !important;
             background: #fff !important;
         }
-        
+
         .bt-contact a.button-dark span input:hover {
             border: 1px solid #4beee9;
         }
-        
+
         #nav-below:not(.navigation_with_thumbnails) .nav-previous,
         #nav-below:not(.navigation_with_thumbnails) .nav-next,
         #nav-below:not(.navigation_with_thumbnails) .next-posts,
@@ -586,7 +586,7 @@
         .bt-contact a span input {
             color: #4beee9;
         }
-        
+
         #nav-below:not(.navigation_with_thumbnails) .nav-previous:hover,
         #nav-below:not(.navigation_with_thumbnails) .nav-next:hover,
         #nav-below:not(.navigation_with_thumbnails) .next-posts:hover,
@@ -598,7 +598,7 @@
         a#send-comment:hover {
             background: #4beee9;
         }
-        
+
         #nav-below:not(.navigation_with_thumbnails) .nav-previous:hover a,
         #nav-below:not(.navigation_with_thumbnails) .nav-next:hover a,
         #nav-below:not(.navigation_with_thumbnails) .next-posts:hover a,
@@ -614,7 +614,7 @@
         .bt-contact a:hover span input {
             color: #fff !important;
         }
-        
+
         #nav-below:not(.navigation_with_thumbnails) .nav-previous,
         #nav-below:not(.navigation_with_thumbnails) .nav-next,
         #nav-below:not(.navigation_with_thumbnails) .next-posts,
@@ -628,8 +628,9 @@
         .bt-contact a:hover span input {
             border: 2px solid #4beee9 !important;
         }
+
         /* New Borders Color */
-        
+
         .widget_search input,
         .wpcf7 textarea,
         .wpcf7 input[type='text'],
@@ -648,16 +649,16 @@
         .related_posts_listing .related_post .related_post_bg {
             border: 1px solid #d6d5d9 !important;
         }
-        
+
         .woocommerce .woocommerce-info .showcoupon {
             color: #fff !important;
             opacity: 0.8;
         }
-        
+
         .aio-icon-tooltip .aio-icon:hover:after {
             box-shadow: 0 0 0 1px #4beee9 !important;
         }
-        
+
         .just-icon-align-left .aio-icon:hover,
         .aio-icon-tooltip .aio-icon:hover,
         .btn-contact-left.inversecolor input:hover,
@@ -676,14 +677,14 @@
         .cbp-nav-prev:hover {
             background-color: #4beee9;
         }
-        
+
         .wpcf7 .dark input:not([type='submit']),
         .wpcf7 .dark textarea,
         .wpcf7 .dark .select2-container--default .select2-selection--single {
             border: 1px solid #77767f !important;
             background-color: transparent !important;
         }
-        
+
         .aio-icon-tooltip .aio-icon:hover,
         .btn-contact-left.inversecolor input:hover,
         .flex-control-paging li a.flex-active,
@@ -693,16 +694,16 @@
         .newsletter_shortcode form input.button {
             background-color: #4beee9 !important;
         }
-        
+
         .cbp-nav-pagination-item:hover,
         .cbp-nav-pagination-active {
             border: 2px solid #4beee9 !important;
         }
-        
+
         .aio-icon-tooltip .aio-icon.none:hover {
             background-color: transparent !important;
         }
-        
+
         .widget .slick-dots li.slick-active i,
         .style-light .slick-dots li.slick-active i,
         .style-dark .slick-dots li.slick-active i,
@@ -712,7 +713,7 @@
             background: #4beee9 !important;
             opacity: 1;
         }
-        
+
         .widget.des_testimonials_widget .ult-carousel-wrapper .slick-dots li.slick-active i,
         .des_recent_posts_widget .ult-carousel-wrapper .slick-dots li.slick-active i,
         .des_team_widget .ult-carousel-wrapper .slick-dots li.slick-active i {
@@ -720,7 +721,7 @@
             background: #4beee9 !important;
             color: #4beee9 !important;
         }
-        
+
         .woocommerce-page a.button.wc-forward:hover,
         .woocommerce-page a.button.wc-forward.checkout:hover,
         .woocommerce .widget_price_filter .price_slider_amount .button:hover,
@@ -737,7 +738,7 @@
             background-color: #4beee9;
             color: #fff !important;
         }
-        
+
         .nav-container a.button.nyssa_minicart_checkout_but:hover,
         .nav-container a.button.nyssa_minicart_cart_but:hover,
         body.style9 a.button.nyssa_minicart_checkout_but:hover,
@@ -745,42 +746,42 @@
             background-color: #4beee9 !important;
             color: #fff !important;
         }
-        
+
         .nyssa-button-color-1d:hover,
         .nyssa-button-color-1d:active {
             border: 1px double #4beee9;
         }
-        
+
         .nyssa-button-color {
             background-color: #4beee9;
             color: #4beee9;
         }
-        
+
         .cbp-l-caption-alignCenter .cbp-l-caption-buttonLeft:hover,
         .cbp-l-caption-alignCenter .cbp-l-caption-buttonRight:hover {
             background: #4beee9 !important;
             border: 2px solid #4beee9 !important;
             color: #fff !important;
         }
-        
+
         .widget_posts .tabs li.current {
             border: 1px solid #4beee9;
         }
-        
+
         .hi-icon-effect-1 .hi-icon:after {
             box-shadow: 0 0 0 3px #4beee9;
         }
-        
+
         .colored-section:after {
             border: 20px solid #4beee9;
         }
-        
+
         .filter li a.active,
         .filter li a:hover,
         .panel-group .panel.active .panel-heading {
             border: 1px solid #4beee9;
         }
-        
+
         .navbar-default.light-menu.border .navbar-nav>li>a.selected:before,
         .navbar-default.light-menu.border .navbar-nav>li>a.hover_selected:before,
         .navbar-default.light-menu.border .navbar-nav>li>a.selected:hover,
@@ -789,19 +790,19 @@
         .navbar-default.light-menu.border .navbar-nav>li>a.hover_selected {
             border-bottom: 1px solid #4beee9;
         }
-        
+
         .doubleborder {
             border: 6px double #4beee9;
         }
-        
+
         .special_tabs.icon .current .nyssa_icon_special_tabs {
             border: 1px solid #4beee9;
         }
-        
+
         .nyssa-button-color {
             border: 1px solid #4beee9;
         }
-        
+
         .navbar-collapse ul.menu-depth-1 li:not(.nyssa_mega_hide_link) a,
         .dl-menuwrapper li:not(.nyssa_mega_hide_link) a,
         .gosubmenu,
@@ -813,7 +814,7 @@
             color: #3c3940;
             letter-spacing: 0px;
         }
-        
+
         .nav-style-6 ul.menu-depth-1 li a {
             font-family: 'Inter', 'Arial', 'sans-serif', sans-serif !important;
             font-weight: normal;
@@ -821,7 +822,7 @@
             color: #3c3940;
             letter-spacing: 0px;
         }
-        
+
         header.navbar-default.hover-line .navbar-nav>li:hover>a:before,
         header.hover-line.navbar-default .navbar-nav>li:hover>a.selected:before,
         header.hover-line.navbar-default .navbar-nav>li.current-menu-item>a:before,
@@ -830,14 +831,15 @@
         header.hover-line.header_after_scroll.navbar-default .navbar-nav>li:hover>a.selected:before {
             border-bottom-color: #ffffff !important;
         }
-        
+
         .dropdown-menu li.menu-item-has-children:not(.nyssa_mega_hide_link)>a:before,
         header .navbar-collapse ul.menu-depth-1 li:not(.nyssa_mega_hide_link) a,
         .dl-back {
             color: #3c3940;
         }
+
         /* changed the overs from lis to as to acommodate style8 */
-        
+
         .navbar-collapse ul.menu-depth-1 li:not(.nyssa_mega_hide_link)>a:hover,
         .dl-menu li:not(.nyssa_mega_hide_link):hover>a,
         .dl-menu li:not(.nyssa_mega_hide_link):hover>a,
@@ -847,27 +849,27 @@
         .dropdown-menu li.menu-item-has-children:not(.nyssa_mega_hide_link)>a:hover:before {
             color: #4beee9 !important;
         }
-        
+
         .dl-menu li:not(.nyssa_mega_hide_link):hover a:after {
             background-color: #4beee9 !important;
         }
-        
+
         .menu-simple ul.menu-depth-1,
         .menu-simple ul.menu-depth-1 ul,
         .menu-simple ul.menu-depth-1,
         .menu-simple #dl-menu ul {
             background-color: rgba(255, 255, 255, 1) !important;
         }
-        
+
         .navbar-collapse .nyssa_mega_menu ul.menu-depth-2,
         .navbar-collapse .nyssa_mega_menu ul.menu-depth-2 ul {
             background-color: transparent !important;
         }
-        
+
         .dl-menuwrapper li:not(.nyssa_mega_hide_link):hover>a {
             background-color: rgba(255, 255, 255, 1) !important;
         }
-        
+
         .navbar-collapse ul.menu-depth-1 li:not(.nyssa_mega_hide_link):hover>a,
         .dl-menuwrapper li:not(.nyssa_mega_hide_link):hover>a,
         .dl-menuwrapper li:not(.nyssa_mega_hide_link):hover>a,
@@ -877,35 +879,35 @@
         .dropdown-menu li.menu-item-has-children:not(.nyssa_mega_hide_link):hover>a:before {
             color: #4beee9;
         }
-        
+
         .menu-simple li:not(.nyssa_mega_menu) li.menu-item-depth-1:hover>a,
         .menu-simple li.menu-item-depth-2:hover>a,
         .menu-simple li.menu-item-depth-3:hover>a {
             background-color: rgba(255, 255, 255, 1) !important;
         }
-        
+
         .menu-square li:not(.nyssa_mega_menu) li.menu-item-depth-1:hover>a,
         .menu-square li.menu-item-depth-2:hover>a,
         .menu-square li.menu-item-depth-3:hover>a {
             background-color: rgba(255, 255, 255, 1) !important;
         }
-        
+
         .navbar-collapse li:not(.nyssa_mega_menu) ul.menu-depth-1 li:not(:first-child) {
             border-top: 1px solid rgba(255, 255, 255, 0) !important;
         }
-        
+
         .navbar-collapse li.nyssa_mega_menu ul.menu-depth-2 {
             border-right: 1px solid rgba(255, 255, 255, 0) !important;
         }
-        
+
         .rtl .navbar-collapse li.nyssa_mega_menu ul.menu-depth-2 {
             border-left: 1px solid #ffffff;
         }
-        
+
         header #dl-menu li:not(:last-child) a {
             border-bottom: 1px solid #ffffff;
         }
-        
+
         .navbar-collapse ul.navbar-nav>li>a,
         .navbar-collapse>.header_style2_menu>ul>li>a,
         .nyssa-header-button a,
@@ -917,7 +919,7 @@
             text-transform: none;
             letter-spacing: 0px;
         }
-        
+
         .nyssa-header-button a {
             background: #4beee9;
             color: #ffffff;
@@ -927,12 +929,12 @@
             -o-border-radius: 25px;
             border-radius: 25px;
         }
-        
+
         .nyssa-header-button a:hover {
             background: #4beee9;
             color: #ffffff !important;
         }
-        
+
         .navbar-collapse>.header_style2_menu>ul>li>a:hover,
         .navbar-collapse>.header_style2_menu>ul>li.current-menu-ancestor>a,
         .navbar-collapse>.header_style2_menu>ul>li.current-menu-item>a,
@@ -946,28 +948,30 @@
         body.style9 .navbar-collapse ul.navbar-nav li.mobile-opened>a {
             color: #ffffff !important;
         }
+
         /* 2020 header borders */
-        
+
         header.navbar:not(.header_after_scroll),
         header.navbar:not(.header_after_scroll) .navbar-right {
             border-color: rgba(255, 255, 255, 0) !important;
         }
-        
+
         header.navbar.header_after_scroll,
         header.navbar.header_after_scroll .navbar-right {
             border-color: rgba(255, 255, 255, 0) !important;
         }
+
         /* endof 2020 header borders */
-        
+
         .header.navbar .navbar-collapse ul li:hover a {
             background: #ffffff;
             color: #fff !important;
         }
-        
+
         .cover-test-img {
             background-color: rgba(90, 36, 177, 0.25);
         }
-        
+
         body .vc_general.vc_btn3:hover,
         body .slider-button:hover,
         body .btn-contact-left input:hover,
@@ -999,12 +1003,12 @@
             box-shadow: 0px 6px 9px 0px rgba(90, 36, 177, 0.5) !important;
             background-color: rgba(90, 36, 177, 1) !important;
         }
-        
+
         .dark .btn-contact-left input[type='submit'] {
             background-color: #fff !important;
             border: 2px solid transparent !important;
         }
-        
+
         .dark .btn-contact-left input[type='submit']:hover {
             -webkit-box-shadow: 0px 6px 9px 0px rgba(90, 36, 177, 0.5) !important;
             -moz-box-shadow: 0px 6px 9px 0px rgba(90, 36, 177, 0.5) !important;
@@ -1012,51 +1016,51 @@
             background-color: rgba(90, 36, 177, 1) !important;
             color: #fff !important;
         }
-        
+
         header.navbar-default.nyssa-underlining .navbar-nav>li:hover>a:before,
         .navbar-collapse ul.navbar-nav>li.current-menu-item>a:before,
         .navbar-collapse ul.navbar-nav>li.current-menu-ancestor>a:before,
         .navbar-collapse ul.navbar-nav>li>a.selected:before {
             background: #ffffff !important;
         }
-        
+
         .dropdown-menu li.menu-item-has-children:not(.nyssa_mega_hide_link)>a:hover:after,
         .dropdown-menu li.menu-item-has-children:not(.nyssa_mega_hide_link)>a:focus:after,
         .dropdown-menu li.menu-item-has-children:not(.nyssa_mega_hide_link)>a:active:after,
         .dropdown-menu li:hover>a:after {
             background: #ffffff !important;
         }
-        
+
         header.navbar-default.header_after_scroll .navbar-collapse ul.navbar-nav>li.current-menu-item>a:before,
         header.navbar-default.header_after_scroll .navbar-collapse ul.navbar-nav>li.current-menu-ancestor>a:before,
         header.navbar-default.header_after_scroll .navbar-collapse ul.navbar-nav>li>a.selected:before,
         header.navbar-default.header_after_scroll .navbar-nav>li:hover>a:before {
             background: #4beee9 !important;
         }
-        
+
         header.style2 .navbar-nav>li,
         .navbar-default.menu-square.style2 .navbar-nav>li {
             padding-top: 0px;
         }
-        
+
         header.style2 {
             padding-bottom: 32px;
         }
-        
+
         header.style2 .header_style2_menu {
             margin-top: 32px !important;
         }
-        
+
         .navbar-default .navbar-nav>li>a {
             padding-top: 32px;
             padding-bottom: 30px;
         }
-        
+
         .navbar-default .navbar-nav>li {
             padding-right: 20px;
             padding-left: 20px;
         }
-        
+
         header.style5 .nyssa_right_header_icons,
         header.style1 .nyssa_right_header_icons,
         header.style2 .nyssa_right_header_icons,
@@ -1066,28 +1070,28 @@
             padding-top: 32px;
             padding-bottom: 30px;
         }
-        
+
         body #big_footer .tagcloud a:hover {
             color: #fff !important;
         }
-        
+
         header.style2 .header_style2_menu {
             background-color: rgba(255, 255, 255, 1) !important;
         }
-        
+
         header:not(.header_after_scroll) .navbar-nav>li>ul {
             margin-top: 30px;
         }
-        
+
         header:not(.header_after_scroll) .dl-menuwrapper button:after {
             background: #ffffff;
             box-shadow: 0 6px 0 #ffffff, 0 12px 0 #ffffff;
         }
-        
+
         .nyssa_minicart_wrapper {
             padding-top: 30px;
         }
-        
+
         li.nyssa_mega_hide_link>a,
         li.nyssa_mega_hide_link>a:hover {
             font-family: 'Inter', 'Arial', 'sans-serif' !important;
@@ -1096,7 +1100,7 @@
             color: #003279;
             letter-spacing: 0px !important;
         }
-        
+
         .nav-container .nyssa_minicart li a,
         body.style9 .nyssa_minicart li a {
             font-family: 'Inter', 'Arial', 'sans-serif';
@@ -1105,18 +1109,18 @@
             color: #3c3940;
             letter-spacing: 0px;
         }
-        
+
         .dl-trigger {
             font-family: 'Inter', 'Arial', 'sans-serif' !important;
             font-weight: 600 !important;
             font-size: 15px;
             letter-spacing: 0px;
         }
-        
+
         .nyssa_minicart {
             background-color: rgba(255, 255, 255, 1) !important;
         }
-        
+
         .master_container a:not(.the_author):not(.the_cats):not(.the_tags):not(.blog-read-more):not(.button):not(.the_title):not(.vc_btn3):not(.special_tabs_linkage):not(.widget a):not(.blog-read-more):not(.ult_colorlink):not(.page-numbers):not(.tabs a):not(.the_title h2 a):not(.woocommerce-info a):not(.nav-next a):not(.nav-previous a):not(.widget a):not(.custom-widget a):not(.fn a),
         .page_content a:not(.the_author):not(.the_cats):not(.the_tags):not(.button):not(.the_title):not(.vc_btn3):not(.special_tabs_linkage):not(.widget a):not(.blog-read-more):not(.ult_colorlink):not(.page-numbers):not(.tabs a):not(.the_title h2 a):not(.woocommerce-info a):not(.nav-next a):not(.nav-previous a):not(.widget a):not(.custom-widget a):not(.fn a),
         header a,
@@ -1129,7 +1133,7 @@
             font-size: 15px;
             color: #4beee9
         }
-        
+
         .widget a:not(#primary_footer .widget a):not(.buttons a):not(.tagcloud a):not(.blog-read-more),
         .custom-widget a:not(#primary_footer .custom-widget a):not(.buttons a):not(.tagcloud a)not(.blog-read-more) {
             font-family: 'Inter', 'Arial', 'sans-serif';
@@ -1137,7 +1141,7 @@
             font-size: 15px;
             color: #003279 !important;
         }
-        
+
         .widget a:not(#primary_footer .widget a):not(.buttons a):not(.tagcloud a)not(.blog-read-more):hover,
         .custom-widget a:not(#primary_footer .custom-widget a):not(.buttons a):not(.tagcloud a)not(.blog-read-more):hover,
         .the_title h2 a:hover {
@@ -1146,19 +1150,19 @@
             font-size: 15px;
             color: #4beee9 !important;
         }
-        
+
         .widget .tagcloud a,
         .custom-widget .tagcloud a,
         .widget .tagcloud a:hover,
         .custom-widget .tagcloud a:hover {
             color: #fff !important;
         }
-        
+
         .master_container a:not(.the_author):not(.metas-container a):not(.button):not(.vc_btn3):not(.page):not(.ult_colorlink):not(.special_tabs_linkage):not(.navcontentens-side a):not(.page):not(.the_title a):not(.page):not(.nav-previous a),
         .page_content a:not(.the_author):not(.metas-container a):not(.button):not(.vc_btn3):not(.special_tabs_linkage):not(.page):not(.ult_colorlink):not(.page):not(.the_title a):not(.page-numbers):not(.wp-block-group a) {
             line-height: 1.7em;
         }
-        
+
         .master_container a:hover:not(.vc_btn3):not(.page):not(.button):not(.special_tabs_linkage):not(.widget li a):not(.page-numbers):not(.tabs a):not(.fn a),
         .page_content a:hover:not(.vc_btn3):not(.page):not(.button):not(.special_tabs_linkage):not(.widget li a):not(.page-numbers):not(.tabs a):not(.fn a),
         .comment-body a:hover,
@@ -1169,20 +1173,20 @@
             font-size: 15px;
             color: #383440
         }
-        
+
         .t-author-style1 a:hover {
             font-size: 10px !important;
             font-weight: 800;
         }
-        
+
         .master_container h6 a {
             color: #4beee9 !important;
         }
-        
+
         .master_container h6 a:hover {
             color: #383440 !important;
         }
-        
+
         .archive .the_title h2 a,
         .page-template-blog-template .the_title h2 a,
         .home.blog .blog-default.wideblog .container .the_title h2 a,
@@ -1190,9 +1194,9 @@
             font-family: 'Inter', 'Arial', 'sans-serif' !important;
             font-weight: 600 !important;
             font-size: 55px !important;
-            color: #003279!important
+            color: #003279 !important
         }
-        
+
         .blog-default-bg-masonry .the_title h2 a,
         .des_recent_posts_widget.widget .title h4,
         .related_posts_listing .related_post .title,
@@ -1201,16 +1205,16 @@
             font-family: 'Inter', 'Arial', 'sans-serif' !important;
             font-weight: 600 !important;
             font-size: 22px !important;
-            color: #003279!important
+            color: #003279 !important
         }
-        
+
         .nyssa-masonry-grid .blog-default-bg-masonry .the_title h2 a {
             font-family: 'Inter', 'Arial', 'sans-serif' !important;
             font-weight: 700 !important;
             font-size: 25px !important;
-            color: #ffffff!important
+            color: #ffffff !important
         }
-        
+
         .page_content .vc_column-inner a:not(.blog-read-more):not(.add_to_cart_button):hover:not(.woocommerce-LoopProduct-link):hover:not(.vc_btn3):not(.ult_price_action_button):not(.cbp-l-caption-buttonLeft):not(.cbp-l-caption-buttonRight):hover:not(.flip_link a):hover:not(.ubtn-link):hover:not(.special_tabs_linkage):hover:not(.ult_colorlink):not(.ult-social-icon):not(.cbp-l-loadSavoir+-link):not(.rs-layer):not(.vc_tta-tab a),
         header a:not(.cart_list_product_title a):not(.nyssa-header-button a):not(.nav a):not(.nyssa_minicart a):hover,
         #big_footer a:not(.submit):hover,
@@ -1230,7 +1234,7 @@
         .master_container .vc_column-inner a:not(.vc_btn3):not(.blog-read-more):not(.cbp-l-caption-buttonLeft):not(.cbp-l-caption-buttonRight):hover:not(.title):hover:not(.add_to_cart_button):hover:not(.woocommerce-LoopProduct-link):hover:not(.flip_link a):hover:not(.ubtn-link):hover:not(.special_tabs_linkage):hover:not(.ult_colorlink):not(.ult_price_action_button):not(.cbp-l-loadSavoir+-link):not(.rs-layer):not(.vc_tta-tab a) {
             color: #383440 !important;
         }
-        
+
         #main .flip-box-wrap .flip_link a:hover,
         .woocommerce #content nav.woocommerce-pagination ul li a:focus,
         .woocommerce #content nav.woocommerce-pagination ul li a:hover,
@@ -1247,20 +1251,20 @@
             background-color: #4beee9 !important;
             color: #fff !important;
         }
-        
+
         #big_footer a:not(.submit):not(.tag-cloud-link):not(.social-network):hover {
             color: #4beee9 !important;
         }
-        
+
         .ult_tabmenu.style2 li.ult_tab_li a:hover,
         .ult_price_action_button:hover {
             color: #fff !important;
         }
-        
+
         .single_about_author a:hover {
             color: #383440 !important;
         }
-        
+
         h1 {
             font-family: 'Inter', 'Arial', 'sans-serif';
             font-weight: 700;
@@ -1270,7 +1274,7 @@
             letter-spacing: -2px;
             text-transform: none;
         }
-        
+
         h2:not(.the_title h2):not(.woocommerce-loop-product__title):not(.cart_totals h2):not(.woocommerce-tabs h2):not(.related h2):not(h2.secondaryTitle):not(.uvc-main-heading h2):not(h2.ult-responsive),
         .woocommerce #content div.product .product_title,
         .woocommerce div.product .product_title,
@@ -1284,7 +1288,7 @@
             letter-spacing: -1px;
             text-transform: none;
         }
-        
+
         .woocommerce h2.woocommerce-loop-product__title,
         .woocommerce #content div.product p.price,
         .woocommerce #content div.product span.price,
@@ -1298,12 +1302,12 @@
             font-weight: 700;
             color: #003279;
         }
-        
+
         .uvc-main-heading h2,
         h2.uvc-type-wrap {
             letter-spacing: -1px;
         }
-        
+
         h3:not(.woocommerce-billing-fields h3):not(.woocommerce-additional-fields h3):not(h3#order_review_heading):not(h3.aio-icon-title):not(h3.ult-ih-heading):not(h3.ult-responsive):not(h3.related_posts_title):not(#comments-title):not(.comment-reply-title):not(#ship-to-different-address) {
             font-family: 'Inter', 'Arial', 'sans-serif';
             font-weight: 700;
@@ -1313,7 +1317,7 @@
             letter-spacing: 0px;
             text-transform: none;
         }
-        
+
         .testimonials.style1 .testimonial span.t-author-style1,
         .testimonials.style1 .testimonial span a,
         .testimonials.style1 .testimonial span a:hover,
@@ -1322,11 +1326,11 @@
             font-family: 'Inter', 'Arial', 'sans-serif' !important;
             font-weight: 600 !important;
         }
-        
+
         .testimonials.style1 .testimonial span a {
             font-size: 13px !Important
         }
-        
+
         h4 {
             font-family: 'Inter', 'Arial', 'sans-serif';
             font-weight: 700;
@@ -1336,15 +1340,15 @@
             letter-spacing: 0px;
             text-transform: none;
         }
-        
+
         .ult-item-wrap .title h4 {
             font-size: 16px !important;
         }
-        
+
         .wpb_content_element .wpb_accordion_header.ui-accordion-header-active a {
             color: #4beee9;
         }
-        
+
         h5:not(.title) {
             font-family: 'Inter', 'Arial', 'sans-serif';
             font-weight: 600;
@@ -1354,7 +1358,7 @@
             letter-spacing: 0px;
             text-transform: none;
         }
-        
+
         h6,
         h6 a {
             font-family: 'Inter', 'Arial', 'sans-serif' !important;
@@ -1365,16 +1369,16 @@
             letter-spacing: 0px;
             text-transform: none;
         }
-        
+
         header.navbar,
         .header_style9_left_container {
             background-color: rgba(28, 12, 61, 0);
         }
-        
+
         header.header_with_after_scroll_t2.header_force_opacity {
             background-color: rgba(28, 12, 61, 1);
         }
-        
+
         body,
         #main,
         .master_container,
@@ -1389,7 +1393,7 @@
         .archive .post-listing .vc_col-sm-4 .wpb_wrapper {
             background-color: #ffffff !important;
         }
-        
+
         section.page_content,
         body:not(#boxed_layout),
         body:not(#boxed_layout) #main,
@@ -1412,19 +1416,19 @@
         .vc_tta-color-white.vc_tta-style-modern .vc_tta-panel .vc_tta-panel-heading {
             background-color: #ffffff;
         }
-        
+
         .footer_custom_text * {
             font-family: 'Inter', 'Arial', 'sans-serif !important';
             font-weight: normal !important;
             font-size: 12px !important;
             color: #78718f !important;
         }
-        
+
         header .header_style2_contact_info {
             margin-top: 20px !important;
             margin-bottom: 20px !important;
         }
-        
+
         header .navbar-header,
         header.style4 .nav-container .navbar-header {
             margin-top: 20px;
@@ -1432,31 +1436,31 @@
             margin-left: 0px;
             height: 40px;
         }
-        
+
         header a.navbar-brand img {
             max-height: 67px;
             margin-top: -11px;
         }
-        
+
         header.navbar.header_after_scroll {
             background-color: rgba(255, 255, 255, 1)
         }
-        
+
         header.header_after_scroll a.navbar-brand img.logo_after_scroll {
             max-height: 60px;
             margin-top: -8px;
         }
-        
+
         header.header_after_scroll .navbar-collapse ul.menu-depth-1 li:not(.nyssa_mega_hide_link) a,
         header.header_after_scroll .dl-menuwrapper li:not(.nyssa_mega_hide_link) a,
         header.header_after_scroll .gosubmenu {
             color: #3c3940;
         }
-        
+
         header.header_after_scroll .dl-back {
             color: #3c3940;
         }
-        
+
         header.header_after_scroll .navbar-collapse ul.menu-depth-1 li:not(.nyssa_mega_hide_link):hover>a,
         header.header_after_scroll .dl-menuwrapper li:not(.nyssa_mega_hide_link):hover>a,
         header.header_after_scroll .dl-menuwrapper li:not(.nyssa_mega_hide_link):hover>a,
@@ -1465,17 +1469,17 @@
         header.header_after_scroll.navbar .nav-container .dropdown-menu li:hover {
             color: #4beee9 !important;
         }
-        
+
         header #dl-menu ul,
         header.header_after_scroll #dl-menu ul {
             background-color: rgba(255, 255, 255, 1) !important;
         }
-        
+
         header.header_after_scroll .navbar-collapse .nyssa_mega_menu ul.menu-depth-2,
         header.header_after_scroll .navbar-collapse .nyssa_mega_menu ul.menu-depth-2 ul {
             background-color: transparent !important;
         }
-        
+
         header li:not(.nyssa_mega_menu) ul.menu-depth-1 li:hover,
         header li.nyssa_mega_menu li.menu-item-depth-1 li:hover,
         header #dl-menu ul li:hover,
@@ -1484,25 +1488,25 @@
         header.header_after_scroll #dl-menu ul li:hover {
             background-color: rgba(255, 255, 255, 1) !important;
         }
-        
+
         header.header_after_scroll .navbar-collapse li:not(.nyssa_mega_menu) ul.menu-depth-1 li:not(:first-child) {
             border-top: 1px solid rgba(255, 255, 255, 0) !important;
         }
-        
+
         header.header_after_scroll .navbar-collapse li.nyssa_mega_menu ul.menu-depth-2 {
             border-right: 1px solid rgba(255, 255, 255, 0) !important;
         }
-        
+
         header.header_after_scroll #dl-menu li:not(:last-child) a,
         header.header_after_scroll #dl-menu ul li:not(:last-child) a {
             border-bottom: 1px solid rgba(255, 255, 255, 0) !important;
         }
-        
+
         header #dl-menu ul li:not(:last-child) a,
         header.header_after_scroll #dl-menu ul li:not(:last-child) a {
             border-bottom: 1px solid rgba(234, 231, 240, 0.45) !important;
         }
-        
+
         .header_after_scroll .navbar-collapse ul.navbar-nav>li>a,
         .header_after_scroll .navbar-collapse>.header_style2_menu>ul>li>a {
             font-family: 'Inter', 'Arial', 'sans-serif';
@@ -1512,7 +1516,7 @@
             text-transform: none;
             letter-spacing: 0px;
         }
-        
+
         .header_after_scroll .navbar-collapse>.header_style2_menu>ul>li>a:hover,
         .header_after_scroll .navbar-collapse>.header_style2_menu>ul>li.current-menu-ancestor>a,
         .header_after_scroll .navbar-collapse>.header_style2_menu>ul>li.current-menu-item>a,
@@ -1525,24 +1529,24 @@
         .header_after_scroll .navbar-collapse ul.navbar-nav>li>a.hover_selected {
             color: #4beee9 !important;
         }
-        
+
         .header_after_scroll .dl-menuwrapper button:after {
             background: #4beee9;
             box-shadow: 0 6px 0 #4beee9, 0 12px 0 #4beee9;
         }
-        
+
         header.light .dl-menuwrapper button:after,
         header.header_after_scroll.light .dl-menuwrapper button:after {
             background: #101010;
             box-shadow: 0 6px 0 #101010, 0 12px 0 #101010;
         }
-        
+
         header.dark .dl-menuwrapper button:after,
         header.header_after_scroll.dark .dl-menuwrapper button:after {
             background: #fff;
             box-shadow: 0 6px 0 #fff, 0 12px 0 #fff;
         }
-        
+
         header.header_after_scroll.navbar-default .navbar-nav>li>a,
         header.headerclone.navbar-default .navbar-nav>li>a {
             padding-top: 26px;
@@ -1550,31 +1554,31 @@
             /*margin-bottom:27px;*/
             margin-bottom: 0px;
         }
-        
+
         header.header_after_scroll.navbar-default .navbar-nav>li,
         header.headerclone.navbar-default .navbar-nav>li {
             padding-right: 20px;
             padding-left: 20px;
             margin-bottom: 0px;
         }
-        
+
         header.header_after_scroll .nyssa-header-button {
             margin-top: 26px;
         }
-        
+
         header.header_after_scroll.style2 .navbar-nav>li,
         .navbar-default.menu-square.style2 .navbar-nav>li {
             padding-top: 0px;
         }
-        
+
         header.header_after_scroll.style2 {
             padding-bottom: 32px;
         }
-        
+
         header.header_after_scroll.style2 .header_style2_menu {
             margin-top: 32px !important;
         }
-        
+
         header.header_after_scroll.style5 .nyssa_right_header_icons,
         header.header_after_scroll.style1 .nyssa_right_header_icons,
         header.header_after_scroll.style2 .nyssa_right_header_icons,
@@ -1584,20 +1588,20 @@
             padding-top: 26px;
             padding-bottom: 27px;
         }
-        
+
         header.header_after_scroll .navbar-nav>li>ul {
             margin-top: 0px !important;
         }
-        
+
         header.header_after_scroll .nyssa_minicart_wrapper {
             padding-top: 27px;
         }
-        
+
         header.header_after_scroll .header_style2_contact_info {
             margin-top: 16px !important;
             margin-bottom: 16px !important;
         }
-        
+
         header.header_after_scroll .navbar-header,
         header.style4.header_after_scroll .nav-container .navbar-header,
         header.headerclone.header_after_scroll .navbar-header {
@@ -1606,37 +1610,41 @@
             margin-left: 0px;
             height: 35px;
         }
-        
+
         @media only screen and (max-width: 767px) {
             .page_content.left {
                 border-right: none !important;
             }
+
             .page_content.right {
                 border-left: none !important;
             }
+
             body header.header_after_scroll .nav-container .navbar-header {
-                margin-top: 17px!important;
-                margin-bottom: 17px!important;
-                height: 35px!important;
+                margin-top: 17px !important;
+                margin-bottom: 17px !important;
+                height: 35px !important;
             }
+
             body header.header_after_scroll a.navbar-brand img,
             body header.header_after_scroll a.navbar-brand img.logo_after_scroll {
                 max-height: 60px;
                 margin-top: -8px;
             }
         }
-        
+
         header.header_after_scroll a.navbar-brand h1 {
             font-size: !important;
         }
-        
+
         #primary_footer>.container,
         #primary_footer>.no-fcontainer {
             padding-top: 80px;
             padding-bottom: 80px;
         }
+
         /* #primary_footer */
-        
+
         #big_footer {
             background-repeat: no-repeat;
             background-position: center center;
@@ -1647,54 +1655,54 @@
             background: #003279;
             background-size: cover !important;
         }
-        
+
         #primary_footer input:not(input[type='submit']),
         #primary_footer textarea {
             background: transparent;
         }
-        
+
         header.header_not_fixed ul.menu-depth-1,
         header.header_not_fixed ul.menu-depth-1 ul,
         header.header_not_fixed ul.menu-depth-1 ul li,
         header.header_not_fixed #dl-menu ul {
             background-color: rgba(255, 255, 255, 1) !important;
         }
-        
+
         header.header_not_fixed li:not(.nyssa_mega_menu) ul.menu-depth-1 li:hover,
         header.header_not_fixed li.nyssa_mega_menu li.menu-item-depth-1 li:hover,
         header.header_not_fixed #dl-menu ul li:hover {
             background-color: rgba(255, 255, 255, 1) !important;
         }
-        
+
         #primary_footer input:not(input[type='submit']),
         #primary_footer textarea {
             border: 1px solid #1f1d1d !important;
         }
-        
+
         #big_footer .widget-newsletter input {
             background: #1f1d1d !important;
         }
-        
+
         .footer_sidebar .contact-widget-container input,
         .footer_sidebar .contact-widget-container textarea {
             border: 1px solid #1f1d1d !important;
         }
-        
+
         html .widget_nav_menu .sub-menu li:last-child,
         html .menu .sub-menu li:last-child {
             border-bottom: none !important;
         }
-        
+
         .footer_sidebar table td,
         .footer_sidebar table th,
         .footer_sidebar .wp-caption {
             border: 1px solid #1f1d1d;
         }
-        
+
         #primary_footer a {
             color: #a79fbe;
         }
-        
+
         #primary_footer,
         #primary_footer p,
         #big_footer input,
@@ -1707,7 +1715,7 @@
         #primary_footer li {
             color: #a79fbe;
         }
-        
+
         #primary_footer .footer_sidebar>h4,
         #primary_footer .footer_sidebar>.widget>h4,
         #primary_footer .widget .widget-contact-content h4,
@@ -1715,28 +1723,28 @@
         #primary_footer .footer_sidebar h4.widget_title_span {
             color: #f4f2fa;
         }
-        
+
         #primary_footer input,
         #primary_footer textarea {
             border: 1px solid #1f1d1d;
         }
-        
+
         #primary_footer hr,
         .footer_sidebar ul li:not(.social-icons-fa li):not(.slick-dots li),
         #big_footer .forms input,
         #big_footer .recent_posts_widget_2 .recentcomments_listing li {
             border-top: 1px solid #1f1d1d !important;
         }
-        
+
         .footer_sidebar ul li:not(.social-icons-fa li):not(.slick-dots li):last-child,
         #big_footer .recent_posts_widget_2 .recentcomments_listing li:last-child {
             border-bottom: 1px solid #1f1d1d !important;
         }
-        
+
         #primary_footer a {
             color: #a79fbe;
         }
-        
+
         #primary_footer,
         #primary_footer p,
         #big_footer input,
@@ -1744,19 +1752,19 @@
         .mail-news .banner p {
             color: #a79fbe;
         }
-        
+
         #primary_footer .footer_sidebar>h4,
         #primary_footer .footer_sidebar>.widget>h4,
         .mail-news h4 {
             color: #f4f2fa !important;
         }
-        
+
         #secondary_footer {
             background-color: rgba(31, 29, 29, 0);
             padding-top: 20px;
             padding-bottom: 40px;
         }
-        
+
         header ul.menu-depth-1,
         header ul.menu-depth-1 ul,
         header ul.menu-depth-1 ul li,
@@ -1766,106 +1774,126 @@
         header.header_after_scroll #dl-menu ul {
             background-color: rgba(255, 255, 255, 1) !important;
         }
-        
+
         #secondary_footer .social-icons-fa a i {
             font-size: 22px;
             line-height: 22px;
             color: #a79fbe;
         }
-        
+
         #secondary_footer .social-icons-fa a i:before {
             font-size: 22px;
         }
-        
+
         #secondary_footer .social-icons-fa a:hover i {
             color: #4beee9;
         }
+
         /* Mobile Header Options */
-        
+
         @media only screen and (max-width: 767px) {
             body header .nav-container .navbar-header {
-                margin-top: 17px!important;
-                margin-bottom: 17px!important;
-                height: 35px!important;
+                margin-top: 17px !important;
+                margin-bottom: 17px !important;
+                height: 35px !important;
             }
+
             body header a.navbar-brand img,
             body header a.navbar-brand img {
                 max-height: 60px;
                 margin-top: -8px;
             }
+
             .dl-menuwrapper .dl-menu {
                 top: calc(80% + 17px + 12px);
             }
+
             .header_after_scroll .dl-menuwrapper .dl-menu {
                 top: calc(80% + 17px + 12px);
             }
+
             .style4 .dl-menuwrapper .dl-menu {
                 top: calc(150% + 17px);
             }
+
             .style4.header_after_scroll .dl-menuwrapper .dl-menu {
                 top: calc(150% + 17px);
             }
+
             header .nav-container .dl-menuwrapper {
                 margin-top: calc(17px + 3px);
             }
+
             header.header_after_scroll .nav-container .dl-menuwrapper {
                 margin-top: calc(17px + 3px);
             }
         }
+
         /* Mobile Header Options */
-        
+
         @media only screen and (max-width: 1024px) {
             .present-container {
                 padding: 100px 25px !important;
             }
+
             .present-container h1.page_title {
                 font-size: 36px !important;
                 letter-spacing: 0px !important;
                 text-indent: 0px !important;
                 margin-top: 50px !important;
             }
+
             body .page_content.left {
                 border-right: none !important;
             }
+
             body .page_content.right {
                 border-left: none !important;
             }
+
             .pageTitle h2.secondaryTitle {
                 font-size: 16px !important;
                 letter-spacing: 0px !important;
                 margin-top: 20px !important;
                 text-indent: 0px !important;
             }
+
             .single-post .present-container {
                 padding: 100px 15px !important;
             }
+
             .single-post .present-container h1.page_title {
                 font-size: 36px !important;
                 letter-spacing: 0px !important;
                 text-indent: 0px !important;
                 margin-top: 50px !important;
             }
+
             .single-post .pageTitle h2.secondaryTitle {
                 font-size: 16px !important;
                 letter-spacing: 0px !important;
                 margin-top: 20px !important;
                 text-indent: 0px !important;
             }
+
             .woocommerce-page .present-container {
                 padding: 100px 15px !important;
             }
+
             .woocommerce-page .present-container h1.page_title {
                 font-size: 36px !important;
                 letter-spacing: 0px !important;
                 text-indent: 0px !important;
                 margin-top: 50px !important;
             }
+
             .woocommerce-page .pageTitle h2.secondaryTitle {
                 font-size: 16px !important;
                 letter-spacing: 0px !important;
                 margin-top: 20px !important;
                 text-indent: 0px !important;
             }
+
             body,
             p,
             .lovepost a,
@@ -1897,37 +1925,45 @@
             .metas-comments p {
                 font-size: 15px !important;
             }
+
             .vc_row h1 {
                 font-size: 44px !important;
                 letter-spacing: 0px;
             }
+
             .vc_row h2:not(.the_title h2):not(.woocommerce-loop-product__title):not(.cart_totals h2):not(.woocommerce-tabs h2):not(.related h2):not(h2.secondaryTitle):not(.uvc-main-heading h2):not(h2.ult-responsive) {
                 font-size: 39px !important;
                 letter-spacing: 0px;
             }
+
             .uvc-main-heading h2,
             h2.uvc-type-wrap {
                 font-size: 39px !important;
                 letter-spacing: 0px;
             }
+
             .vc_row h3:not(.woocommerce-billing-fields h3):not(.woocommerce-additional-fields h3):not(h3#order_review_heading):not(h3.aio-icon-title):not(h3.ult-ih-heading):not(h3.ult-responsive):not(h3.related_posts_title):not(#comments-title):not(.comment-reply-title):not(#ship-to-different-address) {
                 font-size: 28px !important;
                 letter-spacing: 0px;
             }
+
             .vc_row h4,
             .mail-news h4 {
                 font-size: 24px !important;
                 letter-spacing: 0px;
             }
+
             .vc_row h5,
             .share-buttons h5 {
                 font-size: 20px !important;
                 letter-spacing: 0px;
             }
+
             .vc_row h6 {
                 font-size: 17px !important;
                 letter-spacing: 0px;
             }
+
             .archive .the_title h2 a,
             .page-template-blog-template .the_title h2 a,
             .home.blog .blog-default.wideblog .container .the_title h2 a,
@@ -1938,77 +1974,78 @@
             body.blog .blog-default-bg .the_title h2 {
                 font-size: 28px !important;
             }
+
             .blog-default-bg-masonry .the_title h2,
             .home.blog .blog-default.wideblog .container .blog-default-bg-masonry .the_title h2 a,
             body.blog .blog-default-bg .blog-default-bg-masonry .the_title h2 a {
                 font-size: 20px !important;
             }
         }
-        
+
         @media only screen and (max-width: 1300px) {
             .nyssa-masonry-grid .blog-default-bg-masonry .the_title h2 a {
                 font-size: 24px !important;
             }
         }
-        
+
         #nyssa_website_load .introloading_logo {
             margin-left: 25px !important;
         }
-        
+
         #nyssa_website_load .introloading_logo {
             margin-top: 5px !important;
         }
-        
+
         #nyssa_website_load .introloading_logo img {
             height: 40px !important;
         }
-        
+
         .footer_logo .footer_logo_retina,
         .footer_logo .footer_logo_normal {
             height: 50px !important;
             max-height: 50px !important;
         }
-        
+
         #secondary_footer .footer_logo {
             margin-bottom: 20px !important;
         }
-        
+
         header.style2 .search_input {
             height: calc(100% + 32px);
         }
-        
+
         body>.search_input {
             background-color: rgba(255, 255, 255, 1);
         }
-        
+
         body>.search_input input.search_input_value {
             font-family: 'Inter', 'Arial', 'sans-serif';
             font-weight: 800;
         }
-        
+
         body>.search_input input.search_input_value {
             font-size: 90px;
             color: #003279;
         }
-        
+
         body>.search_input .search_close i {
             color: #003279;
         }
-        
+
         body>.search_input .search_close,
         body>.search_input input.search_input_value::placeholder {
             color: #003279;
         }
-        
+
         .nyssa_search_input .searchinput:after {
             background: #003279;
             margin-top: 68px;
         }
-        
+
         body>.search_input .ajax_search_results {
             margin-top: 90px;
         }
-        
+
         body>.search_input input.search_input_value::-webkit-input-placeholder,
         body>.search_input input.search_input_value::-moz-placeholder,
         body>.search_input input.search_input_value:-ms-input-placeholder,
@@ -2016,30 +2053,30 @@
         body>.search_input input.search_input_value::placeholder {
             color: #003279;
         }
-        
+
         body>.search_input .ajax_search_results ul {
             background-color: rgba(255, 255, 255, 0.98);
         }
-        
+
         body>.search_input .ajax_search_results ul li.selected {
             background-color: rgba(242, 242, 242, 0.98);
         }
-        
+
         body>.search_input .ajax_search_results ul li {
             border-bottom: 1px solid #dedede;
         }
-        
+
         body>.search_input .ajax_search_results ul li a {
             font-family: 'Inter', 'Arial', 'sans-serif';
             font-weight: 800;
             font-size: 14px;
             color: #696969
         }
-        
+
         body>.search_input .ajax_search_results ul li.selected a {
             color: #3d3d3d
         }
-        
+
         body>.search_input .ajax_search_results ul li a span,
         body>.search_input .ajax_search_results ul li a span i {
             font-family: 'Helvetica Neue', 'Arial', 'sans-serif';
@@ -2047,11 +2084,11 @@
             font-size: 12px;
             color: #c2c2c2
         }
-        
+
         body>.search_input .ajax_search_results ul li.selected a span {
             color: #c2c2c2
         }
-        
+
         .nyssa_breadcrumbs,
         .nyssa_breadcrumbs a,
         .nyssa_breadcrumbs span {
@@ -2060,24 +2097,24 @@
             color: #e6e4ed;
             font-size: 14px;
         }
-        
+
         #menu_top_bar>li ul {
             background: #ffffff;
         }
-        
+
         #menu_top_bar>li ul li:hover {
             background: #ffffff;
         }
-        
+
         #menu_top_bar>li ul a {
             color: #929099 !important;
         }
-        
+
         #menu_top_bar>li ul a:hover,
         #menu_top_bar>li ul li:hover>a {
             color: #4beee9 !important;
         }
-        
+
         header.navbar .nav-container .nyssa_right_header_icons .icon,
         header .menu-controls .icon,
         header.style2 span.social_container i,
@@ -2087,11 +2124,11 @@
         header.style4 .search_trigger .dripicons-search {
             color: #f9f3ff !important;
         }
-        
+
         header.navbar .hamburguer-trigger-menu-icon span {
             background-color: #f9f3ff;
         }
-        
+
         header.style1 .search_trigger i,
         header.style1 .search_trigger_mobile i,
         header.style7 .search_trigger i,
@@ -2105,25 +2142,25 @@
         .nyssa_little_shopping_bag .title i {
             color: #f9f3ff;
         }
-        
+
         header.style6.light .cd-nav-trigger .cd-icon,
         header.style6.light .cd-nav-trigger .cd-icon::before,
         header.style6.light .cd-nav-trigger .cd-icon:after {
             background-color: #003279 !important;
         }
-        
+
         header.style6.dark .cd-nav-trigger .cd-icon,
         header.style6.dark .cd-nav-trigger .cd-icon::before,
         header.style6.dark .cd-nav-trigger .cd-icon:after {
             background-color: #f9f3ff !important;
         }
-        
+
         .header-style6-panel-open header.style6 .cd-nav-trigger .cd-icon,
         .header-style6-panel-open header.style6 .cd-nav-trigger .cd-icon::before,
         .header-style6-panel-open header.style6 .cd-nav-trigger .cd-icon:after {
             background-color: #ffffff !important;
         }
-        
+
         header.navbar .nav-container .nyssa_right_header_icons .icon:hover,
         header .menu-controls .nyssa_right_header_icons .icon:hover,
         header.style2 span.social_container:hover i,
@@ -2132,17 +2169,17 @@
         header.style4 .search_trigger .dripicons-search:hover {
             color: #f9f3ff !important;
         }
-        
+
         header.header_after_scroll.navbar .nav-container .nyssa_right_header_icons .icon,
         header .menu-controls .nyssa_right_header_icons .icon,
         header.header_after_scroll .social_container i {
             color: #333 !important;
         }
-        
+
         header.header_after_scroll.navbar .hamburguer-trigger-menu-icon span {
             background-color: #333;
         }
-        
+
         header.style1.header_after_scroll .search_trigger i,
         header.style1.header_after_scroll .search_trigger_mobile i,
         header.style7.header_after_scroll .search_trigger i,
@@ -2156,23 +2193,23 @@
         header.style5.header_after_scroll .search_trigger_mobile i {
             color: #333;
         }
-        
+
         header.header_after_scroll.navbar .nav-container .nyssa_right_header_icons .icon:hover,
         header .menu-controls .nyssa_right_header_icons .icon:hover,
         header.header_after_scroll .social_container:hover i {
             color: #333 !important;
         }
-        
+
         .cd-overlay-content span,
         .cd-nav-bg-fake {}
-        
+
         .nyssa-push-sidebar.nyssa-push-sidebar-right,
         .nyssa-push-sidebar-content .contact-form input[type='text'],
         .nyssa-push-sidebar-content .contact-form input[type='email'],
         .nyssa-push-sidebar-content .contact-widget-container textarea {
             background-color: #003279 !important;
         }
-        
+
         .nyssa-push-sidebar .widget h2>.widget_title_span,
         .nyssa-push-sidebar .wpb_content_element .wpb_accordion_header a,
         .nyssa-push-sidebar .custom-widget h4,
@@ -2190,21 +2227,21 @@
             text-align: left;
             margin-top: 30px;
         }
-        
+
         .nyssa-push-sidebar-content .des_recent_posts_widget .ult_horizontal h4 {
             font-size: 20px !important;
         }
-        
+
         .nyssa-push-sidebar .hamburguer-trigger-menu-icon.sidebar-opened {
             background-color: #ffffff !important;
         }
-        
+
         .nyssa-push-sidebar select,
         .nyssa-push-sidebar .widget_search input,
         .nyssa-push-sidebar .wp-block-search .wp-block-search__input {
             color: #003279 !important;
         }
-        
+
         .nyssa-push-sidebar a:not(.vc_btn3),
         .nyssa-push-sidebar .select2-container--default .select2-results__option[data-selected=true],
         .nyssa-push-sidebar .select2-results__option,
@@ -2215,11 +2252,11 @@
             font-size: 15px;
             line-height: 1.7em;
         }
-        
+
         .nyssa-push-sidebar a:hover:not(.vc_btn3) {
             color: #b6b0c4 !important;
         }
-        
+
         .nyssa-push-sidebar p,
         .nyssa-push-sidebar .widget ul li,
         .nyssa-push-sidebar .widget span,
@@ -2231,7 +2268,7 @@
             color: #b6b0c4 !important;
             font-size: 15px;
         }
-        
+
         .nyssa-push-sidebar-content input[placeholder]::placeholder,
         .nyssa-push-sidebar-content input[placeholder]::-webkit-input-placeholder {
             font-family: 'Inter', 'Arial', 'sans-serif' !important;
@@ -2239,16 +2276,16 @@
             color: #b6b0c4 !important;
             font-size: 15px !important;
         }
-        
+
         .nyssa-push-sidebar-content input[type],
         .nyssa-push-sidebar-content textarea {
             border: 1px solid rgba(182, 176, 196, .5) !important;
         }
-        
+
         .nyssa-push-sidebar-content .widget_nav_menu li:first-child {
             border: none !important;
         }
-        
+
         .widget h2>.widget_title_span,
         .custom-widget h4,
         .custom-widget h4 span,
@@ -2274,7 +2311,7 @@
             color: #003279 !important;
             font-size: 17px !important;
         }
-        
+
         #big_footer .widget h2>.widget_title_span,
         #big_footer .custom-widget h4,
         #big_footer .custom-widget h4 span,
@@ -2290,7 +2327,7 @@
             font-weight: 700 !important;
             font-size: 17px !important;
         }
-        
+
         #primary_footer .widget.des_recent_posts_widget .ult_horizontal h4 {
             font-family: 'Inter', 'Arial', 'sans-serif' !important;
             font-weight: 700 !important;
@@ -2300,7 +2337,7 @@
             font-size: 20px !important;
             letter-spacing: 0 !important;
         }
-        
+
         #nyssa-push-sidebar-content .widget h2>.widget_title_span,
         #nyssa-push-sidebar-content .custom-widget h4,
         #nyssa-push-sidebar-content .custom-widget h4 span,
@@ -2314,42 +2351,43 @@
             font-weight: 700;
             font-size: 17px;
         }
-        
+
         .overflow-hidden-box {
             overflow: hidden;
         }
+
         /*.lord-icon.left {    pointer-events: none;}*/
-        
+
         .colored_text .rs_splitted_chars {
             color: #4beee9 !important;
             font-size: 0.8em
         }
-        
+
         .colored_text_2 .rs_splitted_chars {
             color: #4beee9 !important;
             font-size: 0.8em
         }
-        
+
         .colored_text_3 .rs_splitted_chars {
             color: #4beee9 !important;
             font-size: 0.8em
         }
-        
+
         .colored_text_4 .rs_splitted_chars {
             color: #fddb60 !important;
             font-size: 0.8em
         }
-        
+
         .colored_text_5 .rs_splitted_chars {
             color: #b496d6 !important;
             font-size: 0.8em
         }
-        
+
         .sidebar-box .textwidget p {
             text-align: justify;
             margin: 20px 0 0;
         }
-        
+
         #nyssa-push-sidebar-contentr h4,
         #nyssa-push-sidebar-content .sidebar-box,
         .nyssa-push-sidebar h4,
@@ -2358,20 +2396,19 @@
             text-align: center !important;
             margin-top: -10px !important;
         }
-        
+
         #nyssa-push-sidebar-content .sidebar-box img {
             max-width: 75% !important;
         }
-        
+
         .woocommerce header.navbar {
             background-color: rgba(255, 255, 255, 1) !important;
         }
 
-        #section-1490 > div > section > div.vc_row.wpb_row.vc_row-fluid.team-boxes-style.wide-ipad.wpb_animate_when_almost_visible.wpb_fadeIn.fadeIn.vc_row-o-equal-height.vc_row-o-content-top.vc_row-flex.wpb_start_animation.animated > div.high-index.wpb_column.vc_column_container.vc_col-sm-3.vc_col-has-fill > div > div > div.ult-content-box-container > div > div:nth-child(3) > div > ul > li {
+        #section-1490>div>section>div.vc_row.wpb_row.vc_row-fluid.team-boxes-style.wide-ipad.wpb_animate_when_almost_visible.wpb_fadeIn.fadeIn.vc_row-o-equal-height.vc_row-o-content-top.vc_row-flex.wpb_start_animation.animated>div.high-index.wpb_column.vc_column_container.vc_col-sm-3.vc_col-has-fill>div>div>div.ult-content-box-container>div>div:nth-child(3)>div>ul>li {
             color: #fff;
             font-size: 13px;
         }
-
     </style>
     <link rel='stylesheet' id='wp-block-library-css' href='https://preview.treethemes.com/nyssa/demo1/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all' />
     <style id='lizr-gutenberg-style-inline-css' type='text/css'>
@@ -2428,288 +2465,288 @@
             --wp--preset--spacing--70: 3.38rem;
             --wp--preset--spacing--80: 5.06rem;
         }
-        
-         :where(.is-layout-flex) {
+
+        :where(.is-layout-flex) {
             gap: 0.5em;
         }
-        
+
         body .is-layout-flow>.alignleft {
             float: left;
             margin-inline-start: 0;
             margin-inline-end: 2em;
         }
-        
+
         body .is-layout-flow>.alignright {
             float: right;
             margin-inline-start: 2em;
             margin-inline-end: 0;
         }
-        
+
         body .is-layout-flow>.aligncenter {
             margin-left: auto !important;
             margin-right: auto !important;
         }
-        
+
         body .is-layout-constrained>.alignleft {
             float: left;
             margin-inline-start: 0;
             margin-inline-end: 2em;
         }
-        
+
         body .is-layout-constrained>.alignright {
             float: right;
             margin-inline-start: 2em;
             margin-inline-end: 0;
         }
-        
+
         body .is-layout-constrained>.aligncenter {
             margin-left: auto !important;
             margin-right: auto !important;
         }
-        
+
         body .is-layout-constrained> :where(:not(.alignleft):not(.alignright):not(.alignfull)) {
             max-width: var(--wp--style--global--content-size);
             margin-left: auto !important;
             margin-right: auto !important;
         }
-        
+
         body .is-layout-constrained>.alignwide {
             max-width: var(--wp--style--global--wide-size);
         }
-        
+
         body .is-layout-flex {
             display: flex;
         }
-        
+
         body .is-layout-flex {
             flex-wrap: wrap;
             align-items: center;
         }
-        
+
         body .is-layout-flex>* {
             margin: 0;
         }
-        
-         :where(.wp-block-columns.is-layout-flex) {
+
+        :where(.wp-block-columns.is-layout-flex) {
             gap: 2em;
         }
-        
+
         .has-black-color {
             color: var(--wp--preset--color--black) !important;
         }
-        
+
         .has-cyan-bluish-gray-color {
             color: var(--wp--preset--color--cyan-bluish-gray) !important;
         }
-        
+
         .has-white-color {
             color: var(--wp--preset--color--white) !important;
         }
-        
+
         .has-pale-pink-color {
             color: var(--wp--preset--color--pale-pink) !important;
         }
-        
+
         .has-vivid-red-color {
             color: var(--wp--preset--color--vivid-red) !important;
         }
-        
+
         .has-luminous-vivid-orange-color {
             color: var(--wp--preset--color--luminous-vivid-orange) !important;
         }
-        
+
         .has-luminous-vivid-amber-color {
             color: var(--wp--preset--color--luminous-vivid-amber) !important;
         }
-        
+
         .has-light-green-cyan-color {
             color: var(--wp--preset--color--light-green-cyan) !important;
         }
-        
+
         .has-vivid-green-cyan-color {
             color: var(--wp--preset--color--vivid-green-cyan) !important;
         }
-        
+
         .has-pale-cyan-blue-color {
             color: var(--wp--preset--color--pale-cyan-blue) !important;
         }
-        
+
         .has-vivid-cyan-blue-color {
             color: var(--wp--preset--color--vivid-cyan-blue) !important;
         }
-        
+
         .has-vivid-purple-color {
             color: var(--wp--preset--color--vivid-purple) !important;
         }
-        
+
         .has-black-background-color {
             background-color: var(--wp--preset--color--black) !important;
         }
-        
+
         .has-cyan-bluish-gray-background-color {
             background-color: var(--wp--preset--color--cyan-bluish-gray) !important;
         }
-        
+
         .has-white-background-color {
             background-color: var(--wp--preset--color--white) !important;
         }
-        
+
         .has-pale-pink-background-color {
             background-color: var(--wp--preset--color--pale-pink) !important;
         }
-        
+
         .has-vivid-red-background-color {
             background-color: var(--wp--preset--color--vivid-red) !important;
         }
-        
+
         .has-luminous-vivid-orange-background-color {
             background-color: var(--wp--preset--color--luminous-vivid-orange) !important;
         }
-        
+
         .has-luminous-vivid-amber-background-color {
             background-color: var(--wp--preset--color--luminous-vivid-amber) !important;
         }
-        
+
         .has-light-green-cyan-background-color {
             background-color: var(--wp--preset--color--light-green-cyan) !important;
         }
-        
+
         .has-vivid-green-cyan-background-color {
             background-color: var(--wp--preset--color--vivid-green-cyan) !important;
         }
-        
+
         .has-pale-cyan-blue-background-color {
             background-color: var(--wp--preset--color--pale-cyan-blue) !important;
         }
-        
+
         .has-vivid-cyan-blue-background-color {
             background-color: var(--wp--preset--color--vivid-cyan-blue) !important;
         }
-        
+
         .has-vivid-purple-background-color {
             background-color: var(--wp--preset--color--vivid-purple) !important;
         }
-        
+
         .has-black-border-color {
             border-color: var(--wp--preset--color--black) !important;
         }
-        
+
         .has-cyan-bluish-gray-border-color {
             border-color: var(--wp--preset--color--cyan-bluish-gray) !important;
         }
-        
+
         .has-white-border-color {
             border-color: var(--wp--preset--color--white) !important;
         }
-        
+
         .has-pale-pink-border-color {
             border-color: var(--wp--preset--color--pale-pink) !important;
         }
-        
+
         .has-vivid-red-border-color {
             border-color: var(--wp--preset--color--vivid-red) !important;
         }
-        
+
         .has-luminous-vivid-orange-border-color {
             border-color: var(--wp--preset--color--luminous-vivid-orange) !important;
         }
-        
+
         .has-luminous-vivid-amber-border-color {
             border-color: var(--wp--preset--color--luminous-vivid-amber) !important;
         }
-        
+
         .has-light-green-cyan-border-color {
             border-color: var(--wp--preset--color--light-green-cyan) !important;
         }
-        
+
         .has-vivid-green-cyan-border-color {
             border-color: var(--wp--preset--color--vivid-green-cyan) !important;
         }
-        
+
         .has-pale-cyan-blue-border-color {
             border-color: var(--wp--preset--color--pale-cyan-blue) !important;
         }
-        
+
         .has-vivid-cyan-blue-border-color {
             border-color: var(--wp--preset--color--vivid-cyan-blue) !important;
         }
-        
+
         .has-vivid-purple-border-color {
             border-color: var(--wp--preset--color--vivid-purple) !important;
         }
-        
+
         .has-vivid-cyan-blue-to-vivid-purple-gradient-background {
             background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;
         }
-        
+
         .has-light-green-cyan-to-vivid-green-cyan-gradient-background {
             background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;
         }
-        
+
         .has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background {
             background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;
         }
-        
+
         .has-luminous-vivid-orange-to-vivid-red-gradient-background {
             background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;
         }
-        
+
         .has-very-light-gray-to-cyan-bluish-gray-gradient-background {
             background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;
         }
-        
+
         .has-cool-to-warm-spectrum-gradient-background {
             background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;
         }
-        
+
         .has-blush-light-purple-gradient-background {
             background: var(--wp--preset--gradient--blush-light-purple) !important;
         }
-        
+
         .has-blush-bordeaux-gradient-background {
             background: var(--wp--preset--gradient--blush-bordeaux) !important;
         }
-        
+
         .has-luminous-dusk-gradient-background {
             background: var(--wp--preset--gradient--luminous-dusk) !important;
         }
-        
+
         .has-pale-ocean-gradient-background {
             background: var(--wp--preset--gradient--pale-ocean) !important;
         }
-        
+
         .has-electric-grass-gradient-background {
             background: var(--wp--preset--gradient--electric-grass) !important;
         }
-        
+
         .has-midnight-gradient-background {
             background: var(--wp--preset--gradient--midnight) !important;
         }
-        
+
         .has-small-font-size {
             font-size: var(--wp--preset--font-size--small) !important;
         }
-        
+
         .has-medium-font-size {
             font-size: var(--wp--preset--font-size--medium) !important;
         }
-        
+
         .has-large-font-size {
             font-size: var(--wp--preset--font-size--large) !important;
         }
-        
+
         .has-x-large-font-size {
             font-size: var(--wp--preset--font-size--x-large) !important;
         }
-        
+
         .wp-block-navigation a:where(:not(.wp-element-button)) {
             color: inherit;
         }
-        
-         :where(.wp-block-columns.is-layout-flex) {
+
+        :where(.wp-block-columns.is-layout-flex) {
             gap: 2em;
         }
-        
+
         .wp-block-pullquote {
             font-size: 1.5em;
             line-height: 1.6;
@@ -2771,12 +2808,12 @@
         });
     </script>
     <noscript>
-            <style>
-                .woocommerce-product-gallery {
-                    opacity: 1 !important;
-                }
-            </style>
-        </noscript>
+        <style>
+            .woocommerce-product-gallery {
+                opacity: 1 !important;
+            }
+        </style>
+    </noscript>
     <script type="text/javascript">
         if (typeof ajaxurl === "undefined") {
             var ajaxurl = "https://preview.treethemes.com/nyssa/demo1/wp-admin/admin-ajax.php"
@@ -2851,31 +2888,31 @@
         .vc_custom_1674469288556 {
             margin-top: -40px !important;
         }
-        
+
         .vc_custom_1676046856240 {
             padding-bottom: 0px !important;
         }
-        
+
         .vc_custom_1677784456103 {
             margin-left: 5px !important;
         }
-        
+
         .vc_custom_1474056192226 {
             padding-left: 25px !important;
         }
-        
+
         .vc_custom_1474056192226 {
             padding-left: 25px !important;
         }
-        
+
         .vc_custom_1474056192226 {
             padding-left: 25px !important;
         }
-        
+
         .vc_custom_1474056192226 {
             padding-left: 25px !important;
         }
-        
+
         .vc_custom_1674469175356 {
             padding-top: 110px !important;
             padding-bottom: 110px !important;
@@ -2884,11 +2921,11 @@
             background-repeat: no-repeat !important;
             background-size: cover !important;
         }
-        
+
         .vc_custom_1671107601524 {
             background-color: __USE_THEME_MAIN_COLOR__ !important;
         }
-        
+
         .vc_custom_1674469181075 {
             padding-top: 110px !important;
             padding-bottom: 110px !important;
@@ -2897,15 +2934,15 @@
             background-repeat: no-repeat !important;
             background-size: cover !important;
         }
-        
+
         .vc_custom_1671116191468 {
             background-color: #4beee9 !important;
         }
-        
+
         .vc_custom_1675874814017 {
             background-color: #4beee9 !important;
         }
-        
+
         .vc_custom_1674469199507 {
             padding-top: 110px !important;
             padding-bottom: 110px !important;
@@ -2914,11 +2951,11 @@
             background-repeat: no-repeat !important;
             background-size: cover !important;
         }
-        
+
         .vc_custom_1674469596951 {
             background-color: #003279 !important;
         }
-        
+
         .vc_custom_1674469194362 {
             padding-top: 110px !important;
             padding-bottom: 110px !important;
@@ -2927,7 +2964,7 @@
             background-repeat: no-repeat !important;
             background-size: cover !important;
         }
-        
+
         .vc_custom_1671107465649 {
             padding-top: 110px !important;
             padding-bottom: 110px !important;
@@ -2936,11 +2973,11 @@
             background-repeat: no-repeat !important;
             background-size: cover !important;
         }
-        
+
         .vc_custom_1675874803244 {
             background-color: #4beee9 !important;
         }
-        
+
         .vc_custom_1671115947837 {
             padding-top: 110px !important;
             padding-bottom: 110px !important;
@@ -2949,173 +2986,182 @@
             background-repeat: no-repeat !important;
             background-size: cover !important;
         }
-        
+
         .vc_custom_1674469592072 {
             background-color: #003279 !important;
         }
-        
+
         .vc_custom_1603987566857 {
             padding-right: 0px !important;
             padding-left: 0px !important;
         }
-        
+
         .vc_custom_1666457877522 {
             padding-right: 0px !important;
             padding-left: 0px !important;
         }
     </style>
     <noscript>
-            <style>
-                .wpb_animate_when_almost_visible {
-                    opacity: 1;
-                }
-            </style>
-        </noscript>
+        <style>
+            .wpb_animate_when_almost_visible {
+                opacity: 1;
+            }
+        </style>
+    </noscript>
 </head>
 
 <body class="page-template page-template-page page-template-page-php page page-id-1490 page-child parent-pageid-24 theme-nyssa woocommerce-no-js wpb-js-composer js-comp-ver-6.10.0 vc_responsive">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-            <defs>
-                <filter id="wp-duotone-dark-grayscale">
-                    <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/>
-                    <feComponentTransfer color-interpolation-filters="sRGB">
-                        <feFuncR type="table" tableValues="0 0.49803921568627"/>
-                        <feFuncG type="table" tableValues="0 0.49803921568627"/>
-                        <feFuncB type="table" tableValues="0 0.49803921568627"/>
-                        <feFuncA type="table" tableValues="1 1"/>
-                    </feComponentTransfer>
-                    <feComposite in2="SourceGraphic" operator="in"/>
-                </filter>
-            </defs>
-        </svg>
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-            <defs>
-                <filter id="wp-duotone-grayscale">
-                    <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/>
-                    <feComponentTransfer color-interpolation-filters="sRGB">
-                        <feFuncR type="table" tableValues="0 1"/>
-                        <feFuncG type="table" tableValues="0 1"/>
-                        <feFuncB type="table" tableValues="0 1"/>
-                        <feFuncA type="table" tableValues="1 1"/>
-                    </feComponentTransfer>
-                    <feComposite in2="SourceGraphic" operator="in"/>
-                </filter>
-            </defs>
-        </svg>
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-            <defs>
-                <filter id="wp-duotone-purple-yellow">
-                    <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/>
-                    <feComponentTransfer color-interpolation-filters="sRGB">
-                        <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765"/>
-                        <feFuncG type="table" tableValues="0 1"/>
-                        <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431"/>
-                        <feFuncA type="table" tableValues="1 1"/>
-                    </feComponentTransfer>
-                    <feComposite in2="SourceGraphic" operator="in"/>
-                </filter>
-            </defs>
-        </svg>
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-            <defs>
-                <filter id="wp-duotone-blue-red">
-                    <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/>
-                    <feComponentTransfer color-interpolation-filters="sRGB">
-                        <feFuncR type="table" tableValues="0 1"/>
-                        <feFuncG type="table" tableValues="0 0.27843137254902"/>
-                        <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902"/>
-                        <feFuncA type="table" tableValues="1 1"/>
-                    </feComponentTransfer>
-                    <feComposite in2="SourceGraphic" operator="in"/>
-                </filter>
-            </defs>
-        </svg>
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-            <defs>
-                <filter id="wp-duotone-midnight">
-                    <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/>
-                    <feComponentTransfer color-interpolation-filters="sRGB">
-                        <feFuncR type="table" tableValues="0 0"/>
-                        <feFuncG type="table" tableValues="0 0.64705882352941"/>
-                        <feFuncB type="table" tableValues="0 1"/>
-                        <feFuncA type="table" tableValues="1 1"/>
-                    </feComponentTransfer>
-                    <feComposite in2="SourceGraphic" operator="in"/>
-                </filter>
-            </defs>
-        </svg>
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-            <defs>
-                <filter id="wp-duotone-magenta-yellow">
-                    <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/>
-                    <feComponentTransfer color-interpolation-filters="sRGB">
-                        <feFuncR type="table" tableValues="0.78039215686275 1"/>
-                        <feFuncG type="table" tableValues="0 0.94901960784314"/>
-                        <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412"/>
-                        <feFuncA type="table" tableValues="1 1"/>
-                    </feComponentTransfer>
-                    <feComposite in2="SourceGraphic" operator="in"/>
-                </filter>
-            </defs>
-        </svg>
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-            <defs>
-                <filter id="wp-duotone-purple-green">
-                    <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/>
-                    <feComponentTransfer color-interpolation-filters="sRGB">
-                        <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745"/>
-                        <feFuncG type="table" tableValues="0 1"/>
-                        <feFuncB type="table" tableValues="0.44705882352941 0.4"/>
-                        <feFuncA type="table" tableValues="1 1"/>
-                    </feComponentTransfer>
-                    <feComposite in2="SourceGraphic" operator="in"/>
-                </filter>
-            </defs>
-        </svg>
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-            <defs>
-                <filter id="wp-duotone-blue-orange">
-                    <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "/>
-                    <feComponentTransfer color-interpolation-filters="sRGB">
-                        <feFuncR type="table" tableValues="0.098039215686275 1"/>
-                        <feFuncG type="table" tableValues="0 0.66274509803922"/>
-                        <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725"/>
-                        <feFuncA type="table" tableValues="1 1"/>
-                    </feComponentTransfer>
-                    <feComposite in2="SourceGraphic" operator="in"/>
-                </filter>
-            </defs>
-        </svg>
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg>
     <div class="nyssa-push-sidebar nyssa-push-sidebar-right">
         <div class="menu-controls sliderbar-menu-controller" title="Sidebar Menu Controller">
             <div class="font-icon custom-font-icon">
                 <span class="hamburguer-trigger-menu-icon">
-                        <span class="hamburguer-line hamburger-line-1"></span>
-                <span class="hamburguer-line hamburger-line-2"></span>
-                <span class="hamburguer-line hamburger-line-3"></span>
+                    <span class="hamburguer-line hamburger-line-1"></span>
+                    <span class="hamburguer-line hamburger-line-2"></span>
+                    <span class="hamburguer-line hamburger-line-3"></span>
                 </span>
             </div>
         </div>
         <div class="display-table">
             <div id="nyssa-push-sidebar-content" class="nyssa-push-sidebar-content ajaxable">
                 <div class="sidebar-box widget_media_image" id="media_image-2">
-                    <img width="300" height="115" src="/img/import/Footer.png" class="image wp-image-448  attachment-medium size-medium" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;"
-                    />
+                    <img width="300" height="115" src="/img/import/challenge-fond-noir.png" class="image wp-image-448  attachment-medium size-medium" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" />
+                    <!-- <img alt="Logo challenge" style="height: 46px;/*! background-color: white; */border-radius: 25px;/*! padding: ; */" src="/img/import/challenge-fond-noir.png"> -->
                 </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
                 <div class="sidebar-box widget_text" id="text-2">
                     <div class="textwidget">
-                        <p style="text-align: center;">
-                            <span style="text-align: justify; width: 55ch;">
-                            Tout devient possible dans l’immobilier. <br>Bienvenue dans la tranquillité d’esprit. <br>Vivez l’expérience challenge-toit un service d’acquisition de biens immobiliers sans compromis qui assure l’authenticité et la conformité de chaque propriété.<!-- <a href="#">Get nyssa today!</a> -->
+                        <p style="text-align: left;width: 19ch;margin: 0 auto 0 15% !important;/*! align-content: space-evenly; *//*! align-items: revert-layer; *//*! align-self: center; */">
+                            <span style="">
+                                Tout devient possible dans l’immobilier. Bienvenue dans la tranquillité d’esprit. <!-- <a href="#">Get nyssa today!</a> -->
+                            </span>
+                        </p>
+                        <p style="text-align: left;width: 19ch;margin: 0 auto 0 15% !important;">
+                            <span style="">Vivez l’expérience challenge-toit un service d’acquisition de biens immobiliers sans compromis qui assure l’authenticité et la conformité de chaque propriété.<!-- <a href="#">Get nyssa today!</a> -->
                             </span>
                         </p>
                     </div>
                 </div>
-                <div id="nyssa_socials_widget-2" class="widget nyssa_socials_widget">
+                <!-- <div id="nyssa_socials_widget-2" class="widget nyssa_socials_widget">
                     <div class="social-icons-fa align-center">
-                    <img alt="Logo challenge" style="height: 46px;/*! background-color: white; */border-radius: 25px;/*! padding: ; */" src="/img/import/challenge-fond-noir.png">
+                    
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
@@ -3150,12 +3196,12 @@
                 <div id="dl-menu" class="dl-menuwrapper">
                     <div class="dl-trigger-wrapper">
                         <button class="dl-trigger">
-                                <span class="hamburguer-trigger-menu-icon">
-                                    <span class="hamburguer-line hamburger-line-1"></span>
-                                    <span class="hamburguer-line hamburger-line-2"></span>
-                                    <span class="hamburguer-line hamburger-line-3"></span>
-                                </span>
-                            </button>
+                            <span class="hamburguer-trigger-menu-icon">
+                                <span class="hamburguer-line hamburger-line-1"></span>
+                                <span class="hamburguer-line hamburger-line-2"></span>
+                                <span class="hamburguer-line hamburger-line-3"></span>
+                            </span>
+                        </button>
                     </div>
                     <ul id="menu-primary-navigation" class="dl-menu">
                         <li id="mobile-nav-menu-item-4474" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children page-4445">
@@ -3234,9 +3280,9 @@
                         <div class="menu-controls sliderbar-menu-controller disable_nyssa_sliding_panel_mobile">
                             <div class="font-icon custom-font-icon">
                                 <span class="hamburguer-trigger-menu-icon">
-                                        <span class="hamburguer-line hamburger-line-1"></span>
-                                <span class="hamburguer-line hamburger-line-2"></span>
-                                <span class="hamburguer-line hamburger-line-3"></span>
+                                    <span class="hamburguer-line hamburger-line-1"></span>
+                                    <span class="hamburguer-line hamburger-line-2"></span>
+                                    <span class="hamburguer-line hamburger-line-3"></span>
                                 </span>
                             </div>
                         </div>
@@ -3252,13 +3298,12 @@
                                 <div class="vc_column-inner">
                                     <div class="wpb_wrapper">
                                         <div class="ult-content-box-container ">
-                                            <div class="ult-content-box" style="box-shadow: px px px px none;margin:70px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none"
-                                                data-responsive_margins="margin:0px;" data-normal_margins="margin:70px;">
+                                            <div class="ult-content-box" style="box-shadow: px px px px none;margin:70px;-webkit-transition: all 700ms ease;-moz-transition: all 700ms ease;-ms-transition: all 700ms ease;-o-transition: all 700ms ease;transition: all 700ms ease;" data-hover_box_shadow="none" data-responsive_margins="margin:0px;" data-normal_margins="margin:70px;">
                                                 <div class="vc_empty_space" style="height: 100px">
                                                     <span class="vc_empty_space_inner"></span>
                                                 </div>
                                                 <h5 style="color: #4beee9;text-align: left" class="vc_custom_heading heading_border vc_custom_1677784456103">INSCRIVEZ-VOUS</h5>
-                                                <h1 style="color:#ffffff;border:none; font-family:'Inter';font-weight:800;" class="vc_custom_heading">Exceptionnellement <span class="break"><br></span> Adapté à vos<span class="break"><br></span>Réalités.</h1>
+                                                <h1 style="color:#ffffff;border:none; font-family:'Inter';font-weight:800;" class="vc_custom_heading">Transformez <span class="break"><br></span> vos aspirations en réalité.</h1>
                                                 <div class="vc_empty_space" style="height: 40px">
                                                     <span class="vc_empty_space_inner"></span>
                                                 </div>
@@ -3280,12 +3325,7 @@
                             </div>
                         </div>
                         <!-- Row Backgrounds -->
-                        <div class="upb_bg_img" data-ultimate-bg="url('/img/about/bg_big_image.jpg')" data-image-id="id^1900|url^/img/about/bg_big_image.jpg|caption^null|alt^null|title^s-o-c-i-a-l-c-u-t-1RT4txDDAbM-unsplash|description^null"
-                            data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="ex-full" data-bg_img_attach="scroll" data-upb-overlay-color="rgba(28,12,61,0.5)"
-                            data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true"
-                            data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="rgba(28,12,61,0.5)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8"
-                            data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll" data-seperator="true" data-seperator-type="curve_up_seperator" data-seperator-shape-size="40" data-seperator-svg-height="200" data-seperator-full-width="true"
-                            data-seperator-position="bottom_seperator" data-seperator-background-color="#fefcff" data-icon=""></div>
+                        <div class="upb_bg_img" data-ultimate-bg="url('/img/about/bg_big_image.jpg')" data-image-id="id^1900|url^/img/about/bg_big_image.jpg|caption^null|alt^null|title^s-o-c-i-a-l-c-u-t-1RT4txDDAbM-unsplash|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="ex-full" data-bg_img_attach="scroll" data-upb-overlay-color="rgba(28,12,61,0.5)" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="rgba(28,12,61,0.5)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll" data-seperator="true" data-seperator-type="curve_up_seperator" data-seperator-shape-size="40" data-seperator-svg-height="200" data-seperator-full-width="true" data-seperator-position="bottom_seperator" data-seperator-background-color="#fefcff" data-icon=""></div>
                         <div class="vc_row wpb_row vc_row-fluid wideipad vc_custom_1674469288556">
                             <div class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-12">
                                 <div class="vc_column-inner">
@@ -3295,7 +3335,7 @@
                                             <div class='tab-container col-xs-12 col-sm-9' style='margin-left:0px;'></div>
                                             <div class='label 1'>
                                                 <div class='nyssa_icon_special_tabs'>
-                                                    <img src="/img/import/I-C-1.png" width="60px" height="60px" alt="icone" style="margin-top:4px;"/>
+                                                    <img src="/img/import/I-C-1.png" width="60px" height="60px" alt="icone" style="margin-top:4px;" />
                                                 </div>
                                                 <div class='title'>
                                                     <a class='special_tabs_linkage'>INSCRIVEZ-VOUS</a>
@@ -3308,7 +3348,7 @@
                                                         <div class="vc_column-inner vc_custom_1474056192226">
                                                             <div class="wpb_wrapper" style="width:100%;">
                                                                 <h3 style="text-align: left" class="vc_custom_heading">
-                                                                Tout commence ici.</h3>
+                                                                    Tout commence ici.</h3>
                                                                 <div class="vc_empty_space" style="height: 10px">
                                                                     <span class="vc_empty_space_inner"></span>
                                                                 </div>
@@ -3376,7 +3416,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>    
+                            </div>
                             <div class="wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill">
                                 <div class="vc_column-inner vc_custom_1671107601524">
                                     <div class="wpb_wrapper">
@@ -3403,7 +3443,7 @@
                                                 <div class="wpb_text_column wpb_content_element  make-p-small">
                                                     <div class="wpb_wrapper">
                                                         <p>
-                                                            <span style="color: #ffffff;">Nos programmes certifiés incarnent l'excellence dans le domaine immobilier, offrant bien plus qu'un simple abri. La qualité et le bien-être sont à portée de main.  Découvrez le confort, la sécurité et la satisfaction au sein de nos maisons certifiées.</span>
+                                                            <span style="color: #ffffff;">Nos programmes certifiés incarnent l'excellence dans le domaine immobilier, offrant bien plus qu'un simple abri. La qualité et le bien-être sont à portée de main. Découvrez le confort, la sécurité et la satisfaction au sein de nos maisons certifiées.</span>
                                                         </p>
                                                     </div>
                                                 </div>
@@ -3411,13 +3451,11 @@
                                                     <span class="vc_empty_space_inner"></span>
                                                 </div>
                                                 <div class="vc_btn3-container vc_btn3-inline">
-                                                    <a onmouseleave="this.style.borderColor='#ffffff'; this.style.backgroundColor='transparent'; this.style.color='#ffffff'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#ffffff; color:#ffffff;" class="btn-modal overlay-show vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom"
-                                                    data-ultimate-target='#modal-trg-txt-wrap-1900 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' data-class-id="content-64f491c87e33b4-400800" data-overlay-class="overlay-zoomin"
-                                                    href="#" title="Inscrivez-vous pour une maison cert">Inscrivez-vous</a>
+                                                    <a onmouseleave="this.style.borderColor='#ffffff'; this.style.backgroundColor='transparent'; this.style.color='#ffffff'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#ffffff; color:#ffffff;" class="btn-modal overlay-show vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" data-ultimate-target='#modal-trg-txt-wrap-1900 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' data-class-id="content-64f491c87e33b4-400800" data-overlay-class="overlay-zoomin" href="#" title="Inscrivez-vous pour une maison cert">Inscrivez-vous</a>
                                                 </div>
                                                 <div id="treethemes-social-networks-shortcode-1" class="widget nyssa_socials_widget">
                                                     <div class="social-icons-fa align-left">
-                                                        
+
                                                     </div>
                                                 </div>
                                             </div>
@@ -3468,16 +3506,14 @@
                                                     <span class="vc_empty_space_inner"></span>
                                                 </div>
                                                 <div class="vc_btn3-container vc_btn3-inline">
-                                                    <a onmouseleave="this.style.borderColor='#1c0c3d'; this.style.backgroundColor='transparent'; this.style.color='#1c0c3d'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#1c0c3d; color:#1c0c3d;" class="btn-modal overlay-show vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" 
-                                                    data-ultimate-target='#modal-trg-txt-wrap-1900 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' data-class-id="content-64f491c87e33b4-400900" data-overlay-class="overlay-zoomin"
-                                                    href="#" title="Inscrivez-vous pour un terrain">Inscrivez-vous</a>
+                                                    <a onmouseleave="this.style.borderColor='#1c0c3d'; this.style.backgroundColor='transparent'; this.style.color='#1c0c3d'" onmouseenter="this.style.borderColor='#5a24b1'; this.style.backgroundColor='#5a24b1'; this.style.color='#ffffff';" style="border-color:#1c0c3d; color:#1c0c3d;" class="btn-modal overlay-show vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-round vc_btn3-style-outline-custom" data-ultimate-target='#modal-trg-txt-wrap-1900 .btn-modal' data-responsive-json-new='{"font-size":"","line-height":""}' data-class-id="content-64f491c87e33b4-400900" data-overlay-class="overlay-zoomin" href="#" title="Inscrivez-vous pour un terrain">Inscrivez-vous</a>
                                                 </div>
                                                 <div class="vc_empty_space" style="height: 20px">
                                                     <span class="vc_empty_space_inner"></span>
                                                 </div>
                                                 <div id="treethemes-social-networks-shortcode-3" class="widget nyssa_socials_widget">
                                                     <div class="social-icons-fa align-left">
-                                                        
+
                                                     </div>
                                                 </div>
                                             </div>
@@ -3489,7 +3525,7 @@
                         <div class="vc_row-full-width vc_clearfix"></div>
                         <!-- Row Backgrounds -->
                         <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid team-boxes-style wide-ipad wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_row-o-equal-height vc_row-o-content-top vc_row-flex">
-                            
+
                             <div class="lower-index wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill">
                                 <div class="vc_column-inner vc_custom_1674469199507">
                                     <div class="wpb_wrapper">
@@ -3530,7 +3566,7 @@
                                                             <li>Signature de ta fiche d’adhésion et le paiement des frais d’ouverture de dossier</li>
                                                             <li>Tu reçois ton contrat de réservation et tu débutes ton challenge</li>
                                                             <li>Tu es livré dans le temps imparti et tu reçois ton titre de propriété, faisant de toit un propriétaire de plein droit.</li>
-                                                            
+
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -3546,7 +3582,7 @@
                                                 </div>
                                                 <div id="treethemes-social-networks-shortcode-3" class="widget nyssa_socials_widget">
                                                     <div class="social-icons-fa align-left">
-                                                        
+
                                                     </div>
                                                 </div>
                                             </div>
@@ -3613,7 +3649,7 @@
                                                                 <p>Il ne reste plus que vous !</p>
                                                             </div>
                                                         </div> -->
-                                                        <!-- <div class="vc_toggle vc_toggle_square vc_toggle_color_default  vc_toggle_size_lg">
+                        <!-- <div class="vc_toggle vc_toggle_square vc_toggle_color_default  vc_toggle_size_lg">
                                                             <div class="vc_toggle_title">
                                                                 <h4>Incroyable</h4>
                                                                 <i class="vc_toggle_icon"></i>
@@ -3626,7 +3662,7 @@
 
                                                             </div>
                                                         </div> -->
-                                                    <!-- </div>
+                        <!-- </div>
                                                 </div>
                                             </div>
                                             <div class="wpb_column vc_column_container vc_col-sm-2">
@@ -3669,8 +3705,8 @@
                                                                             <span class="ult-dual-heading-text ult-first-text ult-responsive" data-ultimate-target='.ult-dual-color.ultv-7297 .ult-dual-heading-text' data-responsive-json-new='{"font-size":"","line-height":""}' style="     border:none; font-family:&#039;Inter&#039;;font-weight:700;">Ce que nous pouvons faire pour vous</span>
                                                                     </span>
                                                                     <span class="ult-adv-heading" style=""> -->
-                                                                            <!--<span class="ult-dual-adv-heading-text ult-highlight-text ult-responsive" data-ultimate-target='.ult-dual-color.ultv-7297 .ult-highlight-text' data-responsive-json-new='{"font-size":"","line-height":""}' style="color:#4beee9;   letter-spacing:0px;  border:none; font-family:&#039;Inter&#039;;font-weight:800;">.</span>-->
-                                                                    <!-- </span>
+                        <!--<span class="ult-dual-adv-heading-text ult-highlight-text ult-responsive" data-ultimate-target='.ult-dual-color.ultv-7297 .ult-highlight-text' data-responsive-json-new='{"font-size":"","line-height":""}' style="color:#4beee9;   letter-spacing:0px;  border:none; font-family:&#039;Inter&#039;;font-weight:800;">.</span>-->
+                        <!-- </span>
                                                                 </h2>
                                                             </div>
                                                         </div>
@@ -3794,23 +3830,23 @@
                                                                 <div class="info-c-full-wrap"></div>
                                                             </div>
                                                         </div> -->
-                                                        <!--<div class="smile_icon_list_wrap " data-content_bg="#003279" data-content_color="#eeecf3">-->
-                                                        <!--    <ul id="info-cirlce-wrap-1135" class="smile_icon_list left circle with_bg">-->
-                                                        <!--        <li class="icon_list_item" style="font-size:105px;">-->
-                                                        <!--            <div class="icon_list_icon" style="font-size:35px;width:35px;height:35px;line-height:1;">-->
-                                                        <!--                <i class="smt-pencil"></i>-->
-                                                        <!--            </div>-->
-                                                        <!--            <div class="icon_description" style="font-size:35px;">-->
-                                                        <!--                <div class="responsive-font-class ult-responsive" data-ultimate-target='#info-cirlce-wrap-1135 .responsive-font-class *' data-responsive-json-new='{"font-size":"desktop:15px;","line-height":"desktop:24px;"}' style="font-family:&#039;Mulish&#039;;font-weight:normal;">-->
-                                                        <!--                    <h3 data-ultimate-target='#info-cirlce-wrap-1135 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:24px;","line-height":"desktop:28px;"}' class="ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:700;"></h3>-->
-                                                        <!--                    <p></p>-->
-                                                        <!--                </div>-->
-                                                        <!--            </div>-->
-                                                        <!--            <div class="icon_list_connector" style=" border-style:solid;border-color:rgba(28,12,61,0.2); left:17.5px; top:35px;"></div>-->
-                                                        <!--        </li>-->
-                                                        <!--    </ul>-->
-                                                        <!--</div>-->
-                                                    <!-- </div>
+                        <!--<div class="smile_icon_list_wrap " data-content_bg="#003279" data-content_color="#eeecf3">-->
+                        <!--    <ul id="info-cirlce-wrap-1135" class="smile_icon_list left circle with_bg">-->
+                        <!--        <li class="icon_list_item" style="font-size:105px;">-->
+                        <!--            <div class="icon_list_icon" style="font-size:35px;width:35px;height:35px;line-height:1;">-->
+                        <!--                <i class="smt-pencil"></i>-->
+                        <!--            </div>-->
+                        <!--            <div class="icon_description" style="font-size:35px;">-->
+                        <!--                <div class="responsive-font-class ult-responsive" data-ultimate-target='#info-cirlce-wrap-1135 .responsive-font-class *' data-responsive-json-new='{"font-size":"desktop:15px;","line-height":"desktop:24px;"}' style="font-family:&#039;Mulish&#039;;font-weight:normal;">-->
+                        <!--                    <h3 data-ultimate-target='#info-cirlce-wrap-1135 .responsive-font-class h3.new-cust-responsive-class' data-responsive-json-new='{"font-size":"desktop:24px;","line-height":"desktop:28px;"}' class="ult-responsive new-cust-responsive-class" style="font-family:&#039;Inter&#039;;font-weight:700;"></h3>-->
+                        <!--                    <p></p>-->
+                        <!--                </div>-->
+                        <!--            </div>-->
+                        <!--            <div class="icon_list_connector" style=" border-style:solid;border-color:rgba(28,12,61,0.2); left:17.5px; top:35px;"></div>-->
+                        <!--        </li>-->
+                        <!--    </ul>-->
+                        <!--</div>-->
+                        <!-- </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -3850,8 +3886,8 @@
                                                         </div>
                                                         <form id="feuille-enregistement" action="{{ route('font.challengerpros.store') }}" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
                                                              -->
-                                                            <!-- @method("PUT") -->
-                                                            <!-- <div class="nyssa-multiple-fields dark">
+                        <!-- @method("PUT") -->
+                        <!-- <div class="nyssa-multiple-fields dark">
                                                                 <div class="f-name">
                                                                     <p>
                                                                         Nom de l’entreprise <span class="cforms-required">*</span>
@@ -3980,8 +4016,8 @@
                                     </div>
                                 </div>
                             </div> -->
-                            <!-- Row Backgrounds -->
-                            <!-- <div class="upb_bg_img" data-ultimate-bg="url('/img/import/I-IMAGE DU BAS.jpg')" data-image-id="id^1937|url^/img/import/I-IMAGE DU BAS.jpg|caption^null|alt^null|title^jason-goodman-wVh5grSMYaY-unsplash|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="ex-full" data-bg_img_attach="scroll" data-upb-overlay-color="rgba(12,0,30,0.6)" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="rgba(12,0,30,0.6)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll"></div> -->
+                        <!-- Row Backgrounds -->
+                        <!-- <div class="upb_bg_img" data-ultimate-bg="url('/img/import/I-IMAGE DU BAS.jpg')" data-image-id="id^1937|url^/img/import/I-IMAGE DU BAS.jpg|caption^null|alt^null|title^jason-goodman-wVh5grSMYaY-unsplash|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="ex-full" data-bg_img_attach="scroll" data-upb-overlay-color="rgba(12,0,30,0.6)" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="6.10.0" data-is_old_vc="" data-theme-support="" data-overlay="true" data-overlay-color="rgba(12,0,30,0.6)" data-overlay-pattern="" data-overlay-pattern-opacity="0.8" data-overlay-pattern-size="" data-overlay-pattern-attachment="scroll"></div> -->
 
                     </section>
                 </div>
@@ -4195,12 +4231,12 @@
                                         <div class="make-display-flex">
                                             <p>
                                                 <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                                Nombre de chambres<input style="width: 30%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="nbr_chambre"> 
+                                                    Nombre de chambres<input style="width: 30%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="nbr_chambre">
                                                 </span>
                                             </p>
                                             <p>
                                                 <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                                Nombre de salle de bain <input style="width: 30%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="nbr_salle">
+                                                    Nombre de salle de bain <input style="width: 30%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="nbr_salle">
                                                 </span>
                                             </p>
                                         </div>
@@ -4274,6 +4310,7 @@
                                                 <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="moment_acquis" tabindex="-1" aria-hidden="true">
                                                     <option value="Maintenant">Maintenant</option>
                                                     <option value="Challenge Express (1an)">Challenge Express (1an)</option>
+                                                    <option value="Challenge progressif (2ans)">Challenge Progressif (2ans)</option>
                                                     <option value="Challenge Stabilité (3ans)">Challenge Stabilité (3ans)</option>
                                                     <option value="Challenge Planifié (4ans)">Challenge Planifié (4ans)</option>
                                                     <option value="Challenge Visionnaire (5ans)">Challenge Visionnaire (5ans)</option>
@@ -4394,9 +4431,9 @@
             <div class="ult_modal ult-fade ult-medium">
                 <div id="ult-modal-wrap-4373" class="ult_modal-content" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
                     <div data-ultimate-target="#ult-modal-wrap-4373 .ult_modal-body" data-responsive-json-new="{&quot;font-size&quot;:&quot;&quot;,&quot;line-height&quot;:&quot;&quot;}" class="ult_modal-body ult-responsive ult-html" style="background:#ffffff;text-align:center;">
-                    <h4 style="text-transform: uppercase;">J'achète mon terrain</h4>
-                    <p>En complétant ce formulaire, vous profiterez, lors de transactions, d'un acte notarié, de documentation <br>authentifiée et certifiée, conforme aux normes et réglementations en vigueur.<br><br><strong>Tous nos terrains ont des titres de propriété définitif</strong><br></p>    
-                    <!-- <p>
+                        <h4 style="text-transform: uppercase;">J'achète mon terrain</h4>
+                        <p>En complétant ce formulaire, vous profiterez, lors de transactions, d'un acte notarié, de documentation <br>authentifiée et certifiée, conforme aux normes et réglementations en vigueur.<br><br><strong>Tous nos terrains ont des titres de propriété définitif</strong><br></p>
+                        <!-- <p>
                             <img src="/img/accueil/achete_terrain_form.png" style="width: auto;height: auto;scale: 1.1;" alt="">
                         </p> -->
                         <div class="wpcf7 js" id="wpcf7-f831-o1" lang="en-US" dir="ltr">
@@ -4463,10 +4500,10 @@
                                         </p>
                                         <div id="prec_config_terrain" style="display: none;">
                                             <p>
-                                                <p>Précisez<span class="cforms-required"></span></p>
-                                                <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                                    <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="prec_config_terrain">
-                                                </span>
+                                            <p>Précisez<span class="cforms-required"></span></p>
+                                            <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                <input class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="prec_config_terrain">
+                                            </span>
                                             </p>
                                         </div>
                                     </div>
@@ -4487,12 +4524,12 @@
                                         <div class="make-display-flex">
                                             <p>
                                                 <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                                <input placeholder="min" style="width: 50%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="min_budget"> 
+                                                    <input placeholder="min" style="width: 50%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="min_budget">
                                                 </span>
                                             </p>
                                             <p>
                                                 <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                                <input placeholder="max" style="width: 50%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="max_budget">
+                                                    <input placeholder="max" style="width: 50%;margin-left: 14%!important;" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="text" name="max_budget">
                                                 </span>
                                             </p>
                                         </div>
@@ -4611,61 +4648,61 @@
                 font-size: 26px !important;
                 color: #b6b0c4 !important;
             }
-            
+
             #nyssa_socials_widget-2 i:hover:before {
                 color: #4beee9 !important;
             }
-            
+
             #treethemes-social-networks-shortcode-1 i:before {
                 font-size: 20px;
                 color: #f9f3ff;
             }
-            
+
             #treethemes-social-networks-shortcode-1 i:hover:before {
                 color: #ffffff;
             }
-            
+
             #treethemes-social-networks-shortcode-2 i:before {
                 font-size: 20px;
                 color: #f9f3ff;
             }
-            
+
             #treethemes-social-networks-shortcode-2 i:hover:before {
                 color: #ffffff;
             }
-            
+
             #treethemes-social-networks-shortcode-3 i:before {
                 font-size: 20px;
                 color: #f9f3ff;
             }
-            
+
             #treethemes-social-networks-shortcode-3 i:hover:before {
                 color: #ffffff;
             }
-            
+
             #treethemes-social-networks-shortcode-4 i:before {
                 font-size: 16px;
                 color: #f9f3ff;
             }
-            
+
             #treethemes-social-networks-shortcode-4 i:hover:before {
                 color: #ffffff;
             }
-            
+
             #treethemes-social-networks-shortcode-5 i:before {
                 font-size: 20px;
                 color: #f9f3ff;
             }
-            
+
             #treethemes-social-networks-shortcode-5 i:hover:before {
                 color: #ffffff;
             }
-            
+
             #treethemes-social-networks-shortcode-6 i:before {
                 font-size: 16px;
                 color: #f9f3ff;
             }
-            
+
             #treethemes-social-networks-shortcode-6 i:hover:before {
                 color: #ffffff;
             }
@@ -4680,31 +4717,31 @@
             .vc_custom_1674469288556 {
                 margin-top: -40px !important;
             }
-            
+
             .vc_custom_1676046856240 {
                 padding-bottom: 0px !important;
             }
-            
+
             .vc_custom_1677784456103 {
                 margin-left: 5px !important;
             }
-            
+
             .vc_custom_1474056192226 {
                 padding-left: 25px !important;
             }
-            
+
             .vc_custom_1474056192226 {
                 padding-left: 25px !important;
             }
-            
+
             .vc_custom_1474056192226 {
                 padding-left: 25px !important;
             }
-            
+
             .vc_custom_1474056192226 {
                 padding-left: 25px !important;
             }
-            
+
             .vc_custom_1674469175356 {
                 padding-top: 110px !important;
                 padding-bottom: 110px !important;
@@ -4713,11 +4750,11 @@
                 background-repeat: no-repeat !important;
                 background-size: cover !important;
             }
-            
+
             .vc_custom_1671107601524 {
                 background-color: #4beee9 !important;
             }
-            
+
             .vc_custom_1674469181075 {
                 padding-top: 110px !important;
                 padding-bottom: 110px !important;
@@ -4726,7 +4763,7 @@
                 background-repeat: no-repeat !important;
                 background-size: cover !important;
             }
-            
+
             .vc_custom_1674469181077 {
                 padding-top: 110px !important;
                 padding-bottom: 110px !important;
@@ -4735,16 +4772,16 @@
                 background-repeat: no-repeat !important;
                 background-size: cover !important;
             }
-            
+
             .vc_custom_1671116191468 {
                 background-color: #eca2af !important;
                 color: #000;
             }
-            
+
             .vc_custom_1675874814017 {
                 background-color: #6fe6c7 !important;
             }
-            
+
             .vc_custom_1674469199507 {
                 padding-top: 110px !important;
                 padding-bottom: 110px !important;
@@ -4753,11 +4790,11 @@
                 background-repeat: no-repeat !important;
                 background-size: cover !important;
             }
-            
+
             .vc_custom_1674469596951 {
                 background-color: #003279 !important;
             }
-            
+
             .vc_custom_1674469194362 {
                 padding-top: 110px !important;
                 padding-bottom: 110px !important;
@@ -4766,7 +4803,7 @@
                 background-repeat: no-repeat !important;
                 background-size: cover !important;
             }
-            
+
             .vc_custom_1671107465649 {
                 padding-top: 110px !important;
                 padding-bottom: 110px !important;
@@ -4775,11 +4812,11 @@
                 background-repeat: no-repeat !important;
                 background-size: cover !important;
             }
-            
+
             .vc_custom_1675874803244 {
                 background-color: #4beee9 !important;
             }
-            
+
             .vc_custom_1671115947837 {
                 padding-top: 110px !important;
                 padding-bottom: 110px !important;
@@ -4788,21 +4825,21 @@
                 background-repeat: no-repeat !important;
                 background-size: cover !important;
             }
-            
+
             .vc_custom_1674469592072 {
                 background-color: #003279 !important;
             }
-            
+
             .vc_custom_1603987566857 {
                 padding-right: 0px !important;
                 padding-left: 0px !important;
             }
-            
+
             .vc_custom_1666457877522 {
                 padding-right: 0px !important;
                 padding-left: 0px !important;
             }
-            
+
             body {
                 visibility: visible;
             }
@@ -4906,23 +4943,23 @@
 
         <script>
             $ = jQuery;
-            $("input[name=rdventre]").on("input", function(e){ 
+            $("input[name=rdventre]").on("input", function(e) {
                 console.log(this.value);
                 const curDate = this.value;
                 $.ajax({
                     url: "/checkdate/challenger/",
                     type: "get", //send it through get method
-                    data: { 
+                    data: {
                         rdv: curDate
                     },
                     success: function(response) {
                         //Do Something
                         console.log(response)
                         const obj = JSON.parse(response);
-                        if(obj.passed == true){
+                        if (obj.passed == true) {
                             $("#feuille-enregistement > div.nyssa-multiple-fields.dark > div.bt-contact.center > p > a > input").removeAttr("disabled")
                             $("span#messageaccept").text("")
-                        }else{
+                        } else {
                             $("#feuille-enregistement > div.nyssa-multiple-fields.dark > div.bt-contact.center > p > a > input").attr("disabled", "disabled")
                             $("span#messageaccept").text("Cette date est déjà occupée!")
                         }
@@ -4933,8 +4970,8 @@
                         $("span#messageaccept").text("Cette date est déjà occupée!")
                         //Do Something to handle error
                     }
-                    });
                 });
+            });
         </script>
 
         <script type='text/javascript' src='https://preview.treethemes.com/nyssa/demo1/wp-content/plugins/cubeportfolio/public/js/main.min-1.13.2.js?ver=5.1' id='cubeportfolio-jquery-js-js'></script>

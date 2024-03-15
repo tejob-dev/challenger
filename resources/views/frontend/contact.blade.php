@@ -2969,21 +2969,33 @@
         </div>
         <div class="display-table">
             <div id="nyssa-push-sidebar-content" class="nyssa-push-sidebar-content ajaxable">
-                <div class="sidebar-box widget_media_image" id="media_image-2"><img width="300" height="115" src="/img/import/Footer.png" class="image wp-image-448  attachment-medium size-medium" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;"></div>
+                <div class="sidebar-box widget_media_image" id="media_image-2">
+                    <img width="300" height="115" src="/img/import/challenge-fond-noir.png" class="image wp-image-448  attachment-medium size-medium" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;"
+                        />
+                </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
                 <div class="sidebar-box widget_text" id="text-2">
                     <div class="textwidget">
-                        <p style="text-align: center;">
-                            <span style="text-align: justify; width: 55ch;">
-                            Tout devient possible dans l’immobilier. <br>Bienvenue dans la tranquillité d’esprit. <br>Vivez l’expérience challenge-toit un service d’acquisition de biens immobiliers sans compromis qui assure l’authenticité et la conformité de chaque propriété.<!-- <a href="#">Get nyssa today!</a> -->
+                        <p style="text-align: left;width: 19ch;margin: 0 auto 0 15% !important;/*! align-content: space-evenly; *//*! align-items: revert-layer; *//*! align-self: center; */">
+                            <span style="">
+                                Tout devient possible dans l’immobilier. Bienvenue dans la tranquillité d’esprit. <!-- <a href="#">Get nyssa today!</a> -->
+                            </span>
+                        </p>
+                        <p style="text-align: left;width: 19ch;margin: 0 auto 0 15% !important;">
+                            <span style="">Vivez l’expérience challenge-toit un service d’acquisition de biens immobiliers sans compromis qui assure l’authenticité et la conformité de chaque propriété.<!-- <a href="#">Get nyssa today!</a> -->
                             </span>
                         </p>
                     </div>
                 </div>
-                <div id="nyssa_socials_widget-2" class="widget nyssa_socials_widget">
+                <!-- <div id="nyssa_socials_widget-2" class="widget nyssa_socials_widget">
                     <div class="social-icons-fa align-center">
                         <img alt="Logo challenge" style="height: 46px;/*! background-color: white; */border-radius: 25px;/*! padding: ; */" src="/img/import/challenge-fond-noir.png">
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>

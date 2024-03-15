@@ -3305,7 +3305,7 @@
                                                 <div class="vc_column-inner">
                                                     <div class="wpb_wrapper">
                                                         <p style="font-size: 1.2em;color: rgba(255,255,255,0.8);text-align: left; font-family:Marcellus;"
-                                                            class="vc_custom_heading no-letter-spacing">Votre soumission a été un succès !</p>
+                                                            class="vc_custom_heading no-letter-spacing">Votre requête a été soumise avec succès.</p>
                                                     </div>
                                                 </div>
                                             </div>
